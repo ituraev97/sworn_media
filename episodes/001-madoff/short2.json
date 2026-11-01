@@ -1,0 +1,88 @@
+{
+ "title": "Six Warnings. Nobody Stopped Him. #Madoff",
+ "hook": "Six warnings.|Nobody stopped him.",
+ "lines": [
+  {
+   "say": "Between nineteen ninety-two and two thousand eight, the SEC received six substantive complaints about Bernie Madoff.",
+   "show": "Between 1992 and 2008, the SEC received six substantive complaints about Bernie Madoff.",
+   "scene": {
+    "type": "stat",
+    "kicker": "SEC INSPECTOR GENERAL · 2009",
+    "value": "6",
+    "label": "substantive complaints|June 1992 – December 2008",
+    "src": "SEC Inspector General, Report OIG-509 (2009)"
+   }
+  },
+  {
+   "say": "That's what the SEC's own inspector general found in two thousand nine.",
+   "show": "That's what the SEC's own inspector general found in 2009."
+  },
+  {
+   "say": "One analyst, Harry Markopolos, sent versions of his analysis in May two thousand, March two thousand one, and October two thousand five.",
+   "show": "One analyst, Harry Markopolos, sent versions of his analysis in May 2000, March 2001, and October 2005.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "MARKOPOLOS → SEC",
+    "events": [
+     {
+      "date": "MAY 2000",
+      "text": "First version"
+     },
+     {
+      "date": "MARCH 2001",
+      "text": "Second version"
+     },
+     {
+      "date": "OCT 2005",
+      "text": "Third version"
+     }
+    ],
+    "at": 2,
+    "src": "SEC Inspector General, Report OIG-509 (2009)"
+   }
+  },
+  {
+   "say": "The last one was titled: The world's largest hedge fund is a fraud.",
+   "show": "The last one was titled: \"The World's Largest Hedge Fund is a Fraud.\"",
+   "scene": {
+    "type": "quote",
+    "q": "The World's Largest Hedge Fund is a Fraud",
+    "case": "H. MARKOPOLOS → SEC",
+    "doc": "OCTOBER 2005",
+    "cite": "As cited in SEC OIG Report OIG-509",
+    "size": 52
+   }
+  },
+  {
+   "say": "Three examinations. Two investigations. The inspector general found a thorough and competent investigation was never performed.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE FINDING",
+    "lines": [
+     "3 exams.|2 investigations.",
+     "Never thorough."
+    ],
+    "src": "SEC Inspector General, Report OIG-509 (2009)"
+   }
+  },
+  {
+   "say": "Madoff confessed in December two thousand eight, more than three years after that October two thousand five complaint.",
+   "show": "Madoff confessed in December 2008, more than three years after that October 2005 complaint.",
+   "scene": {
+    "type": "big",
+    "kicker": "DECEMBER 2008",
+    "lines": [
+     "3+ years",
+     "after the 2005 complaint."
+    ]
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

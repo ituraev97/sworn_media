@@ -1,0 +1,91 @@
+{
+ "title": "Did Madoff's Victims Get Their Money Back?",
+ "hook": "Did the victims get|their money back?",
+ "lines": [
+  {
+   "say": "Bernie Madoff's investors put in an estimated seventeen and a half billion dollars.",
+   "show": "Bernie Madoff's investors put in an estimated $17.5 billion.",
+   "scene": {
+    "type": "stat",
+    "kicker": "PUT IN · AP ESTIMATE",
+    "value": "$17.5B",
+    "label": "invested by clients",
+    "src": "AP via OPB, Apr 14, 2021"
+   }
+  },
+  {
+   "say": "By twenty twenty-one, trustees had recovered more than fourteen billion.",
+   "show": "By 2021, trustees had recovered more than $14 billion.",
+   "scene": {
+    "type": "bars",
+    "kicker": "RECOVERED BY TRUSTEES · BY 2021",
+    "items": [
+     {
+      "label": "PUT IN",
+      "value": 17.5,
+      "display": "$17.5B"
+     },
+     {
+      "label": "RECOVERED",
+      "value": 14,
+      "display": "$14B+"
+     }
+    ],
+    "src": "AP via OPB, Apr 14, 2021"
+   }
+  },
+  {
+   "say": "Separately, the Justice Department's Madoff Victim Fund paid out more than four point three billion dollars.",
+   "show": "Separately, the Justice Department's Madoff Victim Fund paid out more than $4.3 billion.",
+   "scene": {
+    "type": "stat",
+    "kicker": "MADOFF VICTIM FUND",
+    "value": "$4.3B+",
+    "label": "paid out by the U.S. Justice Department",
+    "src": "U.S. DOJ via NBC New York, Dec 2024"
+   }
+  },
+  {
+   "say": "To more than forty thousand victims, in nearly one hundred thirty countries.",
+   "show": "To more than 40,000 victims, in nearly 130 countries.",
+   "scene": {
+    "type": "stat",
+    "kicker": "WHO GOT PAID",
+    "value": "40,000+",
+    "label": "victims in nearly 130 countries",
+    "src": "U.S. DOJ via NBC New York, Dec 2024"
+   }
+  },
+  {
+   "say": "The final payout started in December twenty twenty-four. The Justice Department said eligible victims had recovered nearly ninety-four percent of their fraud losses.",
+   "show": "The final payout started in December 2024. The Justice Department said eligible victims had recovered nearly 94% of their fraud losses.",
+   "scene": {
+    "type": "stat",
+    "kicker": "FINAL PAYOUT · DECEMBER 2024",
+    "value": "~94%",
+    "label": "of fraud losses recovered|by eligible claimants",
+    "src": "U.S. DOJ via NBC New York, Dec 2024"
+   }
+  },
+  {
+   "say": "Madoff never saw it. He died in federal custody in twenty twenty-one, at eighty-two.",
+   "show": "Madoff never saw it. He died in federal custody in 2021, at 82.",
+   "scene": {
+    "type": "big",
+    "kicker": "APRIL 14, 2021",
+    "lines": [
+     "Died in custody.",
+     "Age 82."
+    ],
+    "src": "AP via OPB, Apr 14, 2021"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

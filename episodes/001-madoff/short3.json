@@ -1,0 +1,89 @@
+{
+ "title": "\"It's All Just One Big Lie\" — Madoff's Confession",
+ "hook": "\"It's all just|one big lie.\"",
+ "lines": [
+  {
+   "say": "December tenth, two thousand eight. Bernie Madoff tells two senior employees his business is a fraud.",
+   "show": "December 10, 2008. Bernie Madoff tells two senior employees his business is a fraud.",
+   "scene": {
+    "type": "doc",
+    "img": "img/arrest2.jpg",
+    "pan": [
+     0.38,
+     0.5
+    ],
+    "hl": [
+     0.0,
+     0.46,
+     1.0,
+     0.37
+    ],
+    "kicker": "DECEMBER 10, 2008",
+    "src": "U.S. Attorney, S.D.N.Y. — release, Dec 11, 2008"
+   }
+  },
+  {
+   "say": "According to prosecutors, he said he was finished, that he had absolutely nothing, and that it was all just one big lie.",
+   "scene": {
+    "type": "quote",
+    "q": "finished … absolutely nothing … it's all just one big lie",
+    "case": "U.S. v. MADOFF",
+    "doc": "AS QUOTED BY PROSECUTORS",
+    "cite": "U.S. Attorney's release, Dec 11, 2008",
+    "size": 46
+   }
+  },
+  {
+   "say": "Basically, a giant Ponzi scheme.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "“basically, a giant|Ponzi scheme.”"
+    ],
+    "src": "U.S. Attorney, S.D.N.Y. — release, Dec 11, 2008"
+   }
+  },
+  {
+   "say": "He put the losses at fifty billion dollars, at least.",
+   "show": "He put the losses at $50 billion, at least.",
+   "scene": {
+    "type": "stat",
+    "kicker": "HIS ESTIMATE",
+    "value": "$50B+",
+    "label": "in losses, at least",
+    "src": "U.S. Attorney, S.D.N.Y. — release, Dec 11, 2008"
+   }
+  },
+  {
+   "say": "And he said he had two to three hundred million left, which he planned to pay to selected employees, family, and friends.",
+   "show": "And he said he had $200–300 million left, which he planned to pay to selected employees, family, and friends.",
+   "scene": {
+    "type": "stat",
+    "kicker": "WHAT HE HAD LEFT",
+    "value": "$200–300M",
+    "label": "for selected employees,|family and friends",
+    "src": "U.S. Attorney, S.D.N.Y. — release, Dec 11, 2008"
+   }
+  },
+  {
+   "say": "The next morning, the FBI arrested him.",
+   "scene": {
+    "type": "doc",
+    "img": "img/arrest.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "kicker": "DECEMBER 11, 2008 · ARRESTED",
+    "src": "U.S. Attorney, S.D.N.Y. — release, Dec 11, 2008"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

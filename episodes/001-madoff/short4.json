@@ -1,0 +1,103 @@
+{
+ "title": "Where Madoff's Clients' Money Actually Went",
+ "hook": "Where the money|actually went.",
+ "lines": [
+  {
+   "say": "Bernie Madoff told clients he would buy stock, options and other securities of large, well-known corporations.",
+   "scene": {
+    "type": "quote",
+    "q": "that I would invest their money in shares of common stock, options and other securities of large well-known corporations",
+    "size": 38,
+    "case": "U.S. v. MADOFF",
+    "doc": "PLEA STATEMENT",
+    "cite": "Madoff, plea allocution · S.D.N.Y. · Mar 12, 2009"
+   }
+  },
+  {
+   "say": "In court, he admitted he never did.",
+   "scene": {
+    "type": "big",
+    "kicker": "HIS PLEA · MARCH 12, 2009",
+    "lines": [
+     "He never",
+     "invested it."
+    ]
+   }
+  },
+  {
+   "say": "Those funds were deposited in a bank account at Chase Manhattan Bank.",
+   "scene": {
+    "type": "quote",
+    "q": "Instead, those funds were deposited in a bank account at Chase Manhattan Bank.",
+    "case": "U.S. v. MADOFF",
+    "doc": "PLEA STATEMENT",
+    "cite": "Madoff, plea allocution · S.D.N.Y. · Mar 12, 2009"
+   }
+  },
+  {
+   "say": "He knowingly caused false trading confirmations and client account statements, to show trades that never happened.",
+   "scene": {
+    "type": "quote",
+    "q": "I knowingly caused false trading confirmations and client account statements …",
+    "case": "U.S. v. MADOFF",
+    "doc": "PLEA STATEMENT",
+    "cite": "Madoff, plea allocution · S.D.N.Y. · Mar 12, 2009"
+   }
+  },
+  {
+   "say": "When clients wanted money back, he paid them with other clients' money.",
+   "scene": {
+    "type": "list",
+    "kicker": "THE CYCLE",
+    "items": [
+     [
+      "1",
+      "New money comes in"
+     ],
+     [
+      "2",
+      "Sits in a Chase account"
+     ],
+     [
+      "3",
+      "Fake statements go out"
+     ],
+     [
+      "4",
+      "Old clients paid with new money"
+     ]
+    ],
+    "size": 40,
+    "src": "Madoff, plea allocution, 2009"
+   }
+  },
+  {
+   "say": "By late two thousand eight, the statements claimed about sixty-five billion dollars. Investors had put in an estimated seventeen and a half.",
+   "show": "By late 2008, the statements claimed about $65 billion. Investors had put in an estimated $17.5 billion.",
+   "scene": {
+    "type": "bars",
+    "kicker": "ON PAPER VS. PUT IN",
+    "items": [
+     {
+      "label": "ON PAPER",
+      "value": 65,
+      "display": "$65B"
+     },
+     {
+      "label": "PUT IN",
+      "value": 17.5,
+      "display": "$17.5B"
+     }
+    ],
+    "src": "AP via OPB, Apr 14, 2021"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

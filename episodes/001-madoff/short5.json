@@ -1,0 +1,85 @@
+{
+ "title": "How a Judge Got to 150 Years (Bernie Madoff)",
+ "hook": "How the judge|got to 150 years.",
+ "lines": [
+  {
+   "say": "June twenty-ninth, two thousand nine. Nine victims spoke before Bernie Madoff's sentence.",
+   "show": "June 29, 2009. Nine victims spoke before Bernie Madoff's sentence.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sentence.jpg",
+    "pan": [
+     0.4,
+     0.55
+    ],
+    "kicker": "JUNE 29, 2009 · SENTENCING",
+    "src": "U.S. Attorney, S.D.N.Y. — release, Jun 29, 2009"
+   }
+  },
+  {
+   "say": "One said she lived on food stamps, and sometimes scavenged in dumpsters.",
+   "scene": {
+    "type": "quote",
+    "q": "I live on food stamps. At the end of the month, I sometimes scavenge in dumpsters.",
+    "case": "U.S. v. MADOFF",
+    "doc": "VICTIM STATEMENT",
+    "cite": "Fortune/CNN Money, Jun 29, 2009",
+    "size": 44
+   }
+  },
+  {
+   "say": "Judge Denny Chin said the fraud was staggering, and the breach of trust was massive.",
+   "scene": {
+    "type": "quote",
+    "q": "Objectively speaking, the fraud was staggering … the breach of trust was massive.",
+    "case": "U.S. v. MADOFF",
+    "doc": "JUDGE CHIN",
+    "cite": "U.S. Attorney's release, Jun 29, 2009",
+    "size": 44
+   }
+  },
+  {
+   "say": "Then the math. Eleven counts. Each with a maximum. Six at twenty years, one at ten, four at five.",
+   "scene": {
+    "type": "doc",
+    "img": "img/counts.jpg",
+    "pan": [
+     0.0,
+     0.5
+    ],
+    "kicker": "STATUTORY MAXIMUMS · 11 COUNTS",
+    "src": "U.S. Attorney, S.D.N.Y. — release, Mar 12, 2009"
+   }
+  },
+  {
+   "say": "Add them up: exactly one hundred fifty.",
+   "show": "Add them up: exactly 150.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE MATH",
+    "lines": [
+     "120 + 10 + 20",
+     "= 150"
+    ]
+   }
+  },
+  {
+   "say": "And that is what he got. One hundred fifty years.",
+   "show": "And that is what he got. 150 years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "THE SENTENCE",
+    "stamp": "SENTENCED",
+    "big": "150 years",
+    "sub": "the statutory maximum"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

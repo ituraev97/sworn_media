@@ -1,0 +1,94 @@
+{
+ "title": "He Confessed. Then the Judge Spoke. (Bernie Madoff)",
+ "hook": "He confessed.|Then the judge spoke.",
+ "lines": [
+  {
+   "say": "March twelfth, two thousand nine. A federal courtroom in Manhattan. Bernard Madoff stands up and reads a confession.",
+   "show": "March 12, 2009. A federal courtroom in Manhattan. Bernard Madoff stands up and reads a confession.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.2,
+     0.36
+    ],
+    "kicker": "MARCH 12, 2009 · MANHATTAN FEDERAL COURT",
+    "src": "U.S. Attorney, S.D.N.Y. — release, Mar 12, 2009"
+   }
+  },
+  {
+   "say": "To the best of my recollection, my fraud began in the early nineteen nineties.",
+   "show": "\"To the best of my recollection, my fraud began in the early 1990s.\"",
+   "scene": {
+    "type": "quote",
+    "q": "To the best of my recollection, my fraud began in the early 1990s.",
+    "case": "U.S. v. MADOFF",
+    "doc": "PLEA STATEMENT",
+    "cite": "Madoff, plea allocution · S.D.N.Y. · Mar 12, 2009"
+   }
+  },
+  {
+   "say": "His clients believed their money was in the stock market. It wasn't.",
+   "scene": {
+    "type": "big",
+    "kicker": "WHAT CLIENTS BELIEVED",
+    "lines": [
+     "In the stock|market.",
+     "It wasn't."
+    ]
+   }
+  },
+  {
+   "say": "I never invested those funds in the securities, as I had promised. Instead, those funds were deposited in a bank account at Chase Manhattan Bank.",
+   "scene": {
+    "type": "quote",
+    "q": "I never invested those funds in the securities, as I had promised. Instead, those funds were deposited in a bank account at Chase Manhattan Bank.",
+    "size": 36,
+    "case": "U.S. v. MADOFF",
+    "doc": "PLEA STATEMENT",
+    "cite": "Madoff, plea allocution · S.D.N.Y. · Mar 12, 2009"
+   }
+  },
+  {
+   "say": "He pleaded guilty to all eleven counts.",
+   "show": "He pleaded guilty to all 11 counts.",
+   "scene": {
+    "type": "stat",
+    "kicker": "GUILTY PLEA",
+    "value": "11",
+    "label": "felony counts",
+    "src": "U.S. Attorney, S.D.N.Y. — release, Mar 12, 2009"
+   }
+  },
+  {
+   "say": "June twenty-ninth. Judge Denny Chin called his crimes extraordinarily evil.",
+   "show": "June 29. Judge Denny Chin called his crimes \"extraordinarily evil.\"",
+   "scene": {
+    "type": "big",
+    "kicker": "JUNE 29, 2009 · JUDGE DENNY CHIN",
+    "lines": [
+     "“extraordinarily|evil”"
+    ],
+    "src": "U.S. Attorney, S.D.N.Y. — release, Jun 29, 2009"
+   }
+  },
+  {
+   "say": "The sentence: one hundred fifty years in prison. The maximum.",
+   "show": "The sentence: 150 years in prison. The maximum.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "THE SENTENCE",
+    "stamp": "SENTENCED",
+    "big": "150 years",
+    "sub": "the statutory maximum"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}
