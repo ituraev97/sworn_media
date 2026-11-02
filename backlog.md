@@ -5,7 +5,7 @@ Add new rows when fewer than 10 `todo` remain (fraud, financial crime, scams, la
 | # | Case | Format | Primary sources to start with | Status |
 |---|------|--------|-------------------------------|--------|
 | 001 | Bernard Madoff — Ponzi scheme (S.D.N.Y. 2009) | THE VERDICT | justice.gov SDNY releases, SEC OIG-509 | done 2026-11-02 |
-| 002 | Sam Bankman-Fried — FTX (S.D.N.Y. 2023–24) | THE VERDICT | justice.gov/usao-sdny releases, indictment, sentencing | todo |
+| 002 | Sam Bankman-Fried — FTX (S.D.N.Y. 2023–24) | THE VERDICT | justice.gov/usao-sdny releases, indictment, sentencing | in progress |
 | 003 | Elizabeth Holmes — Theranos (N.D. Cal. 2022) | THE VERDICT | justice.gov/usao-ndca, SEC complaint 2018 | todo |
 | 004 | R. Allen Stanford — Stanford Financial (S.D. Tex. 2012) | THE PAPER TRAIL | justice.gov releases, SEC complaint | todo |
 | 005 | Miranda v. Arizona (1966) | THE ARGUMENT | opinion text (public domain), oyez.org | todo |
