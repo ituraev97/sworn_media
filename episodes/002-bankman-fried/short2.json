@@ -1,0 +1,73 @@
+{
+ "title": "The Coin Flip That Explained the Whole FTX Case, According to the Judge",
+ "hook": "The coin flip|the judge read out.",
+ "lines": [
+  {
+   "say": "At Sam Bankman-Fried's sentencing, Judge Lewis Kaplan read aloud from Caroline Ellison's trial testimony.",
+   "scene": {
+    "type": "big",
+    "kicker": "MARCH 28, 2024 · SENTENCING",
+    "lines": [
+     "The judge reads|her testimony."
+    ],
+    "src": "Sentencing transcript, Mar 28, 2024"
+   }
+  },
+  {
+   "say": "She said he talked about taking a coin flip where tails might lose ten million dollars, and heads might make slightly more.",
+   "show": "She said he talked about taking a coin flip where tails might lose $10 million, and heads might make slightly more."
+  },
+  {
+   "say": "And that he would be happy to flip a coin where tails meant the world was destroyed, as long as heads made the world more than twice as good.",
+   "scene": {
+    "type": "quote",
+    "q": "… he would be happy to flip a coin if it came up tails and the world was destroyed. As long as if it came up heads, the world would be like more than twice as good.",
+    "case": "U.S. v. BANKMAN-FRIED",
+    "doc": "ELLISON'S TESTIMONY",
+    "cite": "Sentencing transcript, Mar 28, 2024",
+    "size": 34
+   }
+  },
+  {
+   "say": "The judge called it a leitmotif of the entire case.",
+   "scene": {
+    "type": "quote",
+    "q": "that's really a leitmotif in my judgment of this entire case.",
+    "size": 46,
+    "case": "U.S. v. BANKMAN-FRIED",
+    "doc": "JUDGE KAPLAN",
+    "cite": "Sentencing transcript, Mar 28, 2024"
+   }
+  },
+  {
+   "say": "FTX customer funds, he said, were not his to use. He was betting on expected value.",
+   "scene": {
+    "type": "big",
+    "kicker": "JUDGE KAPLAN",
+    "lines": [
+     "“not his to use”",
+     "“betting on|expected value”"
+    ],
+    "src": "Sentencing transcript, Mar 28, 2024"
+   }
+  },
+  {
+   "say": "The sentence: twenty-five years.",
+   "show": "The sentence: 25 years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "THE SENTENCE",
+    "stamp": "SENTENCED",
+    "big": "25 years",
+    "sub": "300 months in federal prison"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

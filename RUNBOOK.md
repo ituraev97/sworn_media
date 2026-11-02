@@ -66,3 +66,9 @@ Check every `https://raw.githubusercontent.com/ituraev97/sworn_media/drop-XXX/<f
 ## 9. Close
 - Commit to main: episode folder (spec scripts, json, img/, sources.md, factcheck.md — no video), `backlog.md` row → `done YYYY-MM-DD`. fetch/rebase before push.
 - Report to the owner in Russian (SendUserMessage): case + title, publish date and times (ET and Tashkent = ET+10 in winter / +9 in summer), Metricool plannerUrls, fact-check result (how many fixes), anything skipped; SendUserFile thumb_A.
+
+## Notes from run 002 (2026-11-02)
+- justice.gov `/usao-*/pr/` pages and `press-release/file` downloads now return a bot-challenge page from the shell (do NOT try to bypass); `/usao-sdny/file/NNN/download` and `/archive/` PDFs still work. WebFetch reads most justice.gov pages.
+- S.D.N.Y./federal court filings (indictments, judgments, orders, gov't memoranda) are reachable from the shell via the RECAP mirror on archive.org: `https://archive.org/advancedsearch.php?q=<name>+AND+collection%3Ausfederalcourts&fl[]=identifier&output=json`, then `https://archive.org/metadata/<id>` and `https://archive.org/download/<id>/<id>.<doc>.0.pdf`. ca2.uscourts.gov, supremecourt.gov, courtlistener, govinfo are blocked from the shell (WebFetch works for ca2/supremecourt).
+- Do not show court-reporter transcripts as document images (reporter may be a private contractor); quote them in quote/big cards instead. Show DOJ filings and court orders/judgments.
+- `big` scenes: keep to 3 rendered lines max, or the last line collides with the source line.

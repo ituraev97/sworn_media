@@ -1,0 +1,94 @@
+{
+ "title": "Where Sam Bankman-Fried's Case Stands Now (2026)",
+ "hook": "Where SBF's case|stands now.",
+ "lines": [
+  {
+   "say": "In twenty twenty-four, Sam Bankman-Fried was sentenced to twenty-five years for the FTX fraud.",
+   "show": "In 2024, Sam Bankman-Fried was sentenced to 25 years for the FTX fraud.",
+   "scene": {
+    "type": "doc",
+    "img": "img/judgment3.jpg",
+    "pan": [
+     0.1,
+     0.2
+    ],
+    "hl": [
+     0.0,
+     0.88,
+     1.0,
+     0.11
+    ],
+    "kicker": "JUDGMENT · 300 MONTHS",
+    "src": "Judgment, S.D.N.Y., Mar 28, 2024"
+   }
+  },
+  {
+   "say": "In April twenty twenty-six, the trial judge denied his bid for a new trial, calling his claim of government threats wildly conspiratorial.",
+   "show": "In April 2026, the trial judge denied his bid for a new trial, calling his claim of government threats \"wildly conspiratorial.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/newtrial3.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.32,
+     1.0,
+     0.06
+    ],
+    "kicker": "APRIL 28, 2026",
+    "src": "Memorandum and order, S.D.N.Y., Apr 28, 2026"
+   }
+  },
+  {
+   "say": "In June, the Second Circuit affirmed. The evidence, it said, was overwhelming.",
+   "scene": {
+    "type": "doc",
+    "img": "img/mandate.jpg",
+    "pan": [
+     0.36,
+     0.45
+    ],
+    "hl": [
+     0.0,
+     0.905,
+     1.0,
+     0.075
+    ],
+    "kicker": "JUNE 12, 2026 · AFFIRMED",
+    "src": "2d Cir., No. 24-961, Jun 12, 2026"
+   }
+  },
+  {
+   "say": "He has asked President Trump for a pardon. According to news reports, Trump has said he has no plans to grant one. None has been granted.",
+   "scene": {
+    "type": "big",
+    "kicker": "ACCORDING TO NEWS REPORTS",
+    "lines": [
+     "Pardon requested.",
+     "None granted."
+    ],
+    "src": "The Block · Unchained, 2026"
+   }
+  },
+  {
+   "say": "In September, he asked the Supreme Court to hear his case. As this video was made, that petition was pending.",
+   "scene": {
+    "type": "stat",
+    "kicker": "SUPREME COURT",
+    "value": "No. 26-349",
+    "label": "petition filed Sept 10, 2026|pending",
+    "src": "Supreme Court docket"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

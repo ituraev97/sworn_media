@@ -1,0 +1,88 @@
+{
+ "title": "The Hidden Code Behind the FTX Collapse: \"Allow Negative\"",
+ "hook": "The secret line|in FTX's code.",
+ "lines": [
+  {
+   "say": "FTX told customers their deposits were theirs. Its terms of service said customer assets could not be loaned to FTX.",
+   "scene": {
+    "type": "quote",
+    "q": "none of the digital assets in [a customer's] account are the property of, or shall or may be loaned to, FTX Trading.",
+    "case": "U.S. v. BANKMAN-FRIED",
+    "doc": "FTX TERMS OF SERVICE",
+    "cite": "As quoted in the gov't sentencing memorandum",
+    "size": 40
+   }
+  },
+  {
+   "say": "But according to trial evidence cited by prosecutors, special features were written into FTX's code for Sam Bankman-Fried's trading firm, Alameda Research.",
+   "scene": {
+    "type": "doc",
+    "img": "img/allownegative.jpg",
+    "pan": [
+     0.2,
+     0.32
+    ],
+    "hl": [
+     0.0,
+     0.515,
+     1.0,
+     0.175
+    ],
+    "kicker": "PER TRIAL EVIDENCE",
+    "src": "Gov't sentencing memorandum, Mar 15, 2024"
+   }
+  },
+  {
+   "say": "One was called allow negative. Alameda's balance could go below zero.",
+   "show": "One was called \"allow negative.\" Alameda's balance could go below zero.",
+   "scene": {
+    "type": "big",
+    "kicker": "FEATURE ONE",
+    "lines": [
+     "“allow negative”"
+    ],
+    "src": "Gov't sentencing memorandum, Mar 15, 2024"
+   }
+  },
+  {
+   "say": "Another was a sixty-five billion dollar line of credit. And Alameda was exempt from automatic liquidation.",
+   "show": "Another was a $65 billion line of credit. And Alameda was exempt from automatic liquidation.",
+   "scene": {
+    "type": "stat",
+    "kicker": "FEATURE TWO",
+    "value": "$65B",
+    "label": "line of credit for Alameda",
+    "src": "Gov't sentencing memorandum, Mar 15, 2024"
+   }
+  },
+  {
+   "say": "By June two thousand twenty-two, according to trial evidence, a spreadsheet showed Alameda borrowing thirteen billion dollars in customer funds.",
+   "show": "By June 2022, according to trial evidence, a spreadsheet showed Alameda borrowing $13 billion in customer funds.",
+   "scene": {
+    "type": "stat",
+    "kicker": "JUNE 2022 · PER PROSECUTORS",
+    "value": "$13B",
+    "label": "in FTX customer funds|borrowed by Alameda",
+    "src": "Gov't sentencing memorandum, Mar 15, 2024"
+   }
+  },
+  {
+   "say": "In twenty twenty-three, a jury convicted Bankman-Fried on all seven counts, including fraud.",
+   "show": "In 2023, a jury convicted Bankman-Fried on all 7 counts, including fraud.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOVEMBER 2, 2023",
+    "stamp": "GUILTY",
+    "big": "All 7 counts",
+    "sub": "United States v. Bankman-Fried"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

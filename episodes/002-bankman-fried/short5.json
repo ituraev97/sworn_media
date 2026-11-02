@@ -1,0 +1,97 @@
+{
+ "title": "They Testified Against SBF. Here's What Happened to Them",
+ "hook": "They testified|against him.",
+ "lines": [
+  {
+   "say": "Sam Bankman-Fried's trial turned on three former insiders: Caroline Ellison, Gary Wang, and Nishad Singh. All three had pleaded guilty.",
+   "scene": {
+    "type": "list",
+    "kicker": "WITNESSES FOR THE GOVERNMENT",
+    "items": [
+     [
+      "CE",
+      "Caroline Ellison · ran Alameda"
+     ],
+     [
+      "GW",
+      "Gary Wang · FTX co-founder"
+     ],
+     [
+      "NS",
+      "Nishad Singh · FTX co-founder"
+     ]
+    ],
+    "size": 42,
+    "src": "Washington Post via Spokesman-Review · Straight Arrow News"
+   }
+  },
+  {
+   "say": "Ellison testified she told him, we don't really have the money for this, we'll have to borrow from FTX to do it.",
+   "scene": {
+    "type": "quote",
+    "q": "We don't really have the money for this, we'll have to borrow from FTX to do it.",
+    "case": "U.S. v. BANKMAN-FRIED",
+    "doc": "ELLISON · TRIAL TESTIMONY",
+    "cite": "As quoted in the gov't sentencing memorandum",
+    "size": 44
+   }
+  },
+  {
+   "say": "Singh testified about a talk on a penthouse balcony, where Bankman-Fried acknowledged they were a little short on deliverable.",
+   "scene": {
+    "type": "big",
+    "kicker": "SEPTEMBER 2022 · PER TRIAL TESTIMONY",
+    "lines": [
+     "“a little short|on deliverable”"
+    ],
+    "src": "Gov't sentencing memorandum, Mar 15, 2024"
+   }
+  },
+  {
+   "say": "The jury convicted Bankman-Fried on all seven counts. He got twenty-five years.",
+   "show": "The jury convicted Bankman-Fried on all 7 counts. He got 25 years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "MARCH 28, 2024",
+    "stamp": "SENTENCED",
+    "big": "25 years",
+    "sub": "Samuel Bankman-Fried"
+   }
+  },
+  {
+   "say": "Ellison was sentenced to two years. Singh and Wang avoided prison. Another FTX executive, Ryan Salame, got seven and a half years.",
+   "show": "Ellison was sentenced to two years. Singh and Wang avoided prison. Another FTX executive, Ryan Salame, got 7½ years.",
+   "scene": {
+    "type": "list",
+    "kicker": "THEIR SENTENCES",
+    "items": [
+     [
+      "2 YRS",
+      "Caroline Ellison"
+     ],
+     [
+      "NONE",
+      "Nishad Singh"
+     ],
+     [
+      "NONE",
+      "Gary Wang"
+     ],
+     [
+      "7½ YRS",
+      "Ryan Salame"
+     ]
+    ],
+    "size": 42,
+    "src": "NBC New York, Nov 20, 2024 · Cointelegraph"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

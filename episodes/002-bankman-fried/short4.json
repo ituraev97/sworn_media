@@ -1,0 +1,91 @@
+{
+ "title": "Prosecutors Asked for 40–50 Years. The Defense Asked for About 6. Here's What SBF Got",
+ "hook": "40–50 years?|Or about 6?",
+ "lines": [
+  {
+   "say": "March twenty-eighth, two thousand twenty-four. Sam Bankman-Fried faces sentencing in Manhattan.",
+   "show": "March 28, 2024. Sam Bankman-Fried faces sentencing in Manhattan.",
+   "scene": {
+    "type": "big",
+    "kicker": "MARCH 28, 2024 · MANHATTAN",
+    "lines": [
+     "Sentencing day."
+    ],
+    "src": "Sentencing transcript, Mar 28, 2024"
+   }
+  },
+  {
+   "say": "Prosecutors asked for forty to fifty years. His lawyers asked for sixty-three to seventy-eight months.",
+   "show": "Prosecutors asked for 40 to 50 years. His lawyers asked for 63 to 78 months.",
+   "scene": {
+    "type": "bars",
+    "kicker": "WHAT EACH SIDE ASKED FOR",
+    "items": [
+     {
+      "label": "PROSECUTORS",
+      "value": 50,
+      "display": "40–50 yrs"
+     },
+     {
+      "label": "DEFENSE",
+      "value": 6.5,
+      "display": "63–78 mos"
+     }
+    ],
+    "src": "Gov't memorandum · NPR, Mar 28, 2024"
+   }
+  },
+  {
+   "say": "Judge Lewis Kaplan found that he had lied at trial.",
+   "scene": {
+    "type": "quote",
+    "q": "And when he wasn't outright lying, he was often evasive, hairsplitting, dodging questions …",
+    "size": 40,
+    "case": "U.S. v. BANKMAN-FRIED",
+    "doc": "JUDGE KAPLAN",
+    "cite": "Sentencing transcript, Mar 28, 2024"
+   }
+  },
+  {
+   "say": "I've been doing this job for close to thirty years. I've never seen a performance quite like that.",
+   "show": "\"I've been doing this job for close to 30 years. I've never seen a performance quite like that.\"",
+   "scene": {
+    "type": "quote",
+    "q": "I've been doing this job for close to 30 years. I've never seen a performance quite like that.",
+    "size": 44,
+    "case": "U.S. v. BANKMAN-FRIED",
+    "doc": "JUDGE KAPLAN",
+    "cite": "Sentencing transcript, Mar 28, 2024"
+   }
+  },
+  {
+   "say": "He said there was never a word of remorse for the commission of terrible crimes.",
+   "scene": {
+    "type": "quote",
+    "q": "never a word of remorse for the commission of terrible crimes.",
+    "size": 48,
+    "case": "U.S. v. BANKMAN-FRIED",
+    "doc": "JUDGE KAPLAN",
+    "cite": "Sentencing transcript, Mar 28, 2024"
+   }
+  },
+  {
+   "say": "The sentence: three hundred months. Twenty-five years. Plus a forfeiture of about eleven billion dollars.",
+   "show": "The sentence: 300 months. 25 years. Plus a forfeiture of about $11 billion.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "THE SENTENCE",
+    "stamp": "SENTENCED",
+    "big": "25 years",
+    "sub": "300 months · $11.02 billion forfeiture"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

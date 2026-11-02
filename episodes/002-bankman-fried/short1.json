@@ -1,0 +1,106 @@
+{
+ "title": "\"FTX Is Fine. Assets Are Fine.\" — What He Wrote the Day Before",
+ "hook": "\"FTX is fine.\"|What he knew.",
+ "lines": [
+  {
+   "say": "November seventh, two thousand twenty-two. Sam Bankman-Fried tweets to his customers.",
+   "show": "November 7, 2022. Sam Bankman-Fried tweets to his customers.",
+   "scene": {
+    "type": "doc",
+    "img": "img/tweets.jpg",
+    "pan": [
+     0.04,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1,
+     1.0,
+     0.145
+    ],
+    "kicker": "NOVEMBER 7, 2022",
+    "src": "Gov't sentencing memorandum, Mar 15, 2024"
+   }
+  },
+  {
+   "say": "FTX is fine. Assets are fine.",
+   "scene": {
+    "type": "quote",
+    "q": "FTX is fine. Assets are fine.",
+    "case": "U.S. v. BANKMAN-FRIED",
+    "doc": "TWEET · NOV 7, 2022",
+    "cite": "As quoted in the gov't sentencing memorandum",
+    "size": 60
+   }
+  },
+  {
+   "say": "FTX has enough to cover all client holdings.",
+   "scene": {
+    "type": "quote",
+    "q": "FTX has enough to cover all client holdings.",
+    "case": "U.S. v. BANKMAN-FRIED",
+    "doc": "TWEET · NOV 7, 2022",
+    "cite": "As quoted in the gov't sentencing memorandum",
+    "size": 56
+   }
+  },
+  {
+   "say": "But according to the trial evidence, the day before, he had written that FTX had enough to process about one third of remaining client assets.",
+   "scene": {
+    "type": "doc",
+    "img": "img/tweets.jpg",
+    "pan": [
+     0.45,
+     0.52
+    ],
+    "hl": [
+     0.0,
+     0.695,
+     1.0,
+     0.1
+    ],
+    "kicker": "NOVEMBER 6, 2022 · HIS OWN DOCUMENT",
+    "src": "Gov't sentencing memorandum, Mar 15, 2024"
+   }
+  },
+  {
+   "say": "Hours before the tweets, prosecutors said, he wrote in a group chat that FTX had three point nine billion of a twelve billion dollar total.",
+   "show": "Hours before the tweets, prosecutors said, he wrote in a group chat that FTX had $3.9 billion of a $12 billion total.",
+   "scene": {
+    "type": "bars",
+    "kicker": "PER PROSECUTORS",
+    "items": [
+     {
+      "label": "TOTAL",
+      "value": 12,
+      "display": "$12B"
+     },
+     {
+      "label": "ON HAND",
+      "value": 3.9,
+      "display": "$3.9B"
+     }
+    ],
+    "src": "Gov't sentencing memorandum, Mar 15, 2024"
+   }
+  },
+  {
+   "say": "Four days later, FTX filed for bankruptcy. A jury later convicted him on all seven counts.",
+   "show": "Four days later, FTX filed for bankruptcy. A jury later convicted him on all 7 counts.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOVEMBER 2, 2023",
+    "stamp": "GUILTY",
+    "big": "All 7 counts",
+    "sub": "United States v. Bankman-Fried"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}
