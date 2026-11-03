@@ -1,0 +1,957 @@
+{
+ "label": "SWORN · CASE 003",
+ "lines": [
+  {
+   "say": "January third, two thousand twenty-two. San Jose, California. A federal jury returns its verdict on the founder of Theranos, Elizabeth Holmes.",
+   "show": "January 3, 2022. San Jose, California. A federal jury returns its verdict on the founder of Theranos, Elizabeth Holmes.",
+   "scene": {
+    "type": "doc",
+    "img": "img/verdict1.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.24,
+     1.0,
+     0.12
+    ],
+    "kicker": "JANUARY 3, 2022 · FINAL VERDICT FORM",
+    "title": "United States v. Elizabeth A. Holmes",
+    "src": "Final verdict form, Dkt. 1235, N.D. Cal., Jan 3, 2022"
+   }
+  },
+  {
+   "say": "Count one. Conspiracy to commit wire fraud against Theranos investors. Guilty.",
+   "scene": {
+    "type": "doc",
+    "img": "img/verdict1.jpg",
+    "pan": [
+     0.28,
+     0.36
+    ],
+    "hl": [
+     0.0,
+     0.5,
+     1.0,
+     0.115
+    ],
+    "kicker": "COUNT ONE · INVESTORS",
+    "title": "“Guilty”",
+    "src": "Final verdict form, Dkt. 1235, N.D. Cal., Jan 3, 2022"
+   }
+  },
+  {
+   "say": "Count two. Conspiracy to commit wire fraud against Theranos patients. Not guilty.",
+   "scene": {
+    "type": "doc",
+    "img": "img/verdict1.jpg",
+    "pan": [
+     0.36,
+     0.42
+    ],
+    "hl": [
+     0.0,
+     0.615,
+     1.0,
+     0.105
+    ],
+    "kicker": "COUNT TWO · PATIENTS",
+    "title": "“Not Guilty”",
+    "src": "Final verdict form, Dkt. 1235, N.D. Cal., Jan 3, 2022"
+   }
+  },
+  {
+   "say": "Three more counts involving investors: guilty. The patient counts: not guilty. And on three counts, the jury could not agree.",
+   "scene": {
+    "type": "doc",
+    "img": "img/verdict2.jpg",
+    "pan": [
+     0.2,
+     0.3
+    ],
+    "hl": [
+     0.0,
+     0.48,
+     1.0,
+     0.45
+    ],
+    "kicker": "COUNTS SIX, SEVEN, EIGHT · INVESTORS",
+    "title": "“Guilty”",
+    "src": "Final verdict form, Dkt. 1235, N.D. Cal., Jan 3, 2022 · Minute order, Dkt. 1236"
+   }
+  },
+  {
+   "say": "A split verdict. The jury found that she had defrauded the people who invested in her company. This is the case prosecutors made, and what happened to her after.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE VERDICT",
+    "lines": [
+     "Investors: guilty.",
+     "Patients: not guilty."
+    ],
+    "src": "Judgment, Dkt. 1716, N.D. Cal., Jan 11, 2023"
+   }
+  },
+  {
+   "say": "This is SWORN.",
+   "scene": {
+    "type": "title",
+    "kicker": "SWORN · CASE 003",
+    "title": "The Theranos|Verdict",
+    "sub": "United States v. Elizabeth A. Holmes · Northern District of California · 2018–2026"
+   }
+  },
+  {
+   "say": "Chapter one. One tiny drop.",
+   "scene": {
+    "type": "chapter",
+    "n": "I",
+    "title": "One Tiny Drop"
+   }
+  },
+  {
+   "say": "Holmes founded Theranos in two thousand three, and served as its chief executive until two thousand eighteen, according to the federal appeals court.",
+   "show": "Holmes founded Theranos in 2003, and served as its chief executive until 2018, according to the federal appeals court.",
+   "scene": {
+    "type": "big",
+    "kicker": "THERANOS",
+    "lines": [
+     "Founded 2003.",
+     "Holmes: CEO|until 2018."
+    ],
+    "src": "U.S. Court of Appeals, 9th Cir., No. 22-10312 (amended Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "The court opened its opinion with the vision she sold. One tiny drop changes everything.",
+   "scene": {
+    "type": "quote",
+    "q": "[O]ne tiny drop changes everything.",
+    "case": "U.S. v. HOLMES",
+    "doc": "THE VISION · AS QUOTED BY THE COURT",
+    "cite": "9th Cir. opinion, No. 22-10312",
+    "size": 60
+   }
+  },
+  {
+   "say": "Theranos claimed, the court wrote, that it could run fast, accurate and affordable tests with just a drop of blood drawn from the prick of a finger.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9.jpg",
+    "pan": [
+     0.08,
+     0.16
+    ],
+    "hl": [
+     0.0,
+     0.28,
+     1.0,
+     0.12
+    ],
+    "kicker": "NINTH CIRCUIT · OPINION",
+    "title": "“just a drop of blood”",
+    "src": "U.S. Court of Appeals, 9th Cir., No. 22-10312 (amended Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "In two thousand ten, Theranos partnered with Walgreens. In the fall of two thousand thirteen, it launched its testing services in Walgreens stores, then raised new money from investors.",
+   "show": "In 2010, Theranos partnered with Walgreens. In the fall of 2013, it launched its testing services in Walgreens stores, then raised new money from investors.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "THERANOS AND WALGREENS",
+    "events": [
+     {
+      "date": "2003",
+      "text": "Holmes founds Theranos"
+     },
+     {
+      "date": "2010",
+      "text": "Partnership with Walgreens"
+     },
+     {
+      "date": "FALL 2013",
+      "text": "Testing launches at Walgreens"
+     }
+    ],
+    "at": 2,
+    "src": "U.S. Court of Appeals, 9th Cir., No. 22-10312 (amended Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "By the end of two thousand fourteen, prosecutors said, Holmes's own shares in Theranos were valued at more than four billion dollars.",
+   "show": "By the end of 2014, prosecutors said, Holmes's own shares in Theranos were valued at more than $4 billion.",
+   "scene": {
+    "type": "stat",
+    "kicker": "END OF 2014 · PER PROSECUTORS",
+    "value": "$4B+",
+    "label": "the value of Holmes's own|Theranos shares",
+    "src": "Gov't sentencing memorandum, Dkt. 1643, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "She was on the covers of Fortune and Forbes. Time named her one of the hundred most influential people in the world.",
+   "show": "She was on the covers of Fortune and Forbes. Time named her one of the 100 most influential people in the world.",
+   "scene": {
+    "type": "big",
+    "kicker": "PER PROSECUTORS",
+    "lines": [
+     "Fortune. Forbes. Inc.",
+     "Time's 100 Most|Influential People."
+    ],
+    "src": "Gov't sentencing memorandum, Dkt. 1643, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "Chapter two. The pitch.",
+   "scene": {
+    "type": "chapter",
+    "n": "II",
+    "title": "The Pitch"
+   }
+  },
+  {
+   "say": "Prosecutors laid out what Holmes told investors. One Theranos device could run any blood test a conventional lab could, from a fingerstick. Major drug companies had validated it. The military was using it. And the business was profitable.",
+   "scene": {
+    "type": "list",
+    "kicker": "THE PITCH · PER PROSECUTORS",
+    "items": [
+     [
+      "1",
+      "One device, any blood test"
+     ],
+     [
+      "2",
+      "Validated by drug companies"
+     ],
+     [
+      "3",
+      "Used by the military"
+     ],
+     [
+      "4",
+      "A profitable business"
+     ]
+    ],
+    "size": 42,
+    "src": "Gov't sentencing memorandum, Dkt. 1643, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "In truth, the government said, the Theranos device could never complete more than twelve types of blood tests. To fill out its menu, the company quietly used modified and unmodified machines made by other companies.",
+   "show": "In truth, the government said, the Theranos device could never complete more than 12 types of blood tests. To fill out its menu, the company quietly used modified and unmodified machines made by other companies.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_twelve.jpg",
+    "pan": [
+     0.15,
+     0.25
+    ],
+    "hl": [
+     0.0,
+     0.37,
+     1.0,
+     0.17
+    ],
+    "kicker": "THE GOVERNMENT'S CASE",
+    "title": "“never complete more than 12 types of blood tests”",
+    "src": "Gov't sentencing memorandum, Dkt. 1643, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "Theranos had zero revenue in two thousand twelve and two thousand thirteen. Yet investors were given projections of one hundred forty million dollars in revenue for two thousand fourteen, and nearly one billion for two thousand fifteen.",
+   "show": "Theranos had zero revenue in 2012 and 2013. Yet investors were given projections of $140 million in revenue for 2014, and nearly $1 billion for 2015.",
+   "scene": {
+    "type": "bars",
+    "kicker": "REVENUE · PER PROSECUTORS",
+    "title": "Projected vs. actual",
+    "items": [
+     {
+      "label": "2015 PROJECTED",
+      "value": 1000,
+      "display": "~$1B"
+     },
+     {
+      "label": "2014 PROJECTED",
+      "value": 140,
+      "display": "$140M"
+     },
+     {
+      "label": "2012–13 ACTUAL",
+      "value": 0,
+      "display": "$0"
+     }
+    ],
+    "src": "Gov't sentencing memorandum, Dkt. 1643, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "Behind the projections, the appeals court noted, Balwani told Holmes in November two thousand thirteen that Theranos was down to fifteen million dollars in cash, and spending up to two million dollars a week. In two thousand fifteen, it reported less than two million dollars in total income to the IRS.",
+   "show": "Behind the projections, the appeals court noted, Balwani told Holmes in November 2013 that Theranos was down to $15 million in cash, and spending up to $2 million a week. In 2015, it reported less than $2 million in total income to the IRS.",
+   "scene": {
+    "type": "big",
+    "kicker": "NOVEMBER 2013 · PER THE NINTH CIRCUIT",
+    "lines": [
+     "$15 million in cash.",
+     "Spending up to|$2 million a week."
+    ],
+    "src": "U.S. Court of Appeals, 9th Cir., No. 22-10312 (amended Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "Investors were also told the device was being used on medevac helicopters and on the battlefield. According to the government, the Defense Department never used it to treat patients.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_rev.jpg",
+    "pan": [
+     0.42,
+     0.5
+    ],
+    "hl": [
+     0.0,
+     0.8,
+     1.0,
+     0.16
+    ],
+    "kicker": "THE MILITARY CLAIM",
+    "title": "“never used Theranos' device to clinically treat patients”",
+    "src": "Gov't sentencing memorandum, Dkt. 1643, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "At technology demonstrations, the court wrote, VIP guests were led to believe the device was running a sample of their blood. In reality, it was running a null protocol, while some samples were secretly run on other companies' machines.",
+   "scene": {
+    "type": "quote",
+    "q": "In reality, the device was running a “null protocol” while some of the VIP samples were surreptitiously run on third-party devices.",
+    "case": "U.S. v. HOLMES",
+    "doc": "NINTH CIRCUIT · ON THE DEMOS",
+    "cite": "9th Cir. opinion, No. 22-10312",
+    "size": 42
+   }
+  },
+  {
+   "say": "Then there were the reports. In April two thousand ten, prosecutors said, Holmes emailed Walgreens executives reports with favorable conclusions about Theranos, bearing the logos of Pfizer, GlaxoSmithKline and Schering-Plough.",
+   "show": "Then there were the reports. In April 2010, prosecutors said, Holmes emailed Walgreens executives reports with favorable conclusions about Theranos, bearing the logos of Pfizer, GlaxoSmithKline and Schering-Plough.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_logos.jpg",
+    "pan": [
+     0.2,
+     0.3
+    ],
+    "hl": [
+     0.0,
+     0.37,
+     1.0,
+     0.39
+    ],
+    "kicker": "APRIL 2010",
+    "title": "The logos",
+    "src": "Gov't sentencing memorandum, Dkt. 1643, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "At trial, Holmes admitted that she personally put those logos on the reports. Witnesses from the drug companies testified that they had not validated the technology, and had not authorized the use of their logos.",
+   "scene": {
+    "type": "big",
+    "kicker": "AT TRIAL · PER THE NINTH CIRCUIT",
+    "lines": [
+     "She added the logos.",
+     "The companies never|authorized them."
+    ],
+    "src": "U.S. Court of Appeals, 9th Cir., No. 22-10312 (amended Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "Chapter three. The unraveling.",
+   "scene": {
+    "type": "chapter",
+    "n": "III",
+    "title": "The Unraveling"
+   }
+  },
+  {
+   "say": "Inside the company, prosecutors said, scientists warned Holmes in two thousand thirteen that the device could not reliably test patient samples. Some resigned shortly before the Walgreens launch.",
+   "show": "Inside the company, prosecutors said, scientists warned Holmes in 2013 that the device could not reliably test patient samples. Some resigned shortly before the Walgreens launch.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_rev.jpg",
+    "pan": [
+     0.15,
+     0.25
+    ],
+    "hl": [
+     0.0,
+     0.31,
+     1.0,
+     0.33
+    ],
+    "kicker": "2013 · PER PROSECUTORS",
+    "title": "The warnings",
+    "src": "Gov't sentencing memorandum, Dkt. 1643, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "One scientist testified about Holmes's response: she has a promise to deliver to the customer.",
+   "scene": {
+    "type": "quote",
+    "q": "she has a promise to deliver to the customer, she doesn't have much of a choice but to go ahead with the launch.",
+    "case": "U.S. v. HOLMES",
+    "doc": "TRIAL TESTIMONY",
+    "cite": "As quoted in the gov't sentencing memorandum, Nov 11, 2022",
+    "size": 44
+   }
+  },
+  {
+   "say": "In September two thousand fifteen, Balwani texted Holmes: Our validation reports are terrible. Her reply: Praying.",
+   "show": "In September 2015, Balwani texted Holmes: \"Our validation reports are terrible.\" Her reply: \"Praying.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_texts.jpg",
+    "pan": [
+     0.3,
+     0.4
+    ],
+    "hl": [
+     0.0,
+     0.72,
+     1.0,
+     0.27
+    ],
+    "kicker": "SEPT 22, 2015 · TEXT MESSAGES",
+    "title": "“Our validation reports are terrible.”",
+    "src": "Gov't sentencing memorandum, Dkt. 1643, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "In late two thousand fifteen, news reporting revealed internal struggles inside the Theranos laboratory.",
+   "show": "In late 2015, news reporting revealed internal struggles inside the Theranos laboratory.",
+   "scene": {
+    "type": "big",
+    "kicker": "LATE 2015",
+    "lines": [
+     "The reporting",
+     "begins."
+    ],
+    "src": "U.S. Court of Appeals, 9th Cir., No. 22-10312 (amended Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "According to prosecutors, when Holmes learned that a Wall Street Journal reporter was working on the story, she hired the lawyer David Boies to try to get him to drop it. Then she appealed to the newspaper's owner, who was also a significant Theranos investor.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_wsj.jpg",
+    "pan": [
+     0.2,
+     0.3
+    ],
+    "hl": [
+     0.0,
+     0.655,
+     1.0,
+     0.2
+    ],
+    "kicker": "2015 · PER PROSECUTORS",
+    "title": "Pressure on the story",
+    "src": "Gov't sentencing memorandum, Dkt. 1643, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "Asked on television about it, Holmes said that every test that we offer in our laboratory can run on our proprietary devices. Prosecutors said that was false.",
+   "scene": {
+    "type": "quote",
+    "q": "every test that we offer in our laboratory can run on our proprietary devices.",
+    "case": "U.S. v. HOLMES",
+    "doc": "OCT 15, 2015 · ON MAD MONEY",
+    "cite": "As quoted in the gov't sentencing memorandum, Nov 11, 2022",
+    "size": 48
+   }
+  },
+  {
+   "say": "Federal regulators inspected the lab. Faced with their findings, Theranos itself admitted a global and long-term failure of the quality control program for its device.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_cms.jpg",
+    "pan": [
+     0.42,
+     0.5
+    ],
+    "hl": [
+     0.0,
+     0.78,
+     1.0,
+     0.2
+    ],
+    "kicker": "2015 · CMS INSPECTION",
+    "title": "“a global and long-term failure”",
+    "src": "Gov't sentencing memorandum, Dkt. 1643, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "Theranos voided every patient test result ever run on that device in its clinical lab.",
+   "scene": {
+    "type": "big",
+    "kicker": "PER PROSECUTORS",
+    "lines": [
+     "Every Edison result:",
+     "voided."
+    ],
+    "src": "Gov't sentencing memorandum, Dkt. 1643, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "March fourteenth, two thousand eighteen. The Securities and Exchange Commission charged Theranos, Holmes and Balwani with what it called a massive fraud that raised more than seven hundred million dollars from investors.",
+   "show": "March 14, 2018. The Securities and Exchange Commission charged Theranos, Holmes and Balwani with what it called a \"massive fraud\" that raised more than $700 million from investors.",
+   "scene": {
+    "type": "stat",
+    "kicker": "MARCH 14, 2018 · SEC",
+    "value": "$700M+",
+    "label": "raised from investors,|according to the SEC",
+    "src": "SEC press release 2018-41, Mar 14, 2018"
+   }
+  },
+  {
+   "say": "Holmes settled. She agreed to a five hundred thousand dollar penalty, a ten-year bar from serving as an officer or director of a public company, and to give up voting control of Theranos.",
+   "show": "Holmes settled. She agreed to a $500,000 penalty, a ten-year bar from serving as an officer or director of a public company, and to give up voting control of Theranos.",
+   "scene": {
+    "type": "list",
+    "kicker": "HOLMES'S SEC SETTLEMENT",
+    "items": [
+     [
+      "$500K",
+      "Penalty"
+     ],
+     [
+      "10 YRS",
+      "Barred as public-company officer or director"
+     ],
+     [
+      "18.9M",
+      "Shares returned"
+     ],
+     [
+      "—",
+      "Voting control given up"
+     ]
+    ],
+    "size": 40,
+    "src": "SEC press release 2018-41, Mar 14, 2018"
+   }
+  },
+  {
+   "say": "Investors are entitled to nothing less than complete truth and candor, said the SEC's enforcement co-director.",
+   "scene": {
+    "type": "quote",
+    "q": "Investors are entitled to nothing less than complete truth and candor from companies and their executives",
+    "case": "SEC v. HOLMES",
+    "doc": "SEC ENFORCEMENT · STEVEN PEIKIN",
+    "cite": "SEC press release 2018-41, Mar 14, 2018",
+    "size": 46
+   }
+  },
+  {
+   "say": "Three months later, on June fourteenth, a federal grand jury in California indicted Holmes and Balwani for wire fraud.",
+   "show": "Three months later, on June 14, a federal grand jury in California indicted Holmes and Balwani for wire fraud.",
+   "scene": {
+    "type": "doc",
+    "img": "img/indictment.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.55,
+     1.0,
+     0.45
+    ],
+    "kicker": "JUNE 14, 2018 · INDICTMENT",
+    "title": "The United States of America v. Holmes & Balwani",
+    "src": "Indictment, Dkt. 1, N.D. Cal., Jun 14, 2018"
+   }
+  },
+  {
+   "say": "Chapter four. The trial.",
+   "scene": {
+    "type": "chapter",
+    "n": "IV",
+    "title": "The Trial"
+   }
+  },
+  {
+   "say": "The final indictment charged two conspiracies, one against investors and one against patients, and ten counts of wire fraud. The court tried Holmes and Balwani separately.",
+   "scene": {
+    "type": "doc",
+    "img": "img/tsi_cover.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.755,
+     1.0,
+     0.075
+    ],
+    "kicker": "JULY 28, 2020",
+    "title": "Third Superseding Indictment",
+    "src": "Third Superseding Indictment, Dkt. 469, N.D. Cal., Jul 28, 2020 · Gov't sentencing memorandum, Dkt. 1643, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "Holmes's trial began on August thirty-first, two thousand twenty-one. It lasted four months. Thirty-two witnesses testified, and more than nine hundred exhibits were admitted.",
+   "show": "Holmes's trial began on August 31, 2021. It lasted four months. 32 witnesses testified, and more than 900 exhibits were admitted.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_trial.jpg",
+    "pan": [
+     0.2,
+     0.3
+    ],
+    "hl": [
+     0.0,
+     0.6,
+     1.0,
+     0.38
+    ],
+    "kicker": "AUG 31, 2021 – JAN 3, 2022",
+    "title": "Four months · 32 witnesses · 900+ exhibits",
+    "src": "Gov't sentencing memorandum, Dkt. 1643, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "At trial, prosecutors said, she blamed her chief operating officer, her board, her scientists, her business partners, her investors, the media. Everyone, that is, but herself.",
+   "scene": {
+    "type": "quote",
+    "q": "At trial, she blamed her COO (and longtime boyfriend), her board, her scientists, her business partners, her investors, her marketing firm, her attorneys, the media—everyone, that is, but herself.",
+    "case": "U.S. v. HOLMES",
+    "doc": "THE GOVERNMENT'S VIEW",
+    "cite": "Gov't sentencing memorandum, Nov 11, 2022",
+    "size": 36
+   }
+  },
+  {
+   "say": "The verdict: guilty of conspiracy to defraud investors, and of three counts of wire fraud. The wires behind those counts: thirty-eight million dollars in February two thousand fourteen, and nearly one hundred million and six million dollars on October thirty-first, two thousand fourteen.",
+   "show": "The verdict: guilty of conspiracy to defraud investors, and of three counts of wire fraud. The wires behind those counts: $38 million in February 2014, and nearly $100 million and $6 million on October 31, 2014.",
+   "scene": {
+    "type": "doc",
+    "img": "img/tsi_counts.jpg",
+    "pan": [
+     0.45,
+     0.55
+    ],
+    "hl": [
+     0.0,
+     0.76,
+     1.0,
+     0.205
+    ],
+    "kicker": "COUNTS SIX, SEVEN, EIGHT",
+    "title": "$38,336,632 · $99,999,984 · $5,999,997",
+    "src": "Third Superseding Indictment, Dkt. 469, N.D. Cal., Jul 28, 2020"
+   }
+  },
+  {
+   "say": "Not guilty on four counts: the conspiracy against patients, and three related wire fraud counts. The court declared a mistrial on the three counts where the jury deadlocked. Prosecutors later dismissed them.",
+   "scene": {
+    "type": "doc",
+    "img": "img/judgment.jpg",
+    "pan": [
+     0.35,
+     0.45
+    ],
+    "hl": [
+     0.0,
+     0.88,
+     1.0,
+     0.08
+    ],
+    "kicker": "THE JUDGMENT",
+    "title": "Not guilty · dismissed",
+    "src": "Judgment, Dkt. 1716, N.D. Cal., Jan 11, 2023 · Minute order, Dkt. 1236"
+   }
+  },
+  {
+   "say": "The FBI's special agent in charge put it simply. Elizabeth Holmes chose fraud over business failure.",
+   "scene": {
+    "type": "quote",
+    "q": "Elizabeth Holmes chose fraud over business failure.",
+    "case": "U.S. v. HOLMES",
+    "doc": "FBI · SPECIAL AGENT IN CHARGE CRAIG FAIR",
+    "cite": "U.S. Attorney, N.D. Cal. — release, Jan 4, 2022",
+    "size": 56
+   }
+  },
+  {
+   "say": "Months later, in a separate trial, another jury convicted Balwani on all twelve counts.",
+   "show": "Months later, in a separate trial, another jury convicted Balwani on all 12 counts.",
+   "scene": {
+    "type": "big",
+    "kicker": "JULY 2022 · RAMESH “SUNNY” BALWANI",
+    "lines": [
+     "Separate trial.",
+     "Guilty on all 12."
+    ],
+    "src": "Gov't sentencing memorandum, Dkt. 1643, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "Chapter five. The sentence.",
+   "scene": {
+    "type": "chapter",
+    "n": "V",
+    "title": "The Sentence"
+   }
+  },
+  {
+   "say": "November eighteenth, two thousand twenty-two. Prosecutors asked for fifteen years. The probation office recommended nine. Her lawyers argued for eighteen months or less, and suggested home confinement.",
+   "show": "November 18, 2022. Prosecutors asked for 15 years. The probation office recommended nine. Her lawyers argued for 18 months or less, and suggested home confinement.",
+   "scene": {
+    "type": "bars",
+    "kicker": "WHAT EACH SIDE ASKED FOR",
+    "title": "Months in prison",
+    "items": [
+     {
+      "label": "PROSECUTORS",
+      "value": 180,
+      "display": "180 mos"
+     },
+     {
+      "label": "PROBATION",
+      "value": 108,
+      "display": "108 mos"
+     },
+     {
+      "label": "DEFENSE",
+      "value": 18,
+      "display": "≤18 mos"
+     }
+    ],
+    "src": "Gov't sentencing memorandum, Dkt. 1643, Nov 11, 2022 · Defense memorandum, Dkt. 1642"
+   }
+  },
+  {
+   "say": "The probation office had put investor losses at more than seven hundred thirty million dollars. The judge found that too high. Theranos stock, he reasoned, was not practically worthless, and kept some value apart from the fraud.",
+   "show": "The probation office had put investor losses at more than $730 million. The judge found that too high. Theranos stock, he reasoned, was not \"practically worthless,\" and kept some value apart from the fraud.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE LOSS QUESTION",
+    "lines": [
+     "Probation: $730 million.",
+     "The judge: lower."
+    ],
+    "src": "Order on sentencing, Dkt. 1712, Jan 10, 2023"
+   }
+  },
+  {
+   "say": "Judge Edward Davila estimated the loss caused by her crimes at one hundred twenty million dollars. That put the guidelines range at one hundred thirty-five to one hundred sixty-eight months.",
+   "show": "Judge Edward Davila estimated the loss caused by her crimes at $120 million. That put the guidelines range at 135 to 168 months.",
+   "scene": {
+    "type": "stat",
+    "kicker": "LOSS FOUND BY THE COURT",
+    "value": "$120,146,247",
+    "label": "guidelines range:|135–168 months",
+    "src": "Order on sentencing, Dkt. 1712, Jan 10, 2023 · Order granting sentence modification, Dkt. 1816, Mar 26, 2026"
+   }
+  },
+  {
+   "say": "At the hearing, the judge wrote, Holmes apologized for Theranos and its failings. But she did not accept responsibility for her own conduct.",
+   "scene": {
+    "type": "quote",
+    "q": "Ms. Holmes apologized more generally for Theranos and its “failings,” but did not acknowledge nor accept responsibility for her conduct …",
+    "case": "U.S. v. HOLMES",
+    "doc": "JUDGE EDWARD J. DAVILA",
+    "cite": "Order on sentencing, Dkt. 1712, Jan 10, 2023",
+    "size": 42
+   }
+  },
+  {
+   "say": "The sentence: one hundred thirty-five months. Eleven years and three months in federal prison, the low end of the range.",
+   "show": "The sentence: 135 months. 11 years and 3 months in federal prison, the low end of the range.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "THE SENTENCE · NOVEMBER 18, 2022",
+    "stamp": "SENTENCED",
+    "big": "135 months",
+    "sub": "11 years, 3 months · then 3 years of supervised release"
+   }
+  },
+  {
+   "say": "In May two thousand twenty-three, the judge ordered Holmes and Balwani to pay four hundred fifty-two million dollars in restitution to fourteen victims, including Walgreens and Safeway.",
+   "show": "In May 2023, the judge ordered Holmes and Balwani to pay $452 million in restitution to 14 victims, including Walgreens and Safeway.",
+   "scene": {
+    "type": "doc",
+    "img": "img/restitution.jpg",
+    "pan": [
+     0.3,
+     0.4
+    ],
+    "hl": [
+     0.0,
+     0.64,
+     1.0,
+     0.06
+    ],
+    "kicker": "MAY 16, 2023 · RESTITUTION",
+    "title": "$452,047,268",
+    "src": "Order on restitution, Dkt. 1760, May 16, 2023 · U.S. Court of Appeals, 9th Cir., No. 22-10312 (amended Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "He refused to let her stay free during her appeal. On May thirtieth, two thousand twenty-three, she reported to prison. Balwani, sentenced separately, got twelve years and eleven months.",
+   "show": "He refused to let her stay free during her appeal. On May 30, 2023, she reported to prison. Balwani, sentenced separately, got 12 years and 11 months.",
+   "scene": {
+    "type": "doc",
+    "img": "img/bail.jpg",
+    "pan": [
+     0.45,
+     0.55
+    ],
+    "hl": [
+     0.0,
+     0.86,
+     1.0,
+     0.06
+    ],
+    "kicker": "APRIL 10, 2023",
+    "title": "Release pending appeal: denied",
+    "src": "Order denying release pending appeal, Dkt. 1757, Apr 10, 2023 · U.S. Attorney, N.D. Cal. — case page, U.S. v. Holmes et al."
+   }
+  },
+  {
+   "say": "Chapter six. After the verdict.",
+   "scene": {
+    "type": "chapter",
+    "n": "VI",
+    "title": "After the Verdict"
+   }
+  },
+  {
+   "say": "In February two thousand twenty-five, the Ninth Circuit Court of Appeals affirmed her convictions, her sentence and the restitution order.",
+   "show": "In February 2025, the Ninth Circuit Court of Appeals affirmed her convictions, her sentence and the restitution order.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9.jpg",
+    "pan": [
+     0.453,
+     0.513
+    ],
+    "hl": [
+     0.0,
+     0.57,
+     1.0,
+     0.28
+    ],
+    "kicker": "FEBRUARY 24, 2025 · AFFIRMED",
+    "title": "“nothing more than a mirage”",
+    "src": "U.S. Court of Appeals, 9th Cir., No. 22-10312 (amended Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "The vision Holmes and Balwani sold, the judges wrote, was nothing more than a mirage. The grandiose achievements they touted were half-truths and outright lies.",
+   "scene": {
+    "type": "quote",
+    "q": "The grandiose achievements touted by Holmes and Balwani were half-truths and outright lies.",
+    "case": "U.S. v. HOLMES",
+    "doc": "NINTH CIRCUIT OPINION",
+    "cite": "U.S. v. Holmes, No. 22-10312 (9th Cir.)",
+    "size": 48
+   }
+  },
+  {
+   "say": "In March two thousand twenty-six, a change in the sentencing guidelines for first-time offenders opened a door. Judge Davila cut her sentence from one hundred thirty-five months to one hundred twenty-three.",
+   "show": "In March 2026, a change in the sentencing guidelines for first-time offenders opened a door. Judge Davila cut her sentence from 135 months to 123.",
+   "scene": {
+    "type": "doc",
+    "img": "img/resent.jpg",
+    "pan": [
+     0.2,
+     0.3
+    ],
+    "hl": [
+     0.0,
+     0.44,
+     1.0,
+     0.24
+    ],
+    "kicker": "MARCH 26, 2026 · SENTENCE REDUCED",
+    "title": "135 → 123 months",
+    "src": "Order granting sentence modification, Dkt. 1816, Mar 26, 2026"
+   }
+  },
+  {
+   "say": "To be clear, he wrote, this sentence reduction does not diminish the enormity of Holmes's crimes.",
+   "scene": {
+    "type": "quote",
+    "q": "To be clear, this sentence reduction does not diminish the enormity of Holmes’s crimes …",
+    "case": "U.S. v. HOLMES",
+    "doc": "JUDGE EDWARD J. DAVILA",
+    "cite": "Order granting sentence modification, Dkt. 1816, Mar 26, 2026",
+    "size": 48
+   }
+  },
+  {
+   "say": "She has asked President Trump to commute her sentence. According to Forbes, as of late September, the Justice Department listed that request as pending.",
+   "scene": {
+    "type": "big",
+    "kicker": "CLEMENCY · ACCORDING TO NEWS REPORTS",
+    "lines": [
+     "Commutation requested.",
+     "Pending as of|Sept. 2026."
+    ],
+    "src": "Forbes, Sept 24, 2026"
+   }
+  },
+  {
+   "say": "According to the same report, she has been approved for a halfway house in August two thousand twenty-seven, with her release scheduled for February two thousand thirty.",
+   "show": "According to the same report, she has been approved for a halfway house in August 2027, with her release scheduled for February 2030.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "ACCORDING TO NEWS REPORTS",
+    "events": [
+     {
+      "date": "MAY 2023",
+      "text": "Reports to prison"
+     },
+     {
+      "date": "AUG 2027",
+      "text": "Halfway house approved"
+     },
+     {
+      "date": "FEB 2030",
+      "text": "Scheduled release"
+     }
+    ],
+    "at": 1,
+    "src": "Forbes, Sept 24, 2026"
+   }
+  },
+  {
+   "say": "One tiny drop changes everything, the company promised.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "“One tiny drop",
+     "changes everything.”"
+    ]
+   }
+  },
+  {
+   "say": "A jury, a judge and three appellate judges decided the case on something else. Not what the device could do, but what investors were told it could do.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Not what it could do.",
+     "What investors|were told."
+    ]
+   }
+  },
+  {
+   "say": "This is SWORN. Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ]
+}

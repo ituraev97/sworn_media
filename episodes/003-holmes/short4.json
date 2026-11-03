@@ -1,0 +1,96 @@
+{
+ "title": "The Theranos Demo That Ran a \"Null Protocol\"",
+ "hook": "The demo|that tested nothing.",
+ "lines": [
+  {
+   "say": "Theranos promised a full range of blood tests from a single drop of blood.",
+   "scene": {
+    "type": "quote",
+    "q": "[O]ne tiny drop changes everything.",
+    "case": "U.S. v. HOLMES",
+    "doc": "THE VISION · AS QUOTED BY THE COURT",
+    "cite": "9th Cir. opinion",
+    "size": 54
+   }
+  },
+  {
+   "say": "At demonstrations, the appeals court wrote, VIP guests were led to believe the device was running their blood.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE DEMOS · PER THE NINTH CIRCUIT",
+    "lines": [
+     "VIP guests.",
+     "Their blood."
+    ],
+    "src": "9th Cir., No. 22-10312"
+   }
+  },
+  {
+   "say": "In reality, it was running a null protocol, while some samples were secretly run on other companies' machines.",
+   "scene": {
+    "type": "quote",
+    "q": "In reality, the device was running a “null protocol” while some of the VIP samples were surreptitiously run on third-party devices.",
+    "case": "U.S. v. HOLMES",
+    "doc": "NINTH CIRCUIT",
+    "cite": "U.S. v. Holmes, No. 22-10312",
+    "size": 38
+   }
+  },
+  {
+   "say": "The indictment said the null protocol was meant to make the analyzer appear to be operating.",
+   "scene": {
+    "type": "doc",
+    "img": "img/tsi_null.jpg",
+    "pan": [
+     0.0,
+     0.05
+    ],
+    "hl": [
+     0.0,
+     0.1,
+     1.0,
+     0.18
+    ],
+    "kicker": "THE INDICTMENT",
+    "src": "Third Superseding Indictment, Jul 28, 2020"
+   }
+  },
+  {
+   "say": "According to prosecutors, the device itself could never run more than twelve types of tests.",
+   "show": "According to prosecutors, the device itself could never run more than 12 types of tests.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_twelve.jpg",
+    "pan": [
+     0.15,
+     0.25
+    ],
+    "hl": [
+     0.0,
+     0.37,
+     1.0,
+     0.17
+    ],
+    "kicker": "PER PROSECUTORS",
+    "src": "Gov't sentencing memorandum, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "Elizabeth Holmes was convicted of defrauding investors.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "JANUARY 3, 2022",
+    "stamp": "GUILTY",
+    "big": "Investor fraud",
+    "sub": "United States v. Elizabeth A. Holmes"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

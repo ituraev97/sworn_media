@@ -1,0 +1,91 @@
+{
+ "title": "She Put Pfizer's Logo on Her Own Report — Elizabeth Holmes at Trial",
+ "hook": "Whose logo|was that?",
+ "lines": [
+  {
+   "say": "April two thousand ten. Theranos is courting Walgreens.",
+   "show": "April 2010. Theranos is courting Walgreens.",
+   "scene": {
+    "type": "big",
+    "kicker": "APRIL 2010",
+    "lines": [
+     "Theranos courts",
+     "Walgreens."
+    ],
+    "src": "Gov't sentencing memorandum, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "Prosecutors said Elizabeth Holmes emailed Walgreens executives reports with favorable conclusions about Theranos, bearing the logos of Pfizer, GlaxoSmithKline and Schering-Plough.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_logos.jpg",
+    "pan": [
+     0.22,
+     0.32
+    ],
+    "hl": [
+     0.0,
+     0.37,
+     1.0,
+     0.39
+    ],
+    "kicker": "PER PROSECUTORS",
+    "src": "Gov't sentencing memorandum, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "She described them as three independent due diligence reports from those companies.",
+   "scene": {
+    "type": "quote",
+    "q": "three independent due diligence reports on Theranos systems",
+    "case": "U.S. v. HOLMES",
+    "doc": "HOLMES'S EMAIL · 2010",
+    "cite": "As quoted in the gov't sentencing memorandum",
+    "size": 50
+   }
+  },
+  {
+   "say": "At trial, she admitted that she put the logos on herself.",
+   "scene": {
+    "type": "big",
+    "kicker": "AT TRIAL · PER THE NINTH CIRCUIT",
+    "lines": [
+     "She added",
+     "the logos."
+    ],
+    "src": "9th Cir., No. 22-10312"
+   }
+  },
+  {
+   "say": "Witnesses from the drug companies testified they never validated the technology, and never authorized their logos.",
+   "scene": {
+    "type": "big",
+    "kicker": "PER THE NINTH CIRCUIT",
+    "lines": [
+     "Not validated.",
+     "Not authorized."
+    ],
+    "src": "9th Cir., No. 22-10312"
+   }
+  },
+  {
+   "say": "Prosecutors said she kept sending the Pfizer report to investors in two thousand fourteen and two thousand fifteen. She was convicted of defrauding investors.",
+   "show": "Prosecutors said she kept sending the Pfizer report to investors in 2014 and 2015. She was convicted of defrauding investors.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "JANUARY 3, 2022",
+    "stamp": "GUILTY",
+    "big": "4 counts",
+    "sub": "Investor fraud · United States v. Holmes"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

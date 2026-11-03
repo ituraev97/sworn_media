@@ -1,0 +1,98 @@
+{
+ "title": "Where Elizabeth Holmes Is Now (2026)",
+ "hook": "Where Holmes|is now.",
+ "lines": [
+  {
+   "say": "Elizabeth Holmes reported to federal prison on May thirtieth, two thousand twenty-three.",
+   "show": "Elizabeth Holmes reported to federal prison on May 30, 2023.",
+   "scene": {
+    "type": "big",
+    "kicker": "MAY 30, 2023",
+    "lines": [
+     "She reports",
+     "to prison."
+    ],
+    "src": "Order, N.D. Cal., Mar 26, 2026"
+   }
+  },
+  {
+   "say": "In February two thousand twenty-five, the Ninth Circuit affirmed her conviction. The vision she sold, it wrote, was nothing more than a mirage.",
+   "show": "In February 2025, the Ninth Circuit affirmed her conviction. The vision she sold, it wrote, was \"nothing more than a mirage.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9.jpg",
+    "pan": [
+     0.479,
+     0.539
+    ],
+    "hl": [
+     0.0,
+     0.57,
+     1.0,
+     0.28
+    ],
+    "kicker": "9TH CIRCUIT · AFFIRMED",
+    "src": "9th Cir., No. 22-10312"
+   }
+  },
+  {
+   "say": "In March two thousand twenty-six, her sentence was cut from one hundred thirty-five to one hundred twenty-three months.",
+   "show": "In March 2026, her sentence was cut from 135 to 123 months.",
+   "scene": {
+    "type": "doc",
+    "img": "img/resent.jpg",
+    "pan": [
+     0.22,
+     0.32
+    ],
+    "hl": [
+     0.0,
+     0.44,
+     1.0,
+     0.24
+    ],
+    "kicker": "MARCH 26, 2026",
+    "src": "Order, N.D. Cal., Mar 26, 2026"
+   }
+  },
+  {
+   "say": "She has asked President Trump to commute her sentence. According to Forbes, as of late September the request was listed as pending.",
+   "scene": {
+    "type": "big",
+    "kicker": "ACCORDING TO NEWS REPORTS",
+    "lines": [
+     "Commutation:",
+     "pending as of|Sept. 2026."
+    ],
+    "src": "Forbes, Sept 24, 2026"
+   }
+  },
+  {
+   "say": "The same report says she has been approved for a halfway house in August two thousand twenty-seven, with release scheduled for February two thousand thirty.",
+   "show": "The same report says she has been approved for a halfway house in August 2027, with release scheduled for February 2030.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "ACCORDING TO NEWS REPORTS",
+    "events": [
+     {
+      "date": "AUG 2027",
+      "text": "Halfway house"
+     },
+     {
+      "date": "FEB 2030",
+      "text": "Scheduled release"
+     }
+    ],
+    "at": 1,
+    "src": "Forbes, Sept 24, 2026"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

@@ -1,0 +1,113 @@
+{
+ "title": "$0 Revenue, a $1 Billion Projection: Inside the Theranos Pitch",
+ "hook": "$0 revenue.|$1B projected.",
+ "lines": [
+  {
+   "say": "According to prosecutors, Theranos had zero revenue in two thousand twelve and two thousand thirteen.",
+   "show": "According to prosecutors, Theranos had zero revenue in 2012 and 2013.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_twelve.jpg",
+    "pan": [
+     0.35,
+     0.42
+    ],
+    "hl": [
+     0.0,
+     0.78,
+     1.0,
+     0.14
+    ],
+    "kicker": "PER PROSECUTORS",
+    "src": "Gov't sentencing memorandum, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "Investors were shown projections of one hundred forty million dollars for two thousand fourteen, and nearly one billion for two thousand fifteen.",
+   "show": "Investors were shown projections of $140 million for 2014, and nearly $1 billion for 2015.",
+   "scene": {
+    "type": "bars",
+    "kicker": "PER PROSECUTORS",
+    "items": [
+     {
+      "label": "2015 PROJ.",
+      "value": 1000,
+      "display": "~$1B"
+     },
+     {
+      "label": "2014 PROJ.",
+      "value": 140,
+      "display": "$140M"
+     },
+     {
+      "label": "2012–13",
+      "value": 0,
+      "display": "$0"
+     }
+    ],
+    "src": "Gov't sentencing memorandum, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "In November two thousand thirteen, the appeals court noted, Theranos was down to fifteen million dollars in cash, spending up to two million a week.",
+   "show": "In November 2013, the appeals court noted, Theranos was down to $15 million in cash, spending up to $2 million a week.",
+   "scene": {
+    "type": "big",
+    "kicker": "NOVEMBER 2013",
+    "lines": [
+     "$15 million in cash.",
+     "Up to $2M a week|going out."
+    ],
+    "src": "9th Cir., No. 22-10312"
+   }
+  },
+  {
+   "say": "One investor was told Theranos had earned over two hundred million dollars from the military and drug companies. Prosecutors said it never earned more than ten million from both.",
+   "show": "One investor was told Theranos had earned over $200 million from the military and drug companies. Prosecutors said it never earned more than $10 million from both.",
+   "scene": {
+    "type": "bars",
+    "kicker": "PER PROSECUTORS",
+    "items": [
+     {
+      "label": "CLAIMED",
+      "value": 200,
+      "display": "$200M+"
+     },
+     {
+      "label": "ACTUAL",
+      "value": 10,
+      "display": "≤$10M"
+     }
+    ],
+    "src": "Gov't sentencing memorandum, Nov 11, 2022"
+   }
+  },
+  {
+   "say": "The judge later ordered four hundred fifty-two million dollars in restitution to investors.",
+   "show": "The judge later ordered $452 million in restitution to investors.",
+   "scene": {
+    "type": "doc",
+    "img": "img/restitution.jpg",
+    "pan": [
+     0.32,
+     0.42
+    ],
+    "hl": [
+     0.0,
+     0.64,
+     1.0,
+     0.06
+    ],
+    "kicker": "MAY 16, 2023",
+    "src": "Order on restitution, May 16, 2023"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

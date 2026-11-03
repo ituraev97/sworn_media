@@ -1,0 +1,113 @@
+{
+ "title": "Guilty on Investors, Not Guilty on Patients: The Elizabeth Holmes Verdict",
+ "hook": "Guilty. Not guilty.|Same defendant.",
+ "lines": [
+  {
+   "say": "January third, two thousand twenty-two. The jury in the Elizabeth Holmes trial fills out its verdict form.",
+   "show": "January 3, 2022. The jury in the Elizabeth Holmes trial fills out its verdict form.",
+   "scene": {
+    "type": "doc",
+    "img": "img/verdict1.jpg",
+    "pan": [
+     0.1,
+     0.2
+    ],
+    "hl": [
+     0.0,
+     0.24,
+     1.0,
+     0.12
+    ],
+    "kicker": "JANUARY 3, 2022",
+    "src": "Final verdict form, Jan 3, 2022"
+   }
+  },
+  {
+   "say": "Count one, conspiracy to defraud Theranos investors. Guilty.",
+   "scene": {
+    "type": "doc",
+    "img": "img/verdict1.jpg",
+    "pan": [
+     0.3,
+     0.38
+    ],
+    "hl": [
+     0.0,
+     0.5,
+     1.0,
+     0.115
+    ],
+    "kicker": "COUNT ONE · INVESTORS",
+    "src": "Final verdict form, Jan 3, 2022"
+   }
+  },
+  {
+   "say": "Count two, conspiracy to defraud Theranos patients. Not guilty.",
+   "scene": {
+    "type": "doc",
+    "img": "img/verdict1.jpg",
+    "pan": [
+     0.38,
+     0.44
+    ],
+    "hl": [
+     0.0,
+     0.615,
+     1.0,
+     0.105
+    ],
+    "kicker": "COUNT TWO · PATIENTS",
+    "src": "Final verdict form, Jan 3, 2022"
+   }
+  },
+  {
+   "say": "Three more investor counts: guilty. Every patient count that reached the jury: not guilty. On three counts, it could not agree.",
+   "scene": {
+    "type": "doc",
+    "img": "img/verdict2.jpg",
+    "pan": [
+     0.33,
+     0.33
+    ],
+    "hl": [
+     0.0,
+     0.48,
+     1.0,
+     0.45
+    ],
+    "kicker": "COUNTS 6–8 · INVESTORS",
+    "src": "Final verdict form, Jan 3, 2022"
+   }
+  },
+  {
+   "say": "So her convictions are about one thing: what she told the people who funded Theranos.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE CONVICTIONS",
+    "lines": [
+     "Not the patients.",
+     "The investors."
+    ],
+    "src": "Judgment, N.D. Cal., Jan 11, 2023"
+   }
+  },
+  {
+   "say": "The sentence: eleven years and three months, later cut to one hundred twenty-three months.",
+   "show": "The sentence: 11 years and 3 months, later cut to 123 months.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOV 18, 2022 · CUT MARCH 2026",
+    "stamp": "SENTENCED",
+    "big": "135 → 123 mos",
+    "sub": "Elizabeth A. Holmes"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

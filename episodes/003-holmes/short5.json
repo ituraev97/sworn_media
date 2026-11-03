@@ -1,0 +1,101 @@
+{
+ "title": "Prosecutors Wanted 15 Years. Here's What Elizabeth Holmes Got",
+ "hook": "15 years asked.|Here's the math.",
+ "lines": [
+  {
+   "say": "November eighteenth, two thousand twenty-two. Elizabeth Holmes is sentenced for defrauding Theranos investors.",
+   "show": "November 18, 2022. Elizabeth Holmes is sentenced for defrauding Theranos investors.",
+   "scene": {
+    "type": "doc",
+    "img": "img/minutes.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.03,
+     1.0,
+     0.12
+    ],
+    "kicker": "NOVEMBER 18, 2022",
+    "src": "Criminal minutes, Nov 18, 2022"
+   }
+  },
+  {
+   "say": "Prosecutors asked for fifteen years. Probation suggested nine. Her lawyers argued for eighteen months or less.",
+   "show": "Prosecutors asked for 15 years. Probation suggested nine. Her lawyers argued for 18 months or less.",
+   "scene": {
+    "type": "bars",
+    "kicker": "THE ASKS",
+    "items": [
+     {
+      "label": "PROSECUTION",
+      "value": 180,
+      "display": "180 mos"
+     },
+     {
+      "label": "PROBATION",
+      "value": 108,
+      "display": "108 mos"
+     },
+     {
+      "label": "DEFENSE",
+      "value": 18,
+      "display": "≤18 mos"
+     }
+    ],
+    "src": "Sentencing memoranda, Nov 2022"
+   }
+  },
+  {
+   "say": "The judge put the loss at one hundred twenty million dollars, for a guidelines range of one hundred thirty-five to one hundred sixty-eight months.",
+   "show": "The judge put the loss at $120 million, for a guidelines range of 135 to 168 months.",
+   "scene": {
+    "type": "stat",
+    "kicker": "LOSS FOUND BY THE COURT",
+    "value": "$120.1M",
+    "label": "range: 135–168 months",
+    "src": "Order on sentencing, Jan 10, 2023"
+   }
+  },
+  {
+   "say": "He chose the bottom. One hundred thirty-five months.",
+   "show": "He chose the bottom. 135 months.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "THE SENTENCE",
+    "stamp": "SENTENCED",
+    "big": "135 months",
+    "sub": "11 years, 3 months"
+   }
+  },
+  {
+   "say": "In March two thousand twenty-six, a guidelines change for first-time offenders let him cut it to one hundred twenty-three months.",
+   "show": "In March 2026, a guidelines change for first-time offenders let him cut it to 123 months.",
+   "scene": {
+    "type": "doc",
+    "img": "img/resent.jpg",
+    "pan": [
+     0.22,
+     0.32
+    ],
+    "hl": [
+     0.0,
+     0.44,
+     1.0,
+     0.24
+    ],
+    "kicker": "MARCH 26, 2026",
+    "src": "Order, N.D. Cal., Mar 26, 2026"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

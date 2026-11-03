@@ -72,3 +72,10 @@ Check every `https://raw.githubusercontent.com/ituraev97/sworn_media/drop-XXX/<f
 - S.D.N.Y./federal court filings (indictments, judgments, orders, gov't memoranda) are reachable from the shell via the RECAP mirror on archive.org: `https://archive.org/advancedsearch.php?q=<name>+AND+collection%3Ausfederalcourts&fl[]=identifier&output=json`, then `https://archive.org/metadata/<id>` and `https://archive.org/download/<id>/<id>.<doc>.0.pdf`. ca2.uscourts.gov, supremecourt.gov, courtlistener, govinfo are blocked from the shell (WebFetch works for ca2/supremecourt).
 - Do not show court-reporter transcripts as document images (reporter may be a private contractor); quote them in quote/big cards instead. Show DOJ filings and court orders/judgments.
 - `big` scenes: keep to 3 rendered lines max, or the last line collides with the source line.
+
+## Notes from run 003 (2026-11-03)
+- N.D. Cal. RECAP docket JSON on archive.org can stop years early; list the item's PDFs from `archive.org/metadata/<id>`, download the high-numbered ones and read page 1 with pdftotext to find verdict forms, judgments, orders.
+- `episodes/003-holmes/panfix.py` keeps every `doc` highlight inside the visible frame (adjusts `pan` from image size); reuse it in make_spec/make_shorts.
+- `render.js` test mode can show the first frame of a doc before its image loads (pan looks like 0) — render each test time twice and use the second.
+- Shorts `big` scenes: keep each line ≤ ~14 characters or it wraps into the next line.
+- Check restitution-order payee tables yourself — later orders can miscount victims.
