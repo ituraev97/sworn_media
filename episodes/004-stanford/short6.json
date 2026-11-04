@@ -1,0 +1,102 @@
+{
+ "title": "Allen Stanford's Inner Circle: What Happened to Each of Them",
+ "hook": "What happened|to his team?",
+ "lines": [
+  {
+   "say": "Allen Stanford got one hundred ten years. His inner circle went to prison too.",
+   "show": "Allen Stanford got 110 years. His inner circle went to prison too.",
+   "scene": {
+    "type": "big",
+    "kicker": "AFTER THE VERDICT",
+    "lines": [
+     "Stanford:",
+     "110 years."
+    ],
+    "src": "U.S. Attorney, S.D. Tex., Jun 14, 2012"
+   }
+  },
+  {
+   "say": "His finance chief, James Davis, cooperated and testified. Five years. Laura Pendergest-Holt pleaded guilty to obstruction. Three years.",
+   "show": "His finance chief, James Davis, cooperated and testified. Five years. Laura Pendergest-Holt pleaded guilty to obstruction. Three years.",
+   "scene": {
+    "type": "bars",
+    "kicker": "THE INSIDERS",
+    "title": "Prison sentences",
+    "items": [
+     {
+      "label": "LOPEZ",
+      "value": 20,
+      "display": "20 yrs"
+     },
+     {
+      "label": "KUHRT",
+      "value": 20,
+      "display": "20 yrs"
+     },
+     {
+      "label": "DAVIS",
+      "value": 5,
+      "display": "5 yrs"
+     },
+     {
+      "label": "HOLT",
+      "value": 3,
+      "display": "3 yrs"
+     }
+    ],
+    "src": "Justice Dept., Jan 22, 2013 · Justice Dept. Fraud Section"
+   }
+  },
+  {
+   "say": "Accountants Gilbert Lopez and Mark Kuhrt were convicted at trial. Twenty years each. Bloomberg Law reports President Biden shortened Kuhrt's term in December two thousand twenty-four. Prison records list Lopez as released that month.",
+   "show": "Accountants Gilbert Lopez and Mark Kuhrt were convicted at trial. 20 years each. Bloomberg Law reports President Biden shortened Kuhrt's term in December 2024. Prison records list Lopez as released that month.",
+   "scene": {
+    "type": "big",
+    "kicker": "BLOOMBERG LAW · PRISON RECORDS",
+    "lines": [
+     "Dec. 2024:",
+     "Kuhrt cut.|Lopez out."
+    ],
+    "src": "Bloomberg Law, Sept 19, 2025 · Federal Bureau of Prisons"
+   }
+  },
+  {
+   "say": "Antigua's regulator, Leroy King, was extradited in two thousand nineteen. Ten years.",
+   "show": "Antigua's regulator, Leroy King, was extradited in 2019. Ten years.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "LEROY KING",
+    "events": [
+     {
+      "date": "2019",
+      "text": "Extradited"
+     },
+     {
+      "date": "2021",
+      "text": "10 years"
+     }
+    ],
+    "at": 1,
+    "src": "Justice Dept., Feb 24, 2021"
+   }
+  },
+  {
+   "say": "And in January two thousand twenty-five, the S.E.C. won a final judgment against Stanford, with a five point nine billion dollar penalty.",
+   "show": "And in January 2025, the SEC won a final judgment against Stanford, with a $5.9 billion penalty.",
+   "scene": {
+    "type": "stat",
+    "kicker": "SEC · JAN 29, 2025",
+    "value": "$5.9B",
+    "label": "civil penalty",
+    "src": "SEC Lit. Release 26255, 2025"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

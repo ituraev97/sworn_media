@@ -79,3 +79,10 @@ Check every `https://raw.githubusercontent.com/ituraev97/sworn_media/drop-XXX/<f
 - `render.js` test mode can show the first frame of a doc before its image loads (pan looks like 0) — render each test time twice and use the second.
 - Shorts `big` scenes: keep each line ≤ ~14 characters or it wraps into the next line.
 - Check restitution-order payee tables yourself — later orders can miscount victims.
+
+## Notes from run 004 (2026-11-04)
+- S.D. Tex. criminal filings are thin on RECAP; the government's 5th Cir. appellate brief (archive.org `gov.uscourts.ca5.<no>`) has a full statement of facts with record cites — a good DOJ document to show. N.D. Tex. SEC case: `gov.uscourts.txnd.184049`.
+- Archived USAO releases (`justice.gov/archive/usao/...html`) download from the shell; render them with Playwright with images and nav hidden (see 004 make_img.py / shots) to show as documents without the seal.
+- BOP inmate locator works through WebFetch: `https://www.bop.gov/PublicInfo/execute/inmateloc?todo=query&output=json&inmateNum=<reg>` — use it to check current custody/release (found Lopez released Dec 2024).
+- A single push of ~130 MB to a drop branch returned HTTP 500; pushing shorts first and the long in a second commit worked.
+- `findy.py` (004) computes highlight boxes from pdftotext -bbox phrases; make_img writes hl.json used by make_spec/make_shorts.

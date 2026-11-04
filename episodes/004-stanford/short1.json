@@ -1,0 +1,109 @@
+{
+ "title": "The SEC Wrote \"Possible Ponzi Scheme\" in 1997. It Ran Until 2009",
+ "hook": "The SEC knew|in 1997.",
+ "lines": [
+  {
+   "say": "Nineteen ninety-seven. S.E.C. examiners in Fort Worth review a Houston firm selling CDs from Allen Stanford's offshore bank.",
+   "show": "1997. SEC examiners in Fort Worth review a Houston firm selling CDs from Allen Stanford's offshore bank.",
+   "scene": {
+    "type": "big",
+    "kicker": "1997 · FORT WORTH",
+    "lines": [
+     "SEC examiners",
+     "look at|Stanford."
+    ],
+    "src": "SEC Inspector General, OIG-526, 2010"
+   }
+  },
+  {
+   "say": "Their conclusion, as quoted by the agency's own inspector general: Possible misrepresentations. Possible Ponzi scheme.",
+   "scene": {
+    "type": "quote",
+    "q": "Possible misrepresentations. Possible Ponzi scheme.",
+    "case": "SEC v. STANFORD",
+    "doc": "1997 EXAMINATION",
+    "cite": "SEC Inspector General, OIG-526, 2010",
+    "size": 52
+   }
+  },
+  {
+   "say": "Examiners came back in nineteen ninety-eight, two thousand two and two thousand four.",
+   "show": "Examiners came back in 1998, 2002 and 2004.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "FOUR EXAMINATIONS",
+    "events": [
+     {
+      "date": "1997",
+      "text": "Exam one"
+     },
+     {
+      "date": "1998",
+      "text": "Exam two"
+     },
+     {
+      "date": "2002",
+      "text": "Exam three"
+     },
+     {
+      "date": "2004",
+      "text": "Exam four"
+     }
+    ],
+    "at": 3,
+    "src": "SEC Inspector General, OIG-526, 2010"
+   }
+  },
+  {
+   "say": "An enforcement inquiry opened in nineteen ninety-eight was closed after three months. The report found no meaningful effort to stop the fraud until late two thousand five.",
+   "show": "An enforcement inquiry opened in 1998 was closed after three months. The report found no meaningful effort to stop the fraud until late 2005.",
+   "scene": {
+    "type": "big",
+    "kicker": "PER THE INSPECTOR GENERAL",
+    "lines": [
+     "Closed.",
+     "Nothing until|late 2005."
+    ],
+    "src": "SEC Inspector General, OIG-526, 2010"
+   }
+  },
+  {
+   "say": "The bank kept selling until February two thousand nine, when a federal judge put it in the hands of a receiver.",
+   "show": "The bank kept selling until February 2009, when a federal judge put it in the hands of a receiver.",
+   "scene": {
+    "type": "doc",
+    "img": "img/rcv.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.6031,
+     1.0,
+     0.0557
+    ],
+    "kicker": "FEBRUARY 16, 2009",
+    "src": "Order Appointing Receiver, Feb 16, 2009"
+   }
+  },
+  {
+   "say": "Stanford was convicted, and sentenced to one hundred ten years.",
+   "show": "Stanford was convicted, and sentenced to 110 years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "JUNE 14, 2012",
+    "stamp": "SENTENCED",
+    "big": "110 years",
+    "sub": "Robert Allen Stanford"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

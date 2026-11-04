@@ -1,0 +1,99 @@
+{
+ "title": "\"God Led Me to Hewlett\": The Auditor and the Regulator Behind Allen Stanford",
+ "hook": "Who was|checking?",
+ "lines": [
+  {
+   "say": "Every year, Allen Stanford's bank published audited reports. The auditor was a one-man firm in Antigua, C.A.S. Hewlett.",
+   "scene": {
+    "type": "doc",
+    "img": "img/brief_hewlett.jpg",
+    "pan": [
+     0.0,
+     0.044
+    ],
+    "hl": [
+     0.0,
+     0.0648,
+     1.0,
+     0.5553
+    ],
+    "kicker": "THE AUDITOR",
+    "src": "Gov't brief, 5th Cir. No. 12-20411, 2015"
+   }
+  },
+  {
+   "say": "In sixteen years, prosecutors said, he never got the documents to verify the assets. He signed off anyway.",
+   "show": "In 16 years, prosecutors said, he never got the documents to verify the assets. He signed off anyway.",
+   "scene": {
+    "type": "big",
+    "kicker": "PER PROSECUTORS",
+    "lines": [
+     "16 years.",
+     "No proof.|Signed anyway."
+    ],
+    "src": "Gov't brief, 5th Cir. No. 12-20411, 2015"
+   }
+  },
+  {
+   "say": "Prosecutors said Stanford paid him more than three point three million dollars from a Swiss account. According to his finance chief, Stanford told him: God led me to Hewlett.",
+   "show": "Prosecutors said Stanford paid him more than $3.3 million from a Swiss account. According to his finance chief, Stanford told him: \"God led me to Hewlett.\"",
+   "scene": {
+    "type": "quote",
+    "q": "God led me to Hewlett",
+    "case": "U.S. v. STANFORD",
+    "doc": "STANFORD TO DAVIS · PER TRIAL TESTIMONY",
+    "cite": "As quoted in the gov't brief, 5th Cir. No. 12-20411, 2015",
+    "size": 58
+   }
+  },
+  {
+   "say": "The regulator was Leroy King, head of Antigua's financial watchdog. He admitted taking about five hundred twenty-one thousand dollars in cash from Stanford.",
+   "show": "The regulator was Leroy King, head of Antigua's financial watchdog. He admitted taking about $521,000 in cash from Stanford.",
+   "scene": {
+    "type": "stat",
+    "kicker": "LEROY KING",
+    "value": "$520,963.87",
+    "label": "cash from Stanford,|by his own admission",
+    "src": "Justice Dept., Feb 24, 2021"
+   }
+  },
+  {
+   "say": "When the S.E.C. sent King a confidential request in two thousand five, prosecutors said he passed it straight to Stanford.",
+   "show": "When the SEC sent King a confidential request in 2005, prosecutors said he passed it straight to Stanford.",
+   "scene": {
+    "type": "doc",
+    "img": "img/brief_sec2005.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4289,
+     1.0,
+     0.1148
+    ],
+    "kicker": "2005",
+    "src": "Gov't brief, 5th Cir. No. 12-20411, 2015"
+   }
+  },
+  {
+   "say": "King was sentenced to ten years. Stanford, to one hundred ten.",
+   "show": "King was sentenced to ten years. Stanford, to 110.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "THE SENTENCES",
+    "stamp": "SENTENCED",
+    "big": "10 · 110 yrs",
+    "sub": "Leroy King · Allen Stanford"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

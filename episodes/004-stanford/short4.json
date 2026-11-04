@@ -1,0 +1,119 @@
+{
+ "title": "The $541 Million That Never Arrived — Allen Stanford's Last Bluff",
+ "hook": "$541 million?|Not quite.",
+ "lines": [
+  {
+   "say": "Late two thousand eight. Investors are pulling money out of Allen Stanford's bank.",
+   "show": "Late 2008. Investors are pulling money out of Allen Stanford's bank.",
+   "scene": {
+    "type": "big",
+    "kicker": "2008",
+    "lines": [
+     "Money out.",
+     "Sales flat."
+    ],
+    "src": "Gov't brief, 5th Cir. No. 12-20411, 2015"
+   }
+  },
+  {
+   "say": "Its December report tells them it just received a capital infusion of five hundred forty-one million dollars.",
+   "show": "Its December report tells them it just received a capital infusion of $541 million.",
+   "scene": {
+    "type": "doc",
+    "img": "img/cmp_541.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1746,
+     1.0,
+     0.1545
+    ],
+    "kicker": "DECEMBER 2008 REPORT",
+    "src": "SEC amended complaint, Feb 27, 2009"
+   }
+  },
+  {
+   "say": "The S.E.C. said it was real estate the bank already owned, acquired for about eighty-eight and a half million.",
+   "show": "The SEC said it was real estate the bank already owned, acquired for about $88.5 million.",
+   "scene": {
+    "type": "doc",
+    "img": "img/cmp_541.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3737,
+     1.0,
+     0.254
+    ],
+    "kicker": "PER THE SEC'S COMPLAINT",
+    "src": "SEC amended complaint, Feb 27, 2009"
+   }
+  },
+  {
+   "say": "Prosecutors said accountants marked up land bought for sixty-three and a half million dollars by five thousand percent, to three point one billion, on paper.",
+   "show": "Prosecutors said accountants marked up land bought for $63.5 million by 5,000 percent, to $3.1 billion, on paper.",
+   "scene": {
+    "type": "bars",
+    "kicker": "PER THE JUSTICE DEPT.",
+    "title": "Same land",
+    "items": [
+     {
+      "label": "ON PAPER",
+      "value": 3100,
+      "display": "$3.1B"
+     },
+     {
+      "label": "PAID",
+      "value": 63.5,
+      "display": "$63.5M"
+     }
+    ],
+    "src": "U.S. Attorney, S.D. Tex., Jun 14, 2012"
+   }
+  },
+  {
+   "say": "At his estate in Saint Croix, an employee testified, records were burned in barrels.",
+   "show": "At his estate in St. Croix, an employee testified, records were burned in barrels.",
+   "scene": {
+    "type": "doc",
+    "img": "img/brief_burn.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1158,
+     1.0,
+     0.6156
+    ],
+    "kicker": "ST. CROIX",
+    "src": "Gov't brief, 5th Cir. No. 12-20411, 2015"
+   }
+  },
+  {
+   "say": "In February two thousand nine, a receiver took over. Stanford got one hundred ten years.",
+   "show": "In February 2009, a receiver took over. Stanford got 110 years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "JUNE 14, 2012",
+    "stamp": "SENTENCED",
+    "big": "110 years",
+    "sub": "Robert Allen Stanford"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

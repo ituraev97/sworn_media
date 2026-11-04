@@ -1,0 +1,112 @@
+{
+ "title": "How a Judge Got to 110 Years for Allen Stanford",
+ "hook": "How you get|110 years.",
+ "lines": [
+  {
+   "say": "March sixth, two thousand twelve. A Houston jury convicts Allen Stanford on thirteen of fourteen counts.",
+   "show": "March 6, 2012. A Houston jury convicts Allen Stanford on 13 of 14 counts.",
+   "scene": {
+    "type": "doc",
+    "img": "img/pr_conv.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.875,
+     1.0,
+     0.1097
+    ],
+    "kicker": "MARCH 6, 2012",
+    "src": "U.S. Attorney, S.D. Tex., Mar 6, 2012"
+   }
+  },
+  {
+   "say": "The one acquittal: nine thousand dollars in Super Bowl tickets for an Antiguan regulator.",
+   "show": "The one acquittal: $9,000 in Super Bowl tickets for an Antiguan regulator.",
+   "scene": {
+    "type": "big",
+    "kicker": "NOT GUILTY · ONE COUNT",
+    "lines": [
+     "$9,000 in",
+     "Super Bowl|tickets."
+    ],
+    "src": "Gov't brief, 5th Cir. No. 12-20411, 2015"
+   }
+  },
+  {
+   "say": "Judge David Hittner called it one of the most egregious frauds ever presented to a trial jury in federal court.",
+   "scene": {
+    "type": "doc",
+    "img": "img/pr_judge.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.0378,
+     1.0,
+     0.1308
+    ],
+    "kicker": "JUNE 14, 2012",
+    "src": "U.S. Attorney, S.D. Tex., Jun 14, 2012"
+   }
+  },
+  {
+   "say": "Twenty years for the fraud conspiracy. Twenty on each of four wire fraud counts. Five on each of two obstruction counts. All consecutive.",
+   "show": "20 years for the fraud conspiracy. 20 on each of four wire fraud counts. Five on each of two obstruction counts. All consecutive.",
+   "scene": {
+    "type": "list",
+    "kicker": "THE MATH",
+    "items": [
+     [
+      "20",
+      "Conspiracy"
+     ],
+     [
+      "80",
+      "Wire fraud"
+     ],
+     [
+      "10",
+      "Obstruction"
+     ]
+    ],
+    "size": 40,
+    "src": "U.S. Attorney, S.D. Tex., Jun 14, 2012"
+   }
+  },
+  {
+   "say": "One hundred ten years, out of a possible two hundred thirty. Plus a five point nine billion dollar money judgment.",
+   "show": "110 years, out of a possible 230. Plus a $5.9 billion money judgment.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "THE SENTENCE",
+    "stamp": "SENTENCED",
+    "big": "110 years",
+    "sub": "Maximum: 230 · Money judgment: $5.9B"
+   }
+  },
+  {
+   "say": "The Fifth Circuit affirmed. Stanford, it wrote, sat atop a massive Ponzi scheme.",
+   "show": "The Fifth Circuit affirmed. Stanford, it wrote, \"sat atop a massive Ponzi scheme.\"",
+   "scene": {
+    "type": "quote",
+    "q": "Stanford sat atop a massive Ponzi scheme",
+    "case": "U.S. v. STANFORD",
+    "doc": "FIFTH CIRCUIT",
+    "cite": "5th Cir., No. 12-20411, Oct 29, 2015",
+    "size": 52
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}
