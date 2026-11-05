@@ -8,8 +8,8 @@ Add new rows when fewer than 10 `todo` remain (fraud, financial crime, scams, la
 | 002 | Sam Bankman-Fried — FTX (S.D.N.Y. 2023–24) | THE VERDICT | justice.gov/usao-sdny releases, indictment, sentencing | done 2026-11-02 |
 | 003 | Elizabeth Holmes — Theranos (N.D. Cal. 2022) | THE VERDICT | justice.gov/usao-ndca, SEC complaint 2018 | done 2026-11-03 |
 | 004 | R. Allen Stanford — Stanford Financial (S.D. Tex. 2012) | THE PAPER TRAIL | justice.gov releases, SEC complaint | done 2026-11-04 |
-| 005 | Miranda v. Arizona (1966) | THE ARGUMENT | opinion text (public domain), oyez.org | todo |
-| 006 | Billy McFarland — Fyre Festival fraud (S.D.N.Y. 2018) | THE VERDICT | justice.gov/usao-sdny | todo |
+| 005 | Miranda v. Arizona (1966) | THE ARGUMENT | opinion text (public domain), oyez.org | skip (underlying charges were kidnapping and rape — channel rule: no sexual-crime cases) |
+| 006 | Billy McFarland — Fyre Festival fraud (S.D.N.Y. 2018) | THE VERDICT | justice.gov/usao-sdny | in progress |
 | 007 | Bernard Ebbers — WorldCom (S.D.N.Y. 2005) | THE PAPER TRAIL | justice.gov, SEC litigation releases | todo |
 | 008 | Tom Petters — Petters Group Ponzi (D. Minn. 2010) | THE VERDICT | justice.gov/usao-mn | todo |
 | 009 | Gideon v. Wainwright (1963) | THE ARGUMENT | opinion text, Gideon's handwritten petition (National Archives) | todo |
