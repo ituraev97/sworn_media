@@ -1,0 +1,108 @@
+{
+ "title": "$1.46 Million Real, $34.79 Million on Paper: How Fyre's Numbers Were Built",
+ "hook": "$1.46M real.|$34.79M on paper.",
+ "lines": [
+  {
+   "say": "Fyre Media sold itself as an app for booking artists. From May two thousand sixteen to April two thousand seventeen, it confirmed sixty paid bookings.",
+   "show": "Fyre Media sold itself as an app for booking artists. From May 2016 to April 2017, it confirmed 60 paid bookings.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_60.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3593,
+     1.0,
+     0.1703
+    ],
+    "kicker": "PER PROSECUTORS",
+    "src": "Gov't sentencing memo, S.D.N.Y., Oct 3, 2018"
+   }
+  },
+  {
+   "say": "Total fees: fifty-seven thousand, four hundred forty-three dollars.",
+   "show": "Total fees: $57,443.",
+   "scene": {
+    "type": "stat",
+    "kicker": "MAY 2016 – APRIL 2017",
+    "value": "$57,443",
+    "label": "in booking fees",
+    "src": "Gov't sentencing memo, S.D.N.Y., Oct 3, 2018"
+   }
+  },
+  {
+   "say": "In February two thousand seventeen, prosecutors said, Billy McFarland gave a contractor instructions for the investor version.",
+   "show": "In February 2017, prosecutors said, Billy McFarland gave a contractor instructions for the investor version.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_sprinkle.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.5815,
+     1.0,
+     0.136
+    ],
+    "kicker": "FEBRUARY 2017",
+    "src": "Gov't sentencing memo, S.D.N.Y., Oct 3, 2018"
+   }
+  },
+  {
+   "say": "Sprinkle in a couple of higher offer amounts.",
+   "scene": {
+    "type": "quote",
+    "q": "[S]prinkle in a couple of higher offer amounts",
+    "case": "U.S. v. McFARLAND",
+    "doc": "McFARLAND'S INSTRUCTIONS",
+    "cite": "As quoted in the gov't sentencing memo, 2018",
+    "size": 50
+   }
+  },
+  {
+   "say": "January's real offers: about one point four six million dollars. The new report: thirty-four point seven nine million.",
+   "show": "January's real offers: about $1.46 million. The new report: $34.79 million.",
+   "scene": {
+    "type": "bars",
+    "kicker": "JANUARY 2017",
+    "title": "Offers on the app",
+    "items": [
+     {
+      "label": "FAKE",
+      "value": 34.79,
+      "display": "$34.79M"
+     },
+     {
+      "label": "REAL",
+      "value": 1.459,
+      "display": "$1.459M"
+     }
+    ],
+    "src": "Gov't sentencing memo, S.D.N.Y., Oct 3, 2018"
+   }
+  },
+  {
+   "say": "He pleaded guilty to wire fraud, and was sentenced to six years.",
+   "show": "He pleaded guilty to wire fraud, and was sentenced to six years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "OCTOBER 11, 2018",
+    "stamp": "SENTENCED",
+    "big": "6 years",
+    "sub": "William McFarland"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

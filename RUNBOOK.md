@@ -86,3 +86,11 @@ Check every `https://raw.githubusercontent.com/ituraev97/sworn_media/drop-XXX/<f
 - BOP inmate locator works through WebFetch: `https://www.bop.gov/PublicInfo/execute/inmateloc?todo=query&output=json&inmateNum=<reg>` — use it to check current custody/release (found Lopez released Dec 2024).
 - A single push of ~130 MB to a drop branch returned HTTP 500; pushing shorts first and the long in a second commit worked.
 - `findy.py` (004) computes highlight boxes from pdftotext -bbox phrases; make_img writes hl.json used by make_spec/make_shorts.
+
+## Notes from run 005 (2026-11-05)
+- Episode folders are numbered by release order (005 = backlog row 006); backlog row 005 Miranda was skipped (underlying crime is rape — sexual-crime rule). Prefer Supreme Court cases whose facts are non-violent/non-sexual (e.g. Gideon) for THE ARGUMENT.
+- S.D.N.Y. criminal dockets on RECAP are rich: the government sentencing memo, sentencing/plea transcripts, judgment, forfeiture and later letters were all on archive.org. Scanned filings have no text layer: `tfind.py` (005) finds highlight boxes with tesseract TSV on the 220-dpi raster.
+- DOJ letters on SDNY letterhead carry the seal at the top-left: start the crop at ~15% of the page.
+- Do not show exhibits written by private parties (emails, employee letters, victim statements) as images; quote them "as quoted in" the government memo.
+- Fact-checker caught: a "the X never began" vs "set to begin" wording, "she wrote" ambiguity right after a lawyer is mentioned, and on-bail vs. after-revocation chronology. Watch these.
+- A BOP inmate-locator WebFetch needed approval in this unattended run and timed out; rely on reporting (NPR) for release dates or try it early.

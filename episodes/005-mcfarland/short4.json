@@ -1,0 +1,115 @@
+{
+ "title": "Out on Bail, He Sold Met Gala Tickets That Didn't Exist",
+ "hook": "Out on bail.|Selling the Met Gala.",
+ "lines": [
+  {
+   "say": "July two thousand seventeen. Charged over Fyre Festival, Billy McFarland is released on bail.",
+   "show": "July 2017. Charged over Fyre Festival, Billy McFarland is released on bail.",
+   "scene": {
+    "type": "doc",
+    "img": "img/cmp_cover.jpg",
+    "pan": [
+     0.244,
+     0.244
+    ],
+    "hl": [
+     0.0,
+     0.7391,
+     1.0,
+     0.0962
+    ],
+    "kicker": "JUNE 30, 2017",
+    "src": "Sealed complaint, S.D.N.Y., Jun 30, 2017"
+   }
+  },
+  {
+   "say": "By late that year, prosecutors said, he ran NYC VIP Access, selling tickets to the Met Gala, Coachella, the Grammys, the Super Bowl.",
+   "show": "By late that year, prosecutors said, he ran NYC VIP Access, selling tickets to the Met Gala, Coachella, the Grammys, the Super Bowl.",
+   "scene": {
+    "type": "list",
+    "kicker": "NYC VIP ACCESS",
+    "items": [
+     [
+      "1",
+      "Met Gala"
+     ],
+     [
+      "2",
+      "Coachella"
+     ],
+     [
+      "3",
+      "Grammys"
+     ],
+     [
+      "4",
+      "Super Bowl"
+     ]
+    ],
+    "size": 40,
+    "src": "U.S. Attorney, S.D.N.Y., Oct 11, 2018"
+   }
+  },
+  {
+   "say": "The Met Gala pitch went out from an employee's email account. Two thousand five hundred dollars a ticket.",
+   "show": "The Met Gala pitch went out from an employee's email account. $2,500 a ticket.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_gala.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4685,
+     1.0,
+     0.176
+    ],
+    "kicker": "DECEMBER 17, 2017",
+    "src": "Gov't sentencing memo, S.D.N.Y., Oct 3, 2018"
+   }
+  },
+  {
+   "say": "When one buyer wanted proof, he admitted, he created a fake email from the gala's host. No buyer was on the guest list.",
+   "scene": {
+    "type": "big",
+    "kicker": "PER PROSECUTORS",
+    "lines": [
+     "Fake proof.",
+     "No one|got in."
+    ],
+    "src": "Gov't sentencing memo, S.D.N.Y., Oct 3, 2018"
+   }
+  },
+  {
+   "say": "Some were Fyre Festival guests. At least thirty customers lost about one hundred fifty thousand dollars.",
+   "show": "Some were Fyre Festival guests. At least 30 customers lost about $150,000.",
+   "scene": {
+    "type": "stat",
+    "kicker": "PER PROSECUTORS",
+    "value": "$150,000",
+    "label": "from at least|30 customers",
+    "src": "U.S. Attorney, S.D.N.Y., Oct 11, 2018"
+   }
+  },
+  {
+   "say": "His bail was revoked. At sentencing, the judge called him unique in the court's memory.",
+   "scene": {
+    "type": "quote",
+    "q": "Mr. McFarland is unique in this Court's memory.",
+    "case": "U.S. v. McFARLAND",
+    "doc": "JUDGE NAOMI REICE BUCHWALD",
+    "cite": "Sentencing transcript, Oct 11, 2018",
+    "size": 48
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

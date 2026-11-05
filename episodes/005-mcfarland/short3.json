@@ -1,0 +1,103 @@
+{
+ "title": "Fyre Festival: What Investors Were Promised vs. What Was Real",
+ "hook": "What investors|were promised.",
+ "lines": [
+  {
+   "say": "Fyre Festival was announced in December two thousand sixteen. Two weekends in the Bahamas.",
+   "show": "Fyre Festival was announced in December 2016. Two weekends in the Bahamas.",
+   "scene": {
+    "type": "big",
+    "kicker": "DECEMBER 12, 2016",
+    "lines": [
+     "Fyre Festival.",
+     "The|Bahamas."
+    ],
+    "src": "Gov't sentencing memo, S.D.N.Y., Oct 3, 2018"
+   }
+  },
+  {
+   "say": "Investors were told Fyre had acquired land there worth about eight million dollars. It never owned any.",
+   "show": "Investors were told Fyre had acquired land there worth about $8 million. It never owned any.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_60.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.5459,
+     1.0,
+     0.1705
+    ],
+    "kicker": "THE LAND",
+    "src": "Gov't sentencing memo, S.D.N.Y., Oct 3, 2018"
+   }
+  },
+  {
+   "say": "Some were promised payouts from event cancellation insurance. No such policy had been executed.",
+   "scene": {
+    "type": "big",
+    "kicker": "PER PROSECUTORS",
+    "lines": [
+     "Insurance?",
+     "None."
+    ],
+    "src": "Gov't sentencing memo, S.D.N.Y., Oct 3, 2018"
+   }
+  },
+  {
+   "say": "Others were told top musicians would perform. No such agreements were ever reached.",
+   "scene": {
+    "type": "big",
+    "kicker": "PER PROSECUTORS",
+    "lines": [
+     "The stars?",
+     "Never|signed."
+    ],
+    "src": "Gov't sentencing memo, S.D.N.Y., Oct 3, 2018"
+   }
+  },
+  {
+   "say": "On Exuma, in late April two thousand seventeen, the promised luxury villas and gourmet meals were tents and prepackaged meals. The festival was canceled.",
+   "show": "On Exuma, in late April 2017, the promised luxury villas and gourmet meals were tents and prepackaged meals. The festival was canceled.",
+   "scene": {
+    "type": "big",
+    "kicker": "EXUMA · APRIL 2017",
+    "lines": [
+     "Villas?",
+     "Tents."
+    ],
+    "src": "Gov't sentencing memo, S.D.N.Y., Oct 3, 2018 · WPLG / KSAT, Apr 28, 2017"
+   }
+  },
+  {
+   "say": "Prosecutors said at least eighty investors lost more than twenty-four million dollars.",
+   "show": "Prosecutors said at least 80 investors lost more than $24 million.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_victims.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1982,
+     1.0,
+     0.1555
+    ],
+    "kicker": "THE LOSSES",
+    "src": "Gov't sentencing memo, S.D.N.Y., Oct 3, 2018"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

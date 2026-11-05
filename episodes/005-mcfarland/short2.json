@@ -1,0 +1,102 @@
+{
+ "title": "$2.56 Million in Stock — or $1,499? The Fake Proof Behind Fyre Festival",
+ "hook": "$2.56 million?|Or $1,499?",
+ "lines": [
+  {
+   "say": "Investors wanted to know Billy McFarland could back his promises. Prosecutors said he showed them proof.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE GUARANTEE",
+    "lines": [
+     "He showed",
+     "them|proof."
+    ],
+    "src": "Gov't sentencing memo, S.D.N.Y., Oct 3, 2018"
+   }
+  },
+  {
+   "say": "An altered brokerage statement showing two point five six million dollars in stock. He actually owned one thousand four hundred ninety-nine dollars' worth.",
+   "show": "An altered brokerage statement showing $2.56 million in stock. He actually owned $1,499 worth.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_stock.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4447,
+     1.0,
+     0.1821
+    ],
+    "kicker": "THE BROKERAGE STATEMENT",
+    "src": "Gov't sentencing memo, S.D.N.Y., Oct 3, 2018"
+   }
+  },
+  {
+   "say": "A banker's email approving a three million dollar loan. The banker never sent it.",
+   "show": "A banker's email approving a $3 million loan. The banker never sent it.",
+   "scene": {
+    "type": "big",
+    "kicker": "PER PROSECUTORS",
+    "lines": [
+     "A $3M loan.",
+     "Never|sent."
+    ],
+    "src": "Gov't sentencing memo, S.D.N.Y., Oct 3, 2018"
+   }
+  },
+  {
+   "say": "And the sale of his earlier company, Magnises, for about forty million dollars, to Saddleback Media. There was no sale.",
+   "show": "And the sale of his earlier company, Magnises, for about $40 million, to Saddleback Media. There was no sale.",
+   "scene": {
+    "type": "stat",
+    "kicker": "MAGNISES · PER PROSECUTORS",
+    "value": "$40M",
+    "label": "a sale that|never happened",
+    "src": "Gov't sentencing memo, S.D.N.Y., Oct 3, 2018"
+   }
+  },
+  {
+   "say": "One document bore the electronic signature of Saddleback's president, a G. Smythe. Prosecutors said that person does not exist.",
+   "show": "One document bore the electronic signature of Saddleback's president, a \"G. Smythe.\" Prosecutors said that person does not exist.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_smythe.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4906,
+     1.0,
+     0.2326
+    ],
+    "kicker": "“G. SMYTHE”",
+    "src": "Gov't sentencing memo, S.D.N.Y., Oct 3, 2018"
+   }
+  },
+  {
+   "say": "In July two thousand eighteen, he admitted the S.E.C.'s allegations.",
+   "show": "In July 2018, he admitted the SEC's allegations.",
+   "scene": {
+    "type": "big",
+    "kicker": "JULY 2018 · SEC",
+    "lines": [
+     "Allegations:",
+     "admitted."
+    ],
+    "src": "SEC press release 2018-141"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

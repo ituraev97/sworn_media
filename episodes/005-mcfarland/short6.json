@@ -1,0 +1,102 @@
+{
+ "title": "Where Billy McFarland Is Now: Prison, Fyre Festival 2 and a $245,300 eBay Sale",
+ "hook": "After Fyre:|where is he now?",
+ "lines": [
+  {
+   "say": "Billy McFarland got six years for the Fyre fraud and a ticket scam he ran on bail.",
+   "show": "Billy McFarland got six years for the Fyre fraud and a ticket scam he ran on bail.",
+   "scene": {
+    "type": "big",
+    "kicker": "OCTOBER 2018",
+    "lines": [
+     "6 years.",
+     "$26.19M|forfeiture."
+    ],
+    "src": "U.S. Attorney, S.D.N.Y., Oct 11, 2018"
+   }
+  },
+  {
+   "say": "Hunting for assets, the FBI listed two large boxes of Fyre-branded clothing.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sub_shirts.jpg",
+    "pan": [
+     0.291,
+     0.291
+    ],
+    "hl": [
+     0.0,
+     0.6918,
+     1.0,
+     0.0935
+    ],
+    "kicker": "JANUARY 2019",
+    "src": "FBI declaration, Jan 10, 2019"
+   }
+  },
+  {
+   "say": "In prison, the government said, he was caught with a pen that could record, and spent forty days segregated.",
+   "show": "In prison, the government said, he was caught with a pen that could record, and spent 40 days segregated.",
+   "scene": {
+    "type": "big",
+    "kicker": "PER THE GOVERNMENT",
+    "lines": [
+     "A recording",
+     "pen.|40 days."
+    ],
+    "src": "Gov't filing, Apr 28, 2020"
+   }
+  },
+  {
+   "say": "According to NPR, he was released in two thousand twenty-two. In two thousand twenty-five, Fyre Festival two was postponed.",
+   "show": "According to NPR, he was released in 2022. In 2025, Fyre Festival 2 was postponed.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "PER NPR",
+    "events": [
+     {
+      "date": "2022",
+      "text": "Released"
+     },
+     {
+      "date": "2025",
+      "text": "Fyre Festival 2 postponed"
+     }
+    ],
+    "at": 1,
+    "src": "NPR, Apr 24, 2025"
+   }
+  },
+  {
+   "say": "In July two thousand twenty-five, the Fyre brand sold on eBay for two hundred forty-five thousand, three hundred dollars.",
+   "show": "In July 2025, the Fyre brand sold on eBay for $245,300.",
+   "scene": {
+    "type": "stat",
+    "kicker": "JULY 2025 · FORTUNE",
+    "value": "$245,300",
+    "label": "for the Fyre brand",
+    "src": "Fortune, Jul 16, 2025"
+   }
+  },
+  {
+   "say": "NPR reports he still owes twenty-six million dollars in restitution.",
+   "show": "NPR reports he still owes $26 million in restitution.",
+   "scene": {
+    "type": "big",
+    "kicker": "PER NPR",
+    "lines": [
+     "Still owed:",
+     "$26|million."
+    ],
+    "src": "NPR, Apr 24, 2025"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

@@ -1,0 +1,902 @@
+{
+ "label": "SWORN · CASE 005",
+ "lines": [
+  {
+   "say": "Between May two thousand sixteen and April two thousand seventeen, Fyre Media's booking app confirmed sixty paid bookings. The fees came to fifty-seven thousand, four hundred forty-three dollars.",
+   "show": "Between May 2016 and April 2017, Fyre Media's booking app confirmed 60 paid bookings. The fees came to $57,443.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_60.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3593,
+     1.0,
+     0.1703
+    ],
+    "kicker": "PER PROSECUTORS",
+    "title": "60 bookings · $57,443",
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018"
+   }
+  },
+  {
+   "say": "In January two thousand seventeen, the real report showed about one point four six million dollars in offers for the month. The version prepared for investors showed thirty-four point seven nine million.",
+   "show": "In January 2017, the real report showed about $1.46 million in offers for the month. The version prepared for investors showed $34.79 million.",
+   "scene": {
+    "type": "bars",
+    "kicker": "JANUARY 2017 · OFFERS ON THE APP",
+    "title": "Same month, two reports",
+    "items": [
+     {
+      "label": "FABRICATED REPORT",
+      "value": 34.79,
+      "display": "$34.79M"
+     },
+     {
+      "label": "THE APP'S OWN REPORT",
+      "value": 1.459,
+      "display": "$1.459M"
+     }
+    ],
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018"
+   }
+  },
+  {
+   "say": "Prosecutors said the founder told a contractor exactly how to build it. Sprinkle in a couple of higher offer amounts.",
+   "scene": {
+    "type": "quote",
+    "q": "[S]prinkle in a couple of higher offer amounts",
+    "case": "U.S. v. McFARLAND",
+    "doc": "INSTRUCTIONS TO A CONTRACTOR · FEBRUARY 2017",
+    "cite": "As quoted in the Government's Sentencing Memorandum, Oct 3, 2018",
+    "size": 56
+   }
+  },
+  {
+   "say": "The founder was William McFarland. Billy. Twenty-six years old when he pleaded guilty. And while he was out on bail, he started another scam.",
+   "show": "The founder was William McFarland. Billy. 26 years old when he pleaded guilty. And while he was out on bail, he started another scam.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE DEFENDANT",
+    "lines": [
+     "Billy McFarland.",
+     "Out on bail."
+    ],
+    "src": "U.S. Attorney, S.D.N.Y. — release, Oct 11, 2018 · Plea hearing transcript, S.D.N.Y., Mar 6, 2018"
+   }
+  },
+  {
+   "say": "This is SWORN.",
+   "scene": {
+    "type": "title",
+    "kicker": "SWORN · CASE 005 · THE VERDICT",
+    "title": "The Fyre|Files",
+    "sub": "United States v. William McFarland · Southern District of New York · 2017–2018"
+   }
+  },
+  {
+   "say": "Chapter one. The app.",
+   "scene": {
+    "type": "chapter",
+    "n": "I",
+    "title": "The App"
+   }
+  },
+  {
+   "say": "In two thousand thirteen, McFarland founded Magnises, a members' club for millennials with a black metal card. Prosecutors said he raised about three million dollars from at least twenty-four investors, and inflated its membership numbers.",
+   "show": "In 2013, McFarland founded Magnises, a members' club for millennials with a black metal card. Prosecutors said he raised about $3 million from at least 24 investors, and inflated its membership numbers.",
+   "scene": {
+    "type": "big",
+    "kicker": "2013 · MAGNISES · PER PROSECUTORS",
+    "lines": [
+     "A club.",
+     "A black metal card."
+    ],
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018"
+   }
+  },
+  {
+   "say": "In two thousand sixteen came Fyre Media. An app where people organizing events, like concerts, could bid to book artists and celebrities.",
+   "show": "In 2016 came Fyre Media. An app where people organizing events, like concerts, could bid to book artists and celebrities.",
+   "scene": {
+    "type": "doc",
+    "img": "img/inf_s1.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.6221,
+     1.0,
+     0.1358
+    ],
+    "kicker": "S1 SUPERSEDING INFORMATION",
+    "title": "Count One: wire fraud",
+    "src": "S1 Superseding Information, S.D.N.Y., Mar 6, 2018"
+   }
+  },
+  {
+   "say": "On August first, two thousand sixteen, he told investors Fyre represented four hundred of the biggest names in music, sports, and entertainment.",
+   "show": "On August 1, 2016, he told investors Fyre represented \"400 of the biggest names in music, sports, and entertainment.\"",
+   "scene": {
+    "type": "quote",
+    "q": "400 of the biggest names in music, sports, and entertainment.",
+    "case": "U.S. v. McFARLAND",
+    "doc": "McFARLAND TO INVESTORS · AUGUST 1, 2016",
+    "cite": "As quoted in the Government's Sentencing Memorandum, Oct 3, 2018",
+    "size": 52
+   }
+  },
+  {
+   "say": "That same day he told another investor: two point five million dollars in accepted offers. Prosecutors said the real figure was eleven thousand one hundred dollars.",
+   "show": "That same day he told another investor: \"$2.5mm in accepted offers!\" Prosecutors said the real figure was $11,100.",
+   "scene": {
+    "type": "stat",
+    "kicker": "AUGUST 1, 2016 · PER PROSECUTORS",
+    "value": "$11,100",
+    "label": "in accepted offers —|not “$2.5mm”",
+    "src": "McFarland email, Aug 1, 2016, as quoted in the Government's Sentencing Memorandum, Oct 3, 2018"
+   }
+  },
+  {
+   "say": "A private placement memorandum sent to investors in early two thousand seventeen claimed thousands of offers, worth tens of millions of dollars, made and accepted. It also said Fyre had acquired land in the Bahamas worth about eight million dollars. Fyre never owned any land there.",
+   "show": "A private placement memorandum sent to investors in early 2017 claimed thousands of offers, worth tens of millions of dollars, made and accepted. It also said Fyre had acquired land in the Bahamas worth about $8 million. Fyre never owned any land there.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_60.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.5459,
+     1.0,
+     0.1705
+    ],
+    "kicker": "THE PRIVATE PLACEMENT MEMORANDUM",
+    "title": "“tens of millions of dollars”",
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018"
+   }
+  },
+  {
+   "say": "Chapter two. The numbers.",
+   "scene": {
+    "type": "chapter",
+    "n": "II",
+    "title": "The Numbers"
+   }
+  },
+  {
+   "say": "In December two thousand sixteen, an investor deck said Fyre was on track to achieve one hundred sixty million dollars in completed bookings by the fourth quarter of two thousand seventeen.",
+   "show": "In December 2016, an investor deck said Fyre was on track to achieve $160 million in completed bookings by the fourth quarter of 2017.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_160.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3301,
+     1.0,
+     0.1134
+    ],
+    "kicker": "DECEMBER 2016 · INVESTOR PRESENTATION",
+    "title": "“on track to achieve $160M”",
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018"
+   }
+  },
+  {
+   "say": "A few days later, according to prosecutors, he edited an update drafted by his chief revenue officer. The bookings goal went from fifty million to one hundred fifty million. Talent represented went from two hundred to twelve hundred.",
+   "show": "A few days later, according to prosecutors, he edited an update drafted by his chief revenue officer. The bookings goal went from $50 million to $150 million. Talent represented went from 200 to 1,200.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_160.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.5931,
+     1.0,
+     0.1134
+    ],
+    "kicker": "THE BUSINESS UPDATE",
+    "title": "$50M → $150M · 200 → 1,200",
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018"
+   }
+  },
+  {
+   "say": "Then came the offer reports. In February two thousand seventeen, prosecutors said, he handed the contractor the app's real report, with instructions. Make sure thirty-five percent are international cities. Show thirty point one million in total bookings for January.",
+   "show": "Then came the offer reports. In February 2017, prosecutors said, he handed the contractor the app's real report, with instructions. Make sure 35% are international cities. Show $30.1 million in total bookings for January.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_sprinkle.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.5815,
+     1.0,
+     0.136
+    ],
+    "kicker": "FEBRUARY 2017",
+    "title": "The instructions",
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018"
+   }
+  },
+  {
+   "say": "The contractor invented offers from accounts that did not exist, for venues picked at random. In April, asked whether to continue the trend, McFarland answered: yes let's increase them.",
+   "show": "The contractor invented offers from accounts that did not exist, for venues picked at random. In April, asked whether to continue the trend, McFarland answered: \"yes let's increase them.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_1459.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2389,
+     1.0,
+     0.1307
+    ],
+    "kicker": "PER PROSECUTORS",
+    "title": "$1.459 million → $34.79 million",
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018"
+   }
+  },
+  {
+   "say": "When one investor asked for the latest bookings in April two thousand seventeen, the FBI's complaint says, McFarland replied with numbers the investor understood to mean forty-four million and fifty million dollars.",
+   "show": "When one investor asked for the latest bookings in April 2017, the FBI's complaint says, McFarland replied with numbers the investor understood to mean $44 million and $50 million.",
+   "scene": {
+    "type": "doc",
+    "img": "img/cmp_44.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.5583,
+     1.0,
+     0.041
+    ],
+    "kicker": "SEALED COMPLAINT · APRIL 24, 2017",
+    "title": "“$44 for march”",
+    "src": "Sealed Complaint, S.D.N.Y., Jun 30, 2017 (FBI SA affidavit)"
+   }
+  },
+  {
+   "say": "To show he could personally guarantee investments, he sent an altered brokerage statement. It showed two point five six million dollars in stock. He actually owned one thousand four hundred ninety-nine dollars' worth. The S.E.C. said the shares were Facebook's.",
+   "show": "To show he could personally guarantee investments, he sent an altered brokerage statement. It showed $2.56 million in stock. He actually owned $1,499 worth. The SEC said the shares were Facebook's.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_stock.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4447,
+     1.0,
+     0.1821
+    ],
+    "kicker": "THE BROKERAGE STATEMENT",
+    "title": "$2.56 million vs. $1,499",
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018 · SEC press release 2018-141, Jul 24, 2018"
+   }
+  },
+  {
+   "say": "He told investors Magnises had been sold for about forty million dollars, to a new company called Saddleback Media. There was no sale. He even created an agreement bearing the electronic signature of Saddleback's supposed president, a G. Smythe. Prosecutors said that person does not exist.",
+   "show": "He told investors Magnises had been sold for about $40 million, to a new company called Saddleback Media. There was no sale. He even created an agreement bearing the electronic signature of Saddleback's supposed president, a \"G. Smythe.\" Prosecutors said that person does not exist.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_smythe.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4906,
+     1.0,
+     0.2326
+    ],
+    "kicker": "THE SALE THAT WASN'T",
+    "title": "“G. Smythe”",
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018"
+   }
+  },
+  {
+   "say": "Chapter three. The island.",
+   "scene": {
+    "type": "chapter",
+    "n": "III",
+    "title": "The Island"
+   }
+  },
+  {
+   "say": "Fyre Festival was announced on December twelfth, two thousand sixteen. A music festival over two weekends in the Bahamas. In court, he said it was meant to promote the app.",
+   "show": "Fyre Festival was announced on December 12, 2016. A music festival over two weekends in the Bahamas. In court, he said it was meant to promote the app.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "FYRE FESTIVAL",
+    "events": [
+     {
+      "date": "DEC 12, 2016",
+      "text": "Festival announced"
+     },
+     {
+      "date": "APR 28, 2017",
+      "text": "First weekend set to begin, Exuma"
+     },
+     {
+      "date": "JUN 30, 2017",
+      "text": "Criminal complaint"
+     }
+    ],
+    "at": 0,
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018 · Plea hearing transcript, S.D.N.Y., Mar 6, 2018 · WPLG Local 10 / KSAT, Apr 28, 2017"
+   }
+  },
+  {
+   "say": "To fund it, prosecutors said, he overstated the festival's receivables, told investors top musicians would perform when no deals were in place, and promised payouts from event cancellation insurance. No such policy had been executed.",
+   "scene": {
+    "type": "list",
+    "kicker": "TO FESTIVAL INVESTORS · PER PROSECUTORS",
+    "items": [
+     [
+      "1",
+      "Inflated receivables"
+     ],
+     [
+      "2",
+      "Stars who never signed"
+     ],
+     [
+      "3",
+      "Insurance that didn't exist"
+     ]
+    ],
+    "size": 42,
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018"
+   }
+  },
+  {
+   "say": "In April, a ticket vendor paid two million dollars for advance tickets to future festivals, after he showed it a fraudulent income statement.",
+   "show": "In April, a ticket vendor paid $2 million for advance tickets to future festivals, after he showed it a fraudulent income statement.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_vendor.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3542,
+     1.0,
+     0.189
+    ],
+    "kicker": "APRIL 2017 · VENDOR-1",
+    "title": "$2 million for future tickets",
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018"
+   }
+  },
+  {
+   "say": "The first weekend was set to begin on Friday, April twenty-eighth, on Exuma. Patrons, some of whom had paid thousands of dollars, found that the luxury villas and gourmet meals were tents and prepackaged meals. The festival was canceled.",
+   "show": "The first weekend was set to begin on Friday, April 28, on Exuma. Patrons, some of whom had paid thousands of dollars, found that the luxury villas and gourmet meals were tents and prepackaged meals. The festival was canceled.",
+   "scene": {
+    "type": "big",
+    "kicker": "EXUMA, THE BAHAMAS · APRIL 2017",
+    "lines": [
+     "Villas: tents.",
+     "Canceled."
+    ],
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018 · WPLG Local 10 / KSAT, Apr 28, 2017"
+   }
+  },
+  {
+   "say": "Investors who had been promised insurance payouts lost their money in full. In all, prosecutors said, at least eighty investors lost more than twenty-four million dollars.",
+   "show": "Investors who had been promised insurance payouts lost their money in full. In all, prosecutors said, at least 80 investors lost more than $24 million.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_victims.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1982,
+     1.0,
+     0.1555
+    ],
+    "kicker": "THE LOSSES",
+    "title": "At least 80 investors · $24M+",
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018"
+   }
+  },
+  {
+   "say": "On June thirtieth, two thousand seventeen, an FBI special agent swore out a criminal complaint. Wire fraud. McFarland was released on bail the next day.",
+   "show": "On June 30, 2017, an FBI special agent swore out a criminal complaint. Wire fraud. McFarland was released on bail the next day.",
+   "scene": {
+    "type": "doc",
+    "img": "img/cmp_cover.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.7391,
+     1.0,
+     0.0962
+    ],
+    "kicker": "JUNE 30, 2017",
+    "title": "Sealed complaint",
+    "src": "Sealed Complaint, S.D.N.Y., Jun 30, 2017 (FBI SA affidavit) · Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018"
+   }
+  },
+  {
+   "say": "Chapter four. The second scheme.",
+   "scene": {
+    "type": "chapter",
+    "n": "IV",
+    "title": "The Second Scheme"
+   }
+  },
+  {
+   "say": "On March sixth, two thousand eighteen, he pleaded guilty to two counts of wire fraud. In court, he said this.",
+   "show": "On March 6, 2018, he pleaded guilty to two counts of wire fraud. In court, he said this.",
+   "scene": {
+    "type": "quote",
+    "q": "I lied to investors about various aspects of Fyre Media and my personal finances.",
+    "case": "U.S. v. McFARLAND",
+    "doc": "McFARLAND · GUILTY PLEA · MARCH 6, 2018",
+    "cite": "Plea hearing transcript, S.D.N.Y., Mar 6, 2018",
+    "size": 48
+   }
+  },
+  {
+   "say": "He was still on bail. And since late two thousand seventeen, prosecutors said, he had been running a company called NYC VIP Access, selling tickets to the Met Gala, Burning Man, Coachella, the Grammys and the Super Bowl. Tickets that did not exist.",
+   "show": "He was still on bail. And since late 2017, prosecutors said, he had been running a company called NYC VIP Access, selling tickets to the Met Gala, Burning Man, Coachella, the Grammys and the Super Bowl. Tickets that did not exist.",
+   "scene": {
+    "type": "list",
+    "kicker": "NYC VIP ACCESS · LATE 2017 – MARCH 2018",
+    "items": [
+     [
+      "1",
+      "2018 Met Gala"
+     ],
+     [
+      "2",
+      "Burning Man 2018"
+     ],
+     [
+      "3",
+      "Coachella 2018"
+     ],
+     [
+      "4",
+      "2018 Grammy Awards"
+     ],
+     [
+      "5",
+      "Super Bowl LII"
+     ]
+    ],
+    "size": 40,
+    "src": "U.S. Attorney, S.D.N.Y. — release, Oct 11, 2018"
+   }
+  },
+  {
+   "say": "In December, an email went out from an employee's account. We partnered with the sponsoring brands to get you a chance to buy tickets. The price, prosecutors said: two thousand five hundred dollars a ticket.",
+   "show": "In December, an email went out from an employee's account. \"We partnered with the sponsoring brands to get you a chance to buy tickets.\" The price, prosecutors said: $2,500 a ticket.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_gala.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4685,
+     1.0,
+     0.176
+    ],
+    "kicker": "DECEMBER 17, 2017 · “2018 MET GALA”",
+    "title": "The email",
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018"
+   }
+  },
+  {
+   "say": "When a buyer wanted confirmation, McFarland later admitted, he created a fake email from the gala's host. None of the buyers were on the guest list.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE MET GALA · PER PROSECUTORS",
+    "lines": [
+     "A fake confirmation.",
+     "No one got in."
+    ],
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018"
+   }
+  },
+  {
+   "say": "Prosecutors said he hid behind his staff. He wrote from an employee's email account and from a fake employee's. Payments went to employees' and his driver's accounts, and came back to him in cash. At least thirty customers lost about one hundred fifty thousand dollars. Some had been at Fyre Festival.",
+   "show": "Prosecutors said he hid behind his staff. He wrote from an employee's email account and from a fake employee's. Payments went to employees' and his driver's accounts, and came back to him in cash. At least 30 customers lost about $150,000. Some had been at Fyre Festival.",
+   "scene": {
+    "type": "stat",
+    "kicker": "NYC VIP ACCESS · PER PROSECUTORS",
+    "value": "$150,000",
+    "label": "from at least 30 customers —|some of them Fyre Festival guests",
+    "src": "U.S. Attorney, S.D.N.Y. — release, Oct 11, 2018"
+   }
+  },
+  {
+   "say": "In March two thousand eighteen, he also gave his driver a forged twenty-five thousand dollar check, written on an employee's bank account.",
+   "show": "In March 2018, he also gave his driver a forged $25,000 check, written on an employee's bank account.",
+   "scene": {
+    "type": "big",
+    "kicker": "MARCH 2018 · PER PROSECUTORS",
+    "lines": [
+     "A forged check.",
+     "$25,000."
+    ],
+    "src": "U.S. Attorney, S.D.N.Y. — release, Oct 11, 2018"
+   }
+  },
+  {
+   "say": "On June twelfth, he was charged again, and his pretrial release ended. On June eighteenth, the judge revoked his bail.",
+   "show": "On June 12, he was charged again, and his pretrial release ended. On June 18, the judge revoked his bail.",
+   "scene": {
+    "type": "doc",
+    "img": "img/bail.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.6458,
+     1.0,
+     0.0466
+    ],
+    "kicker": "JUNE 18, 2018",
+    "title": "“the Court should revoke the defendant's bail”",
+    "src": "Government letter re bail revocation, Jun 18, 2018 · U.S. Attorney, S.D.N.Y. — release, Jun 12, 2018"
+   }
+  },
+  {
+   "say": "Two days later, he sat down voluntarily with a federal agent, with his lawyer present, and lied, including that the employee had authorized that check. On July twenty-sixth, he pleaded guilty to wire fraud and bank fraud on bail, and to making false statements.",
+   "show": "Two days later, he sat down voluntarily with a federal agent, with his lawyer present, and lied, including that the employee had authorized that check. On July 26, he pleaded guilty to wire fraud and bank fraud on bail, and to making false statements.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "2018",
+    "events": [
+     {
+      "date": "MAR 6",
+      "text": "Guilty plea: 2 counts"
+     },
+     {
+      "date": "JUN 12",
+      "text": "Charged again"
+     },
+     {
+      "date": "JUN 20",
+      "text": "Lies to a federal agent"
+     },
+     {
+      "date": "JUL 26",
+      "text": "Guilty plea: 3 more counts"
+     }
+    ],
+    "at": 3,
+    "src": "U.S. Attorney, S.D.N.Y. — release, Oct 11, 2018 · Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018"
+   }
+  },
+  {
+   "say": "Chapter five. The sentence.",
+   "scene": {
+    "type": "chapter",
+    "n": "V",
+    "title": "The Sentence"
+   }
+  },
+  {
+   "say": "The government asked for a sentence within a guidelines range of one hundred eighty-eight to two hundred thirty-five months. Its memorandum put it bluntly.",
+   "show": "The government asked for a sentence within a guidelines range of 188 to 235 months. Its memorandum put it bluntly.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_con.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1808,
+     1.0,
+     0.0484
+    ],
+    "kicker": "THE GOVERNMENT'S MEMORANDUM",
+    "title": "“the consummate con artist”",
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018"
+   }
+  },
+  {
+   "say": "Whenever one scheme began to falter, prosecutors wrote, he hatched a newer and more elaborate one.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_con.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.516,
+     1.0,
+     0.1824
+    ],
+    "kicker": "PER PROSECUTORS",
+    "title": "“a newer and more elaborate one”",
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018"
+   }
+  },
+  {
+   "say": "The defense said McFarland had used investor money on a flawed business plan, and pointed to his youth and his mental health. October eleventh, two thousand eighteen. McFarland addressed the court.",
+   "show": "The defense said McFarland had used investor money on a flawed business plan, and pointed to his youth and his mental health. October 11, 2018. McFarland addressed the court.",
+   "scene": {
+    "type": "quote",
+    "q": "I know that I betrayed the trust of my investors, customers, my family, and even the Court.",
+    "case": "U.S. v. McFARLAND",
+    "doc": "McFARLAND · SENTENCING · OCTOBER 11, 2018",
+    "cite": "Sentencing transcript, S.D.N.Y., Oct 11, 2018",
+    "size": 46
+   }
+  },
+  {
+   "say": "Judge Naomi Reice Buchwald rejected the picture of a good idea gone bad. While soliciting investments for the festival, she noted, he had upgraded from an eight thousand dollar a month apartment to a penthouse at twenty-one thousand a month.",
+   "show": "Judge Naomi Reice Buchwald rejected the picture of a good idea gone bad. While soliciting investments for the festival, she noted, he had upgraded from an $8,000-a-month apartment to a penthouse at $21,000 a month.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_pent.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2389,
+     1.0,
+     0.2082
+    ],
+    "kicker": "EARLY 2017 · PER PROSECUTORS",
+    "title": "$8,000 → $21,000 a month",
+    "src": "Government's Sentencing Memorandum, S.D.N.Y. 17 Cr. 600, Oct 3, 2018 · Sentencing transcript, S.D.N.Y., Oct 11, 2018"
+   }
+  },
+  {
+   "say": "On the lies to the FBI agent, she said this.",
+   "scene": {
+    "type": "quote",
+    "q": "This is just white-collar obstruction.",
+    "case": "U.S. v. McFARLAND",
+    "doc": "JUDGE NAOMI REICE BUCHWALD · OCTOBER 11, 2018",
+    "cite": "Sentencing transcript, S.D.N.Y., Oct 11, 2018",
+    "size": 60
+   }
+  },
+  {
+   "say": "And her conclusion.",
+   "scene": {
+    "type": "quote",
+    "q": "the defendant is a serial fraudster, and that to date his fraud, like a circle, has no end.",
+    "case": "U.S. v. McFARLAND",
+    "doc": "JUDGE NAOMI REICE BUCHWALD · OCTOBER 11, 2018",
+    "cite": "Sentencing transcript, S.D.N.Y., Oct 11, 2018",
+    "size": 46
+   }
+  },
+  {
+   "say": "The sentence: six years in prison. Five years, plus one consecutive year for crimes committed on bail. Three years of supervised release.",
+   "show": "The sentence: six years in prison. Five years, plus one consecutive year for crimes committed on bail. Three years of supervised release.",
+   "scene": {
+    "type": "doc",
+    "img": "img/jdg_72.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4515,
+     1.0,
+     0.1511
+    ],
+    "kicker": "JUDGMENT · OCTOBER 2018",
+    "title": "72 months",
+    "src": "Judgment in a Criminal Case, S.D.N.Y., Oct 16, 2018"
+   }
+  },
+  {
+   "say": "And a forfeiture of twenty-six point one nine million dollars.",
+   "show": "And a forfeiture of $26.19 million.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "THE SENTENCE · OCTOBER 11, 2018",
+    "stamp": "SENTENCED",
+    "big": "6 years",
+    "sub": "William McFarland · forfeiture of $26,191,306.28"
+   }
+  },
+  {
+   "say": "Chapter six. After the verdict.",
+   "scene": {
+    "type": "chapter",
+    "n": "VI",
+    "title": "After the Verdict"
+   }
+  },
+  {
+   "say": "In July two thousand eighteen, in a civil case, the S.E.C. had charged him with fraud in offerings that raised at least twenty-seven point four million dollars from more than one hundred investors. He admitted the allegations and accepted a permanent officer-and-director bar.",
+   "show": "In July 2018, in a civil case, the SEC had charged him with fraud in offerings that raised at least $27.4 million from more than 100 investors. He admitted the allegations and accepted a permanent officer-and-director bar.",
+   "scene": {
+    "type": "big",
+    "kicker": "JULY 24, 2018 · SEC",
+    "lines": [
+     "$27.4 million.",
+     "Permanent bar."
+    ],
+    "src": "SEC press release 2018-141, Jul 24, 2018"
+   }
+  },
+  {
+   "say": "To collect on the forfeiture, the FBI listed what it could find. About two hundred forty thousand dollars held in his name at a law firm. Funds in a Fyre Festival bank account. And two large boxes of Fyre-branded t-shirts, sweatshirts and shorts, meant to be sold at the festival.",
+   "show": "To collect on the forfeiture, the FBI listed what it could find. About $240,000 held in his name at a law firm. Funds in a Fyre Festival bank account. And two large boxes of Fyre-branded t-shirts, sweatshirts and shorts, meant to be sold at the festival.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sub_shirts.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.6918,
+     1.0,
+     0.0935
+    ],
+    "kicker": "JANUARY 2019 · SUBSTITUTE ASSETS",
+    "title": "Two boxes of Fyre clothing",
+    "src": "Declaration of FBI SA Brandon Racz, Jan 10, 2019"
+   }
+  },
+  {
+   "say": "In prison, according to the government, he was caught with a pen that could record. He was segregated for forty days and lost forty days of good conduct time.",
+   "show": "In prison, according to the government, he was caught with a pen that could record. He was segregated for 40 days and lost 40 days of good conduct time.",
+   "scene": {
+    "type": "big",
+    "kicker": "IN PRISON · PER THE GOVERNMENT",
+    "lines": [
+     "A recording pen.",
+     "40 days."
+    ],
+    "src": "Government's opposition to compassionate release, Apr 28, 2020"
+   }
+  },
+  {
+   "say": "In April two thousand twenty, he asked for compassionate release because of COVID-19. The government opposed it. With the motion ripe and a draft opinion ready, his lawyer withdrew the request. The judge wrote that this obvious effort to avoid a negative result could not go without comment.",
+   "show": "In April 2020, he asked for compassionate release because of COVID-19. The government opposed it. With the motion ripe and a draft opinion ready, his lawyer withdrew the request. The judge wrote that this \"obvious effort to avoid a negative result\" could not go without comment.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ltr_2020.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4982,
+     1.0,
+     0.0788
+    ],
+    "kicker": "MAY 11, 2020 · JUDGE BUCHWALD",
+    "title": "“this obvious effort”",
+    "src": "Letter of Judge Naomi Reice Buchwald, May 11, 2020 · Government's opposition to compassionate release, Apr 28, 2020"
+   }
+  },
+  {
+   "say": "According to NPR, he was released in two thousand twenty-two. Ticket holders' class action had settled in two thousand twenty-one for two million dollars.",
+   "show": "According to NPR, he was released in 2022. Ticket holders' class action had settled in 2021 for $2 million.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "AFTER PRISON · PER REPORTS",
+    "events": [
+     {
+      "date": "2021",
+      "text": "Class action settles: $2M"
+     },
+     {
+      "date": "2022",
+      "text": "Released from prison"
+     },
+     {
+      "date": "2025",
+      "text": "Fyre Festival 2 postponed"
+     },
+     {
+      "date": "JUL 2025",
+      "text": "Brand sold on eBay"
+     }
+    ],
+    "at": 1,
+    "src": "NPR, Apr 24, 2025 · Fortune, Jul 16, 2025"
+   }
+  },
+  {
+   "say": "Then he announced Fyre Festival two. Tickets went on sale in February two thousand twenty-five, starting at fourteen hundred dollars, for an event in Mexico. Local officials denied it. In April it was postponed.",
+   "show": "Then he announced Fyre Festival 2. Tickets went on sale in February 2025, starting at $1,400, for an event in Mexico. Local officials denied it. In April it was postponed.",
+   "scene": {
+    "type": "big",
+    "kicker": "2025 · PER NPR",
+    "lines": [
+     "Fyre Festival 2.",
+     "Postponed."
+    ],
+    "src": "NPR, Apr 24, 2025"
+   }
+  },
+  {
+   "say": "In July two thousand twenty-five, the Fyre Festival brand sold on eBay for two hundred forty-five thousand, three hundred dollars. According to NPR, he still owes twenty-six million dollars in restitution.",
+   "show": "In July 2025, the Fyre Festival brand sold on eBay for $245,300. According to NPR, he still owes $26 million in restitution.",
+   "scene": {
+    "type": "stat",
+    "kicker": "JULY 2025 · PER FORTUNE AND NPR",
+    "value": "$245,300",
+    "label": "for the brand —|against $26 million still owed",
+    "src": "Fortune, Jul 16, 2025 · NPR, Apr 24, 2025"
+   }
+  },
+  {
+   "say": "January two thousand seventeen. One point four six million dollars in real offers. Thirty-four point seven nine million on paper.",
+   "show": "January 2017. $1.46 million in real offers. $34.79 million on paper.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "$1.46M real.",
+     "$34.79M|on paper."
+    ]
+   }
+  },
+  {
+   "say": "In the end, the judge read the paper, not the pitch. Like a circle, she said. No end.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Like a circle.",
+     "No end."
+    ]
+   }
+  },
+  {
+   "say": "This is SWORN. Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ]
+}

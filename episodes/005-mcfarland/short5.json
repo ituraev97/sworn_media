@@ -1,0 +1,97 @@
+{
+ "title": "\"Like a Circle, Has No End\": The Judge Who Sentenced Billy McFarland",
+ "hook": "\"Like a circle,|has no end.\"",
+ "lines": [
+  {
+   "say": "October eleventh, two thousand eighteen. Billy McFarland stands for sentencing on five counts.",
+   "show": "October 11, 2018. Billy McFarland stands for sentencing on five counts.",
+   "scene": {
+    "type": "doc",
+    "img": "img/jdg_72.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4515,
+     1.0,
+     0.1511
+    ],
+    "kicker": "JUDGMENT",
+    "src": "Judgment, S.D.N.Y., Oct 16, 2018"
+   }
+  },
+  {
+   "say": "His defense described a young man with a flawed business plan. Judge Naomi Reice Buchwald disagreed.",
+   "scene": {
+    "type": "quote",
+    "q": "Importantly, this was not a good idea gone bad.",
+    "case": "U.S. v. McFARLAND",
+    "doc": "JUDGE NAOMI REICE BUCHWALD",
+    "cite": "Sentencing transcript, Oct 11, 2018",
+    "size": 48
+   }
+  },
+  {
+   "say": "While raising money for the festival, she noted, he moved from an eight thousand dollar a month apartment to a twenty-one thousand dollar a month penthouse.",
+   "show": "While raising money for the festival, she noted, he moved from an $8,000-a-month apartment to a $21,000-a-month penthouse.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_pent.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2389,
+     1.0,
+     0.2082
+    ],
+    "kicker": "EARLY 2017",
+    "src": "Gov't sentencing memo, S.D.N.Y., Oct 3, 2018 · Sentencing transcript, Oct 11, 2018"
+   }
+  },
+  {
+   "say": "After his second arrest, he had also lied to a federal agent. The judge's words: white-collar obstruction.",
+   "scene": {
+    "type": "quote",
+    "q": "This is just white-collar obstruction.",
+    "case": "U.S. v. McFARLAND",
+    "doc": "JUDGE NAOMI REICE BUCHWALD",
+    "cite": "Sentencing transcript, Oct 11, 2018",
+    "size": 52
+   }
+  },
+  {
+   "say": "Her conclusion.",
+   "scene": {
+    "type": "quote",
+    "q": "the defendant is a serial fraudster, and that to date his fraud, like a circle, has no end.",
+    "case": "U.S. v. McFARLAND",
+    "doc": "OCTOBER 11, 2018",
+    "cite": "Sentencing transcript, Oct 11, 2018",
+    "size": 40
+   }
+  },
+  {
+   "say": "Six years in prison, and a forfeiture of twenty-six point one nine million dollars.",
+   "show": "Six years in prison, and a forfeiture of $26.19 million.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "THE SENTENCE",
+    "stamp": "SENTENCED",
+    "big": "6 years",
+    "sub": "Forfeiture: $26,191,306.28"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}
