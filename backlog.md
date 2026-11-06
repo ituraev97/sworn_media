@@ -10,7 +10,7 @@ Add new rows when fewer than 10 `todo` remain (fraud, financial crime, scams, la
 | 004 | R. Allen Stanford — Stanford Financial (S.D. Tex. 2012) | THE PAPER TRAIL | justice.gov releases, SEC complaint | done 2026-11-04 |
 | 005 | Miranda v. Arizona (1966) | THE ARGUMENT | opinion text (public domain), oyez.org | skip (underlying charges were kidnapping and rape — channel rule: no sexual-crime cases) |
 | 006 | Billy McFarland — Fyre Festival fraud (S.D.N.Y. 2018) | THE VERDICT | justice.gov/usao-sdny | done 2026-11-05 (episode 005) |
-| 007 | Bernard Ebbers — WorldCom (S.D.N.Y. 2005) | THE PAPER TRAIL | justice.gov, SEC litigation releases | todo |
+| 007 | Bernard Ebbers — WorldCom (S.D.N.Y. 2005) | THE PAPER TRAIL | justice.gov, SEC litigation releases | in progress (episode 006, target 2026-11-07) |
 | 008 | Tom Petters — Petters Group Ponzi (D. Minn. 2010) | THE VERDICT | justice.gov/usao-mn | todo |
 | 009 | Gideon v. Wainwright (1963) | THE ARGUMENT | opinion text, Gideon's handwritten petition (National Archives) | todo |
 | 010 | Raj Rajaratnam — Galleon insider trading (S.D.N.Y. 2011) | THE VERDICT | justice.gov/usao-sdny, SEC | todo |
