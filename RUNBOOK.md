@@ -94,3 +94,11 @@ Check every `https://raw.githubusercontent.com/ituraev97/sworn_media/drop-XXX/<f
 - Do not show exhibits written by private parties (emails, employee letters, victim statements) as images; quote them "as quoted in" the government memo.
 - Fact-checker caught: a "the X never began" vs "set to begin" wording, "she wrote" ambiguity right after a lawyer is mentioned, and on-bail vs. after-revocation chronology. Watch these.
 - A BOP inmate-locator WebFetch needed approval in this unattended run and timed out; rely on reporting (NPR) for release dates or try it early.
+
+## Notes from run 006 (2026-11-06)
+- No S.D.N.Y. criminal docket on RECAP for 2002–05 cases; the Supreme Court cert-stage item on archive.org (`micro_IA...`, "Opposition Brief.pdf" = Solicitor General's brief; the petition's Appendix = court of appeals opinion and district court orders) is a rich source of showable documents with a text layer. Show only the SG brief and the appendix (court opinions), never the defense petition pages.
+- USAO compassionate-release pages publish filings as `justice.gov/usao-sdny/page/file/<n>/dl` (download from the shell); the government's opposition letter can carry the old sentencing transcript as an exhibit (quote it, don't show it).
+- DOJ Corporate Fraud Task Force reports (justice.gov/archive/dag/cftf/) are good for 2002–2008 corporate cases.
+- `stage.html` quote typing now finishes at ~72% of the block (was 86%): short quote lines showed a half-typed quote. Still keep a quote line ≥ ~2 s of speech (Shorts: put a lead-in in the same line).
+- Shell egress is narrow (justice.gov, archive.org, github work; sec.gov, govinfo, courtlistener, findlaw do not) — use WebFetch for text from those.
+- The 2026-11-05 long video on Metricool reported "Could not upload video thumbnail" — the channel likely needs phone verification for custom thumbnails.

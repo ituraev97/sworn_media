@@ -1,0 +1,135 @@
+{
+ "title": "How WorldCom Turned $3.8 Billion in Costs Into \"Investments\"",
+ "hook": "Costs became|\"investments.\"",
+ "lines": [
+  {
+   "say": "WorldCom's biggest expense was line costs, the fees it paid to use other telephone networks.",
+   "scene": {
+    "type": "doc",
+    "img": "img/opp_line.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3172,
+     1.0,
+     0.0798
+    ],
+    "kicker": "THE LARGEST EXPENSE",
+    "src": "U.S. brief in opposition, No. 06-590, 2007"
+   }
+  },
+  {
+   "say": "In two thousand one, prosecutors said, the company started booking part of them as capital expenditures, like new equipment.",
+   "show": "In 2001, prosecutors said, the company started booking part of them as capital expenditures, like new equipment.",
+   "scene": {
+    "type": "big",
+    "kicker": "2001",
+    "lines": [
+     "Expenses?",
+     "Now|capital."
+    ],
+    "src": "U.S. brief in opposition, No. 06-590, 2007"
+   }
+  },
+  {
+   "say": "At a dinner, the CFO told CEO Bernard Ebbers the first move, over five hundred million dollars, wasn't right. Ebbers did not stop him.",
+   "show": "At a dinner, the CFO told CEO Bernard Ebbers the first move, over $500 million, \"wasn't right.\" Ebbers did not stop him.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca2_right.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.413,
+     1.0,
+     0.13
+    ],
+    "kicker": "MARCH 2001",
+    "src": "U.S. v. Ebbers, 2d Cir., Jul 28, 2006"
+   }
+  },
+  {
+   "say": "Quarter by quarter: seven hundred seventy-one million, more than six hundred ten million, more than seven hundred million, more than nine hundred forty-one million, eight hundred eighteen million.",
+   "show": "Quarter by quarter: $771 million, more than $610 million, more than $700 million, more than $941 million, $818 million.",
+   "scene": {
+    "type": "bars",
+    "kicker": "CAPITALIZED",
+    "title": "Line costs",
+    "items": [
+     {
+      "label": "Q1 01",
+      "value": 771,
+      "display": "771"
+     },
+     {
+      "label": "Q2",
+      "value": 610,
+      "display": "610+"
+     },
+     {
+      "label": "Q3",
+      "value": 700,
+      "display": "700+"
+     },
+     {
+      "label": "Q4",
+      "value": 941,
+      "display": "941+"
+     },
+     {
+      "label": "Q1 02",
+      "value": 818,
+      "display": "818"
+     }
+    ],
+    "src": "U.S. v. Ebbers, 2d Cir., Jul 28, 2006 · $ millions"
+   }
+  },
+  {
+   "say": "Ebbers told investors: we stand by our accounting.",
+   "show": "Ebbers told investors: \"We stand by our accounting.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca2_stand.jpg",
+    "pan": [
+     0.4,
+     0.4
+    ],
+    "hl": [
+     0.0,
+     0.7239,
+     1.0,
+     0.0879
+    ],
+    "kicker": "EARNINGS CALL",
+    "src": "U.S. v. Ebbers, 2d Cir., Jul 28, 2006"
+   }
+  },
+  {
+   "say": "Total: about three point eight billion dollars. He got twenty-five years.",
+   "show": "Total: about $3.8 billion. He got 25 years.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE TOTAL",
+    "lines": [
+     "$3.8 billion.",
+     "25|years."
+    ],
+    "src": "U.S. brief in opposition, No. 06-590, 2007"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

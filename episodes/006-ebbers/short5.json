@@ -1,0 +1,106 @@
+{
+ "title": "25 Years for the CEO, 5 for the CFO: The WorldCom Sentences",
+ "hook": "25 years vs.|5 years.",
+ "lines": [
+  {
+   "say": "WorldCom's finance chief, Scott Sullivan, directed the accounting entries. Judge Barbara Jones called him the architect of the fraud.",
+   "show": "WorldCom's finance chief, Scott Sullivan, directed the accounting entries. Judge Barbara Jones called him \"the architect of the fraud.\"",
+   "scene": {
+    "type": "big",
+    "kicker": "PER THE ASSOCIATED PRESS",
+    "lines": [
+     "“The architect",
+     "of the|fraud.”"
+    ],
+    "src": "Associated Press, Aug 12, 2005"
+   }
+  },
+  {
+   "say": "He pleaded guilty and testified against his boss. He got five years. The controller, a year and a day.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca2_codef.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3892,
+     1.0,
+     0.0858
+    ],
+    "kicker": "THE OTHER SENTENCES",
+    "src": "U.S. v. Ebbers, 2d Cir., Jul 28, 2006"
+   }
+  },
+  {
+   "say": "CEO Bernard Ebbers went to trial. The judge credited testimony that he was the instigator.",
+   "scene": {
+    "type": "doc",
+    "img": "img/gl_jones.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2454,
+     1.0,
+     0.1767
+    ],
+    "kicker": "JUDGE BARBARA S. JONES",
+    "src": "Gov't letter, S.D.N.Y., Oct 4, 2019 · Sentencing transcript, Jul 13, 2005"
+   }
+  },
+  {
+   "say": "His guidelines range: thirty years to life. She gave him twenty-five.",
+   "scene": {
+    "type": "stat",
+    "kicker": "JULY 13, 2005",
+    "value": "25",
+    "label": "years — below|30 years to life",
+    "src": "Gov't letter, S.D.N.Y., Oct 4, 2019"
+   }
+  },
+  {
+   "say": "The appeals court said the difference was cooperation, and rank. Each of the others was his subordinate.",
+   "scene": {
+    "type": "big",
+    "kicker": "SECOND CIRCUIT",
+    "lines": [
+     "They pleaded.",
+     "He|didn't."
+    ],
+    "src": "U.S. v. Ebbers, 2d Cir., Jul 28, 2006"
+   }
+  },
+  {
+   "say": "Its verdict on twenty-five years: harsh but not unreasonable.",
+   "show": "Its verdict on 25 years: \"harsh but not unreasonable.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca2_harsh.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.5006,
+     1.0,
+     0.0949
+    ],
+    "kicker": "JULY 28, 2006",
+    "src": "U.S. v. Ebbers, 2d Cir., Jul 28, 2006"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

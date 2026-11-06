@@ -1,0 +1,100 @@
+{
+ "title": "The Judge Who Gave Bernie Ebbers 25 Years Later Wrote: \"Punished Enough\"",
+ "hook": "Likely a life sentence.|Then 2019.",
+ "lines": [
+  {
+   "say": "Two thousand five. Judge Barbara Jones sentences WorldCom's ex-CEO, Bernard Ebbers, to twenty-five years.",
+   "show": "2005. Judge Barbara Jones sentences WorldCom's ex-CEO, Bernard Ebbers, to 25 years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "JULY 13, 2005",
+    "stamp": "SENTENCED",
+    "big": "25 years",
+    "sub": "Bernard J. Ebbers"
+   }
+  },
+  {
+   "say": "She said it was likely to be a life sentence, but that anything less would not sufficiently reflect the seriousness of the crime.",
+   "scene": {
+    "type": "doc",
+    "img": "img/gl_jones.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.7554,
+     1.0,
+     0.0492
+    ],
+    "kicker": "AT SENTENCING",
+    "src": "Gov't letter, S.D.N.Y., Oct 4, 2019"
+   }
+  },
+  {
+   "say": "Two thousand nineteen. Ebbers, legally blind and in failing health, asks for compassionate release.",
+   "show": "2019. Ebbers, legally blind and in failing health, asks for compassionate release.",
+   "scene": {
+    "type": "big",
+    "kicker": "SEPTEMBER 2019",
+    "lines": [
+     "Legally blind.",
+     "Asks to|go home."
+    ],
+    "src": "Gov't letter, S.D.N.Y., Oct 4, 2019"
+   }
+  },
+  {
+   "say": "A letter of support comes from the retired judge who sentenced him. He has been punished enough, she writes.",
+   "scene": {
+    "type": "doc",
+    "img": "img/gl_enough.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.5517,
+     1.0,
+     0.1808
+    ],
+    "kicker": "JUDGE JONES' LETTER",
+    "src": "Gov't letter, S.D.N.Y., Oct 4, 2019"
+   }
+  },
+  {
+   "say": "Prosecutors object. In December, Judge Valerie Caproni grants the release.",
+   "scene": {
+    "type": "big",
+    "kicker": "DECEMBER 18, 2019",
+    "lines": [
+     "Release:",
+     "granted."
+    ],
+    "src": "S.D.N.Y. opinion, Jan 8, 2020"
+   }
+  },
+  {
+   "say": "He died on February second, two thousand twenty, at seventy-eight.",
+   "show": "He died on February 2, 2020, at 78.",
+   "scene": {
+    "type": "big",
+    "kicker": "FEBRUARY 2, 2020",
+    "lines": [
+     "Died at 78.",
+     "After 13|years."
+    ],
+    "src": "WLBT, Feb 3, 2020 · Gov't letter, S.D.N.Y., Oct 4, 2019"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

@@ -1,0 +1,105 @@
+{
+ "title": "\"We Have to Hit Our Numbers\": The Order Behind the WorldCom Fraud",
+ "hook": "\"We have to hit|our numbers.\"",
+ "lines": [
+  {
+   "say": "Third quarter, two thousand. WorldCom can't meet Wall Street's expectations, and its line costs come in almost one billion dollars higher than expected.",
+   "show": "Third quarter, 2000. WorldCom can't meet Wall Street's expectations, and its line costs come in almost $1 billion higher than expected.",
+   "scene": {
+    "type": "doc",
+    "img": "img/opp_line.jpg",
+    "pan": [
+     0.463,
+     0.48
+    ],
+    "hl": [
+     0.0,
+     0.5949,
+     1.0,
+     0.3157
+    ],
+    "kicker": "THIRD QUARTER 2000",
+    "src": "U.S. brief in opposition, No. 06-590, 2007"
+   }
+  },
+  {
+   "say": "The finance chief, Scott Sullivan, tells CEO Bernard Ebbers they should warn investors. According to the appeals court, Ebbers refuses.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca2_hit.jpg",
+    "pan": [
+     0.268,
+     0.328
+    ],
+    "hl": [
+     0.0,
+     0.5169,
+     1.0,
+     0.1639
+    ],
+    "kicker": "THE EARNINGS WARNING",
+    "src": "U.S. v. Ebbers, 2d Cir., Jul 28, 2006"
+   }
+  },
+  {
+   "say": "His answer, as the appeals court described the trial evidence: we have to hit our numbers.",
+   "scene": {
+    "type": "quote",
+    "q": "[W]e have to hit our numbers.",
+    "case": "U.S. v. EBBERS",
+    "doc": "EBBERS TO HIS CFO",
+    "cite": "As quoted in U.S. v. Ebbers, 2d Cir., 2006",
+    "size": 56
+   }
+  },
+  {
+   "say": "Ebbers had borrowed over four hundred million dollars against his WorldCom stock.",
+   "show": "Ebbers had borrowed over $400 million against his WorldCom stock.",
+   "scene": {
+    "type": "stat",
+    "kicker": "PER THE APPEALS COURT",
+    "value": "$400M+",
+    "label": "borrowed against|his shares",
+    "src": "U.S. v. Ebbers, 2d Cir., Jul 28, 2006"
+   }
+  },
+  {
+   "say": "Over the next year and a half, about three point eight billion dollars in expenses were booked as capital.",
+   "show": "Over the next year and a half, about $3.8 billion in expenses were booked as capital.",
+   "scene": {
+    "type": "doc",
+    "img": "img/opp_38.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3499,
+     1.0,
+     0.1608
+    ],
+    "kicker": "2001–2002",
+    "src": "U.S. brief in opposition, No. 06-590, 2007"
+   }
+  },
+  {
+   "say": "In two thousand five, a jury convicted him on all nine counts. Twenty-five years.",
+   "show": "In 2005, a jury convicted him on all nine counts. 25 years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "2005",
+    "stamp": "SENTENCED",
+    "big": "25 years",
+    "sub": "Bernard J. Ebbers"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

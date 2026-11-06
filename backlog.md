@@ -10,7 +10,7 @@ Add new rows when fewer than 10 `todo` remain (fraud, financial crime, scams, la
 | 004 | R. Allen Stanford — Stanford Financial (S.D. Tex. 2012) | THE PAPER TRAIL | justice.gov releases, SEC complaint | done 2026-11-04 |
 | 005 | Miranda v. Arizona (1966) | THE ARGUMENT | opinion text (public domain), oyez.org | skip (underlying charges were kidnapping and rape — channel rule: no sexual-crime cases) |
 | 006 | Billy McFarland — Fyre Festival fraud (S.D.N.Y. 2018) | THE VERDICT | justice.gov/usao-sdny | done 2026-11-05 (episode 005) |
-| 007 | Bernard Ebbers — WorldCom (S.D.N.Y. 2005) | THE PAPER TRAIL | justice.gov, SEC litigation releases | in progress (episode 006, target 2026-11-07) |
+| 007 | Bernard Ebbers — WorldCom (S.D.N.Y. 2005) | THE PAPER TRAIL | justice.gov, SEC litigation releases | done 2026-11-06 (episode 006, published 2026-11-07) |
 | 008 | Tom Petters — Petters Group Ponzi (D. Minn. 2010) | THE VERDICT | justice.gov/usao-mn | todo |
 | 009 | Gideon v. Wainwright (1963) | THE ARGUMENT | opinion text, Gideon's handwritten petition (National Archives) | todo |
 | 010 | Raj Rajaratnam — Galleon insider trading (S.D.N.Y. 2011) | THE VERDICT | justice.gov/usao-sdny, SEC | todo |
@@ -20,3 +20,6 @@ Add new rows when fewer than 10 `todo` remain (fraud, financial crime, scams, la
 | 014 | Marc Dreier — law-firm note fraud (S.D.N.Y. 2009) | THE VERDICT | justice.gov/usao-sdny | todo |
 | 015 | Mapp v. Ohio (1961) | THE ARGUMENT | opinion text | todo |
 | 016 | Ross Ulbricht — Silk Road (S.D.N.Y. 2015; pardoned 2025) | THE VERDICT | justice.gov/usao-sdny, pardon record | todo |
+| 017 | John Rigas — Adelphia Communications (S.D.N.Y. 2004; sentence commuted 2016) | THE VERDICT | justice.gov/usao-sdny, SEC litigation releases, 2d Cir. opinion | todo |
+| 018 | Samuel Israel III — Bayou hedge fund fraud (S.D.N.Y. 2008) | THE PAPER TRAIL | justice.gov/usao-sdny, SEC complaint | todo |
+| 019 | Skilling v. United States (2010) — honest-services fraud | THE ARGUMENT | opinion text, SG brief (justice.gov/osg) | todo |

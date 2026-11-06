@@ -1,0 +1,96 @@
+{
+ "title": "The WorldCom CEO Said He Threw the Key Report in the Trash",
+ "hook": "He said he threw|it in the trash.",
+ "lines": [
+  {
+   "say": "Bernard Ebbers ran WorldCom. Every month he got a report on the company's expenses.",
+   "scene": {
+    "type": "big",
+    "kicker": "WORLDCOM",
+    "lines": [
+     "Every month,",
+     "a|report."
+    ],
+    "src": "S.D.N.Y. order, Jul 9, 2005"
+   }
+  },
+  {
+   "say": "September two thousand: line costs of seven hundred thirty-two million dollars, against a budget of one point four billion.",
+   "show": "September 2000: line costs of $732 million, against a budget of $1.4 billion.",
+   "scene": {
+    "type": "stat",
+    "kicker": "SEPTEMBER 2000",
+    "value": "$732M",
+    "label": "vs. a $1.4 billion|budget",
+    "src": "S.D.N.Y. order, Jul 9, 2005"
+   }
+  },
+  {
+   "say": "At his trial, he said he simply did not notice. And he said that in two thousand one, he began throwing the report in the trash without reading it.",
+   "show": "At his trial, he said he simply \"did not notice.\" And he said that in 2001, he began throwing the report in the trash without reading it.",
+   "scene": {
+    "type": "doc",
+    "img": "img/opp_trash.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2248,
+     1.0,
+     0.1291
+    ],
+    "kicker": "HIS TESTIMONY · PER THE GOVERNMENT",
+    "src": "U.S. brief in opposition, No. 06-590, 2007"
+   }
+  },
+  {
+   "say": "So the judge gave the jury an instruction on conscious avoidance.",
+   "scene": {
+    "type": "doc",
+    "img": "img/opp_instr.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4531,
+     1.0,
+     0.0872
+    ],
+    "kicker": "THE JURY INSTRUCTION",
+    "src": "U.S. brief in opposition, No. 06-590, 2007"
+   }
+  },
+  {
+   "say": "Whether he deliberately closed his eyes to what otherwise would have been obvious.",
+   "scene": {
+    "type": "quote",
+    "q": "whether [petitioner] deliberately closed his eyes to what otherwise would have been obvious.",
+    "case": "U.S. v. EBBERS",
+    "doc": "THE JURY CHARGE",
+    "cite": "As quoted in the U.S. brief in opposition, 2007",
+    "size": 44
+   }
+  },
+  {
+   "say": "Guilty on all nine counts. The appeals court upheld it.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "MARCH 15, 2005",
+    "stamp": "GUILTY",
+    "big": "9 of 9",
+    "sub": "Bernard J. Ebbers"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

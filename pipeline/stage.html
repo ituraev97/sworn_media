@@ -125,7 +125,7 @@ B.quote = (r, s) => {
   if (s.recreated) el(c, 'recr', { fontSize: px(16), padding: px(8) + ' ' + px(12) }, 'RECREATED · VERBATIM TEXT');
   const q = s.q; const caret = `<span class="caret" style="width:${px(fs * 0.5)};height:${px(fs * 0.9)};vertical-align:${px(-fs * 0.12)}"></span>`;
   return (lt, blk) => {
-    const d = (blk.b - blk.a) * 0.86, p = cl((lt - 0.15) / d, 0, 1), n = Math.round(q.length * p);
+    const d = Math.max(0.4, (blk.b - blk.a) * 0.72 - 0.15), p = cl((lt - 0.15) / d, 0, 1), n = Math.round(q.length * p);
     tx.innerHTML = (s.speaker ? `<b>${esc(s.speaker)}</b> ` : '') + '“' + esc(q.slice(0, n)) + (p < 1 ? caret : '”');
   };
 };

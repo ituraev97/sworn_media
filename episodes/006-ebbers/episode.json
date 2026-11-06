@@ -1,0 +1,969 @@
+{
+ "label": "SWORN · CASE 006",
+ "lines": [
+  {
+   "say": "At his trial in two thousand five, the former chief executive of WorldCom was asked about a monthly report on the company's expenses. He admitted he received it. But in two thousand one, he said, he began throwing it in the trash without reading it.",
+   "show": "At his trial in 2005, the former chief executive of WorldCom was asked about a monthly report on the company's expenses. He admitted he received it. But in 2001, he said, he began throwing it in the trash without reading it.",
+   "scene": {
+    "type": "doc",
+    "img": "img/opp_trash.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2248,
+     1.0,
+     0.1291
+    ],
+    "kicker": "HIS OWN TESTIMONY · PER THE GOVERNMENT",
+    "title": "“in the trash without reading it”",
+    "src": "Brief for the United States in Opposition, Ebbers v. United States, No. 06-590 (2007)"
+   }
+  },
+  {
+   "say": "So the judge told the jury it could consider whether he deliberately closed his eyes to what otherwise would have been obvious.",
+   "scene": {
+    "type": "doc",
+    "img": "img/opp_instr.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4531,
+     1.0,
+     0.0872
+    ],
+    "kicker": "THE JURY INSTRUCTION",
+    "title": "Conscious avoidance",
+    "src": "Brief for the United States in Opposition, Ebbers v. United States, No. 06-590 (2007)"
+   }
+  },
+  {
+   "say": "The Justice Department called the case the largest accounting fraud in U.S. history. Billions of dollars in ordinary costs, recorded as if they were investments.",
+   "scene": {
+    "type": "big",
+    "kicker": "PER THE JUSTICE DEPARTMENT",
+    "lines": [
+     "Ordinary costs.",
+     "Booked as|investments."
+    ],
+    "src": "DOJ Corporate Fraud Task Force, First Year Report to the President, Jul 2003 · Brief for the United States in Opposition, Ebbers v. United States, No. 06-590 (2007)"
+   }
+  },
+  {
+   "say": "His name was Bernard Ebbers. This is the paper trail.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE DEFENDANT",
+    "lines": [
+     "Bernard Ebbers.",
+     "The paper trail."
+    ],
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006)"
+   }
+  },
+  {
+   "say": "This is SWORN.",
+   "scene": {
+    "type": "title",
+    "kicker": "SWORN · CASE 006 · THE PAPER TRAIL",
+    "title": "The Line|Costs",
+    "sub": "United States v. Bernard J. Ebbers · Southern District of New York · 2002–2005"
+   }
+  },
+  {
+   "say": "Chapter one. Hit the numbers.",
+   "scene": {
+    "type": "chapter",
+    "n": "I",
+    "title": "Hit the Numbers"
+   }
+  },
+  {
+   "say": "Before WorldCom, Ebbers had been a teacher, a coach and a motel operator. In nineteen eighty-three he invested in a small long-distance company in Mississippi. By two thousand, renamed WorldCom, it had about ninety thousand employees in sixty-five countries, and reported revenues of thirty-nine billion dollars.",
+   "show": "Before WorldCom, Ebbers had been a teacher, a coach and a motel operator. In 1983 he invested in a small long-distance company in Mississippi. By 2000, renamed WorldCom, it had about 90,000 employees in 65 countries, and reported revenues of $39 billion.",
+   "scene": {
+    "type": "stat",
+    "kicker": "WORLDCOM · 2000 · PER THE APPEALS COURT",
+    "value": "$39B",
+    "label": "in reported revenues —|90,000 employees in 65 countries",
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006)"
+   }
+  },
+  {
+   "say": "Its largest expense was something called line costs: the fees it paid to use other companies' telephone networks.",
+   "scene": {
+    "type": "doc",
+    "img": "img/opp_line.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3172,
+     1.0,
+     0.0798
+    ],
+    "kicker": "THE LARGEST EXPENSE",
+    "title": "“line costs”",
+    "src": "Brief for the United States in Opposition, Ebbers v. United States, No. 06-590 (2007)"
+   }
+  },
+  {
+   "say": "Then the dot-com bubble burst. Demand fell. In the third quarter of two thousand, line costs came in almost one billion dollars higher than expected.",
+   "show": "Then the dot-com bubble burst. Demand fell. In the third quarter of 2000, line costs came in almost $1 billion higher than expected.",
+   "scene": {
+    "type": "doc",
+    "img": "img/opp_line.jpg",
+    "pan": [
+     0.411,
+     0.411
+    ],
+    "hl": [
+     0.0,
+     0.5949,
+     1.0,
+     0.3157
+    ],
+    "kicker": "THIRD QUARTER 2000",
+    "title": "“almost $1 billion higher than expected”",
+    "src": "Brief for the United States in Opposition, Ebbers v. United States, No. 06-590 (2007)"
+   }
+  },
+  {
+   "say": "Ebbers had his own reasons to watch the stock. He had borrowed over four hundred million dollars from banks, using his WorldCom shares as collateral. As the price fell, the margin calls came, and in October two thousand, WorldCom took on the liability for his bank debts. He now owed that money to WorldCom instead.",
+   "show": "Ebbers had his own reasons to watch the stock. He had borrowed over $400 million from banks, using his WorldCom shares as collateral. As the price fell, the margin calls came, and in October 2000, WorldCom took on the liability for his bank debts. He now owed that money to WorldCom instead.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca2_loans.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.6165,
+     1.0,
+     0.087
+    ],
+    "kicker": "EBBERS' PERSONAL FINANCES",
+    "title": "“over $400 million”",
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006)"
+   }
+  },
+  {
+   "say": "According to the trial evidence, as the appeals court described it, chief financial officer Scott Sullivan told Ebbers they should issue an earnings warning. Ebbers refused. When Sullivan said meeting expectations would take an improper adjustment, Ebbers replied:",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca2_hit.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.5169,
+     1.0,
+     0.1639
+    ],
+    "kicker": "THIRD QUARTER 2000",
+    "title": "The earnings warning that wasn't",
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006)"
+   }
+  },
+  {
+   "say": "We have to hit our numbers.",
+   "scene": {
+    "type": "quote",
+    "q": "[W]e have to hit our numbers.",
+    "case": "U.S. v. EBBERS",
+    "doc": "EBBERS TO CFO SCOTT SULLIVAN · 2000",
+    "cite": "As quoted in U.S. v. Ebbers, 2d Cir., Jul 28, 2006",
+    "size": 64
+   }
+  },
+  {
+   "say": "Chapter two. The line costs.",
+   "scene": {
+    "type": "chapter",
+    "n": "II",
+    "title": "The Line Costs"
+   }
+  },
+  {
+   "say": "The first line-cost fix came from reserves. On Sullivan's instructions, Controller David Myers and his staff reduced line-cost accounts and drew down reserves by the same amounts. Reported line costs fell by about eight hundred twenty-eight million dollars.",
+   "show": "The first line-cost fix came from reserves. On Sullivan's instructions, Controller David Myers and his staff reduced line-cost accounts and drew down reserves by the same amounts. Reported line costs fell by about $828 million.",
+   "scene": {
+    "type": "big",
+    "kicker": "THIRD QUARTER 2000 · PER THE APPEALS COURT",
+    "lines": [
+     "$828 million.",
+     "From reserves."
+    ],
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006)"
+   }
+  },
+  {
+   "say": "Two accountants on that staff believed the entries were wrong and considered resigning. Told about it, Ebbers said they shouldn't be putting people in this position, and apologized to Myers.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca2_resign.jpg",
+    "pan": [
+     0.307,
+     0.307
+    ],
+    "hl": [
+     0.0,
+     0.652,
+     1.0,
+     0.087
+    ],
+    "kicker": "THE ACCOUNTING STAFF",
+    "title": "“considered resigning”",
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006)"
+   }
+  },
+  {
+   "say": "The next quarter, the staff cut the income tax reserve by four hundred seven million dollars and altered other accounts, until reported line costs were seven hundred ninety-seven million dollars lower. The monthly reports sent to Ebbers carried the reduced line costs: an apparent gross margin of seventy-eight percent in September two thousand, and seventy-four percent in December. WorldCom had never achieved margins like that.",
+   "show": "The next quarter, the staff cut the income tax reserve by $407 million and altered other accounts, until reported line costs were $797 million lower. The monthly reports sent to Ebbers carried the reduced line costs: an apparent gross margin of 78% in September 2000, and 74% in December. WorldCom had never achieved margins like that.",
+   "scene": {
+    "type": "stat",
+    "kicker": "PER THE APPEALS COURT",
+    "value": "78%",
+    "label": "apparent gross margin, Sept. 2000 report —|never achieved by WorldCom before",
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006)"
+   }
+  },
+  {
+   "say": "By early two thousand one, the reserves were largely exhausted. Sullivan proposed something new. Line costs had always been operating expenses. Now part of them would be booked as capital expenditures, like investments in equipment.",
+   "show": "By early 2001, the reserves were largely exhausted. Sullivan proposed something new. Line costs had always been operating expenses. Now part of them would be booked as capital expenditures, like investments in equipment.",
+   "scene": {
+    "type": "doc",
+    "img": "img/opp_38.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3499,
+     1.0,
+     0.1608
+    ],
+    "kicker": "2001 · PER THE GOVERNMENT",
+    "title": "Line costs → capital expenditures",
+    "src": "Brief for the United States in Opposition, Ebbers v. United States, No. 06-590 (2007)"
+   }
+  },
+  {
+   "say": "At a dinner in Washington in March two thousand one, Sullivan told Ebbers the planned move, over five hundred million dollars, wasn't right. Ebbers did not deter him.",
+   "show": "At a dinner in Washington in March 2001, Sullivan told Ebbers the planned move, over $500 million, \"wasn't right.\" Ebbers did not deter him.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca2_right.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.413,
+     1.0,
+     0.13
+    ],
+    "kicker": "MARCH 2001 · WASHINGTON",
+    "title": "“wasn't right”",
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006)"
+   }
+  },
+  {
+   "say": "On the earnings call, the change went unmentioned. Ebbers said there were no storms on the horizon, and urged listeners to go out and buy stock.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca2_storms.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4805,
+     1.0,
+     0.0883
+    ],
+    "kicker": "FIRST QUARTER 2001 · EARNINGS CALL",
+    "title": "“no storms on the horizon”",
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006)"
+   }
+  },
+  {
+   "say": "At one line-cost meeting, he told employees his lifeblood was in the stock. If it fell below about twelve dollars a share, margin calls would wipe him out.",
+   "show": "At one line-cost meeting, he told employees his \"lifeblood was in the stock.\" If it fell below about $12 a share, margin calls would wipe him out.",
+   "scene": {
+    "type": "big",
+    "kicker": "2001 · PER THE APPEALS COURT",
+    "lines": [
+     "His lifeblood:",
+     "the stock."
+    ],
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006)"
+   }
+  },
+  {
+   "say": "Revenue was the other problem. Executives created a program called Close the Gap, to find new items to count. In a voicemail to Ebbers, Sullivan described some of them as accounting fluff, one-time stuff, and junk.",
+   "show": "Revenue was the other problem. Executives created a program called \"Close the Gap,\" to find new items to count. In a voicemail to Ebbers, Sullivan described some of them as \"accounting fluff,\" \"one-time stuff,\" and \"junk.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca2_fluff.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.5828,
+     1.0,
+     0.0473
+    ],
+    "kicker": "“CLOSE THE GAP”",
+    "title": "“accounting fluff” · “junk”",
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006)"
+   }
+  },
+  {
+   "say": "Quarter after quarter, the capitalized line costs grew. Seven hundred seventy-one million. Over six hundred ten million. Over seven hundred million. Over nine hundred forty-one million. Eight hundred eighteen million.",
+   "show": "Quarter after quarter, the capitalized line costs grew. $771 million. Over $610 million. Over $700 million. Over $941 million. $818 million.",
+   "scene": {
+    "type": "bars",
+    "kicker": "LINE COSTS CAPITALIZED · PER THE APPEALS COURT",
+    "title": "Expenses moved to capital",
+    "items": [
+     {
+      "label": "Q1 2001",
+      "value": 771,
+      "display": "$771M"
+     },
+     {
+      "label": "Q2 2001",
+      "value": 610,
+      "display": "$610M+"
+     },
+     {
+      "label": "Q3 2001",
+      "value": 700,
+      "display": "$700M+"
+     },
+     {
+      "label": "Q4 2001",
+      "value": 941,
+      "display": "$941M+"
+     },
+     {
+      "label": "Q1 2002",
+      "value": 818,
+      "display": "$818M"
+     }
+    ],
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006)"
+   }
+  },
+  {
+   "say": "After the fourth quarter, Ebbers assured investors: we stand by our accounting. In total, about three point eight billion dollars had been moved from expenses to capital.",
+   "show": "After the fourth quarter, Ebbers assured investors: \"We stand by our accounting.\" In total, about $3.8 billion had been moved from expenses to capital.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca2_stand.jpg",
+    "pan": [
+     0.321,
+     0.321
+    ],
+    "hl": [
+     0.0,
+     0.7239,
+     1.0,
+     0.0879
+    ],
+    "kicker": "FOURTH QUARTER 2001 · EARNINGS CALL",
+    "title": "“[w]e stand by our accounting”",
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006) · Brief for the United States in Opposition, Ebbers v. United States, No. 06-590 (2007)"
+   }
+  },
+  {
+   "say": "Chapter three. The audit.",
+   "scene": {
+    "type": "chapter",
+    "n": "III",
+    "title": "The Audit"
+   }
+  },
+  {
+   "say": "In March two thousand two, the S.E.C. began to investigate WorldCom. At the end of April, the board asked Ebbers to resign. He did, on April twenty-ninth. In May, he bought three million more shares of WorldCom stock.",
+   "show": "In March 2002, the SEC began to investigate WorldCom. At the end of April, the board asked Ebbers to resign. He did, on April 29. In May, he bought three million more shares of WorldCom stock.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "2002 · PER THE APPEALS COURT",
+    "events": [
+     {
+      "date": "MARCH",
+      "text": "SEC investigates"
+     },
+     {
+      "date": "APRIL 29",
+      "text": "Ebbers resigns"
+     },
+     {
+      "date": "MAY",
+      "text": "Buys 3 million shares"
+     },
+     {
+      "date": "JUNE 25",
+      "text": "Fraud disclosed"
+     }
+    ],
+    "at": 2,
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006)"
+   }
+  },
+  {
+   "say": "A month after he left, WorldCom's own internal audit department found the capitalized line costs. TIME magazine later reported that its head, Cynthia Cooper, and her team worked late into the night, keeping the project secret.",
+   "scene": {
+    "type": "big",
+    "kicker": "MAY–JUNE 2002 · PER TIME",
+    "lines": [
+     "Internal audit.",
+     "Late into|the night."
+    ],
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006) · TIME, “The Night Detective,” Dec 2002"
+   }
+  },
+  {
+   "say": "According to TIME, on June eleventh, Sullivan asked her to delay the audit. She refused. The next day she told the head of the board's audit committee.",
+   "show": "According to TIME, on June 11, Sullivan asked her to delay the audit. She refused. The next day she told the head of the board's audit committee.",
+   "scene": {
+    "type": "big",
+    "kicker": "JUNE 11, 2002 · PER TIME",
+    "lines": [
+     "Delay the audit?",
+     "Refused."
+    ],
+    "src": "TIME, “The Night Detective,” Dec 2002"
+   }
+  },
+  {
+   "say": "Sullivan was soon fired. On June twenty-fifth, two thousand two, WorldCom disclosed the fraud. The stock lost ninety percent of its value.",
+   "show": "Sullivan was soon fired. On June 25, 2002, WorldCom disclosed the fraud. The stock lost 90% of its value.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca2_audit.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4826,
+     1.0,
+     0.2096
+    ],
+    "kicker": "JUNE 25, 2002",
+    "title": "The disclosure",
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006)"
+   }
+  },
+  {
+   "say": "Within twenty-four hours, the S.E.C. sued. Its complaint said WorldCom had overstated its income by about three point oh five five billion dollars in two thousand one, and seven hundred ninety-seven million in early two thousand two. For two thousand one, it said, the company had actually lost about six hundred sixty-two million dollars.",
+   "show": "Within 24 hours, the SEC sued. Its complaint said WorldCom had overstated its income by about $3.055 billion in 2001, and $797 million in early 2002. For 2001, it said, the company had actually lost about $662 million.",
+   "scene": {
+    "type": "doc",
+    "img": "img/cf_24h.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1627,
+     1.0,
+     0.2094
+    ],
+    "kicker": "WITHIN 24 HOURS",
+    "title": "“more than $3.8 billion”",
+    "src": "DOJ Corporate Fraud Task Force, First Year Report to the President, Jul 2003 · SEC complaint, SEC v. WorldCom, S.D.N.Y., Jun 26, 2002"
+   }
+  },
+  {
+   "say": "The S.E.C.'s statement that day called them accounting improprieties of unprecedented magnitude.",
+   "scene": {
+    "type": "quote",
+    "q": "accounting improprieties of unprecedented magnitude",
+    "case": "SEC v. WORLDCOM",
+    "doc": "SEC STATEMENT · JUNE 26, 2002",
+    "cite": "SEC press release 2002-94, Jun 26, 2002",
+    "size": 58
+   }
+  },
+  {
+   "say": "On July eighth, Ebbers appeared before a House committee. He read a statement, then declined to answer questions, citing his Fifth Amendment rights.",
+   "show": "On July 8, Ebbers appeared before a House committee. He read a statement, then declined to answer questions, citing his Fifth Amendment rights.",
+   "scene": {
+    "type": "quote",
+    "q": "I believe that no one will conclude that I engaged in any criminal or fraudulent conduct during my tenure at WorldCom.",
+    "case": "HOUSE FINANCIAL SERVICES COMMITTEE",
+    "doc": "BERNARD EBBERS · JULY 8, 2002",
+    "cite": "House Financial Services Committee hearing, Jul 8, 2002 (Serial No. 107-74)",
+    "size": 44
+   }
+  },
+  {
+   "say": "On July twenty-first, WorldCom filed for bankruptcy, reporting one hundred seven billion dollars in assets, the largest bankruptcy in U.S. history at the time, the Associated Press reported.",
+   "show": "On July 21, WorldCom filed for bankruptcy, reporting $107 billion in assets, the largest bankruptcy in U.S. history at the time, the Associated Press reported.",
+   "scene": {
+    "type": "big",
+    "kicker": "JULY 21, 2002 · PER THE ASSOCIATED PRESS",
+    "lines": [
+     "$107 billion.",
+     "Bankrupt."
+    ],
+    "src": "Associated Press, Jul 22, 2002"
+   }
+  },
+  {
+   "say": "On August first, five weeks after the disclosure, prosecutors filed a criminal complaint against Sullivan and Myers.",
+   "show": "On August 1, five weeks after the disclosure, prosecutors filed a criminal complaint against Sullivan and Myers.",
+   "scene": {
+    "type": "doc",
+    "img": "img/cf_5wk.jpg",
+    "pan": [
+     0.591,
+     0.591
+    ],
+    "hl": [
+     0.0,
+     0.7895,
+     1.0,
+     0.1483
+    ],
+    "kicker": "AUGUST 1, 2002",
+    "title": "“five weeks after”",
+    "src": "DOJ Corporate Fraud Task Force, First Year Report to the President, Jul 2003"
+   }
+  },
+  {
+   "say": "Chapter four. The trial.",
+   "scene": {
+    "type": "chapter",
+    "n": "IV",
+    "title": "The Trial"
+   }
+  },
+  {
+   "say": "Myers and three former members of his department were convicted. On March second, two thousand four, Sullivan pleaded guilty and agreed to cooperate. That same day, an indictment against Ebbers was unsealed. That September, a superseding indictment charged him with nine counts.",
+   "show": "Myers and three former members of his department were convicted. On March 2, 2004, Sullivan pleaded guilty and agreed to cooperate. That same day, an indictment against Ebbers was unsealed. That September, a superseding indictment charged him with nine counts.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "THE CHARGES",
+    "events": [
+     {
+      "date": "AUG 1, 2002",
+      "text": "Sullivan, Myers charged"
+     },
+     {
+      "date": "MAR 2, 2004",
+      "text": "Sullivan pleads guilty"
+     },
+     {
+      "date": "SEP 15, 2004",
+      "text": "Ebbers: 9 counts"
+     },
+     {
+      "date": "JAN 2005",
+      "text": "Trial begins"
+     }
+    ],
+    "at": 2,
+    "src": "DOJ Corporate Fraud Task Force, First Year Report to the President, Jul 2003 · Attorney General's prepared remarks, Mar 2, 2004 · Government letter, S.D.N.Y., Oct 4, 2019 (Dkt. 354)"
+   }
+  },
+  {
+   "say": "The government called fourteen witnesses and introduced more than three hundred exhibits. Five witnesses, including Sullivan, had cooperation agreements. According to the Associated Press, only Sullivan directly implicated Ebbers.",
+   "show": "The government called 14 witnesses and introduced more than 300 exhibits. Five witnesses, including Sullivan, had cooperation agreements. According to the Associated Press, only Sullivan directly implicated Ebbers.",
+   "scene": {
+    "type": "doc",
+    "img": "img/opp_numbers.jpg",
+    "pan": [
+     0.253,
+     0.313
+    ],
+    "hl": [
+     0.0,
+     0.5468,
+     1.0,
+     0.0815
+    ],
+    "kicker": "THE TRIAL · 2005",
+    "title": "14 witnesses · 300+ exhibits",
+    "src": "Brief for the United States in Opposition, Ebbers v. United States, No. 06-590 (2007) · Associated Press, Mar 16, 2005"
+   }
+  },
+  {
+   "say": "Ebbers testified in his own defense. He denied speaking with Sullivan about improper adjustments to line costs, and said he never noticed them on the reports he reviewed.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE DEFENSE · PER THE GOVERNMENT",
+    "lines": [
+     "He testified.",
+     "He never|noticed."
+    ],
+    "src": "Brief for the United States in Opposition, Ebbers v. United States, No. 06-590 (2007)"
+   }
+  },
+  {
+   "say": "The trial judge, Barbara Jones, pointed to one of those reports. September two thousand: line costs of seven hundred thirty-two million dollars, against a budget of one point four billion. Shown it at trial, Ebbers said he simply did not notice.",
+   "show": "The trial judge, Barbara Jones, pointed to one of those reports. September 2000: line costs of $732 million, against a budget of $1.4 billion. Shown it at trial, Ebbers said he simply \"did not notice.\"",
+   "scene": {
+    "type": "stat",
+    "kicker": "SEPTEMBER 2000 REPORT · PER JUDGE JONES",
+    "value": "$732M",
+    "label": "in line costs —|against a $1.4 billion budget",
+    "src": "U.S. v. Ebbers, S.D.N.Y., order of Jul 9, 2005"
+   }
+  },
+  {
+   "say": "The appeals court later summed up his own testimony: using a procedure for signing documents he didn't bother to read in full, including the ten-Ks, and tossing the management budget variance report in the trash without reading it.",
+   "show": "The appeals court later summed up his own testimony: \"using a procedure for signing documents he didn't bother to read in full, including the 10-Ks, and tossing the management budget variance report in the trash without reading it.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca2_trash.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3806,
+     1.0,
+     0.1327
+    ],
+    "kicker": "THE APPEALS COURT",
+    "title": "“tossing … in the trash”",
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006)"
+   }
+  },
+  {
+   "say": "That was why the jury heard the instruction on conscious avoidance.",
+   "scene": {
+    "type": "doc",
+    "img": "img/opp_instr.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4531,
+     1.0,
+     0.0872
+    ],
+    "kicker": "THE JURY INSTRUCTION",
+    "title": "“deliberately closed his eyes”",
+    "src": "Brief for the United States in Opposition, Ebbers v. United States, No. 06-590 (2007)"
+   }
+  },
+  {
+   "say": "On March fifteenth, two thousand five, after eight days of deliberation, the jury found Bernard Ebbers guilty on all nine counts.",
+   "show": "On March 15, 2005, after eight days of deliberation, the jury found Bernard Ebbers guilty on all nine counts.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "THE VERDICT · MARCH 15, 2005",
+    "stamp": "GUILTY",
+    "big": "All 9 counts",
+    "sub": "Bernard J. Ebbers · conspiracy, securities fraud, false filings"
+   }
+  },
+  {
+   "say": "Chapter five. The sentence.",
+   "scene": {
+    "type": "chapter",
+    "n": "V",
+    "title": "The Sentence"
+   }
+  },
+  {
+   "say": "July thirteenth, two thousand five. Judge Jones found that the probation office's loss figure, over two billion dollars, was a reasonable estimate. The guidelines range: thirty years to life.",
+   "show": "July 13, 2005. Judge Jones found that the probation office's loss figure, over $2 billion, was \"a reasonable estimate.\" The guidelines range: 30 years to life.",
+   "scene": {
+    "type": "stat",
+    "kicker": "JULY 13, 2005 · PER THE GOVERNMENT",
+    "value": "$2B+",
+    "label": "in losses — “a reasonable estimate”|guidelines: 30 years to life",
+    "src": "Government letter, S.D.N.Y., Oct 4, 2019 (Dkt. 354)"
+   }
+  },
+  {
+   "say": "She credited testimony that Ebbers was the instigator of the fraud.",
+   "scene": {
+    "type": "doc",
+    "img": "img/gl_jones.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2454,
+     1.0,
+     0.1767
+    ],
+    "kicker": "JUDGE BARBARA S. JONES",
+    "title": "“the instigator of the fraud”",
+    "src": "Government letter, S.D.N.Y., Oct 4, 2019 (Dkt. 354) · Sentencing transcript, S.D.N.Y., Jul 13, 2005 (Exhibit B to Dkt. 354)"
+   }
+  },
+  {
+   "say": "Then she addressed his age and his heart condition.",
+   "scene": {
+    "type": "quote",
+    "q": "Although I recognize, as the defense has pointed out, that this sentence is likely to be a life sentence for Mr. Ebbers, I find that a sentence of anything less would not sufficiently reflect the seriousness of this crime.",
+    "case": "U.S. v. EBBERS",
+    "doc": "JUDGE BARBARA S. JONES · JULY 13, 2005",
+    "cite": "Sentencing transcript, S.D.N.Y., Jul 13, 2005 (Exhibit B to Dkt. 354)",
+    "size": 36
+   }
+  },
+  {
+   "say": "Twenty-five years in prison. He was sixty-three. There was no fine and no restitution order. Under a settlement with shareholders, he had to give up substantially all of his remaining assets.",
+   "show": "25 years in prison. He was 63. There was no fine and no restitution order. Under a settlement with shareholders, he had to give up substantially all of his remaining assets.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "THE SENTENCE · JULY 13, 2005",
+    "stamp": "SENTENCED",
+    "big": "25 years",
+    "sub": "Bernard J. Ebbers · assets to the shareholders' settlement"
+   }
+  },
+  {
+   "say": "The people who made the entries had pleaded guilty and cooperated. Sullivan, whom the judge called the architect of the fraud, got five years. Myers, a year and a day. So did accounting director Buford Yates. One accountant got five months. Another, probation.",
+   "show": "The people who made the entries had pleaded guilty and cooperated. Sullivan, whom the judge called \"the architect of the fraud,\" got five years. Myers, a year and a day. So did accounting director Buford Yates. One accountant got five months. Another, probation.",
+   "scene": {
+    "type": "bars",
+    "kicker": "THE SENTENCES · PER THE APPEALS COURT",
+    "title": "Prison, in months",
+    "items": [
+     {
+      "label": "CFO SULLIVAN",
+      "value": 60,
+      "display": "60"
+     },
+     {
+      "label": "MYERS",
+      "value": 12,
+      "display": "12+"
+     },
+     {
+      "label": "YATES",
+      "value": 12,
+      "display": "12+"
+     },
+     {
+      "label": "VINSON",
+      "value": 5,
+      "display": "5"
+     },
+     {
+      "label": "NORMAND",
+      "value": 0,
+      "display": "0"
+     },
+     {
+      "label": "EBBERS",
+      "value": 300,
+      "display": "300"
+     }
+    ],
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006) · Associated Press, Aug 12, 2005"
+   }
+  },
+  {
+   "say": "The appeals court explained the gap. All of them cooperated and pleaded guilty. Ebbers did not. And each was his subordinate.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca2_why.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4502,
+     1.0,
+     0.1194
+    ],
+    "kicker": "THE APPEALS COURT",
+    "title": "“Ebbers did not.”",
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006)"
+   }
+  },
+  {
+   "say": "Chapter six. After the verdict.",
+   "scene": {
+    "type": "chapter",
+    "n": "VI",
+    "title": "After the Verdict"
+   }
+  },
+  {
+   "say": "In July two thousand six, the Second Circuit affirmed. Twenty-five years, it wrote, is a long sentence for a white collar crime. But given Congress' policy decisions on sentences for fraud, the sentence is harsh but not unreasonable.",
+   "show": "In July 2006, the Second Circuit affirmed. \"Twenty-five years is a long sentence for a white collar crime,\" it wrote. But given Congress' policy decisions on sentences for fraud, \"the sentence is harsh but not unreasonable.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca2_harsh.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.5006,
+     1.0,
+     0.0949
+    ],
+    "kicker": "JULY 28, 2006 · SECOND CIRCUIT",
+    "title": "“harsh but not unreasonable”",
+    "src": "U.S. v. Ebbers, 458 F.3d 110 (2d Cir. Jul 28, 2006)"
+   }
+  },
+  {
+   "say": "On September twenty-sixth, two thousand six, he reported to federal prison in Oakdale, driving himself there, the Associated Press reported. In March two thousand seven, the Supreme Court declined to hear his case. His projected release date was July fourth, two thousand twenty-eight.",
+   "show": "On September 26, 2006, he reported to federal prison in Oakdale, driving himself there, the Associated Press reported. In March 2007, the Supreme Court declined to hear his case. His projected release date was July 4, 2028.",
+   "scene": {
+    "type": "doc",
+    "img": "img/gl_2028.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3327,
+     1.0,
+     0.0901
+    ],
+    "kicker": "BUREAU OF PRISONS · PER THE GOVERNMENT",
+    "title": "Release date: July 4, 2028",
+    "src": "Government letter, S.D.N.Y., Oct 4, 2019 (Dkt. 354) · Associated Press, Sep 26, 2006 · Associated Press, Mar 5, 2007"
+   }
+  },
+  {
+   "say": "WorldCom itself had settled with the S.E.C.: a civil penalty of two point two five billion dollars, to be satisfied in bankruptcy with seven hundred fifty million dollars in cash and stock for defrauded investors.",
+   "show": "WorldCom itself had settled with the SEC: a civil penalty of $2.25 billion, to be satisfied in bankruptcy with $750 million in cash and stock for defrauded investors.",
+   "scene": {
+    "type": "stat",
+    "kicker": "SEC v. WORLDCOM · PER THE JUSTICE DEPARTMENT",
+    "value": "$750M",
+    "label": "to investors, to satisfy|a $2.25 billion penalty",
+    "src": "DOJ Corporate Fraud Task Force, First Year Report to the President, Jul 2003"
+   }
+  },
+  {
+   "say": "In September two thousand nineteen, after almost thirteen years in prison, Ebbers asked to be released on medical grounds. He was legally blind, with a heart condition and significant weight loss. One letter of support came from the judge who had sentenced him, Barbara Jones, now retired. Given his serious health problems, she wrote, he has been punished enough.",
+   "show": "In September 2019, after almost 13 years in prison, Ebbers asked to be released on medical grounds. He was legally blind, with a heart condition and significant weight loss. One letter of support came from the judge who had sentenced him, Barbara Jones, now retired. \"Given [his] serious health problems,\" she wrote, he \"has been punished enough.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/gl_enough.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.5517,
+     1.0,
+     0.1808
+    ],
+    "kicker": "THE SENTENCING JUDGE'S LETTER · PER THE GOVERNMENT",
+    "title": "“punished enough”",
+    "src": "Government letter, S.D.N.Y., Oct 4, 2019 (Dkt. 354)"
+   }
+  },
+  {
+   "say": "The government opposed, pointing to the size of the fraud and to her own words at sentencing: likely a life sentence.",
+   "scene": {
+    "type": "doc",
+    "img": "img/gl_open.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4442,
+     1.0,
+     0.1214
+    ],
+    "kicker": "OCTOBER 4, 2019 · U.S. ATTORNEY, S.D.N.Y.",
+    "title": "The government opposes",
+    "src": "Government letter, S.D.N.Y., Oct 4, 2019 (Dkt. 354)"
+   }
+  },
+  {
+   "say": "On December eighteenth, two thousand nineteen, Judge Valerie Caproni granted the motion. He left federal custody on December twenty-first. Bernard Ebbers died on February second, two thousand twenty. He was seventy-eight.",
+   "show": "On December 18, 2019, Judge Valerie Caproni granted the motion. He left federal custody on December 21. Bernard Ebbers died on February 2, 2020. He was 78.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "2019–2020",
+    "events": [
+     {
+      "date": "SEP 5, 2019",
+      "text": "Motion filed"
+     },
+     {
+      "date": "DEC 18, 2019",
+      "text": "Release granted"
+     },
+     {
+      "date": "DEC 21, 2019",
+      "text": "Leaves custody"
+     },
+     {
+      "date": "FEB 2, 2020",
+      "text": "Dies at 78"
+     }
+    ],
+    "at": 1,
+    "src": "U.S. v. Ebbers, 432 F. Supp. 3d 421 (S.D.N.Y. Jan 8, 2020) · WLBT, Feb 3, 2020 (family statement)"
+   }
+  },
+  {
+   "say": "September two thousand. Seven hundred thirty-two million dollars in line costs, against a budget of one point four billion.",
+   "show": "September 2000. $732 million in line costs, against a budget of $1.4 billion.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "$732M reported.",
+     "$1.4B|budgeted."
+    ]
+   }
+  },
+  {
+   "say": "He said he never noticed. The paper trail did.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "He never noticed.",
+     "The paper|trail did."
+    ]
+   }
+  },
+  {
+   "say": "This is SWORN. Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ]
+}

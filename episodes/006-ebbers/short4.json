@@ -1,0 +1,101 @@
+{
+ "title": "The Internal Auditor Who Found WorldCom's Hidden Billions",
+ "hook": "The auditor who|wouldn't wait.",
+ "lines": [
+  {
+   "say": "May two thousand two. WorldCom's CEO, Bernard Ebbers, has just resigned.",
+   "show": "May 2002. WorldCom's CEO, Bernard Ebbers, has just resigned.",
+   "scene": {
+    "type": "big",
+    "kicker": "MAY 2002",
+    "lines": [
+     "The CEO",
+     "is|gone."
+    ],
+    "src": "U.S. v. Ebbers, 2d Cir., Jul 28, 2006"
+   }
+  },
+  {
+   "say": "Inside the company, the internal audit department finds billions in expenses booked as capital.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca2_audit.jpg",
+    "pan": [
+     0.258,
+     0.318
+    ],
+    "hl": [
+     0.0,
+     0.4826,
+     1.0,
+     0.2096
+    ],
+    "kicker": "INTERNAL AUDIT",
+    "src": "U.S. v. Ebbers, 2d Cir., Jul 28, 2006"
+   }
+  },
+  {
+   "say": "TIME reported that its head, Cynthia Cooper, and her team worked late into the night, in secret.",
+   "scene": {
+    "type": "big",
+    "kicker": "PER TIME",
+    "lines": [
+     "Late nights.",
+     "In|secret."
+    ],
+    "src": "TIME, Dec 2002"
+   }
+  },
+  {
+   "say": "On June eleventh, according to TIME, the CFO asked her to delay the audit. She refused, and went to the board's audit committee.",
+   "show": "On June 11, according to TIME, the CFO asked her to delay the audit. She refused, and went to the board's audit committee.",
+   "scene": {
+    "type": "big",
+    "kicker": "JUNE 11, 2002 · PER TIME",
+    "lines": [
+     "Delay it?",
+     "Refused."
+    ],
+    "src": "TIME, Dec 2002"
+   }
+  },
+  {
+   "say": "June twenty-fifth, WorldCom disclosed the fraud. Within twenty-four hours, the S.E.C. sued.",
+   "show": "June 25, WorldCom disclosed the fraud. Within 24 hours, the SEC sued.",
+   "scene": {
+    "type": "doc",
+    "img": "img/cf_24h.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1627,
+     1.0,
+     0.2094
+    ],
+    "kicker": "WITHIN 24 HOURS",
+    "src": "DOJ Corporate Fraud Task Force, 2003 · SEC complaint, Jun 26, 2002"
+   }
+  },
+  {
+   "say": "The stock lost ninety percent. The CEO got twenty-five years.",
+   "show": "The stock lost 90%. The CEO got 25 years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "2005",
+    "stamp": "SENTENCED",
+    "big": "25 years",
+    "sub": "Bernard J. Ebbers"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}
