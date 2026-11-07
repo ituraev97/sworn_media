@@ -1,0 +1,936 @@
+{
+ "label": "SWORN · CASE 007",
+ "lines": [
+  {
+   "say": "In August nineteen sixty-one, a Florida man too poor to hire a lawyer stood in front of a judge and asked for one. The judge said no.",
+   "show": "In August 1961, a Florida man too poor to hire a lawyer stood in front of a judge and asked for one. The judge said no.",
+   "scene": {
+    "type": "doc",
+    "img": "img/op_coll.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4257,
+     1.0,
+     0.0904
+    ],
+    "kicker": "BAY COUNTY, FLORIDA · AUGUST 4, 1961",
+    "title": "Too poor for a lawyer",
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)"
+   }
+  },
+  {
+   "say": "Under Florida law, the judge explained, he could appoint a lawyer only for a defendant charged with a capital offense. The man answered:",
+   "scene": {
+    "type": "quote",
+    "q": "I am sorry, but I will have to deny your request to appoint Counsel to defend you in this case.",
+    "case": "GIDEON v. WAINWRIGHT",
+    "doc": "JUDGE ROBERT L. McCRARY, JR.",
+    "cite": "As quoted in Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)",
+    "size": 46
+   }
+  },
+  {
+   "say": "The United States Supreme Court says I am entitled to be represented by Counsel.",
+   "scene": {
+    "type": "quote",
+    "q": "The United States Supreme Court says I am entitled to be represented by Counsel.",
+    "case": "GIDEON v. WAINWRIGHT",
+    "doc": "CLARENCE EARL GIDEON · AUGUST 4, 1961",
+    "cite": "As quoted in Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)",
+    "size": 52
+   }
+  },
+  {
+   "say": "At the time, he was wrong. The Supreme Court had never said that, not for a case like his. Nineteen months later, it did.",
+   "show": "At the time, he was wrong. The Supreme Court had never said that, not for a case like his. 19 months later, it did.",
+   "scene": {
+    "type": "big",
+    "kicker": "MARCH 18, 1963",
+    "lines": [
+     "At the time,|he was wrong.",
+     "Then the Court|agreed."
+    ],
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)"
+   }
+  },
+  {
+   "say": "This is SWORN.",
+   "scene": {
+    "type": "title",
+    "kicker": "SWORN · CASE 007 · THE ARGUMENT",
+    "title": "Too Poor for|a Lawyer",
+    "sub": "Gideon v. Wainwright · Supreme Court of the United States · 1963"
+   }
+  },
+  {
+   "say": "Chapter one. The poolroom.",
+   "scene": {
+    "type": "chapter",
+    "n": "I",
+    "title": "The Poolroom"
+   }
+  },
+  {
+   "say": "Panama City, Florida. Early on the morning of June third, nineteen sixty-one, someone broke into the Bay Harbor Poolroom. A cigarette machine and a jukebox had been broken into. Some beer and wine was gone.",
+   "show": "Panama City, Florida. Early on the morning of June 3, 1961, someone broke into the Bay Harbor Poolroom. A cigarette machine and a jukebox had been broken into. Some beer and wine was gone.",
+   "scene": {
+    "type": "big",
+    "kicker": "JUNE 3, 1961 · PANAMA CITY, FLORIDA",
+    "lines": [
+     "The Bay Harbor",
+     "Poolroom."
+    ],
+    "src": "Reporter's transcript of trial, Bay County, Aug 4, 1961 (in the Transcript of Record)"
+   }
+  },
+  {
+   "say": "That same day, Clarence Earl Gideon was arrested. He was fifty years old, with an eighth-grade education and a long criminal record, according to Bruce Jacob, the lawyer who would later argue against him.",
+   "show": "That same day, Clarence Earl Gideon was arrested. He was 50 years old, with an eighth-grade education and a long criminal record, according to Bruce Jacob, the lawyer who would later argue against him.",
+   "scene": {
+    "type": "stat",
+    "kicker": "CLARENCE EARL GIDEON · 1961",
+    "value": "50",
+    "label": "years old —|an eighth-grade education",
+    "src": "Bruce R. Jacob, “The Gideon Trials,” 99 Iowa Law Review 2059 (2014)"
+   }
+  },
+  {
+   "say": "On June nineteenth, the state attorney filed the charge. Gideon, it said, did unlawfully and feloniously break and enter the poolroom, with intent to commit a misdemeanor: petit larceny.",
+   "show": "On June 19, the state attorney filed the charge. Gideon, it said, \"did unlawfully and feloniously break and enter\" the poolroom, with intent to commit a misdemeanor: petit larceny.",
+   "scene": {
+    "type": "doc",
+    "img": "img/info.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.5702,
+     1.0,
+     0.1803
+    ],
+    "kicker": "THE INFORMATION · JUNE 19, 1961",
+    "title": "Breaking and entering",
+    "src": "Information, Circuit Court of Bay County, Fla., filed Jun 19, 1961 (in the Transcript of Record)"
+   }
+  },
+  {
+   "say": "Breaking and entering with that intent was a felony under Florida law. It carried up to five years in prison. And under Florida practice, a man charged with it got no lawyer unless he could pay for one.",
+   "show": "Breaking and entering with that intent was a felony under Florida law. It carried up to 5 years in prison. And under Florida practice, a man charged with it got no lawyer unless he could pay for one.",
+   "scene": {
+    "type": "doc",
+    "img": "img/op_syl.jpg",
+    "pan": [
+     0.254,
+     0.314
+    ],
+    "hl": [
+     0.0,
+     0.418,
+     1.0,
+     0.1008
+    ],
+    "kicker": "THE SUPREME COURT'S SUMMARY",
+    "title": "A noncapital felony",
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963) · Bruce R. Jacob, “The Gideon Trials,” 99 Iowa Law Review 2059 (2014)"
+   }
+  },
+  {
+   "say": "Gideon could not.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Gideon",
+     "could not."
+    ]
+   }
+  },
+  {
+   "say": "Chapter two. The trial.",
+   "scene": {
+    "type": "chapter",
+    "n": "II",
+    "title": "The Trial"
+   }
+  },
+  {
+   "say": "August fourth, nineteen sixty-one. Bay County Circuit Court, Judge Robert McCrary presiding. The judge asked whether the defendant was ready. Gideon said he was not. He had no counsel.",
+   "show": "August 4, 1961. Bay County Circuit Court, Judge Robert McCrary presiding. The judge asked whether the defendant was ready. Gideon said he was not. He had no counsel.",
+   "scene": {
+    "type": "quote",
+    "q": "Your Honor, I said: I request this Court to appoint Counsel to represent me in this trial.",
+    "case": "GIDEON v. WAINWRIGHT",
+    "doc": "CLARENCE EARL GIDEON · AUGUST 4, 1961",
+    "cite": "Reporter's transcript of trial, Bay County, Aug 4, 1961 (in the Transcript of Record)",
+    "size": 46
+   }
+  },
+  {
+   "say": "The judge denied the request, and had the reporter put it on the record: the defendant had asked for counsel, and the defendant said the Supreme Court said he was entitled to it.",
+   "scene": {
+    "type": "doc",
+    "img": "img/op_coll.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4257,
+     1.0,
+     0.0904
+    ],
+    "kicker": "THE TRIAL RECORD",
+    "title": "“entitled to be represented”",
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)"
+   }
+  },
+  {
+   "say": "Then the judge asked him again if he was ready. He said yes, sir. Six jurors were seated. Since the defendant had no lawyer, the judge asked them some questions on his behalf: would they give him the same fair trial they would if he had one? They said yes.",
+   "scene": {
+    "type": "big",
+    "kicker": "JURY SELECTION · PER THE TRIAL TRANSCRIPT",
+    "lines": [
+     "Six jurors.",
+     "No lawyer."
+    ],
+    "src": "Reporter's transcript of trial, Bay County, Aug 4, 1961 (in the Transcript of Record)"
+   }
+  },
+  {
+   "say": "The state's key witness was a man named Henry Cook. He testified he saw Gideon inside the poolroom at about five-thirty that morning, standing by the cigarette machine, then saw him leave by the back door, with some wine, and call a cab.",
+   "show": "The state's key witness was a man named Henry Cook. He testified he saw Gideon inside the poolroom at about 5:30 that morning, standing by the cigarette machine, then saw him leave by the back door, with some wine, and call a cab.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE STATE'S WITNESS · PER THE TRIAL TRANSCRIPT",
+    "lines": [
+     "5:30 a.m.",
+     "By the cigarette|machine."
+    ],
+    "src": "Reporter's transcript of trial, Bay County, Aug 4, 1961 (in the Transcript of Record)"
+   }
+  },
+  {
+   "say": "Gideon did what he could. The Supreme Court later summed it up: he conducted his defense about as well as could be expected from a layman. He gave an opening statement, cross-examined the state's witnesses, called his own, and argued his innocence.",
+   "scene": {
+    "type": "doc",
+    "img": "img/op_trial.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1655,
+     1.0,
+     0.0675
+    ],
+    "kicker": "AS THE SUPREME COURT DESCRIBED IT",
+    "title": "“about as well as could be expected”",
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)"
+   }
+  },
+  {
+   "say": "The jury came back the same day.",
+   "scene": {
+    "type": "doc",
+    "img": "img/verdict.jpg",
+    "pan": [
+     0.54,
+     0.54
+    ],
+    "hl": [
+     0.0,
+     0.8853,
+     1.0,
+     0.0556
+    ],
+    "kicker": "THE JURY'S VERDICT · AUGUST 4, 1961",
+    "title": "“guilty as charged”",
+    "src": "Bay County Circuit Court minute book, Aug 4 & Aug 25, 1961 (in the Transcript of Record)"
+   }
+  },
+  {
+   "say": "We, the jury, find the defendant, Clarence Earl Gideon, guilty as charged.",
+   "scene": {
+    "type": "quote",
+    "q": "We, the jury, find the defendant, Clarence Earl Gideon, guilty as charged. So say we all.",
+    "case": "GIDEON v. WAINWRIGHT",
+    "doc": "THE VERDICT · AUGUST 4, 1961",
+    "cite": "Bay County Circuit Court minute book, Aug 4 & Aug 25, 1961 (in the Transcript of Record)",
+    "size": 50
+   }
+  },
+  {
+   "say": "On August twenty-fifth, Judge McCrary pronounced sentence: the state prison, for a period of five years. Bruce Jacob later wrote that it was the maximum.",
+   "show": "On August 25, Judge McCrary pronounced sentence: the state prison, \"for a period of Five Years.\" Bruce Jacob later wrote that it was the maximum.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sentence.jpg",
+    "pan": [
+     0.407,
+     0.407
+    ],
+    "hl": [
+     0.0,
+     0.7719,
+     1.0,
+     0.097
+    ],
+    "kicker": "BAY COUNTY · AUGUST 25, 1961",
+    "title": "“a period of Five Years”",
+    "src": "Bay County Circuit Court minute book, Aug 4 & Aug 25, 1961 (in the Transcript of Record) · Bruce R. Jacob, “The Gideon Trials,” 99 Iowa Law Review 2059 (2014)"
+   }
+  },
+  {
+   "say": "Five years in prison, for a poolroom break-in. With no lawyer.",
+   "show": "5 years in prison, for a poolroom break-in. With no lawyer.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "THE SENTENCE · AUGUST 25, 1961",
+    "stamp": "GUILTY",
+    "big": "5 years",
+    "sub": "Clarence Earl Gideon · no lawyer"
+   }
+  },
+  {
+   "say": "Chapter three. The petition.",
+   "scene": {
+    "type": "chapter",
+    "n": "III",
+    "title": "The Petition"
+   }
+  },
+  {
+   "say": "From the state prison at Raiford, Gideon petitioned the Florida Supreme Court for a writ of habeas corpus. He had apparently prepared it himself, the Supreme Court later noted.",
+   "scene": {
+    "type": "big",
+    "kicker": "OCTOBER 1961 · FLORIDA STATE PRISON",
+    "lines": [
+     "No lawyer.",
+     "His own|petition."
+    ],
+    "src": "Gideon's petition for habeas corpus, Fla. Sup. Ct., Oct 1961 (in the Transcript of Record) · Brief for the Respondent, Attorney General of Florida, No. 155 (filed Jan 1963) · Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)"
+   }
+  },
+  {
+   "say": "I was without funds and without an attorney. I asked this court to appoint me an attorney but they denied me that right.",
+   "scene": {
+    "type": "quote",
+    "q": "I was without funds and without an attorney. I asked this court to appoint me an attorney but they denied me that right.",
+    "case": "GIDEON v. WAINWRIGHT",
+    "doc": "GIDEON'S PETITION · OCTOBER 1961",
+    "cite": "Gideon's petition for habeas corpus, Fla. Sup. Ct., Oct 1961 (in the Transcript of Record)",
+    "size": 44
+   }
+  },
+  {
+   "say": "On October thirtieth, nineteen sixty-one, the Florida Supreme Court denied it, in a single sentence, without an opinion.",
+   "show": "On October 30, 1961, the Florida Supreme Court denied it, in a single sentence, without an opinion.",
+   "scene": {
+    "type": "doc",
+    "img": "img/fl_order.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.6497,
+     1.0,
+     0.193
+    ],
+    "kicker": "SUPREME COURT OF FLORIDA · OCTOBER 30, 1961",
+    "title": "“hereby denied”",
+    "src": "Florida Supreme Court, order of Oct 30, 1961 (in the Transcript of Record)"
+   }
+  },
+  {
+   "say": "So he went higher. In January nineteen sixty-two, a petition from Clarence Earl Gideon reached the Supreme Court of the United States. He asked to proceed as a pauper, without paying the fees.",
+   "show": "So he went higher. In January 1962, a petition from Clarence Earl Gideon reached the Supreme Court of the United States. He asked to proceed as a pauper, without paying the fees.",
+   "scene": {
+    "type": "doc",
+    "img": "img/rec_cover.jpg",
+    "pan": [
+     0.435,
+     0.435
+    ],
+    "hl": [
+     0.0,
+     0.855,
+     1.0,
+     0.0867
+    ],
+    "kicker": "SUPREME COURT OF THE UNITED STATES",
+    "title": "Petition filed January 8, 1962",
+    "src": "Transcript of Record, Gideon v. Cochran, U.S. Supreme Court No. 155, Oct. Term 1962"
+   }
+  },
+  {
+   "say": "He had a problem. Twenty years earlier, the Court had already decided this question, and decided it against him.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE PROBLEM",
+    "lines": [
+     "Already decided.",
+     "In 1942."
+    ],
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)"
+   }
+  },
+  {
+   "say": "The case was Betts versus Brady. Smith Betts was indicted for robbery in a Maryland state court. He told the judge he had no money for a lawyer and asked for one. He was told the county appointed lawyers for poor defendants only in murder and rape cases.",
+   "show": "The case was Betts v. Brady. Smith Betts was indicted for robbery in a Maryland state court. He told the judge he had no money for a lawyer and asked for one. He was told the county appointed lawyers for poor defendants only in murder and rape cases.",
+   "scene": {
+    "type": "doc",
+    "img": "img/op_betts.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3262,
+     1.0,
+     0.0355
+    ],
+    "kicker": "BETTS v. BRADY · 1942",
+    "title": "Robbery, in Maryland",
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)"
+   }
+  },
+  {
+   "say": "Betts defended himself. A judge found him guilty, and sentenced him to eight years in prison.",
+   "scene": {
+    "type": "doc",
+    "img": "img/op_betts.jpg",
+    "pan": [
+     0.295,
+     0.355
+    ],
+    "hl": [
+     0.0,
+     0.5258,
+     1.0,
+     0.0607
+    ],
+    "kicker": "BETTS v. BRADY · 1942",
+    "title": "Eight years",
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)"
+   }
+  },
+  {
+   "say": "A divided Supreme Court upheld it. Appointing counsel, the majority said, is not a fundamental right, essential to a fair trial. Whether a trial without a lawyer was unfair would depend on the totality of facts in each case.",
+   "scene": {
+    "type": "quote",
+    "q": "appointment of counsel is not a fundamental right, essential to a fair trial.",
+    "case": "BETTS v. BRADY",
+    "doc": "THE COURT · 1942",
+    "cite": "As quoted in Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)",
+    "size": 54
+   }
+  },
+  {
+   "say": "For twenty years, that was the rule. Then, on June fourth, nineteen sixty-two, the Court granted Gideon's petition, and added a question of its own.",
+   "show": "For 20 years, that was the rule. Then, on June 4, 1962, the Court granted Gideon's petition, and added a question of its own.",
+   "scene": {
+    "type": "doc",
+    "img": "img/cert.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4533,
+     1.0,
+     0.1783
+    ],
+    "kicker": "SUPREME COURT · JUNE 4, 1962",
+    "title": "The Court's own question",
+    "src": "U.S. Supreme Court, order of Jun 4, 1962 (in the Transcript of Record)"
+   }
+  },
+  {
+   "say": "Should this Court's holding in Betts versus Brady be reconsidered?",
+   "show": "\"Should this Court's holding in Betts v. Brady, 316 U.S. 455, be reconsidered?\"",
+   "scene": {
+    "type": "quote",
+    "q": "Should this Court's holding in Betts v. Brady, 316 U.S. 455, be reconsidered?",
+    "case": "GIDEON v. WAINWRIGHT",
+    "doc": "ORDER OF JUNE 4, 1962",
+    "cite": "U.S. Supreme Court, order of Jun 4, 1962 (in the Transcript of Record)",
+    "size": 52
+   }
+  },
+  {
+   "say": "Gideon could not pay a lawyer to argue that question. So the Court appointed one: Abe Fortas, a Washington lawyer.",
+   "scene": {
+    "type": "doc",
+    "img": "img/op_fortas.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2734,
+     1.0,
+     0.0753
+    ],
+    "kicker": "COUNSEL FOR THE PETITIONER",
+    "title": "“by appointment of the Court”",
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963) · Brief for the Petitioner, No. 155 (Arnold, Fortas & Porter, Washington, D.C.; Nov 21, 1962)"
+   }
+  },
+  {
+   "say": "Chapter four. The argument.",
+   "scene": {
+    "type": "chapter",
+    "n": "IV",
+    "title": "The Argument"
+   }
+  },
+  {
+   "say": "Florida's case was argued by Bruce Jacob, an assistant attorney general. His brief asked the Court to keep Betts. If the rule changed and applied to old cases, the brief warned, it could reach prisoners already convicted.",
+   "scene": {
+    "type": "doc",
+    "img": "img/op_fortas.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.381,
+     1.0,
+     0.0758
+    ],
+    "kicker": "COUNSEL FOR FLORIDA",
+    "title": "Bruce R. Jacob",
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)"
+   }
+  },
+  {
+   "say": "Florida's prison system had surveyed its own files. As of June thirtieth, nineteen sixty-two, it held eight thousand prisoners. Four thousand sixty-five of them had pleaded guilty with no counsel.",
+   "show": "Florida's prison system had surveyed its own files. As of June 30, 1962, it held 8,000 prisoners. 4,065 of them had pleaded guilty with no counsel.",
+   "scene": {
+    "type": "doc",
+    "img": "img/fl_survey.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2854,
+     1.0,
+     0.1356
+    ],
+    "kicker": "BRIEF FOR THE RESPONDENT · FLORIDA",
+    "title": "The prison survey",
+    "src": "Brief for the Respondent, Attorney General of Florida, No. 155 (filed Jan 1963)"
+   }
+  },
+  {
+   "say": "By the brief's estimate, about sixty-five percent of the prisoners whose records were available had no lawyer in the proceedings that convicted them.",
+   "show": "By the brief's estimate, about 65% of the prisoners whose records were available had no lawyer in the proceedings that convicted them.",
+   "scene": {
+    "type": "stat",
+    "kicker": "PER FLORIDA'S BRIEF",
+    "value": "65%",
+    "label": "had no lawyer, by|the state's own estimate",
+    "src": "Brief for the Respondent, Attorney General of Florida, No. 155 (filed Jan 1963)"
+   }
+  },
+  {
+   "say": "The brief's warning: a decision reversing the case, if retroactive, would allow over five thousand hardened criminals in Florida to be set free.",
+   "show": "The brief's warning: a decision reversing the case, if retroactive, \"will allow over 5,000 hardened criminals in Florida to be set free.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/fl_5000.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4223,
+     1.0,
+     0.1446
+    ],
+    "kicker": "BRIEF FOR THE RESPONDENT · FLORIDA",
+    "title": "“over 5,000 hardened criminals”",
+    "src": "Brief for the Respondent, Attorney General of Florida, No. 155 (filed Jan 1963)"
+   }
+  },
+  {
+   "say": "As many as five thousand ninety-three, it said, may be eligible to be released in one mass exodus.",
+   "show": "As many as 5,093, it said, \"may be eligible to be released in one mass exodus.\"",
+   "scene": {
+    "type": "quote",
+    "q": "as many as 5,093 hardened criminals may be eligible to be released in one mass exodus in Florida alone",
+    "case": "GIDEON v. WAINWRIGHT",
+    "doc": "FLORIDA'S BRIEF · 1963",
+    "cite": "Brief for the Respondent, Attorney General of Florida, No. 155 (filed Jan 1963)",
+    "size": 46
+   }
+  },
+  {
+   "say": "Two other states, Alabama and North Carolina, filed a brief supporting Florida. But twenty-two states filed a brief on Gideon's side, asking the Court to overrule Betts.",
+   "show": "Two other states, Alabama and North Carolina, filed a brief supporting Florida. But 22 states filed a brief on Gideon's side, asking the Court to overrule Betts.",
+   "scene": {
+    "type": "bars",
+    "kicker": "THE STATES · AS FRIENDS OF THE COURT",
+    "title": "States filing briefs",
+    "items": [
+     {
+      "label": "FOR GIDEON",
+      "value": 22,
+      "display": "22"
+     },
+     {
+      "label": "FOR FLORIDA",
+      "value": 2,
+      "display": "2"
+     }
+    ],
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)"
+   }
+  },
+  {
+   "say": "Betts, they argued, was an anachronism when handed down.",
+   "scene": {
+    "type": "quote",
+    "q": "an anachronism when handed down",
+    "case": "GIDEON v. WAINWRIGHT",
+    "doc": "22 STATES, AS FRIENDS OF THE COURT",
+    "cite": "As quoted in Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)",
+    "size": 64
+   }
+  },
+  {
+   "say": "On January fifteenth, nineteen sixty-three, the case was argued. Fortas for Gideon. Jacob for Florida. Lawyers for the American Civil Liberties Union and for the State of Alabama argued too.",
+   "show": "On January 15, 1963, the case was argued. Fortas for Gideon. Jacob for Florida. Lawyers for the American Civil Liberties Union and for the State of Alabama argued too.",
+   "scene": {
+    "type": "doc",
+    "img": "img/op_syl.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2102,
+     1.0,
+     0.0297
+    ],
+    "kicker": "SUPREME COURT · JANUARY 15, 1963",
+    "title": "Argued",
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)"
+   }
+  },
+  {
+   "say": "Chapter five. The decision.",
+   "scene": {
+    "type": "chapter",
+    "n": "V",
+    "title": "The Decision"
+   }
+  },
+  {
+   "say": "On March eighteenth, nineteen sixty-three, the Court ruled. The opinion was written by Justice Hugo Black, who had dissented in Betts versus Brady twenty-one years before. No justice dissented this time.",
+   "show": "On March 18, 1963, the Court ruled. The opinion was written by Justice Hugo Black, who had dissented in Betts v. Brady 21 years before. No justice dissented this time.",
+   "scene": {
+    "type": "big",
+    "kicker": "MARCH 18, 1963",
+    "lines": [
+     "Justice Hugo Black.",
+     "No dissent."
+    ],
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963) · U.S. Courts, Facts and Case Summary — Gideon v. Wainwright"
+   }
+  },
+  {
+   "say": "The facts of Betts and Gideon, the Court said, were so nearly indistinguishable that if Betts stood, Gideon would lose. Upon full reconsideration, we conclude that Betts versus Brady should be overruled.",
+   "show": "The facts of Betts and Gideon, the Court said, were so nearly indistinguishable that if Betts stood, Gideon would lose. \"Upon full reconsideration we conclude that Betts v. Brady should be overruled.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/op_overrule.jpg",
+    "pan": [
+     0.341,
+     0.401
+    ],
+    "hl": [
+     0.0,
+     0.5849,
+     1.0,
+     0.0912
+    ],
+    "kicker": "THE OPINION OF THE COURT",
+    "title": "“should be overruled”",
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)"
+   }
+  },
+  {
+   "say": "In our adversary system of criminal justice, the Court wrote, any person haled into court, who is too poor to hire a lawyer, cannot be assured a fair trial unless counsel is provided for him.",
+   "scene": {
+    "type": "doc",
+    "img": "img/op_truth.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2561,
+     1.0,
+     0.0936
+    ],
+    "kicker": "THE OPINION OF THE COURT",
+    "title": "“too poor to hire a lawyer”",
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)"
+   }
+  },
+  {
+   "say": "This seems to us to be an obvious truth.",
+   "scene": {
+    "type": "quote",
+    "q": "This seems to us to be an obvious truth.",
+    "case": "GIDEON v. WAINWRIGHT",
+    "doc": "JUSTICE HUGO BLACK · FOR THE COURT",
+    "cite": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)",
+    "size": 64
+   }
+  },
+  {
+   "say": "The Court went back to words written in nineteen thirty-two, in Powell versus Alabama, about what a defendant without a lawyer faces. Even an intelligent and educated layman, Justice George Sutherland had written, lacks both the skill and knowledge to prepare his defense, even though he have a perfect one.",
+   "show": "The Court went back to words written in 1932, in Powell v. Alabama, about what a defendant without a lawyer faces. Even an intelligent and educated layman, Justice George Sutherland had written, \"lacks both the skill and knowledge adequately to prepare his defense, even though he have a perfect one.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/op_powell.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1542,
+     1.0,
+     0.3673
+    ],
+    "kicker": "QUOTING POWELL v. ALABAMA · 1932",
+    "title": "“a perfect one”",
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)"
+   }
+  },
+  {
+   "say": "He requires the guiding hand of counsel at every step in the proceedings against him.",
+   "scene": {
+    "type": "quote",
+    "q": "He requires the guiding hand of counsel at every step in the proceedings against him.",
+    "case": "POWELL v. ALABAMA",
+    "doc": "JUSTICE GEORGE SUTHERLAND · 1932",
+    "cite": "As quoted in Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)",
+    "size": 50
+   }
+  },
+  {
+   "say": "Governments hire lawyers to prosecute. Defendants who have money hire lawyers to defend. Those facts, the Court said, are the strongest indications of a widespread belief: lawyers in criminal courts are necessities, not luxuries.",
+   "scene": {
+    "type": "doc",
+    "img": "img/op_truth.jpg",
+    "pan": [
+     0.338,
+     0.398
+    ],
+    "hl": [
+     0.0,
+     0.5352,
+     1.0,
+     0.0532
+    ],
+    "kicker": "THE OPINION OF THE COURT",
+    "title": "“necessities, not luxuries”",
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)"
+   }
+  },
+  {
+   "say": "And on the states' briefs: twenty-two states argue that Betts was an anachronism when handed down, and that it should now be overruled. We agree.",
+   "show": "And on the states' briefs: \"Twenty-two States, as friends of the Court, argue that Betts was 'an anachronism when handed down' and that it should now be overruled. We agree.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/op_agree.jpg",
+    "pan": [
+     0.338,
+     0.398
+    ],
+    "hl": [
+     0.0,
+     0.5091,
+     1.0,
+     0.0948
+    ],
+    "kicker": "THE OPINION OF THE COURT",
+    "title": "“We agree.”",
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)"
+   }
+  },
+  {
+   "say": "Justice John Marshall Harlan agreed Betts should go, but wrote that it deserved a more respectful burial.",
+   "scene": {
+    "type": "quote",
+    "q": "I agree that Betts v. Brady should be overruled, but consider it entitled to a more respectful burial than has been accorded",
+    "case": "GIDEON v. WAINWRIGHT",
+    "doc": "JUSTICE JOHN M. HARLAN · CONCURRING",
+    "cite": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)",
+    "size": 42
+   }
+  },
+  {
+   "say": "Justice Tom Clark, concurring, put it more simply. The Constitution, he wrote, makes no distinction between capital and noncapital cases.",
+   "scene": {
+    "type": "quote",
+    "q": "the Constitution makes no distinction between capital and noncapital cases.",
+    "case": "GIDEON v. WAINWRIGHT",
+    "doc": "JUSTICE TOM C. CLARK · CONCURRING IN THE RESULT",
+    "cite": "Gideon v. Wainwright, 372 U.S. 335 (Mar 18, 1963)",
+    "size": 52
+   }
+  },
+  {
+   "say": "The judgment against Gideon was reversed. The case went back to Florida.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "THE SUPREME COURT · MARCH 18, 1963",
+    "stamp": "REVERSED",
+    "neutral": true,
+    "big": "Betts overruled",
+    "sub": "Gideon v. Wainwright, 372 U.S. 335"
+   }
+  },
+  {
+   "say": "Chapter six. After the verdict.",
+   "scene": {
+    "type": "chapter",
+    "n": "VI",
+    "title": "After the Verdict"
+   }
+  },
+  {
+   "say": "Reversal did not set Gideon free. It meant a new trial. He was moved to the Bay County jail to be tried again, before the same judge, on the same charge.",
+   "scene": {
+    "type": "big",
+    "kicker": "1963 · BAY COUNTY",
+    "lines": [
+     "Same judge.",
+     "Same charge."
+    ],
+    "src": "Bruce R. Jacob, “The Gideon Trials,” 99 Iowa Law Review 2059 (2014)"
+   }
+  },
+  {
+   "say": "This time he had a lawyer. Gideon asked for a local lawyer named Fred Turner, and the judge appointed him.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE SECOND TRIAL",
+    "lines": [
+     "This time:",
+     "a lawyer."
+    ],
+    "src": "Bruce R. Jacob, “The Gideon Trials,” 99 Iowa Law Review 2059 (2014) · Encyclopedia.com, Clarence Earl Gideon Trials: 1961 & 1963"
+   }
+  },
+  {
+   "say": "The retrial took place on August fifth, nineteen sixty-three. Henry Cook testified again. At the first trial, he had denied ever being convicted of a felony. Now he said he had once stolen a car and been put on probation. Turner used that prior inconsistent statement to impeach and discredit him, Jacob later wrote, though Jacob noted the earlier offense was a juvenile matter.",
+   "show": "The retrial took place on August 5, 1963. Henry Cook testified again. At the first trial, he had denied ever being convicted of a felony. Now he said he had once stolen a car and been put on probation. Turner used that prior inconsistent statement to \"impeach and discredit\" him, Jacob later wrote, though Jacob noted the earlier offense was a juvenile matter.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "THE RETRIAL",
+    "events": [
+     {
+      "date": "AUG 4, 1961",
+      "text": "No lawyer. Guilty."
+     },
+     {
+      "date": "MAR 18, 1963",
+      "text": "Reversed"
+     },
+     {
+      "date": "AUG 5, 1963",
+      "text": "Retrial, with a lawyer"
+     }
+    ],
+    "at": 2,
+    "src": "Bruce R. Jacob, “The Gideon Trials,” 99 Iowa Law Review 2059 (2014)"
+   }
+  },
+  {
+   "say": "Same man. Same charge. This time, with a lawyer at his side, the jury acquitted him.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "THE RETRIAL · 1963 · BAY COUNTY",
+    "stamp": "NOT GUILTY",
+    "neutral": true,
+    "big": "Acquitted",
+    "sub": "Clarence Earl Gideon · with a lawyer"
+   }
+  },
+  {
+   "say": "And Florida's warning? Bruce Jacob, the lawyer who had argued it, later wrote that approximately twelve hundred prisoners in Florida were set free as a result of Gideon, because witnesses had died or moved away.",
+   "show": "And Florida's warning? Bruce Jacob, the lawyer who had argued it, later wrote that \"approximately 1200 prisoners in Florida were set free as a result of Gideon,\" because witnesses had died or moved away.",
+   "scene": {
+    "type": "stat",
+    "kicker": "PER BRUCE JACOB, FLORIDA'S LAWYER",
+    "value": "~1,200",
+    "label": "Florida prisoners set free,|he later wrote",
+    "src": "Bruce R. Jacob, “The Gideon Trials,” 99 Iowa Law Review 2059 (2014)"
+   }
+  },
+  {
+   "say": "Clarence Earl Gideon died in nineteen seventy-two. He was sixty-one.",
+   "show": "Clarence Earl Gideon died in 1972. He was 61.",
+   "scene": {
+    "type": "big",
+    "kicker": "1972",
+    "lines": [
+     "Died at 61.",
+     "The rule|stayed."
+    ],
+    "src": "Encyclopedia.com, Clarence Earl Gideon Trials: 1961 & 1963"
+   }
+  },
+  {
+   "say": "Nineteen sixty-one: no lawyer, guilty, five years. Nineteen sixty-three: a lawyer, not guilty.",
+   "show": "1961: no lawyer, guilty, 5 years. 1963: a lawyer, not guilty.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "1961: no lawyer.",
+     "1963: not|guilty."
+    ]
+   }
+  },
+  {
+   "say": "Necessities. Not luxuries.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Necessities.",
+     "Not|luxuries."
+    ]
+   }
+  },
+  {
+   "say": "This is SWORN. Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ]
+}

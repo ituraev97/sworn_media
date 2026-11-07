@@ -1,0 +1,75 @@
+{
+ "title": "5-Year Sentence Without a Lawyer. Not Guilty With One.",
+ "template": "before → after",
+ "hook": "1961: GUILTY.|1963: NOT GUILTY.",
+ "lines": [
+  {
+   "say": "Nineteen sixty-one. No lawyer. Guilty. Five years.",
+   "show": "1961. No lawyer. Guilty. 5 years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "AUGUST 1961 · BAY COUNTY, FLORIDA",
+    "stamp": "GUILTY",
+    "big": "5 years",
+    "sub": "Clarence Earl Gideon · no lawyer"
+   }
+  },
+  {
+   "say": "Clarence Earl Gideon was charged with breaking into a Florida poolroom. He asked for a lawyer. Florida appointed them only in capital cases.",
+   "scene": {
+    "type": "doc",
+    "img": "img/op_coll.jpg",
+    "pan": [
+     0.219,
+     0.279
+    ],
+    "hl": [
+     0.0,
+     0.4257,
+     1.0,
+     0.0904
+    ],
+    "kicker": "THE TRIAL · AUGUST 4, 1961",
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (1963)"
+   }
+  },
+  {
+   "say": "He took it to the Supreme Court, and won. A poor defendant, the Court said, cannot be assured a fair trial without one.",
+   "scene": {
+    "type": "doc",
+    "img": "img/op_truth.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2561,
+     1.0,
+     0.0936
+    ],
+    "kicker": "MARCH 18, 1963",
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (1963)"
+   }
+  },
+  {
+   "say": "Nineteen sixty-three. Retrial. Same charge, same judge. With a lawyer. Not guilty.",
+   "show": "1963. Retrial. Same charge, same judge. With a lawyer. Not guilty.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "THE RETRIAL · 1963",
+    "stamp": "NOT GUILTY",
+    "neutral": true,
+    "big": "Acquitted",
+    "sub": "with a lawyer"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

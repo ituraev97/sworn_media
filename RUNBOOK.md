@@ -1,12 +1,12 @@
 # SWORN — daily production runbook
 
-One run = one long episode (10–13 min, 1920×1080) + **6** vertical Shorts (35–60 s, 1080×1920), all about ONE court case, hosted here and scheduled in Metricool for ONE US day.
+One run = one long episode (10–13 min, ≥ 10:00, 1920×1080) + **3** vertical Shorts (25–40 s, 1080×1920; owner rule 2026-11-06), all about ONE court case, hosted here and scheduled in Metricool for ONE US day.
 Reference episode: `episodes/001-madoff/` (make_spec.py → episode.json, make_shorts.py → short1–6.json, meta.json, thumb.json, factcheck.md). Read it before writing anything.
 
 ## 0. Context
 - Channel bible: Projects doc `claude/sworn-bible.md` (project "AI YOUTUBE"). Brand book: Design System artifact "SWORN".
 - YouTube channel: SWORN (UCNoMjeEPiut8OgSGl0Y-WJg). Metricool brand **SWORN, blogId 7806713**. Publish timezone **America/New_York**.
-- Schedule per US day (ET): Shorts **08:00, 10:00, 14:00, 16:00, 18:00, 20:00**; long episode **12:00**.
+- Schedule per US day (ET): Shorts **10:00, 14:00, 18:00** (s1–s3); long episode **12:00** (owner rule 2026-11-06; was 6 Shorts).
 - Owner decisions: voice **B** = Kokoro `am_michael` + SWORN processing (built into `pipeline/tts.py`; long speed 0.98, Shorts 1.05). Do NOT set isAiGeneratedContent (graphics + real documents + synthetic narrator; the description says "Narration uses a synthetic voice").
 
 ## 1. Setup (fresh container)
@@ -53,7 +53,7 @@ QA (do not skip): open `out/contact_long.jpg` and every `contact_sN.jpg` — not
 ## 7. Host on GitHub (public raw URLs for Metricool)
 Branch = weekday of the ET target date (`drop-mon` … `drop-sun`). Orphan commit with ONLY that day's files, force-push:
 ```bash
-cd /home/claude/sworn_media && git checkout -q --orphan up && git rm -rqf . && cp $W/out/long.mp4 $W/out/thumb_A.jpg $W/out/thumb_C.jpg $W/out/s[1-6].mp4 . && \
+cd /home/claude/sworn_media && git checkout -q --orphan up && git rm -rqf . && cp $W/out/long.mp4 $W/out/thumb_A.jpg $W/out/thumb_C.jpg $W/out/s[1-3].mp4 . && \
 git add long.mp4 thumb_A.jpg thumb_C.jpg s*.mp4 && git -c user.name="SWORN bot" -c user.email="ituraev97@users.noreply.github.com" commit -qm "drop NNN" && \
 git push -qf origin up:drop-XXX && git checkout -qf main && git branch -D up
 ```
@@ -61,7 +61,7 @@ Check every `https://raw.githubusercontent.com/ituraev97/sworn_media/drop-XXX/<f
 
 ## 8. Schedule in Metricool (createScheduledPost, blogId 7806713, autoPublish true, providers [{"network":"youtube"}], publicationDate timezone America/New_York)
 - Long 12:00: text = `out/youtube_description.txt`; youtubeData {title, type "video", privacy "public", madeForKids false, category "EDUCATION", tags}; media [long.mp4 URL]; videoThumbnailUrl = thumb_A URL (if rejected, retry once without it).
-- Shorts 08:00, 10:00, 14:00, 16:00, 18:00, 20:00 (s1…s6 in that order): type "short", title from the short json, text = 1–2 lines + "Full case on the channel." + "#truecrime #courtcase #shorts", madeForKids false, category EDUCATION.
+- Shorts 10:00, 14:00, 18:00 (s1…s3 in that order): type "short", title from the short json, text = 1–2 lines + "Full case on the channel." + "#truecrime #courtcase #shorts", madeForKids false, category EDUCATION.
 
 ## 9. Close
 - Commit to main: episode folder (spec scripts, json, img/, sources.md, factcheck.md — no video), `backlog.md` row → `done YYYY-MM-DD`. fetch/rebase before push.
@@ -102,3 +102,11 @@ Check every `https://raw.githubusercontent.com/ituraev97/sworn_media/drop-XXX/<f
 - `stage.html` quote typing now finishes at ~72% of the block (was 86%): short quote lines showed a half-typed quote. Still keep a quote line ≥ ~2 s of speech (Shorts: put a lead-in in the same line).
 - Shell egress is narrow (justice.gov, archive.org, github work; sec.gov, govinfo, courtlistener, findlaw do not) — use WebFetch for text from those.
 - The 2026-11-05 long video on Metricool reported "Could not upload video thumbnail" — the channel likely needs phone verification for custom thumbnails.
+
+## Notes from run 007 (2026-11-07)
+- Supreme Court cases: archive.org `micro_IA4038…` items carry the printed **Transcript of Record** (state charging paper, minute book, verdict, sentence, state supreme court order, the Court's cert order) and the briefs; United States Reports volumes are on archive.org as `sim_united-states-supreme-court-cases-adjudged_…_<vol>` — the .pdf download returns HTTP 500, but single pages come from `<id>_jp2.zip/<id>_jp2%2F<id>_0NNN.jp2` (leaf from `_page_numbers.json`). loc.gov / tile.loc.gov are blocked from the shell.
+- `make_img.py` (007) finds highlight boxes with tesseract on both PDF rasters and jp2 pages; prefix a start phrase with `2:` for its second occurrence.
+- Florida state records and Florida AG briefs are public domain (bible); the trial reporter's transcript and the defendant's own petition were quoted, not shown.
+- `describe.py` now takes optional `docs_note` and `hashtags` from meta.json (non-federal documents, non-fraud cases).
+- 3 Shorts, 70–80 words each at 1.05 ≈ 28–35 s. Templates used: verbatim quote / number reveal / before→after.
+- WebFetch of some sites (uscourts.gov podcast page) needs approval and times out unattended; other uscourts.gov, Iowa Law Review and encyclopedia.com pages worked.

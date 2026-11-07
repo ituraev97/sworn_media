@@ -12,7 +12,7 @@ Add new rows when fewer than 10 `todo` remain (fraud, financial crime, scams, la
 | 006 | Billy McFarland — Fyre Festival fraud (S.D.N.Y. 2018) | THE VERDICT | justice.gov/usao-sdny | done 2026-11-05 (episode 005) |
 | 007 | Bernard Ebbers — WorldCom (S.D.N.Y. 2005) | THE PAPER TRAIL | justice.gov, SEC litigation releases | done 2026-11-06 (episode 006, published 2026-11-07) |
 | 008 | Tom Petters — Petters Group Ponzi (D. Minn. 2010) | THE VERDICT | justice.gov/usao-mn | todo |
-| 009 | Gideon v. Wainwright (1963) | THE ARGUMENT | opinion text, Gideon's handwritten petition (National Archives) | in progress (episode 007) |
+| 009 | Gideon v. Wainwright (1963) | THE ARGUMENT | opinion text, Gideon's handwritten petition (National Archives) | done 2026-11-07 (episode 007, published 2026-11-08) |
 | 010 | Raj Rajaratnam — Galleon insider trading (S.D.N.Y. 2011) | THE VERDICT | justice.gov/usao-sdny, SEC | todo |
 | 011 | Scott Rothstein — Fort Lauderdale Ponzi (S.D. Fla. 2010) | THE PAPER TRAIL | justice.gov/usao-sdfl | todo |
 | 012 | Martin Shkreli — securities fraud (E.D.N.Y. 2017–18) | THE VERDICT | justice.gov/usao-edny | todo |

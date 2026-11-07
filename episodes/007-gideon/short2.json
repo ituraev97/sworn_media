@@ -1,0 +1,76 @@
+{
+ "title": "\"Over 5,000 Hardened Criminals\": Florida's Warning",
+ "template": "number reveal",
+ "hook": "\"over 5,000|hardened criminals\"",
+ "lines": [
+  {
+   "say": "Over five thousand hardened criminals in Florida, set free, if the ruling reached old cases. That was Florida's warning to the Supreme Court.",
+   "show": "\"Over 5,000 hardened criminals in Florida,\" set free, if the ruling reached old cases. That was Florida's warning to the Supreme Court.",
+   "scene": {
+    "type": "stat",
+    "kicker": "FLORIDA'S BRIEF · 1963",
+    "value": "5,000+",
+    "label": "“hardened criminals”|to be set free",
+    "src": "Florida's brief, No. 155, 1963"
+   }
+  },
+  {
+   "say": "Its own survey: four thousand sixty-five prisoners had pleaded guilty with no lawyer.",
+   "show": "Its own survey: 4,065 prisoners had pleaded guilty with no lawyer.",
+   "scene": {
+    "type": "doc",
+    "img": "img/fl_survey.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2854,
+     1.0,
+     0.1356
+    ],
+    "kicker": "FLORIDA'S PRISON SURVEY · 1962",
+    "src": "Florida's brief, No. 155, 1963"
+   }
+  },
+  {
+   "say": "The case was Clarence Earl Gideon's. Five years for a poolroom break-in, tried without counsel. The Court sided with him anyway. Lawyers, it said, are necessities, not luxuries.",
+   "show": "The case was Clarence Earl Gideon's. 5 years for a poolroom break-in, tried without counsel. The Court sided with him anyway. Lawyers, it said, are \"necessities, not luxuries.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/op_truth.jpg",
+    "pan": [
+     0.36,
+     0.42
+    ],
+    "hl": [
+     0.0,
+     0.5352,
+     1.0,
+     0.0532
+    ],
+    "kicker": "MARCH 18, 1963",
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (1963)"
+   }
+  },
+  {
+   "say": "Florida's own lawyer later wrote: about twelve hundred were set free.",
+   "show": "Florida's own lawyer later wrote: about 1,200 were set free.",
+   "scene": {
+    "type": "stat",
+    "kicker": "PER FLORIDA'S LAWYER, BRUCE JACOB",
+    "value": "~1,200",
+    "label": "set free",
+    "src": "B. Jacob, 99 Iowa L. Rev. 2059 (2014)"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

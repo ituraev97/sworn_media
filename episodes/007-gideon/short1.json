@@ -1,0 +1,68 @@
+{
+ "title": "\"I Am Entitled to Be Represented by Counsel\"",
+ "template": "verbatim quote",
+ "hook": "\"I am entitled to be|represented by Counsel\"",
+ "lines": [
+  {
+   "say": "The United States Supreme Court says I am entitled to be represented by Counsel.",
+   "scene": {
+    "type": "quote",
+    "q": "The United States Supreme Court says I am entitled to be represented by Counsel.",
+    "case": "GIDEON v. WAINWRIGHT",
+    "doc": "CLARENCE EARL GIDEON · AUG 4, 1961",
+    "cite": "As quoted in Gideon v. Wainwright, 372 U.S. 335 (1963)",
+    "size": 50
+   }
+  },
+  {
+   "say": "Clarence Earl Gideon told a Florida judge that in nineteen sixty-one. Charged with breaking into a poolroom, too poor for a lawyer. The judge said no: Florida appointed counsel only in capital cases.",
+   "show": "Clarence Earl Gideon told a Florida judge that in 1961. Charged with breaking into a poolroom, too poor for a lawyer. The judge said no: Florida appointed counsel only in capital cases.",
+   "scene": {
+    "type": "doc",
+    "img": "img/op_coll.jpg",
+    "pan": [
+     0.219,
+     0.279
+    ],
+    "hl": [
+     0.0,
+     0.4257,
+     1.0,
+     0.0904
+    ],
+    "kicker": "BAY COUNTY, FLORIDA · 1961",
+    "src": "Gideon v. Wainwright, 372 U.S. 335 (1963)"
+   }
+  },
+  {
+   "say": "He defended himself. Guilty. Five years.",
+   "show": "He defended himself. Guilty. 5 years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "AUGUST 1961",
+    "stamp": "GUILTY",
+    "big": "5 years",
+    "sub": "no lawyer"
+   }
+  },
+  {
+   "say": "Nineteen sixty-three: the Supreme Court ruled for him, without a dissent. Retried with a lawyer, he was acquitted.",
+   "show": "1963: the Supreme Court ruled for him, without a dissent. Retried with a lawyer, he was acquitted.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "1963",
+    "stamp": "NOT GUILTY",
+    "neutral": true,
+    "big": "Acquitted",
+    "sub": "retried with a lawyer"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}
