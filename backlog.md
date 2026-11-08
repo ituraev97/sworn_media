@@ -16,7 +16,7 @@ Add new rows when fewer than 10 `todo` remain (fraud, financial crime, scams, la
 | 010 | Raj Rajaratnam — Galleon insider trading (S.D.N.Y. 2011) | THE VERDICT | justice.gov/usao-sdny, SEC | todo |
 | 011 | Scott Rothstein — Fort Lauderdale Ponzi (S.D. Fla. 2010) | THE PAPER TRAIL | justice.gov/usao-sdfl | todo |
 | 012 | Martin Shkreli — securities fraud (E.D.N.Y. 2017–18) | THE VERDICT | justice.gov/usao-edny | todo |
-| 013 | Jeffrey Skilling — Enron (S.D. Tex. 2006) | THE PAPER TRAIL | justice.gov Enron Task Force releases | todo |
+| 013 | Jeffrey Skilling — Enron (S.D. Tex. 2006) | THE VERDICT | justice.gov Enron Task Force releases | in progress (episode 008) |
 | 014 | Marc Dreier — law-firm note fraud (S.D.N.Y. 2009) | THE VERDICT | justice.gov/usao-sdny | todo |
 | 015 | Mapp v. Ohio (1961) | THE ARGUMENT | opinion text | todo |
 | 016 | Ross Ulbricht — Silk Road (S.D.N.Y. 2015; pardoned 2025) | THE VERDICT | justice.gov/usao-sdny, pardon record | todo |
