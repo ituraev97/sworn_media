@@ -1,0 +1,48 @@
+{
+ "title": "24 Years for Enron's CEO. Then It Became 14.",
+ "template": "before → after",
+ "hook": "24 YEARS.|THEN 14.",
+ "lines": [
+  {
+   "say": "Twenty-four years and four months. Enron's former CEO, Jeffrey Skilling, sentenced in two thousand six.",
+   "show": "24 years and 4 months. Enron's former CEO, Jeffrey Skilling, sentenced in 2006.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "OCTOBER 23, 2006",
+    "stamp": "SENTENCED",
+    "big": "24 yrs 4 mos",
+    "sub": "Jeffrey K. Skilling"
+   }
+  },
+  {
+   "say": "An appeals court threw out the sentence. Then the Supreme Court limited honest-services fraud, one theory against him, to bribes and kickbacks.",
+   "scene": {
+    "type": "quote",
+    "q": "We therefore hold that §1346 covers only bribery and kickback schemes.",
+    "case": "SKILLING v. UNITED STATES",
+    "doc": "THE SUPREME COURT · 2010",
+    "cite": "Skilling v. United States, 561 U.S. 358 (2010)",
+    "size": 46
+   }
+  },
+  {
+   "say": "His convictions stood. In two thousand thirteen, a new sentence: fourteen years. He was released in two thousand nineteen.",
+   "show": "His convictions stood. In 2013, a new sentence: 14 years. He was released in 2019.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "JUNE 21, 2013 · RESENTENCED",
+    "stamp": "REDUCED",
+    "neutral": true,
+    "big": "14 years",
+    "sub": "released 2019"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

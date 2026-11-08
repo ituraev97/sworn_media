@@ -110,3 +110,10 @@ Check every `https://raw.githubusercontent.com/ituraev97/sworn_media/drop-XXX/<f
 - `describe.py` now takes optional `docs_note` and `hashtags` from meta.json (non-federal documents, non-fraud cases).
 - 3 Shorts, 70–80 words each at 1.05 ≈ 28–35 s. Templates used: verbatim quote / number reveal / before→after.
 - WebFetch of some sites (uscourts.gov podcast page) needs approval and times out unattended; other uscourts.gov, Iowa Law Review and encyclopedia.com pages worked.
+
+## Notes from run 008 (2026-11-08)
+- The Supreme Court case file on archive.org (`micro_IA43085015_0478` for Skilling; search `advancedsearch.php?q=<name>+AND+mediatype:texts`) is a full PDF (480 MB, ~1 min download) with a text layer: Fifth Circuit opinion (Pet. App.), Joint Appendix (trial docket with the verdict entry, superseding indictment), and the Solicitor General's merits brief — all showable. `pdftotext -layout` once, split on \f to find pages. Never show the defense petition/briefs, juror materials or press clippings in the same file.
+- supremecourt.gov PDFs fail even in WebFetch; supreme.justia.com works (use offset for long opinions). justice.gov `/archives/opa/pr/...` gives a bot challenge from the shell (WebFetch works); `/archive/opa/pr/2006/...html` downloads from the shell.
+- Rendering a local justice.gov HTML with Playwright hung (external CSS); skipped the press-release image and used stat/quote cards with the DOJ cite.
+- Fact-check caught: a title calling Skilling "CEO" for Jan 2001 (he was President/COO until Feb 2001); "peak" claims not in the source; an unhedged government accounting claim; a Short title implying the Supreme Court cut the sentence. Check job titles against dates.
+- Pushing the drop branch: shorts+thumbs first, then the long in a second push, worked (75 MB long).

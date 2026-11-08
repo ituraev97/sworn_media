@@ -1,0 +1,69 @@
+{
+ "title": "\"Let Me Repeat That.\" What Enron's President Told Investors",
+ "template": "verbatim quote",
+ "hook": "\"Let me|repeat that.\"",
+ "lines": [
+  {
+   "say": "For Enron, the situation in California had little impact on fourth quarter results. Let me repeat that.",
+   "scene": {
+    "type": "quote",
+    "q": "[F]or Enron, the situation in California had little impact on fourth quarter results. Let me repeat that.",
+    "case": "UNITED STATES v. SKILLING",
+    "doc": "JEFFREY SKILLING · JAN 22, 2001",
+    "cite": "As quoted in Superseding Indictment, Cr. No. H-04-25",
+    "size": 44
+   }
+  },
+  {
+   "say": "Enron's president, Jeffrey Skilling, to analysts in January two thousand one. Prosecutors said he knew California's utilities likely couldn't pay what they owed.",
+   "show": "Enron's president, Jeffrey Skilling, to analysts in January 2001. Prosecutors said he knew California's utilities likely couldn't pay what they owed.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca5_calls.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2863,
+     1.0,
+     0.0586
+    ],
+    "kicker": "THE FIFTH CIRCUIT · 2009",
+    "src": "U.S. v. Skilling (5th Cir. 2009)"
+   }
+  },
+  {
+   "say": "That December, Enron went bankrupt. In two thousand six, a jury convicted him on nineteen counts.",
+   "show": "That December, Enron went bankrupt. In 2006, a jury convicted him on 19 counts.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "MAY 25, 2006 · HOUSTON",
+    "stamp": "GUILTY",
+    "big": "19 counts",
+    "sub": "Jeffrey K. Skilling"
+   }
+  },
+  {
+   "say": "Sentence: twenty-four years. Later cut to fourteen.",
+   "show": "Sentence: 24 years. Later cut to 14.",
+   "scene": {
+    "type": "big",
+    "kicker": "2006 → 2013",
+    "lines": [
+     "24 years.",
+     "Then|14."
+    ],
+    "src": "U.S. Dept. of Justice"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

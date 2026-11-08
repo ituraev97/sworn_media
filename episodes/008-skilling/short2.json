@@ -1,0 +1,55 @@
+{
+ "title": "$15 Million. Sold 6 Days After 9/11.",
+ "template": "dollar-figure reveal",
+ "hook": "$15 MILLION|6 days after 9/11",
+ "lines": [
+  {
+   "say": "Fifteen million dollars. Enron's former CEO netted more than that from one stock sale, on September seventeenth, two thousand one, the day markets reopened after nine eleven.",
+   "show": "$15 million. Enron's former CEO netted more than that from one stock sale, on September 17, 2001, the day markets reopened after 9/11.",
+   "scene": {
+    "type": "stat",
+    "kicker": "SEPTEMBER 17, 2001",
+    "value": "$15M+",
+    "label": "from one sale",
+    "src": "Brief for the United States, No. 08-1394"
+   }
+  },
+  {
+   "say": "He told his broker he didn't want people at Enron to know. Under oath, he said he sold because he was scared by September eleventh.",
+   "show": "He told his broker he didn't want people at Enron to know. Under oath, he said he sold because he was \"scared\" by September 11.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sg_scared.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1143,
+     1.0,
+     0.0768
+    ],
+    "kicker": "BRIEF FOR THE UNITED STATES",
+    "src": "Brief for the United States, No. 08-1394"
+   }
+  },
+  {
+   "say": "Less than three months later, Enron was bankrupt. The jury acquitted him on nine insider-trading counts. This sale was the one it convicted him on.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "COUNT 51 · INSIDER TRADING",
+    "stamp": "GUILTY",
+    "big": "Sept 17 sale",
+    "sub": "Jeffrey K. Skilling · 2006"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}
