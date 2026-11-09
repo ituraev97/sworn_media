@@ -1,0 +1,65 @@
+{
+ "title": "\"Divine Intervention\": How a $3.7B Ponzi Got Caught",
+ "template": "verbatim quote",
+ "hook": "“DIVINE|INTERVENTION”",
+ "lines": [
+  {
+   "say": "Divine intervention. That, the Justice Department said, is how Tom Petters explained getting away with it for so long, on tape, recorded by his own employee.",
+   "show": "\"Divine intervention.\" That, the Justice Department said, is how Tom Petters explained getting away with it for so long, on tape, recorded by his own employee.",
+   "scene": {
+    "type": "doc",
+    "img": "img/pet_pr.jpg",
+    "pan": [
+     0.349,
+     0.409
+    ],
+    "hl": [
+     0.0,
+     0.5619,
+     1.0,
+     0.0872
+    ],
+    "kicker": "U.S. ATTORNEY · APRIL 8, 2010",
+    "src": "U.S. Attorney, D. Minn. (Apr 8, 2010)"
+   }
+  },
+  {
+   "say": "Investors lent his company money to buy electronics for Costco and Sam's Club. No such purchases were made. In an FBI affidavit, a cooperating witness called the purchase orders entirely fabricated.",
+   "show": "Investors lent his company money to buy electronics for Costco and Sam's Club. No such purchases were made. In an FBI affidavit, a cooperating witness called the purchase orders \"entirely fabricated.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/pet_cw.jpg",
+    "pan": [
+     0.516,
+     0.522
+    ],
+    "hl": [
+     0.0,
+     0.7623,
+     1.0,
+     0.0463
+    ],
+    "kicker": "FBI AFFIDAVIT · OCTOBER 2008",
+    "src": "FBI affidavit, D. Minn. 08-MJ-364"
+   }
+  },
+  {
+   "say": "A three point seven billion dollar Ponzi scheme. Guilty on all twenty counts. Fifty years.",
+   "show": "A $3.7 billion Ponzi scheme. Guilty on all 20 counts. 50 years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "APRIL 8, 2010 · ST. PAUL",
+    "stamp": "SENTENCED",
+    "big": "50 years",
+    "sub": "Tom Petters · $3.7 billion"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

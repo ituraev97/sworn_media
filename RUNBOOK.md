@@ -126,3 +126,11 @@ Changelog:
 - Rendering a local justice.gov HTML with Playwright hung (external CSS); skipped the press-release image and used stat/quote cards with the DOJ cite.
 - Fact-check caught: a title calling Skilling "CEO" for Jan 2001 (he was President/COO until Feb 2001); "peak" claims not in the source; an unhedged government accounting claim; a Short title implying the Supreme Court cut the sentence. Check job titles against dates.
 - Pushing the drop branch: shorts+thumbs first, then the long in a second push, worked (75 MB long).
+
+## Notes from run 009 (2026-11-09)
+- First weekly ranking episode ("5 Ponzi Schemes That Ended in 50+ Years in Prison"): reused verified images/sources from 001 and 004 and added three new cases; 1,443 words → 10:31 at 0.98 (1,360 words was only 9:55 — aim ≥ 1,430 words for a 10:00 floor).
+- RECAP items: Petters D. Minn. 0:08-cr-00364 = `gov.uscourts.mnd.103973` (FBI affidavit Dkt 26, verdict 361, gov't sentencing 388, judgment 400); Okun E.D. Va. 3:08-cr-132 = `gov.uscourts.vaed.227739` (opinions 155/254/302/324). Rothstein's S.D. Fla. criminal docket is not on RECAP; the archived USAO releases download from the shell.
+- `episodes/009-ponzi-50/shot.py` re-renders an archived justice.gov release as plain text (no network, no images/seal, forced 24px Georgia) — readable on screen; the earlier full-page render had tiny text.
+- BOP inmate-locator WebFetch timed out once (approval) and worked once in the same run. A record with only an "actual release date" may mean death in custody — do not say "released" without a second source.
+- Fact-checker caught: an ambiguous "settled their lawsuit against them" (the firm settled its own clients' suit in the other side's favor), an affidavit phrase that was the cooperating witness's words not the agent's, a thumbnail plate ("THE #1 PONZI SENTENCE") implying an all-time superlative, and back-references broken after inserting lines ("That employee", "He estimated"). Re-run the check after any insertion.
+

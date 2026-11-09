@@ -1,0 +1,918 @@
+{
+ "label": "SWORN · CASE 009",
+ "lines": [
+  {
+   "say": "How long can a Ponzi scheme put you in prison? For the five men in this countdown, federal judges said: fifty years, or more.",
+   "show": "How long can a Ponzi scheme put you in prison? For the five men in this countdown, federal judges said: 50 years, or more.",
+   "scene": {
+    "type": "big",
+    "kicker": "PONZI SCHEMES · FEDERAL SENTENCES",
+    "lines": [
+     "50 years",
+     "or|more."
+    ]
+   }
+  },
+  {
+   "say": "A lawyer whose firm sold lawsuit settlements that never existed. A businessman recorded by his own employee. A tax-exchange company that spent its clients' money. An offshore bank. And the biggest name of all.",
+   "scene": {
+    "type": "bars",
+    "kicker": "FIVE PONZI SCHEMES · FIVE FEDERAL SENTENCES",
+    "title": "Years in prison",
+    "items": [
+     {
+      "label": "Rothstein",
+      "value": 50,
+      "display": "50"
+     },
+     {
+      "label": "Petters",
+      "value": 50,
+      "display": "50"
+     },
+     {
+      "label": "Okun",
+      "value": 100,
+      "display": "100"
+     },
+     {
+      "label": "Stanford",
+      "value": 110,
+      "display": "110"
+     },
+     {
+      "label": "Madoff",
+      "value": 150,
+      "display": "150"
+     }
+    ],
+    "src": "U.S. Attorney, S.D. Fla. — release, Jun 9, 2010 · U.S. Attorney, D. Minn. — release, Apr 8, 2010 · U.S. Attorney, E.D. Va. — release, Nov 17, 2011 · Justice Dept. — release, Jun 14, 2012 · U.S. Attorney, S.D.N.Y. — release, Jun 29, 2009"
+   }
+  },
+  {
+   "say": "Two got fifty years. One got a hundred. One, a hundred and ten. And one, a hundred and fifty.",
+   "show": "Two got 50 years. One got 100. One, 110. And one, 150."
+  },
+  {
+   "say": "Every fact in this countdown comes from court records, the Justice Department, the SEC, and the reporting that followed. This is SWORN.",
+   "scene": {
+    "type": "title",
+    "kicker": "SWORN · CASE 009 · THE COUNTDOWN",
+    "title": "Fifty Years|or More",
+    "sub": "Five Ponzi schemes · five federal sentences"
+   }
+  },
+  {
+   "say": "Number five. Fifty years.",
+   "scene": {
+    "type": "chapter",
+    "n": "#5",
+    "kicker": "50 YEARS",
+    "title": "Scott Rothstein"
+   }
+  },
+  {
+   "say": "Scott Rothstein was a lawyer in Fort Lauderdale, Florida. He ran his scheme, the Justice Department said, through his own law firm, Rothstein Rosenfeldt and Adler.",
+   "scene": {
+    "type": "doc",
+    "img": "img/rr_head.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.0903,
+     1.0,
+     0.1337
+    ],
+    "kicker": "U.S. ATTORNEY · SOUTHERN DISTRICT OF FLORIDA",
+    "title": "A billion-dollar Ponzi scheme",
+    "src": "U.S. Attorney, S.D. Fla. — release, Jun 9, 2010"
+   }
+  },
+  {
+   "say": "The pitch: confidential settlements of civil lawsuits, sold to investors at a discount and repaid over time at full face value. The money, investors were told, would be held in the firm's trust account.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE PITCH · PER PROSECUTORS",
+    "lines": [
+     "Buy a settlement",
+     "at a|discount."
+    ],
+    "src": "U.S. Attorney, S.D. Fla. — release, Jun 9, 2010"
+   }
+  },
+  {
+   "say": "The Justice Department put it plainly: the purported investment vehicles never existed.",
+   "scene": {
+    "type": "doc",
+    "img": "img/rr_never.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.6406,
+     1.0,
+     0.1441
+    ],
+    "kicker": "U.S. ATTORNEY · JUNE 9, 2010",
+    "title": "“never existed”",
+    "src": "U.S. Attorney, S.D. Fla. — release, Jun 9, 2010"
+   }
+  },
+  {
+   "say": "To make them look real, prosecutors said, Rothstein and others created false bank documents, false online bank account information, and false settlement agreements and promissory notes.",
+   "scene": {
+    "type": "list",
+    "kicker": "PER THE JUSTICE DEPARTMENT",
+    "items": [
+     [
+      "1",
+      "False bank documents"
+     ],
+     [
+      "2",
+      "False online bank account information"
+     ],
+     [
+      "3",
+      "False settlement agreements"
+     ],
+     [
+      "4",
+      "False promissory notes"
+     ]
+    ],
+    "src": "U.S. Attorney, S.D. Fla. — release, Jun 9, 2010"
+   }
+  },
+  {
+   "say": "Then they went further. Without its clients' knowledge, his firm had settled a lawsuit it filed for them, in the other side's favor. To hide it, prosecutors said, they created a false federal court order, purportedly signed by a U.S. District Judge, saying the clients had won about twenty-three million dollars.",
+   "show": "Then they went further. Without its clients' knowledge, his firm had settled a lawsuit it filed for them, in the other side's favor. To hide it, prosecutors said, they created a false federal court order, purportedly signed by a U.S. District Judge, saying the clients had won about $23 million.",
+   "scene": {
+    "type": "doc",
+    "img": "img/rr_order.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3798,
+     1.0,
+     0.0944
+    ],
+    "kicker": "PER PROSECUTORS",
+    "title": "A false federal court order",
+    "src": "U.S. Attorney, S.D. Fla. — release, Jun 9, 2010"
+   }
+  },
+  {
+   "say": "To collect it, the clients were told to post bonds. They wired about fifty-seven million dollars to a trust account he controlled.",
+   "show": "To collect it, the clients were told to post bonds. They wired about $57 million to a trust account he controlled.",
+   "scene": {
+    "type": "doc",
+    "img": "img/rr_order.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.7361,
+     1.0,
+     0.0949
+    ],
+    "kicker": "PER PROSECUTORS",
+    "title": "About $57 million",
+    "src": "U.S. Attorney, S.D. Fla. — release, Jun 9, 2010"
+   }
+  },
+  {
+   "say": "From around two thousand five through November two thousand nine, he and others took in about one point two billion dollars.",
+   "show": "From around 2005 through November 2009, he and others took in about $1.2 billion.",
+   "scene": {
+    "type": "stat",
+    "kicker": "2005 – 2009 · PER THE JUSTICE DEPARTMENT",
+    "value": "$1.2B",
+    "label": "obtained from investors",
+    "src": "U.S. Attorney, S.D. Fla. — release, Jan 27, 2010"
+   }
+  },
+  {
+   "say": "He pleaded guilty to five counts, including racketeering conspiracy. On June ninth, two thousand ten, Judge James Cohn sentenced him to fifty years.",
+   "show": "He pleaded guilty to five counts, including racketeering conspiracy. On June 9, 2010, Judge James Cohn sentenced him to 50 years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "JUNE 9, 2010 · FORT LAUDERDALE",
+    "stamp": "SENTENCED",
+    "big": "50 years",
+    "sub": "Scott Rothstein · pleaded guilty"
+   }
+  },
+  {
+   "say": "He went on to cooperate with prosecutors. But in two thousand eighteen, after prosecutors said he had given them false information, the judge let them withdraw an earlier offer to reduce his sentence. The fifty years stood.",
+   "show": "He went on to cooperate with prosecutors. But in 2018, after prosecutors said he had given them false information, the judge let them withdraw an earlier offer to reduce his sentence. The 50 years stood.",
+   "scene": {
+    "type": "big",
+    "kicker": "APRIL 2018 · PER THE ASSOCIATED PRESS",
+    "lines": [
+     "No reduction.",
+     "50|years."
+    ],
+    "src": "Associated Press, Apr 16, 2018"
+   }
+  },
+  {
+   "say": "Number four. Also fifty years.",
+   "scene": {
+    "type": "chapter",
+    "n": "#4",
+    "kicker": "50 YEARS",
+    "title": "Tom Petters"
+   }
+  },
+  {
+   "say": "Tom Petters, of Wayzata, Minnesota, bought companies including Fingerhut, Polaroid and Sun Country Airlines. The Justice Department said he paid for them with proceeds of his fraud.",
+   "scene": {
+    "type": "big",
+    "kicker": "PETTERS GROUP WORLDWIDE · PER THE JUSTICE DEPARTMENT",
+    "lines": [
+     "Polaroid.",
+     "Fingerhut.|Sun Country."
+    ],
+    "src": "U.S. Attorney, D. Minn. — release, Apr 8, 2010"
+   }
+  },
+  {
+   "say": "At the center was Petters Company, Inc. Investors lent it money to buy electronics that would be resold to big-box retailers, like Costco and Sam's Club, at a profit. However, the Justice Department said, no such purchases were made.",
+   "scene": {
+    "type": "doc",
+    "img": "img/pet_cw.jpg",
+    "pan": [
+     0.459,
+     0.459
+    ],
+    "hl": [
+     0.0,
+     0.7623,
+     1.0,
+     0.0463
+    ],
+    "kicker": "FBI AFFIDAVIT · OCTOBER 2008",
+    "title": "“entirely fabricated”",
+    "src": "Criminal complaint & FBI affidavit, U.S. v. Petters, D. Minn. 08-MJ-364 (Oct 2008) · U.S. Attorney, D. Minn. — release, Apr 8, 2010"
+   }
+  },
+  {
+   "say": "A Walmart security official told agents that the vendor number on Petters' Sam's Club purchase orders was fictitious.",
+   "scene": {
+    "type": "doc",
+    "img": "img/pet_wm.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.5534,
+     1.0,
+     0.0712
+    ],
+    "kicker": "FBI AFFIDAVIT · OCTOBER 2008",
+    "title": "“fictitious”",
+    "src": "Criminal complaint & FBI affidavit, U.S. v. Petters, D. Minn. 08-MJ-364 (Oct 2008)"
+   }
+  },
+  {
+   "say": "From two thousand three to September two thousand eight, about thirty-five billion dollars was wired into one account that only Petters and one employee were authorized to use. None of the deposits came from retailers.",
+   "show": "From 2003 to September 2008, about $35 billion was wired into one account that only Petters and one employee were authorized to use. None of the deposits came from retailers.",
+   "scene": {
+    "type": "doc",
+    "img": "img/pet_flow.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.188,
+     1.0,
+     0.0704
+    ],
+    "kicker": "U.S. ATTORNEY · DISTRICT OF MINNESOTA",
+    "title": "About $35 billion",
+    "src": "U.S. Attorney, D. Minn. — release, Apr 8, 2010"
+   }
+  },
+  {
+   "say": "The money passed through two so-called vendors. One of them, the Justice Department said, was a sham company with its headquarters above a car wash, a few miles from Petters' headquarters. It did no real business. Money only flowed one way: to Petters' company.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE \"VENDORS\" · PER THE JUSTICE DEPARTMENT",
+    "lines": [
+     "Above a",
+     "car|wash."
+    ],
+    "src": "U.S. Attorney, D. Minn. — release, Apr 8, 2010"
+   }
+  },
+  {
+   "say": "The employee who shared that account was Deanna Coleman. On September eighth, two thousand eight, she and her attorney went to the authorities. She agreed to wear a recording device.",
+   "show": "The employee who shared that account was Deanna Coleman. On September 8, 2008, she and her attorney went to the authorities. She agreed to wear a recording device.",
+   "scene": {
+    "type": "doc",
+    "img": "img/pet_cw.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2679,
+     1.0,
+     0.0502
+    ],
+    "kicker": "FBI AFFIDAVIT · THE COOPERATING WITNESS",
+    "title": "September 8, 2008",
+    "src": "Criminal complaint & FBI affidavit, U.S. v. Petters, D. Minn. 08-MJ-364 (Oct 2008) · U.S. Attorney, D. Minn. — release, Apr 8, 2010"
+   }
+  },
+  {
+   "say": "Within the first few hours of her recordings, the Justice Department said, Petters was heard admitting that purchase orders were fake, and claiming divine intervention was the only explanation for how they could have got away with this for so long.",
+   "show": "Within the first few hours of her recordings, the Justice Department said, Petters was heard admitting that purchase orders were \"fake,\" and claiming \"divine intervention\" was the only explanation for how they \"could of got away with this for so long.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/pet_pr.jpg",
+    "pan": [
+     0.319,
+     0.379
+    ],
+    "hl": [
+     0.0,
+     0.5619,
+     1.0,
+     0.0872
+    ],
+    "kicker": "U.S. ATTORNEY · APRIL 8, 2010",
+    "title": "“divine intervention”",
+    "src": "U.S. Attorney, D. Minn. — release, Apr 8, 2010"
+   }
+  },
+  {
+   "say": "On the recordings, the FBI agent wrote, Petters also talked about fleeing the country. On September twenty-fourth, agents searched his headquarters and his home. On October third, he was arrested.",
+   "show": "On the recordings, the FBI agent wrote, Petters also talked about fleeing the country. On September 24, agents searched his headquarters and his home. On October 3, he was arrested.",
+   "scene": {
+    "type": "doc",
+    "img": "img/pet_rec.jpg",
+    "pan": [
+     0.293,
+     0.293
+    ],
+    "hl": [
+     0.0,
+     0.6894,
+     1.0,
+     0.0607
+    ],
+    "kicker": "FBI AFFIDAVIT · THE RECORDINGS",
+    "title": "Fleeing the country",
+    "src": "Criminal complaint & FBI affidavit, U.S. v. Petters, D. Minn. 08-MJ-364 (Oct 2008)"
+   }
+  },
+  {
+   "say": "Petters went to trial. On December second, two thousand nine, the jury convicted him on all twenty counts. Prosecutors argued for the maximum the counts allowed: three hundred thirty-five years.",
+   "show": "Petters went to trial. On December 2, 2009, the jury convicted him on all 20 counts. Prosecutors argued for the maximum the counts allowed: 335 years.",
+   "scene": {
+    "type": "doc",
+    "img": "img/pet_gov.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.0937,
+     1.0,
+     0.064
+    ],
+    "kicker": "THE GOVERNMENT'S SENTENCING POSITION",
+    "title": "335 years",
+    "src": "Gov't Position Regarding Sentencing, U.S. v. Petters, D. Minn. No. 08-364, Dkt. 388 · Judgment, U.S. v. Petters, D. Minn. No. 08-364, Dkt. 400 (Apr 8, 2010)"
+   }
+  },
+  {
+   "say": "On April eighth, two thousand ten, Judge Richard Kyle gave him six hundred months. Fifty years. The U.S. Attorney's office called it the longest prison term ever ordered in a financial fraud case in Minnesota history.",
+   "show": "On April 8, 2010, Judge Richard Kyle gave him 600 months. 50 years. The U.S. Attorney's office called it the longest prison term ever ordered in a financial fraud case in Minnesota history.",
+   "scene": {
+    "type": "doc",
+    "img": "img/pet_judg.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4652,
+     1.0,
+     0.0438
+    ],
+    "kicker": "JUDGMENT · APRIL 8, 2010",
+    "title": "600 months · 50 years",
+    "src": "Judgment, U.S. v. Petters, D. Minn. No. 08-364, Dkt. 400 (Apr 8, 2010) · U.S. Attorney, D. Minn. — release, Apr 8, 2010"
+   }
+  },
+  {
+   "say": "On Petters' own testimony at trial, the judge said: It just didn't pass the smell test.",
+   "show": "On Petters' own testimony at trial, the judge said: \"It just didn't pass the smell test.\"",
+   "scene": {
+    "type": "quote",
+    "q": "It just didn't pass the smell test.",
+    "case": "UNITED STATES v. PETTERS",
+    "doc": "JUDGE RICHARD H. KYLE · AT SENTENCING",
+    "cite": "As quoted in U.S. Attorney, D. Minn. — release, Apr 8, 2010",
+    "size": 60
+   }
+  },
+  {
+   "say": "A federal appeals court upheld the conviction and the sentence. The Supreme Court declined to review it.",
+   "show": "A federal appeals court upheld the conviction and the sentence. The Supreme Court declined to review it.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "DECEMBER 2, 2009 · ST. PAUL",
+    "stamp": "GUILTY",
+    "big": "50 years",
+    "sub": "Tom Petters · 20 of 20 counts"
+   }
+  },
+  {
+   "say": "Number three. One hundred years. And the smallest dollar figure on this list.",
+   "scene": {
+    "type": "chapter",
+    "n": "#3",
+    "kicker": "100 YEARS",
+    "title": "Edward Okun"
+   }
+  },
+  {
+   "say": "Edward Okun owned The ten thirty-one Tax Group. The name comes from Section ten thirty-one of the tax code. Sell an investment property, leave the proceeds with a company called a qualified intermediary, buy a new property within a set time, and you can put off the capital gains tax.",
+   "show": "Edward Okun owned The 1031 Tax Group. The name comes from Section 1031 of the tax code. Sell an investment property, leave the proceeds with a company called a qualified intermediary, buy a new property within a set time, and you can put off the capital gains tax.",
+   "scene": {
+    "type": "list",
+    "kicker": "SECTION 1031 · AS THE JUSTICE DEPARTMENT EXPLAINED IT",
+    "items": [
+     [
+      "1",
+      "Sell an investment property"
+     ],
+     [
+      "2",
+      "Deposit the proceeds with a qualified intermediary"
+     ],
+     [
+      "3",
+      "Buy new property in time"
+     ],
+     [
+      "4",
+      "Defer the capital gains tax"
+     ]
+    ],
+    "src": "U.S. Attorney, E.D. Va. — release, Nov 17, 2011"
+   }
+  },
+  {
+   "say": "Clients were promised their money would be used solely for those exchanges. Instead, the evidence at trial showed, Okun and others misappropriated about one hundred twenty-six million dollars of client funds.",
+   "show": "Clients were promised their money would be used solely for those exchanges. Instead, the evidence at trial showed, Okun and others misappropriated about $126 million of client funds.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ok_126.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4816,
+     1.0,
+     0.1154
+    ],
+    "kicker": "U.S. ATTORNEY · EASTERN DISTRICT OF VIRGINIA",
+    "title": "About $126 million",
+    "src": "U.S. Attorney, E.D. Va. — release, Nov 17, 2011"
+   }
+  },
+  {
+   "say": "It paid for his lavish lifestyle, his companies' expenses and commercial real estate. It also bought more qualified intermediary companies, and with them, more client money to take.",
+   "scene": {
+    "type": "big",
+    "kicker": "WHERE THE MONEY WENT · PER THE JUSTICE DEPARTMENT",
+    "lines": [
+     "Buy a company.",
+     "Take its|clients' money."
+    ],
+    "src": "U.S. Attorney, E.D. Va. — release, Nov 17, 2011"
+   }
+  },
+  {
+   "say": "The trial judge, Robert Payne, put it this way.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ok_ponzi.jpg",
+    "pan": [
+     0.463,
+     0.463
+    ],
+    "hl": [
+     0.0,
+     0.7953,
+     1.0,
+     0.0618
+    ],
+    "kicker": "MEMORANDUM OPINION · AUGUST 27, 2009",
+    "title": "“somewhat unconventional”",
+    "src": "Memorandum Opinion, U.S. v. Okun, E.D. Va. No. 3:08cr132, Dkt. 324 (Aug 27, 2009)"
+   }
+  },
+  {
+   "say": "In sum, Okun was running a large, somewhat unconventional Ponzi scheme.",
+   "scene": {
+    "type": "quote",
+    "q": "In sum, Okun was running a large, somewhat unconventional Ponzi scheme.",
+    "case": "UNITED STATES v. OKUN",
+    "doc": "JUDGE ROBERT E. PAYNE · E.D. VA.",
+    "cite": "Memorandum Opinion, U.S. v. Okun, E.D. Va. No. 3:08cr132, Dkt. 324 (Aug 27, 2009)",
+    "size": 54
+   }
+  },
+  {
+   "say": "The evidence also showed he had employees withdraw fifteen thousand dollars in cash and smuggle it to his personal yacht in the Bahamas, to avoid federal currency reporting requirements.",
+   "show": "The evidence also showed he had employees withdraw $15,000 in cash and smuggle it to his personal yacht in the Bahamas, to avoid federal currency reporting requirements.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ok_cash.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4641,
+     1.0,
+     0.209
+    ],
+    "kicker": "U.S. ATTORNEY · NOVEMBER 17, 2011",
+    "title": "$15,000 to the yacht",
+    "src": "U.S. Attorney, E.D. Va. — release, Nov 17, 2011"
+   }
+  },
+  {
+   "say": "On March nineteenth, two thousand nine, a jury in Richmond, Virginia, convicted him of fraud, money laundering, bulk cash smuggling and perjury, among other charges. On August fourth, Judge Payne sentenced him to one hundred years.",
+   "show": "On March 19, 2009, a jury in Richmond, Virginia, convicted him of fraud, money laundering, bulk cash smuggling and perjury, among other charges. On August 4, Judge Payne sentenced him to 100 years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "AUGUST 4, 2009 · RICHMOND",
+    "stamp": "SENTENCED",
+    "big": "100 years",
+    "sub": "Edward H. Okun · $126 million"
+   }
+  },
+  {
+   "say": "In two thousand eleven, the Fourth Circuit upheld the conviction and the sentence. The U.S. Attorney said:",
+   "show": "In 2011, the Fourth Circuit upheld the conviction and the sentence. The U.S. Attorney said:",
+   "scene": {
+    "type": "doc",
+    "img": "img/ok_rel.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1384,
+     1.0,
+     0.1277
+    ],
+    "kicker": "U.S. ATTORNEY · NOVEMBER 17, 2011",
+    "title": "Upheld",
+    "src": "U.S. Attorney, E.D. Va. — release, Nov 17, 2011"
+   }
+  },
+  {
+   "say": "Financial fraudsters make calculated, rational decisions, and the threat of spending as much as one hundred years in prison can begin to change corporate culture and behavior.",
+   "show": "\"Financial fraudsters make calculated, rational decisions, and the threat of spending as much as 100 years in prison can begin to change corporate culture and behavior.\"",
+   "scene": {
+    "type": "quote",
+    "q": "Financial fraudsters make calculated, rational decisions, and the threat of spending as much as 100 years in prison can begin to change corporate culture and behavior.",
+    "case": "UNITED STATES v. OKUN",
+    "doc": "U.S. ATTORNEY NEIL H. MacBRIDE",
+    "cite": "U.S. Attorney, E.D. Va. — release, Nov 17, 2011",
+    "size": 42
+   }
+  },
+  {
+   "say": "Number two. One hundred and ten years.",
+   "scene": {
+    "type": "chapter",
+    "n": "#2",
+    "kicker": "110 YEARS",
+    "title": "Allen Stanford"
+   }
+  },
+  {
+   "say": "R. Allen Stanford was chairman of the board of Stanford International Bank, based on the Caribbean island of Antigua. It sold certificates of deposit. By the end of two thousand eight, the SEC said, about eight billion dollars of them.",
+   "show": "R. Allen Stanford was chairman of the board of Stanford International Bank, based on the Caribbean island of Antigua. It sold certificates of deposit. By the end of 2008, the SEC said, about $8 billion of them.",
+   "scene": {
+    "type": "stat",
+    "kicker": "STANFORD INTERNATIONAL BANK · PER THE SEC",
+    "value": "$8B",
+    "label": "in certificates of deposit|sold by the end of 2008",
+    "src": "SEC First Amended Complaint, N.D. Tex. 3:09-cv-0298, Feb 27, 2009 · Justice Dept. — release, Jun 14, 2012"
+   }
+  },
+  {
+   "say": "For at least a decade, the SEC alleged, Stanford and his chief financial officer executed a massive Ponzi scheme.",
+   "scene": {
+    "type": "doc",
+    "img": "img/st_cmp.jpg",
+    "pan": [
+     0.392,
+     0.392
+    ],
+    "hl": [
+     0.0,
+     0.6995,
+     1.0,
+     0.2422
+    ],
+    "kicker": "SEC · FIRST AMENDED COMPLAINT",
+    "title": "“a massive Ponzi scheme”",
+    "src": "SEC First Amended Complaint, N.D. Tex. 3:09-cv-0298, Feb 27, 2009"
+   }
+  },
+  {
+   "say": "Where did the money go? According to the government's appeals brief, only about a quarter of the bank's reported assets were invested the way the bank described. Stanford siphoned the remaining seventy-five percent, known as Tier Three, to his companies, real estate purchases, and lifestyle.",
+   "show": "Where did the money go? According to the government's appeals brief, only about a quarter of the bank's reported assets were invested the way the bank described. Stanford siphoned the remaining 75%, \"Tier 3,\" to his companies, real estate purchases, and lifestyle.",
+   "scene": {
+    "type": "doc",
+    "img": "img/st_tier.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3873,
+     1.0,
+     0.1633
+    ],
+    "kicker": "BRIEF OF THE UNITED STATES",
+    "title": "“Tier 3” · 75%",
+    "src": "Brief of the United States, 5th Cir. No. 12-20411 (2015)"
+   }
+  },
+  {
+   "say": "In March two thousand twelve, a Houston jury convicted him on thirteen of fourteen counts. That June, Judge David Hittner sentenced him to one hundred ten years, for what the Justice Department called a twenty-year investment fraud scheme in which he misappropriated seven billion dollars.",
+   "show": "In March 2012, a Houston jury convicted him on 13 of 14 counts. That June, Judge David Hittner sentenced him to 110 years, for what the Justice Department called a 20-year investment fraud scheme in which he misappropriated $7 billion.",
+   "scene": {
+    "type": "doc",
+    "img": "img/st_sent.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3015,
+     1.0,
+     0.1684
+    ],
+    "kicker": "JUSTICE DEPARTMENT · JUNE 14, 2012",
+    "title": "110 years",
+    "src": "Justice Dept. — release, Jun 14, 2012"
+   }
+  },
+  {
+   "say": "The judge called it one of the most egregious frauds ever presented to a trial jury in federal court.",
+   "scene": {
+    "type": "quote",
+    "q": "this is one of the most egregious frauds ever presented to a trial jury in federal court.",
+    "case": "UNITED STATES v. STANFORD",
+    "doc": "JUDGE DAVID HITTNER · AT SENTENCING",
+    "cite": "As quoted in U.S. Attorney, S.D. Tex. — release, Jun 14, 2012",
+    "size": 50
+   }
+  },
+  {
+   "say": "The Fifth Circuit affirmed. The Bureau of Prisons lists his projected release date in the year twenty-one oh three.",
+   "show": "The Fifth Circuit affirmed. The Bureau of Prisons lists his projected release date in the year 2103.",
+   "scene": {
+    "type": "stat",
+    "kicker": "R. ALLEN STANFORD · FEDERAL BUREAU OF PRISONS",
+    "value": "2103",
+    "label": "projected release date",
+    "src": "Federal Bureau of Prisons inmate locator, Nov 2026"
+   }
+  },
+  {
+   "say": "Number one. One hundred and fifty years.",
+   "scene": {
+    "type": "chapter",
+    "n": "#1",
+    "kicker": "150 YEARS",
+    "title": "Bernard Madoff"
+   }
+  },
+  {
+   "say": "On December tenth, two thousand eight, according to federal prosecutors, Bernard Madoff told senior employees that his investment advisory business was a fraud. That it was all just one big lie. Basically, a giant Ponzi scheme.",
+   "show": "On December 10, 2008, according to federal prosecutors, Bernard Madoff told senior employees that his investment advisory business was a fraud. That \"it's all just one big lie.\" \"Basically, a giant Ponzi scheme.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/md_lie.jpg",
+    "pan": [
+     0.24,
+     0.249
+    ],
+    "hl": [
+     0.0,
+     0.45,
+     1.0,
+     0.39
+    ],
+    "kicker": "U.S. ATTORNEY · DECEMBER 11, 2008",
+    "title": "“one big lie”",
+    "src": "U.S. Attorney, S.D.N.Y. — release, Dec 11, 2008"
+   }
+  },
+  {
+   "say": "Months earlier, in a January two thousand eight filing with the SEC, he had reported that this advisory business had about seventeen point one billion dollars under management, for between eleven and twenty-five clients.",
+   "show": "Months earlier, in a January 2008 filing with the SEC, he had reported that this advisory business had about $17.1 billion under management, for between 11 and 25 clients.",
+   "scene": {
+    "type": "big",
+    "kicker": "JANUARY 2008 · FILED WITH THE SEC",
+    "lines": [
+     "$17.1 billion",
+     "11 to 25|clients."
+    ],
+    "src": "U.S. Attorney, S.D.N.Y. — release, Dec 11, 2008"
+   }
+  },
+  {
+   "say": "That December, he estimated the losses at approximately fifty billion dollars, at least.",
+   "show": "That December, he estimated the losses at approximately $50 billion, at least.",
+   "scene": {
+    "type": "stat",
+    "kicker": "DECEMBER 2008 · MADOFF'S OWN ESTIMATE",
+    "value": "$50B",
+    "label": "in losses, at least",
+    "src": "U.S. Attorney, S.D.N.Y. — release, Dec 11, 2008"
+   }
+  },
+  {
+   "say": "He was arrested the next day. In March two thousand nine, he pleaded guilty to all eleven counts. There was no trial.",
+   "show": "He was arrested the next day. In March 2009, he pleaded guilty to all 11 counts. There was no trial.",
+   "scene": {
+    "type": "big",
+    "kicker": "MARCH 12, 2009 · MANHATTAN",
+    "lines": [
+     "11 counts.",
+     "Guilty."
+    ],
+    "src": "U.S. Attorney, S.D.N.Y. — release, Mar 12, 2009"
+   }
+  },
+  {
+   "say": "On June twenty-ninth, two thousand nine, Judge Denny Chin sentenced him to one hundred fifty years. He called the crimes extraordinarily evil.",
+   "show": "On June 29, 2009, Judge Denny Chin sentenced him to 150 years. He called the crimes \"extraordinarily evil.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/md_sent.jpg",
+    "pan": [
+     0.227,
+     0.227
+    ],
+    "hl": [
+     0.0,
+     0.74,
+     1.0,
+     0.26
+    ],
+    "kicker": "U.S. ATTORNEY · JUNE 29, 2009",
+    "title": "150 years",
+    "src": "U.S. Attorney, S.D.N.Y. — release, Jun 29, 2009"
+   }
+  },
+  {
+   "say": "And he said it was not merely a bloodless crime that takes place on paper, but one that takes a staggering human toll.",
+   "show": "And he said it was \"not merely a bloodless crime that takes place on paper but one that takes a staggering human toll.\"",
+   "scene": {
+    "type": "quote",
+    "q": "not merely a bloodless crime that takes place on paper but one that takes a staggering human toll.",
+    "case": "UNITED STATES v. MADOFF",
+    "doc": "JUDGE DENNY CHIN · AT SENTENCING",
+    "cite": "As quoted in U.S. Attorney, S.D.N.Y. — release, Jun 29, 2009",
+    "size": 48
+   }
+  },
+  {
+   "say": "Madoff died in federal prison in April two thousand twenty-one. He was eighty-two.",
+   "show": "Madoff died in federal prison in April 2021. He was 82.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "JUNE 29, 2009 · MANHATTAN",
+    "stamp": "SENTENCED",
+    "big": "150 years",
+    "sub": "Bernard L. Madoff · died in prison, 2021"
+   }
+  },
+  {
+   "say": "Five schemes. Look at what they ran on. Purchase orders for goods that were never bought. Settlements that never existed. A court order no judge signed. Promises to keep clients' money safe that were not kept. And statements, from Madoff and Stanford alike, that hid what the money was really doing.",
+   "scene": {
+    "type": "list",
+    "kicker": "WHAT THEY RAN ON",
+    "items": [
+     [
+      "#5",
+      "Settlements that never existed"
+     ],
+     [
+      "#4",
+      "Fabricated purchase orders"
+     ],
+     [
+      "#3",
+      "Exchange money spent"
+     ],
+     [
+      "#2",
+      "A bank's hidden “Tier 3”"
+     ],
+     [
+      "#1",
+      "“One big lie”"
+     ]
+    ],
+    "src": "Court records and Justice Department releases shown in this episode"
+   }
+  },
+  {
+   "say": "Two pleaded guilty. Three went to trial and lost. All five received fifty years or more.",
+   "show": "Two pleaded guilty. Three went to trial and lost. All five received 50 years or more.",
+   "scene": {
+    "type": "bars",
+    "kicker": "FIVE PONZI SCHEMES · FIVE FEDERAL SENTENCES",
+    "title": "Years in prison",
+    "items": [
+     {
+      "label": "Rothstein",
+      "value": 50,
+      "display": "50"
+     },
+     {
+      "label": "Petters",
+      "value": 50,
+      "display": "50"
+     },
+     {
+      "label": "Okun",
+      "value": 100,
+      "display": "100"
+     },
+     {
+      "label": "Stanford",
+      "value": 110,
+      "display": "110"
+     },
+     {
+      "label": "Madoff",
+      "value": 150,
+      "display": "150"
+     }
+    ],
+    "src": "U.S. Attorney, S.D. Fla. — release, Jun 9, 2010 · U.S. Attorney, D. Minn. — release, Apr 8, 2010 · U.S. Attorney, E.D. Va. — release, Nov 17, 2011 · Justice Dept. — release, Jun 14, 2012 · U.S. Attorney, S.D.N.Y. — release, Jun 29, 2009"
+   }
+  },
+  {
+   "say": "Madoff died in prison. Edward Okun died in prison, the Free Lance-Star of Virginia reported. Stanford is still in federal prison. Petters and Rothstein lost their bids for relief.",
+   "show": "Madoff died in prison. Edward Okun died in prison, the Free Lance-Star of Virginia reported. Stanford is still in federal prison. Petters and Rothstein lost their bids for relief.",
+   "scene": {
+    "type": "big",
+    "kicker": "WHERE THEY ARE",
+    "lines": [
+     "The sentences",
+     "stood."
+    ],
+    "src": "Associated Press, Apr 14, 2021 · Free Lance-Star · Federal Bureau of Prisons inmate locator, Nov 2026 · KARE 11 (8th Cir. ruling) · Star Tribune (Supreme Court) · Associated Press, Apr 16, 2018"
+   }
+  },
+  {
+   "say": "This is SWORN. Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "title": "50 to 150 Years: 5 Ponzi Schemes, Ranked",
+ "template": "countdown / ranking",
+ "hook": "50 → 150|YEARS",
+ "lines": [
+  {
+   "say": "Fifty years. Fifty. One hundred. One hundred ten. One hundred fifty. Five Ponzi schemes, five federal sentences.",
+   "show": "50 years. 50. 100. 110. 150. Five Ponzi schemes, five federal sentences.",
+   "scene": {
+    "type": "bars",
+    "kicker": "FEDERAL SENTENCES",
+    "title": "Years in prison",
+    "items": [
+     {
+      "label": "Rothstein",
+      "value": 50,
+      "display": "50"
+     },
+     {
+      "label": "Petters",
+      "value": 50,
+      "display": "50"
+     },
+     {
+      "label": "Okun",
+      "value": 100,
+      "display": "100"
+     },
+     {
+      "label": "Stanford",
+      "value": 110,
+      "display": "110"
+     },
+     {
+      "label": "Madoff",
+      "value": 150,
+      "display": "150"
+     }
+    ],
+    "src": "U.S. Dept. of Justice releases"
+   }
+  },
+  {
+   "say": "Fifty: Scott Rothstein, a lawyer whose firm sold settlements that never existed. Fifty: Tom Petters, and purchase orders for electronics never bought.",
+   "show": "50: Scott Rothstein, a lawyer whose firm sold settlements that never existed. 50: Tom Petters, and purchase orders for electronics never bought.",
+   "scene": {
+    "type": "list",
+    "kicker": "#5 · #4",
+    "items": [
+     [
+      "50",
+      "Scott Rothstein"
+     ],
+     [
+      "50",
+      "Tom Petters"
+     ]
+    ],
+    "src": "U.S. Dept. of Justice releases"
+   }
+  },
+  {
+   "say": "One hundred: Edward Okun, who took clients' tax-exchange money. One hundred ten: Allen Stanford's offshore bank.",
+   "show": "100: Edward Okun, who took clients' tax-exchange money. 110: Allen Stanford's offshore bank.",
+   "scene": {
+    "type": "list",
+    "kicker": "#3 · #2",
+    "items": [
+     [
+      "100",
+      "Edward Okun"
+     ],
+     [
+      "110",
+      "Allen Stanford"
+     ]
+    ],
+    "src": "U.S. Dept. of Justice releases"
+   }
+  },
+  {
+   "say": "And one hundred fifty years: Bernie Madoff.",
+   "show": "And 150 years: Bernie Madoff.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "#1 · JUNE 29, 2009",
+    "stamp": "SENTENCED",
+    "big": "150 years",
+    "sub": "Bernard L. Madoff"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

@@ -23,4 +23,4 @@ Add new rows when fewer than 10 `todo` remain (fraud, financial crime, scams, la
 | 017 | John Rigas — Adelphia Communications (S.D.N.Y. 2004; sentence commuted 2016) | THE VERDICT | justice.gov/usao-sdny, SEC litigation releases, 2d Cir. opinion | todo |
 | 018 | Samuel Israel III — Bayou hedge fund fraud (S.D.N.Y. 2008) | THE PAPER TRAIL | justice.gov/usao-sdny, SEC complaint | todo |
 | 019 | Skilling v. United States (2010) — honest-services fraud | THE ARGUMENT | opinion text, SG brief (justice.gov/osg) | todo |
-| 020 | 5 Ponzi Schemes That Ended in 50+ Years in Prison (Madoff, Stanford, Okun, Petters, Rothstein) — weekly ranking | RANKING | episodes 001/004 sources; justice.gov EDVA/MN/SDFL releases; RECAP | in progress (episode 009) |
+| 020 | 5 Ponzi Schemes That Ended in 50+ Years in Prison (Madoff, Stanford, Okun, Petters, Rothstein) — weekly ranking | RANKING | episodes 001/004 sources; justice.gov EDVA/MN/SDFL releases; RECAP | done 2026-11-09 (episode 009, published 2026-11-10) |

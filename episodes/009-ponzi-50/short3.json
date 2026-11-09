@@ -1,0 +1,55 @@
+{
+ "title": "$57 Million to Collect a Win. The Court Order Was Fake.",
+ "template": "dollar-figure reveal",
+ "hook": "$57 MILLION|FAKE COURT ORDER",
+ "lines": [
+  {
+   "say": "Fifty-seven million dollars. That's what one law firm's clients wired, prosecutors said, to collect a twenty-three million dollar judgment that did not exist.",
+   "show": "$57 million. That's what one law firm's clients wired, prosecutors said, to collect a $23 million judgment that did not exist.",
+   "scene": {
+    "type": "stat",
+    "kicker": "PER PROSECUTORS",
+    "value": "$57M",
+    "label": "wired to post “bonds”",
+    "src": "U.S. Attorney, S.D. Fla. (2010)"
+   }
+  },
+  {
+   "say": "The firm had secretly settled their lawsuit, in the other side's favor. Then came a false federal court order, purportedly signed by a U.S. District Judge.",
+   "scene": {
+    "type": "doc",
+    "img": "img/rr_order.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3798,
+     1.0,
+     0.0944
+    ],
+    "kicker": "PER PROSECUTORS",
+    "src": "U.S. Attorney, S.D. Fla. (2010)"
+   }
+  },
+  {
+   "say": "Behind it, prosecutors said, was attorney Scott Rothstein. He ran a one point two billion dollar Ponzi scheme built on settlements and loans that never existed. Sentence: fifty years.",
+   "show": "Behind it, prosecutors said, was attorney Scott Rothstein. He ran a $1.2 billion Ponzi scheme built on settlements and loans that never existed. Sentence: 50 years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "JUNE 9, 2010 · FORT LAUDERDALE",
+    "stamp": "SENTENCED",
+    "big": "50 years",
+    "sub": "Scott Rothstein · $1.2 billion"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}
