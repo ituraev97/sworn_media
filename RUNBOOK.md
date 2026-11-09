@@ -67,6 +67,15 @@ Check every `https://raw.githubusercontent.com/ituraev97/sworn_media/drop-XXX/<f
 - Commit to main: episode folder (spec scripts, json, img/, sources.md, factcheck.md — no video), `backlog.md` row → `done YYYY-MM-DD`. fetch/rebase before push.
 - Report to the owner in Russian (SendUserMessage): case + title, publish date and times (ET and Tashkent = ET+10 in winter / +9 in summer), Metricool plannerUrls, fact-check result (how many fixes), anything skipped; SendUserFile thumb_A.
 
+## Performance rules
+Weekly review (Mondays, Asia/Tashkent). Each rule is backed by ≥ 3 of our own videos (Metricool YTVP, last 28 days). Owner content rules, schedule and AI-label settings are NOT changed here — only recommended in the report.
+1. Shorts titles open with a verbatim quote or a short declarative statement/number ("FTX Is Fine. Assets Are Fine." 200, "He Confessed. Then the Judge Spoke." 20, "It's All Just One Big Lie" 18, "Six Warnings…" 5, "The Coin Flip…" 4 → median 18). Never open a Short with Where/How/Did or "The Hidden…" explainer phrasing (5 Shorts: 3, 3, 1, 1, 1 → median 1).
+2. Average view duration was ≤ 33 s on all 10 measured Shorts (7 of 10 at ≤ 9 s): the quote or the number must be on screen from frame 0 and the first spoken line must already be the payoff-setup — no titles, no context sentence first.
+3. Do not draw conclusions from videos younger than ~7 days: Metricool returned null views for every video published after 2026-11-04 (15+ videos, including all long episodes) at review time. Re-check long-video performance next Monday.
+
+Changelog:
+- 2026-11-09: section created (first weekly review; 10 Shorts with data, 0 long videos with data).
+
 ## Notes from run 002 (2026-11-02)
 - justice.gov `/usao-*/pr/` pages and `press-release/file` downloads now return a bot-challenge page from the shell (do NOT try to bypass); `/usao-sdny/file/NNN/download` and `/archive/` PDFs still work. WebFetch reads most justice.gov pages.
 - S.D.N.Y./federal court filings (indictments, judgments, orders, gov't memoranda) are reachable from the shell via the RECAP mirror on archive.org: `https://archive.org/advancedsearch.php?q=<name>+AND+collection%3Ausfederalcourts&fl[]=identifier&output=json`, then `https://archive.org/metadata/<id>` and `https://archive.org/download/<id>/<id>.<doc>.0.pdf`. ca2.uscourts.gov, supremecourt.gov, courtlistener, govinfo are blocked from the shell (WebFetch works for ca2/supremecourt).
