@@ -143,3 +143,5 @@ Lines without a `show` field use the `say` text as the subtitle. Line numbers ar
 | thumb C | hook "#1 OF 5" | OK | Ranked within the countdown only. |
 
 Re-check result: 2 new lines verified OK; all 5 applied FIXes and 4 applied NOTEs read correctly; **2 new FIXes** (episode lines 20 and 47), both caused by where the new lines were inserted.
+
+**Applied (2026-11-09, before the final build):** both re-check FIXes (lines 20 and 47) and all 5 first-pass FIXes. Total FIXes applied: 7 (+4 wording notes).
