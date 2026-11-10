@@ -15,7 +15,7 @@ Add new rows when fewer than 10 `todo` remain (fraud, financial crime, scams, la
 | 009 | Gideon v. Wainwright (1963) | THE ARGUMENT | opinion text, Gideon's handwritten petition (National Archives) | done 2026-11-07 (episode 007, published 2026-11-08) |
 | 010 | Raj Rajaratnam — Galleon insider trading (S.D.N.Y. 2011) | THE VERDICT | justice.gov/usao-sdny, SEC | todo |
 | 011 | Scott Rothstein — Fort Lauderdale Ponzi (S.D. Fla. 2010) | THE PAPER TRAIL | justice.gov/usao-sdfl | todo |
-| 012 | Martin Shkreli — securities fraud (E.D.N.Y. 2017–18) | THE VERDICT | justice.gov/usao-edny | todo |
+| 012 | Martin Shkreli — securities fraud (E.D.N.Y. 2017–18) + FTC Daraprim ruling (S.D.N.Y. 2022) | THE PAPER TRAIL | justice.gov/usao-edny; RECAP gov.uscourts.nyed.379142; FTC v. Vyera gov.uscourts.nysd.530855 | in progress (episode 010) |
 | 013 | Jeffrey Skilling — Enron (S.D. Tex. 2006) | THE VERDICT | justice.gov Enron Task Force releases; Supreme Court case file archive.org micro_IA43085015_0478 | done 2026-11-08 (episode 008, published 2026-11-09) |
 | 014 | Marc Dreier — law-firm note fraud (S.D.N.Y. 2009) | THE VERDICT | justice.gov/usao-sdny | todo |
 | 015 | Mapp v. Ohio (1961) | THE ARGUMENT | opinion text | todo |
