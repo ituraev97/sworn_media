@@ -1,0 +1,57 @@
+{
+ "title": "\"Tighten the Supply Chain a Bit.\" He Said It From Prison",
+ "template": "verbatim quote",
+ "hook": "\"TIGHTEN THE|SUPPLY CHAIN\"",
+ "lines": [
+  {
+   "say": "There has to be some way to tighten the supply chain a bit. Martin Shkreli said that in August twenty nineteen, recorded from federal prison.",
+   "show": "\"There has to be some way to tighten the supply chain a bit.\" Martin Shkreli said that in August 2019, recorded from federal prison.",
+   "scene": {
+    "type": "quote",
+    "q": "[T]here has to be some way to tighten the supply chain a bit . . .",
+    "case": "FTC v. VYERA & SHKRELI",
+    "doc": "MARTIN SHKRELI · FROM PRISON · 2019",
+    "cite": "As quoted in FTC v. Vyera, Opinion & Order (S.D.N.Y. 2022)",
+    "size": 46
+   }
+  },
+  {
+   "say": "He meant Daraprim, the drug his company raised from seventeen sixty to seven hundred fifty dollars a tablet. A judge found he kept directing the company from inside.",
+   "show": "He meant Daraprim, the drug his company raised from $17.60 to $750 a tablet. A judge found he kept directing the company from inside.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ftc_price.jpg",
+    "pan": [
+     0.426,
+     0.486
+    ],
+    "hl": [
+     0.0,
+     0.6784,
+     1.0,
+     0.0296
+    ],
+    "kicker": "FTC v. VYERA · FINDINGS OF FACT",
+    "src": "FTC v. Vyera, Opinion & Order (S.D.N.Y. 2022)"
+   }
+  },
+  {
+   "say": "In twenty twenty-two, the court banned him from the drug industry for life, and ordered sixty-four point six million dollars disgorged.",
+   "show": "In 2022, the court banned him from the drug industry for life, and ordered $64.6 million disgorged.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "JANUARY 14, 2022",
+    "stamp": "BANNED",
+    "big": "For life",
+    "sub": "$64.6 million disgorgement"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

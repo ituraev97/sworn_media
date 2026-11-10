@@ -1,0 +1,76 @@
+{
+ "title": "$35 Million on Paper. $1.13 Million in Reality.",
+ "template": "dollar-figure reveal",
+ "hook": "$35 MILLION?|NOT EVEN CLOSE",
+ "lines": [
+  {
+   "say": "Thirty-five million dollars. That's how much Martin Shkreli told people his hedge fund managed.",
+   "show": "$35 million. That's how much Martin Shkreli told people his hedge fund managed.",
+   "scene": {
+    "type": "stat",
+    "kicker": "MSMB CAPITAL · WHAT HE CLAIMED",
+    "value": "$35M",
+    "label": "under management",
+    "src": "U.S. v. Shkreli, Rule 29 Order (E.D.N.Y. 2018)"
+   }
+  },
+  {
+   "say": "A federal judge wrote that the fund never had more than about one point one three million at one time.",
+   "show": "A federal judge wrote that the fund never had more than about $1.13 million at one time.",
+   "scene": {
+    "type": "doc",
+    "img": "img/r29_113.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.205,
+     1.0,
+     0.1043
+    ],
+    "kicker": "U.S. DISTRICT COURT · 2018",
+    "src": "U.S. v. Shkreli, Rule 29 Order (E.D.N.Y. 2018)"
+   }
+  },
+  {
+   "say": "One bad trade in twenty eleven cost Merrill Lynch more than seven million dollars. His reports to investors kept showing positive returns.",
+   "show": "One bad trade in 2011 cost Merrill Lynch more than $7 million. His reports to investors kept showing positive returns.",
+   "scene": {
+    "type": "doc",
+    "img": "img/r29_orex.jpg",
+    "pan": [
+     0.354,
+     0.414
+    ],
+    "hl": [
+     0.0,
+     0.5698,
+     1.0,
+     0.1026
+    ],
+    "kicker": "U.S. DISTRICT COURT · 2018",
+    "src": "U.S. v. Shkreli, Rule 29 Order (E.D.N.Y. 2018)"
+   }
+  },
+  {
+   "say": "In twenty seventeen, a jury convicted him of securities fraud. Sentence: seven years. Not for the seven-hundred-fifty-dollar pill.",
+   "show": "In 2017, a jury convicted him of securities fraud. Sentence: 7 years. Not for the $750 pill.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "BROOKLYN · 2017–2018",
+    "stamp": "GUILTY",
+    "big": "7 years",
+    "sub": "Martin Shkreli · securities fraud"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

@@ -1,0 +1,76 @@
+{
+ "title": "\"Graduated Very Young From Columbia.\" The Record Says No",
+ "template": "before → after",
+ "hook": "\"VERY YOUNG FROM|COLUMBIA\"",
+ "lines": [
+  {
+   "say": "Graduated very young from Columbia. That's what Martin Shkreli claimed, an investor testified. Columbia's registrar testified he never enrolled.",
+   "show": "\"Graduated very young from Columbia.\" That's what Martin Shkreli claimed, an investor testified. Columbia's registrar testified he never enrolled.",
+   "scene": {
+    "type": "big",
+    "kicker": "CLAIM → COURT RECORD",
+    "lines": [
+     "“Columbia.”",
+     "Never|enrolled."
+    ],
+    "src": "U.S. v. Shkreli, Rule 29 Order (E.D.N.Y. 2018)"
+   }
+  },
+  {
+   "say": "The auditor he named for his fund? He stipulated the firm never provided it any services.",
+   "scene": {
+    "type": "doc",
+    "img": "img/r29_col.jpg",
+    "pan": [
+     0.525,
+     0.525
+    ],
+    "hl": [
+     0.0,
+     0.8196,
+     1.0,
+     0.0678
+    ],
+    "kicker": "U.S. DISTRICT COURT · 2018",
+    "src": "U.S. v. Shkreli, Rule 29 Order (E.D.N.Y. 2018)"
+   }
+  },
+  {
+   "say": "His report after a trade wiped out almost all the fund's capital? It said up six point seven percent in March.",
+   "show": "His report after a trade wiped out almost all the fund's capital? It said up 6.7% in March.",
+   "scene": {
+    "type": "doc",
+    "img": "img/r29_rep.jpg",
+    "pan": [
+     0.373,
+     0.433
+    ],
+    "hl": [
+     0.0,
+     0.5698,
+     1.0,
+     0.1409
+    ],
+    "kicker": "U.S. DISTRICT COURT · 2018",
+    "src": "U.S. v. Shkreli, Rule 29 Order (E.D.N.Y. 2018)"
+   }
+  },
+  {
+   "say": "The jury convicted him of securities fraud. Seven years in federal prison.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "AUGUST 4, 2017 · BROOKLYN",
+    "stamp": "GUILTY",
+    "big": "Securities fraud",
+    "sub": "sentenced to 7 years"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

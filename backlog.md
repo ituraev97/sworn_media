@@ -15,7 +15,7 @@ Add new rows when fewer than 10 `todo` remain (fraud, financial crime, scams, la
 | 009 | Gideon v. Wainwright (1963) | THE ARGUMENT | opinion text, Gideon's handwritten petition (National Archives) | done 2026-11-07 (episode 007, published 2026-11-08) |
 | 010 | Raj Rajaratnam — Galleon insider trading (S.D.N.Y. 2011) | THE VERDICT | justice.gov/usao-sdny, SEC | todo |
 | 011 | Scott Rothstein — Fort Lauderdale Ponzi (S.D. Fla. 2010) | THE PAPER TRAIL | justice.gov/usao-sdfl | todo |
-| 012 | Martin Shkreli — securities fraud (E.D.N.Y. 2017–18) + FTC Daraprim ruling (S.D.N.Y. 2022) | THE PAPER TRAIL | justice.gov/usao-edny; RECAP gov.uscourts.nyed.379142; FTC v. Vyera gov.uscourts.nysd.530855 | in progress (episode 010) |
+| 012 | Martin Shkreli — securities fraud (E.D.N.Y. 2017–18) + FTC Daraprim ruling (S.D.N.Y. 2022) | THE PAPER TRAIL | justice.gov/usao-edny; RECAP gov.uscourts.nyed.379142; FTC v. Vyera gov.uscourts.nysd.530855 | done 2026-11-10 (episode 010, published 2026-11-11) |
 | 013 | Jeffrey Skilling — Enron (S.D. Tex. 2006) | THE VERDICT | justice.gov Enron Task Force releases; Supreme Court case file archive.org micro_IA43085015_0478 | done 2026-11-08 (episode 008, published 2026-11-09) |
 | 014 | Marc Dreier — law-firm note fraud (S.D.N.Y. 2009) | THE VERDICT | justice.gov/usao-sdny | todo |
 | 015 | Mapp v. Ohio (1961) | THE ARGUMENT | opinion text | todo |
@@ -24,3 +24,6 @@ Add new rows when fewer than 10 `todo` remain (fraud, financial crime, scams, la
 | 018 | Samuel Israel III — Bayou hedge fund fraud (S.D.N.Y. 2008) | THE PAPER TRAIL | justice.gov/usao-sdny, SEC complaint | todo |
 | 019 | Skilling v. United States (2010) — honest-services fraud | THE ARGUMENT | opinion text, SG brief (justice.gov/osg) | todo |
 | 020 | 5 Ponzi Schemes That Ended in 50+ Years in Prison (Madoff, Stanford, Okun, Petters, Rothstein) — weekly ranking | RANKING | episodes 001/004 sources; justice.gov EDVA/MN/SDFL releases; RECAP | done 2026-11-09 (episode 009, published 2026-11-10) |
+| 021 | Jordan Belfort — Stratton Oakmont securities fraud (E.D.N.Y. 1999–2003) | THE VERDICT | justice.gov/usao-edny; RECAP; SEC litigation releases | todo |
+| 022 | Michael Milken — Drexel securities fraud (S.D.N.Y. 1990; pardoned 2020) | THE VERDICT | SEC v. Drexel/Milken releases; S.D.N.Y. opinions; pardon record | todo |
+| 023 | Trevor Milton — Nikola investor fraud (S.D.N.Y. 2022; pardoned 2025) | THE PAPER TRAIL | justice.gov/usao-sdny; SEC complaint; pardon record | todo |

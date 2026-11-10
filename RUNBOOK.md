@@ -134,3 +134,10 @@ Changelog:
 - BOP inmate-locator WebFetch timed out once (approval) and worked once in the same run. A record with only an "actual release date" may mean death in custody — do not say "released" without a second source.
 - Fact-checker caught: an ambiguous "settled their lawsuit against them" (the firm settled its own clients' suit in the other side's favor), an affidavit phrase that was the cooperating witness's words not the agent's, a thumbnail plate ("THE #1 PONZI SENTENCE") implying an all-time superlative, and back-references broken after inserting lines ("That employee", "He estimated"). Re-run the check after any insertion.
 
+## Notes from run 010 (2026-11-10)
+- YouTube Data API returned HTTP 429 "Search Queries per day" on the first call (shared key used up by other channel runs before 07:00 UTC) — fell back to WebSearch; consider running research earlier or giving SWORN its own key.
+- E.D.N.Y. criminal docket for Shkreli is on archive.org (`gov.uscourts.nyed.379142`; the docket JSON lists entry numbers; PDFs are `<id>.<entry>.0.pdf`). The judge's Rule 29 order (denial of acquittal) is the best showable summary of trial evidence. FTC v. Vyera (`gov.uscourts.nysd.530855`) docket JSON stops in 2020 but the PDFs go to 2023 (opinion = 865).
+- Court opinions name private investors and witnesses: `episodes/010-shkreli/make_img.py` now draws black bars over a list of private names (tesseract TSV) on every document image and the thumbnail. Do this whenever a doc page names victims/investors.
+- Fact-checker caught: "the court found" for a Rule 29 summary (use "the judge wrote"), a U.S. Attorney quote that dropped "As alleged", an unsourced "well-known auditor", a witness described as "a physician" who was the company's own R&D head, a bar-chart title that mislabeled total invested money as AUM, and a date mismatch inside an indictment paragraph.
+- 1,679 words at 0.98 = 12:33. Short 2 at 90 words was 42.5 s → cut to 80 words (37.9 s). Keep Shorts ≤ 80 words.
+- Shorts 0.5 s check: put the quote itself in the hook plate (s3 had "WHAT HE SAID VS. THE RECORD" → changed to the quote).
