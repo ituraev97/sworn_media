@@ -27,3 +27,4 @@ Add new rows when fewer than 10 `todo` remain (fraud, financial crime, scams, la
 | 021 | Jordan Belfort — Stratton Oakmont securities fraud (E.D.N.Y. 1999–2003) | THE VERDICT | justice.gov/usao-edny; RECAP; SEC litigation releases | todo |
 | 022 | Michael Milken — Drexel securities fraud (S.D.N.Y. 1990; pardoned 2020) | THE VERDICT | SEC v. Drexel/Milken releases; S.D.N.Y. opinions; pardon record | todo |
 | 023 | Trevor Milton — Nikola investor fraud (S.D.N.Y. 2022; pardoned 2025) | THE PAPER TRAIL | justice.gov/usao-sdny; SEC complaint; pardon record | todo |
+| 024 | Ramesh "Sunny" Balwani — Theranos president, guilty on all 12 counts (N.D. Cal. 2022; cert denied Oct 2026) | THE VERDICT | RECAP gov.uscourts.cand.327949 (9th Cir. amended opinion Dkt 1802, gov't memo 1643, TSI 469); SEC v. Balwani gov.uscourts.cand.323856 Dkt 1; justice.gov/usao-ndca; supremecourt.gov No. 25-1330 | in progress |
