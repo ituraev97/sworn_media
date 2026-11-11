@@ -1,0 +1,65 @@
+{
+ "title": "135 Months vs. 155 Months: The Two Theranos Verdicts",
+ "template": "before → after",
+ "hook": "135 vs. 155|MONTHS",
+ "lines": [
+  {
+   "say": "One hundred thirty-five months for Elizabeth Holmes. One hundred fifty-five for Sunny Balwani. Same indictment. Same judge. Same sentencing range.",
+   "show": "135 months for Elizabeth Holmes. 155 for Sunny Balwani. Same indictment. Same judge. Same sentencing range.",
+   "scene": {
+    "type": "bars",
+    "kicker": "THERANOS · THE SENTENCES",
+    "title": "Same range: 135–168 months",
+    "items": [
+     {
+      "label": "Holmes",
+      "value": 135,
+      "display": "135"
+     },
+     {
+      "label": "Balwani",
+      "value": 155,
+      "display": "155"
+     }
+    ],
+    "src": "U.S. v. Balwani, Ninth Circuit opinion (amended Dec 2025)"
+   }
+  },
+  {
+   "say": "Her jury acquitted her of defrauding patients. His jury convicted him on all twelve counts, investors and patients.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9_all.jpg",
+    "pan": [
+     0.345,
+     0.345
+    ],
+    "hl": [
+     0.0,
+     0.6366,
+     1.0,
+     0.2054
+    ],
+    "kicker": "NINTH CIRCUIT · OPINION",
+    "src": "U.S. v. Balwani, Ninth Circuit opinion (amended Dec 2025)"
+   }
+  },
+  {
+   "say": "The appeals court wrote that the evidence linked him to inaccurate test results sent to patients. In October, the Supreme Court declined to hear his case.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "OCTOBER 5, 2026",
+    "stamp": "DENIED",
+    "big": "No review",
+    "sub": "Balwani v. United States · No. 25-1330"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

@@ -1,0 +1,65 @@
+{
+ "title": "$1,126,661 on Ads. His Own Text: \"Disaster Zone.\"",
+ "template": "dollar-figure reveal",
+ "hook": "$1,126,661|ON ADS",
+ "lines": [
+  {
+   "say": "One million, one hundred twenty-six thousand, six hundred sixty-one dollars. Theranos wired that on August third, twenty fifteen, to buy ads for its blood-testing Wellness Centers.",
+   "show": "$1,126,661. Theranos wired that on August 3, 2015, to buy ads for its blood-testing Wellness Centers.",
+   "scene": {
+    "type": "doc",
+    "img": "img/tsi_c12.jpg",
+    "pan": [
+     0.525,
+     0.525
+    ],
+    "hl": [
+     0.0,
+     0.7448,
+     1.0,
+     0.157
+    ],
+    "kicker": "INDICTMENT · COUNT 12",
+    "src": "Third Superseding Indictment, U.S. v. Holmes & Balwani (N.D. Cal. 2020)"
+   }
+  },
+  {
+   "say": "Months earlier, its president, Sunny Balwani, had texted Elizabeth Holmes that the lab running Theranos's own devices was a disaster zone.",
+   "show": "Months earlier, its president, Sunny Balwani, had texted Elizabeth Holmes that the lab running Theranos's own devices was a \"disaster zone.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_zone.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3184,
+     1.0,
+     0.063
+    ],
+    "kicker": "U.S. SENTENCING MEMORANDUM",
+    "src": "U.S. Sentencing Memorandum, U.S. v. Holmes (N.D. Cal. 2022)"
+   }
+  },
+  {
+   "say": "That ad buy became count twelve. The jury convicted him on all twelve. One hundred fifty-five months.",
+   "show": "That ad buy became count twelve. The jury convicted him on all twelve. 155 months.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "JULY 7, 2022 · SAN JOSE",
+    "stamp": "GUILTY",
+    "big": "Count 12",
+    "sub": "and every other count · 155 months"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

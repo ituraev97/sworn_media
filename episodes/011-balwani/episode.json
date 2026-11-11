@@ -1,0 +1,1003 @@
+{
+ "label": "SWORN · CASE 011",
+ "lines": [
+  {
+   "say": "Why did Sunny Balwani get more prison time than Elizabeth Holmes? Same company. Same indictment. Same judge. Even the same sentencing range.",
+   "scene": {
+    "type": "big",
+    "kicker": "THERANOS · TWO DEFENDANTS",
+    "lines": [
+     "Same judge.",
+     "Same|range."
+    ],
+    "src": "U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "Holmes got one hundred thirty-five months. Balwani, Theranos's former president and chief operating officer, got one hundred fifty-five.",
+   "show": "Holmes got 135 months. Balwani, Theranos's former president and chief operating officer, got 155.",
+   "scene": {
+    "type": "bars",
+    "kicker": "THE SENTENCES · 2022",
+    "title": "Same range: 135 to 168 months",
+    "items": [
+     {
+      "label": "Elizabeth Holmes",
+      "value": 135,
+      "display": "135 months"
+     },
+     {
+      "label": "Sunny Balwani",
+      "value": 155,
+      "display": "155 months"
+     }
+    ],
+    "src": "U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "Her jury acquitted her of defrauding patients. His jury convicted him on every count: investors and patients. All twelve.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9_all.jpg",
+    "pan": [
+     0.258,
+     0.258
+    ],
+    "hl": [
+     0.0,
+     0.6366,
+     1.0,
+     0.2054
+    ],
+    "kicker": "U.S. COURT OF APPEALS · NINTH CIRCUIT",
+    "title": "“convicted Balwani of all counts”",
+    "src": "U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "And on October fifth, twenty twenty-six, the Supreme Court declined to hear his case. This is the other Theranos verdict.",
+   "show": "And on October 5, 2026, the Supreme Court declined to hear his case. This is the other Theranos verdict.",
+   "scene": {
+    "type": "title",
+    "kicker": "SWORN · CASE 011 · THE VERDICT",
+    "title": "The Other|Theranos Verdict",
+    "sub": "United States v. Ramesh \"Sunny\" Balwani · San Jose · 2022"
+   }
+  },
+  {
+   "say": "Chapter one. The partner.",
+   "scene": {
+    "type": "chapter",
+    "n": "I",
+    "title": "The Partner"
+   }
+  },
+  {
+   "say": "The Ninth Circuit's opinion begins with a slogan. One tiny drop changes everything. That, the judges wrote, was the vision shared by Elizabeth Holmes and Ramesh Balwani, known as Sunny.",
+   "show": "The Ninth Circuit's opinion begins with a slogan: \"One tiny drop changes everything.\" That, the judges wrote, was the vision shared by Elizabeth Holmes and Ramesh Balwani, known as Sunny.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9_drop.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1859,
+     1.0,
+     0.0348
+    ],
+    "kicker": "NINTH CIRCUIT · OPINION · PAGE 8",
+    "title": "“[O]ne tiny drop changes everything.”",
+    "src": "U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "Holmes founded Theranos in two thousand three. The promise: fast, accurate, cheap blood tests from a drop of blood drawn from a fingertip.",
+   "show": "Holmes founded Theranos in 2003. The promise: fast, accurate, cheap blood tests from a drop of blood drawn from a fingertip.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9_drop.jpg",
+    "pan": [
+     0.387,
+     0.447
+    ],
+    "hl": [
+     0.0,
+     0.5666,
+     1.0,
+     0.1508
+    ],
+    "kicker": "NINTH CIRCUIT · OPINION",
+    "title": "“nothing more than a mirage”",
+    "src": "U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "In two thousand nine, according to the Securities and Exchange Commission, Theranos was on the verge of running out of money. Holmes turned to Balwani, her boyfriend at the time, who guaranteed a line of credit for the company. He joined that same year, and became its president and chief operating officer.",
+   "show": "In 2009, according to the Securities and Exchange Commission, Theranos was on the verge of running out of money. Holmes turned to Balwani, her boyfriend at the time, who guaranteed a line of credit for the company. He joined that same year, and became its president and chief operating officer.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sec_2009.jpg",
+    "pan": [
+     0.463,
+     0.463
+    ],
+    "hl": [
+     0.0,
+     0.7852,
+     1.0,
+     0.0956
+    ],
+    "kicker": "SEC COMPLAINT · MARCH 2018 · AS ALLEGED",
+    "title": "“on the verge of running out of money”",
+    "src": "Complaint, SEC v. Ramesh \"Sunny\" Balwani, No. 18-cv-1603 (N.D. Cal., Mar 14, 2018) — allegations"
+   }
+  },
+  {
+   "say": "The appeals court wrote that the two were in a relationship from two thousand four to two thousand sixteen. And that evidence at both trials showed Balwani oversaw operations in the company's patient-testing lab, and was the main contact for its retail partners, Safeway and Walgreens.",
+   "show": "The appeals court wrote that the two were in a relationship from 2004 to 2016. And that evidence at both trials showed Balwani oversaw operations in the company's patient-testing lab, and was the main contact for its retail partners, Safeway and Walgreens.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9_role.jpg",
+    "pan": [
+     0.55,
+     0.55
+    ],
+    "hl": [
+     0.0,
+     0.814,
+     1.0,
+     0.0587
+    ],
+    "kicker": "NINTH CIRCUIT · FACTUAL BACKGROUND",
+    "title": "“Balwani oversaw operations”",
+    "src": "U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "Prosecutors said he owned nearly thirty million Theranos shares, more than six percent of the company.",
+   "show": "Prosecutors said he owned nearly 30 million Theranos shares, more than 6% of the company.",
+   "scene": {
+    "type": "stat",
+    "kicker": "RAMESH \"SUNNY\" BALWANI · 2009–2016",
+    "value": "~30M",
+    "label": "Theranos shares · more than 6%",
+    "src": "U.S. Attorney's Office, N.D. Cal., press release (Dec 7, 2022)"
+   }
+  },
+  {
+   "say": "Chapter two. The model.",
+   "scene": {
+    "type": "chapter",
+    "n": "II",
+    "title": "The Model"
+   }
+  },
+  {
+   "say": "Theranos needed money. The appeals court noted testimony that the company had no revenue at all in twenty twelve and twenty thirteen, and lost fifty-seven million, then ninety-two million dollars.",
+   "show": "Theranos needed money. The appeals court noted testimony that the company had no revenue at all in 2012 and 2013, and lost $57 million, then $92 million.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9_null.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3495,
+     1.0,
+     0.039
+    ],
+    "kicker": "NINTH CIRCUIT · FACTUAL BACKGROUND",
+    "title": "$57 million and $92 million in losses",
+    "src": "U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "In November twenty thirteen, Balwani told Holmes the company was down to fifteen million dollars in cash, while spending up to two million a week.",
+   "show": "In November 2013, Balwani told Holmes the company was down to $15 million in cash, while spending up to $2 million a week.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9_null.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3885,
+     1.0,
+     0.0825
+    ],
+    "kicker": "NINTH CIRCUIT · FACTUAL BACKGROUND",
+    "title": "“down to $15 million in cash”",
+    "src": "U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "From late twenty thirteen to twenty fifteen, the S.E.C. said, Theranos raised more than seven hundred million dollars from investors. Investors typically got a binder, the complaint says. And the SEC alleged that Balwani drafted the financial information inside it.",
+   "show": "From late 2013 to 2015, the SEC said, Theranos raised more than $700 million from investors. Investors typically got a binder, the complaint says. And the SEC alleged that Balwani drafted the financial information inside it.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sec_proj.jpg",
+    "pan": [
+     0.452,
+     0.463
+    ],
+    "hl": [
+     0.0,
+     0.6863,
+     1.0,
+     0.1277
+    ],
+    "kicker": "SEC COMPLAINT · AS ALLEGED",
+    "title": "“Balwani drafted the financial information”",
+    "src": "Complaint, SEC v. Ramesh \"Sunny\" Balwani, No. 18-cv-1603 (N.D. Cal., Mar 14, 2018) — allegations"
+   }
+  },
+  {
+   "say": "Those projections, the complaint says, showed more than one hundred million dollars in revenue for twenty fourteen, and about one billion dollars for twenty fifteen.",
+   "show": "Those projections, the complaint says, showed more than $100 million in revenue for 2014, and about $1 billion for 2015.",
+   "scene": {
+    "type": "bars",
+    "kicker": "THERANOS · 2014 · AS ALLEGED BY THE SEC",
+    "title": "Projected vs. recorded revenue",
+    "items": [
+     {
+      "label": "Projected to investors",
+      "value": 100,
+      "display": "$100M+"
+     },
+     {
+      "label": "Recorded",
+      "value": 0.1,
+      "display": "~$100,000"
+     }
+    ],
+    "src": "Complaint, SEC v. Ramesh \"Sunny\" Balwani, No. 18-cv-1603 (N.D. Cal., Mar 14, 2018) — allegations"
+   }
+  },
+  {
+   "say": "The S.E.C. alleged that Theranos actually recorded little more than one hundred thousand dollars in revenue in twenty fourteen. And it alleged that in October of that year, the same month he gave investors year-end revenue projections of one hundred twenty to one hundred forty million dollars, Balwani told potential insurers the company was losing eight to nine million dollars a month.",
+   "show": "The SEC alleged that Theranos actually recorded little more than $100,000 in revenue in 2014. And it alleged that in October of that year, the same month he gave investors year-end revenue projections of $120 to $140 million, Balwani told potential insurers the company was losing $8 to $9 million a month.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sec_real.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.398,
+     1.0,
+     0.0638
+    ],
+    "kicker": "SEC COMPLAINT · AS ALLEGED",
+    "title": "“little more than $100,000”",
+    "src": "Complaint, SEC v. Ramesh \"Sunny\" Balwani, No. 18-cv-1603 (N.D. Cal., Mar 14, 2018) — allegations"
+   }
+  },
+  {
+   "say": "Questioned by the S.E.C., Balwani drew a line. He said he was responsible for the financial model. Not, the appeals court noted, for the financial projections.",
+   "show": "Questioned by the SEC, Balwani drew a line. He said he was responsible for the \"financial model.\" Not, the appeals court noted, for the \"financial projections.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9_model.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.162,
+     1.0,
+     0.1071
+    ],
+    "kicker": "NINTH CIRCUIT · OPINION · PAGE 40",
+    "title": "“financial model” vs. “financial projections”",
+    "src": "U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "At his sentencing, Judge Edward Davila spoke about the projections Balwani drew up, the Associated Press reported. The projections, he said:",
+   "scene": {
+    "type": "big",
+    "kicker": "DECEMBER 7, 2022 · SAN JOSE",
+    "lines": [
+     "The",
+     "projections."
+    ],
+    "src": "Associated Press (Dec 7, 2022)"
+   }
+  },
+  {
+   "say": "They weren't just projections. They were lies.",
+   "show": "\"…weren't just projections, they were lies.\"",
+   "scene": {
+    "type": "quote",
+    "q": "weren't just projections, they were lies.",
+    "case": "UNITED STATES v. BALWANI",
+    "doc": "U.S. DISTRICT JUDGE EDWARD J. DAVILA · AT SENTENCING",
+    "cite": "As quoted by Associated Press (Dec 7, 2022)",
+    "size": 60
+   }
+  },
+  {
+   "say": "Chapter three. The pitch.",
+   "scene": {
+    "type": "chapter",
+    "n": "III",
+    "title": "The Pitch"
+   }
+  },
+  {
+   "say": "Investors testified they were led to believe Theranos ran its tests on its own machines. The S.E.C. alleged that in its clinical lab, the proprietary analyzer ran only about twelve of the more than two hundred tests on the menu. The rest ran on commercially available analyzers made by other companies, some modified for fingerstick samples.",
+   "show": "Investors testified they were led to believe Theranos ran its tests on its own machines. The SEC alleged that in its clinical lab, the proprietary analyzer ran only about 12 of the more than 200 tests on the menu. The rest ran on commercially available analyzers made by other companies, some modified for fingerstick samples.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sec_cover.jpg",
+    "pan": [
+     0.278,
+     0.278
+    ],
+    "hl": [
+     0.0,
+     0.696,
+     1.0,
+     0.166
+    ],
+    "kicker": "SEC v. RAMESH \"SUNNY\" BALWANI · 2018",
+    "title": "The SEC's case",
+    "src": "Complaint, SEC v. Ramesh \"Sunny\" Balwani, No. 18-cv-1603 (N.D. Cal., Mar 14, 2018) — allegations"
+   }
+  },
+  {
+   "say": "Visiting investors were shown the device. The court described what happened next: the machine was running a null protocol, while some of the visitors' samples were secretly run on third-party devices.",
+   "show": "Visiting investors were shown the device. The court described what happened next: the machine was running a \"null protocol,\" while some of the visitors' samples were secretly run on third-party devices.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9_null.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.162,
+     1.0,
+     0.0587
+    ],
+    "kicker": "NINTH CIRCUIT · FACTUAL BACKGROUND",
+    "title": "“a ‘null protocol’”",
+    "src": "U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "Investors also saw reports bearing the logos of drug companies like Pfizer. Holmes admitted she put those logos there herself. The companies testified they never independently validated the technology, and never authorized the use of their logos.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9_drop.jpg",
+    "pan": [
+     0.387,
+     0.447
+    ],
+    "hl": [
+     0.0,
+     0.5666,
+     1.0,
+     0.1508
+    ],
+    "kicker": "NINTH CIRCUIT · OPINION",
+    "title": "“half-truths and outright lies”",
+    "src": "U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "Then the military. The S.E.C. alleged that Balwani told one potential investor in late twenty thirteen that seventy-five percent of Theranos's current revenue came from the military.",
+   "show": "Then the military. The SEC alleged that Balwani told one potential investor in late 2013 that 75% of Theranos's current revenue came from the military.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sec_dod.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4599,
+     1.0,
+     0.063
+    ],
+    "kicker": "SEC COMPLAINT · AS ALLEGED",
+    "title": "“75 percent”",
+    "src": "Complaint, SEC v. Ramesh \"Sunny\" Balwani, No. 18-cv-1603 (N.D. Cal., Mar 14, 2018) — allegations"
+   }
+  },
+  {
+   "say": "According to the complaint, Theranos made only about three hundred thousand dollars from three Defense Department contracts. At Holmes's trial, General James Mattis testified that the device was never put into the field, never installed on a military medevac, and never used to treat service members on the battlefield.",
+   "show": "According to the complaint, Theranos made only about $300,000 from three Defense Department contracts. At Holmes's trial, General James Mattis testified that the device was never put into the field, never installed on a military medevac, and never used to treat service members on the battlefield.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sec_dod.jpg",
+    "pan": [
+     0.418,
+     0.463
+    ],
+    "hl": [
+     0.0,
+     0.6858,
+     1.0,
+     0.0626
+    ],
+    "kicker": "SEC COMPLAINT · AS ALLEGED",
+    "title": "“approximately $300,000”",
+    "src": "Complaint, SEC v. Ramesh \"Sunny\" Balwani, No. 18-cv-1603 (N.D. Cal., Mar 14, 2018) — allegations"
+   }
+  },
+  {
+   "say": "And Walgreens? Balwani was the company's main contact there. A Walgreens representative testified that while Holmes and Balwani were telling investors the partnership was expanding, it was actually contracting.",
+   "scene": {
+    "type": "big",
+    "kicker": "WALGREENS · AS TESTIFIED",
+    "lines": [
+     "Expanding?",
+     "Contracting."
+    ],
+    "src": "U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "Chapter four. The lab.",
+   "scene": {
+    "type": "chapter",
+    "n": "IV",
+    "title": "The Lab"
+   }
+  },
+  {
+   "say": "Here is what set Balwani's case apart. He oversaw the operations of the lab. And the warnings went to him.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9_role.jpg",
+    "pan": [
+     0.55,
+     0.55
+    ],
+    "hl": [
+     0.0,
+     0.814,
+     1.0,
+     0.0587
+    ],
+    "kicker": "NINTH CIRCUIT · FACTUAL BACKGROUND",
+    "title": "the patient-testing lab",
+    "src": "U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "According to the government's sentencing memo, in late May twenty fourteen, lab director Dr. Adam Rosendorff halted all testing of h.C.G., a pregnancy hormone, on the Theranos analyzer because of inaccurate results. Balwani immediately passed that news to Holmes.",
+   "show": "According to the government's sentencing memo, in late May 2014, lab director Dr. Adam Rosendorff halted all testing of hCG, a pregnancy hormone, on the Theranos analyzer because of inaccurate results. Balwani immediately passed that news to Holmes.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_lab.jpg",
+    "pan": [
+     0.438,
+     0.463
+    ],
+    "hl": [
+     0.0,
+     0.7052,
+     1.0,
+     0.063
+    ],
+    "kicker": "U.S. SENTENCING MEMORANDUM · 2022",
+    "title": "hCG testing halted",
+    "src": "U.S. Sentencing Memorandum (re Holmes), No. 18-cr-258 (N.D. Cal., Nov 11, 2022)"
+   }
+  },
+  {
+   "say": "In August, Rosendorff emailed Balwani that the bicarbonate test had lost all diagnostic value. Balwani forwarded it to Holmes. When a scientist proposed a study of another test's low readings, Balwani wrote to Holmes:",
+   "show": "In August, Rosendorff emailed Balwani that the bicarbonate test had \"lost all diagnostic value.\" Balwani forwarded it to Holmes. When a scientist proposed a study of another test's low readings, Balwani wrote to Holmes:",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_lab.jpg",
+    "pan": [
+     0.463,
+     0.463
+    ],
+    "hl": [
+     0.0,
+     0.8344,
+     1.0,
+     0.1242
+    ],
+    "kicker": "U.S. SENTENCING MEMORANDUM · 2022",
+    "title": "“lost all diagnostic value”",
+    "src": "U.S. Sentencing Memorandum (re Holmes), No. 18-cr-258 (N.D. Cal., Nov 11, 2022)"
+   }
+  },
+  {
+   "say": "Always another study after the fact.",
+   "scene": {
+    "type": "quote",
+    "q": "Always another study after the fact.",
+    "case": "UNITED STATES v. BALWANI",
+    "doc": "SUNNY BALWANI · EMAIL TO HOLMES · 2014",
+    "cite": "As quoted in U.S. Sentencing Memorandum (re Holmes), No. 18-cr-258 (N.D. Cal., Nov 11, 2022)",
+    "size": 64
+   }
+  },
+  {
+   "say": "By late November twenty fourteen, the memo says, he texted Holmes that the lab where Theranos ran its own devices was a disaster zone.",
+   "show": "By late November 2014, the memo says, he texted Holmes that the lab where Theranos ran its own devices was a \"disaster zone.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_zone.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3184,
+     1.0,
+     0.063
+    ],
+    "kicker": "U.S. SENTENCING MEMORANDUM · 2022",
+    "title": "“disaster zone”",
+    "src": "U.S. Sentencing Memorandum (re Holmes), No. 18-cr-258 (N.D. Cal., Nov 11, 2022)"
+   }
+  },
+  {
+   "say": "A lab associate, Erika Cheung, testified that there was something still going on that is causing one out of four failures of every single test that we do on this system.",
+   "show": "A lab associate, Erika Cheung, testified there was \"something still going on that is causing one out of four failures of every single test that we do on this . . . system.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9_cheung.jpg",
+    "pan": [
+     0.55,
+     0.55
+    ],
+    "hl": [
+     0.0,
+     0.814,
+     1.0,
+     0.056
+    ],
+    "kicker": "NINTH CIRCUIT · ERIKA CHEUNG'S TESTIMONY",
+    "title": "“one out of four failures”",
+    "src": "U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "The indictment lists tests it alleged Theranos could not consistently get right, from cholesterol and glucose to H.I.V., P.S.A. and h.C.G.",
+   "show": "The indictment lists tests it alleged Theranos could not consistently get right, from cholesterol and glucose to HIV, PSA and hCG.",
+   "scene": {
+    "type": "doc",
+    "img": "img/tsi_tests.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.0929,
+     1.0,
+     0.1271
+    ],
+    "kicker": "THIRD SUPERSEDING INDICTMENT · ¶16",
+    "title": "The tests",
+    "src": "Third Superseding Indictment, U.S. v. Holmes & Balwani, No. 18-cr-258 (N.D. Cal., Jul 28, 2020)"
+   }
+  },
+  {
+   "say": "The patients were real. One testified that a Theranos HIV test came back positive. Two later tests showed she was negative. Another received incorrect results on a pregnancy test. The court wrote that the evidence linked Balwani to the transmission of those results, and to buying advertisements for Theranos Wellness Centers in Arizona.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9_pat.jpg",
+    "pan": [
+     0.531,
+     0.55
+    ],
+    "hl": [
+     0.0,
+     0.7349,
+     1.0,
+     0.1025
+    ],
+    "kicker": "NINTH CIRCUIT · SCHEME TO DEFRAUD PATIENTS",
+    "title": "“The evidence linked Balwani”",
+    "src": "U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "Count twelve of the indictment is an ad buy: on August third, twenty fifteen, one million, one hundred twenty-six thousand, six hundred sixty-one dollars wired to buy advertising for Theranos Wellness Centers.",
+   "show": "Count 12 of the indictment is an ad buy: on August 3, 2015, $1,126,661 wired to buy advertising for Theranos Wellness Centers.",
+   "scene": {
+    "type": "doc",
+    "img": "img/tsi_c12.jpg",
+    "pan": [
+     0.463,
+     0.463
+    ],
+    "hl": [
+     0.0,
+     0.7448,
+     1.0,
+     0.157
+    ],
+    "kicker": "THIRD SUPERSEDING INDICTMENT · COUNT 12",
+    "title": "$1,126,661 for advertisements",
+    "src": "Third Superseding Indictment, U.S. v. Holmes & Balwani, No. 18-cr-258 (N.D. Cal., Jul 28, 2020)"
+   }
+  },
+  {
+   "say": "After federal inspectors from C.M.S. found problems in the lab, Theranos voided every Edison test result.",
+   "show": "After federal inspectors from CMS found problems in the lab, Theranos voided every Edison test result.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_zone.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4476,
+     1.0,
+     0.0626
+    ],
+    "kicker": "U.S. SENTENCING MEMORANDUM · 2022",
+    "title": "“void every single Edison test”",
+    "src": "U.S. Sentencing Memorandum (re Holmes), No. 18-cr-258 (N.D. Cal., Nov 11, 2022)"
+   }
+  },
+  {
+   "say": "Chapter five. Twelve counts.",
+   "scene": {
+    "type": "chapter",
+    "n": "V",
+    "title": "Twelve Counts"
+   }
+  },
+  {
+   "say": "The grand jury indicted them both in June twenty eighteen. The final indictment charged two conspiracies, one against investors and one against patients, and ten counts of wire fraud.",
+   "show": "The grand jury indicted them both in June 2018. The final indictment charged two conspiracies, one against investors and one against patients, and ten counts of wire fraud.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_cover.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.5863,
+     1.0,
+     0.1126
+    ],
+    "kicker": "U.S. DISTRICT COURT · N.D. CAL. · JUNE 2018",
+    "title": "The indictment",
+    "src": "Indictment, U.S. v. Holmes & Balwani, No. 18-cr-258 (N.D. Cal., Jun 14, 2018)"
+   }
+  },
+  {
+   "say": "The case was investigated by the F.B.I., the U.S. Postal Inspection Service, and the Food and Drug Administration's Office of Criminal Investigations.",
+   "show": "The case was investigated by the FBI, the U.S. Postal Inspection Service, and the Food and Drug Administration's Office of Criminal Investigations.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_cover.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.5863,
+     1.0,
+     0.1126
+    ],
+    "kicker": "U.S. DISTRICT COURT · N.D. CAL.",
+    "title": "United States v. Holmes & Balwani",
+    "src": "Indictment, U.S. v. Holmes & Balwani, No. 18-cr-258 (N.D. Cal., Jun 14, 2018) · U.S. Attorney's Office, N.D. Cal., press release (Dec 7, 2022)"
+   }
+  },
+  {
+   "say": "The court ordered separate trials. Holmes went first. On January third, twenty twenty-two, her jury convicted her on four investor counts, acquitted her of the patient charges, and could not agree on three others.",
+   "show": "The court ordered separate trials. Holmes went first. On January 3, 2022, her jury convicted her on four investor counts, acquitted her of the patient charges, and could not agree on three others.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9_all.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.0,
+     1.0,
+     0.155
+    ],
+    "kicker": "NINTH CIRCUIT · PROCEDURAL HISTORY",
+    "title": "Holmes: guilty on 4",
+    "src": "U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "Balwani's trial began in March twenty twenty-two, on the same twelve counts. It lasted nearly four months. He did not testify.",
+   "show": "Balwani's trial began in March 2022, on the same twelve counts. It lasted nearly four months. He did not testify.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "TWO TRIALS · ONE JUDGE",
+    "events": [
+     {
+      "date": "2018",
+      "text": "Indicted together"
+     },
+     {
+      "date": "Jan 2022",
+      "text": "Holmes verdict"
+     },
+     {
+      "date": "Mar 2022",
+      "text": "Balwani trial begins"
+     },
+     {
+      "date": "Jul 2022",
+      "text": "Balwani verdict"
+     }
+    ],
+    "at": 2,
+    "src": "U.S. Sentencing Memorandum (re Holmes), No. 18-cr-258 (N.D. Cal., Nov 11, 2022) · U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025) · Associated Press (Dec 7, 2022)"
+   }
+  },
+  {
+   "say": "On July seventh, twenty twenty-two, the jury found him guilty of all counts alleged in the indictment.",
+   "show": "On July 7, 2022, the jury found him guilty of all counts alleged in the indictment.",
+   "scene": {
+    "type": "doc",
+    "img": "img/fix_dates.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2541,
+     1.0,
+     0.0626
+    ],
+    "kicker": "U.S. ATTORNEY'S OFFICE · COURT FILING",
+    "title": "“guilty of all counts”",
+    "src": "U.S. Administrative Motion to Correct Judgments, No. 18-cr-258 (N.D. Cal.), ECF No. 1811"
+   }
+  },
+  {
+   "say": "Seven counts involved investors. Five involved patients, the kind of charges Holmes's jury had rejected.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "JULY 7, 2022 · SAN JOSE",
+    "stamp": "GUILTY",
+    "big": "12 of 12 counts",
+    "sub": "Ramesh \"Sunny\" Balwani · investors and patients"
+   }
+  },
+  {
+   "say": "Chapter six. A hundred fifty-five months.",
+   "scene": {
+    "type": "chapter",
+    "n": "VI",
+    "title": "155 Months"
+   }
+  },
+  {
+   "say": "December seventh, twenty twenty-two. Prosecutors asked for fifteen years. His lawyers asked for four to ten months, and argued, the A.P. reported, that he never sought fame, and is not Ms. Holmes. Balwani declined the judge's invitation to speak.",
+   "show": "December 7, 2022. Prosecutors asked for 15 years. His lawyers asked for four to ten months, and argued, the AP reported, that he never sought fame, and \"is not Ms. Holmes.\" Balwani declined the judge's invitation to speak.",
+   "scene": {
+    "type": "bars",
+    "kicker": "SENTENCING · DECEMBER 7, 2022",
+    "title": "What each side asked for",
+    "items": [
+     {
+      "label": "Prosecutors",
+      "value": 180,
+      "display": "15 years"
+     },
+     {
+      "label": "Defense",
+      "value": 10,
+      "display": "4–10 months"
+     }
+    ],
+    "src": "Associated Press (Dec 7, 2022)"
+   }
+  },
+  {
+   "say": "The prosecutor answered that argument directly: that he did not seek fame or recognition is not something that Mr. Balwani should get credit for.",
+   "show": "The prosecutor answered that argument directly: \"That he did not seek fame or recognition is not something that Mr. Balwani should get credit for.\"",
+   "scene": {
+    "type": "quote",
+    "q": "That he did not seek fame or recognition is not something that Mr. Balwani should get credit for.",
+    "case": "UNITED STATES v. BALWANI",
+    "doc": "ASSISTANT U.S. ATTORNEY JEFFREY SCHENK",
+    "cite": "As quoted by Associated Press (Dec 7, 2022)",
+    "size": 44
+   }
+  },
+  {
+   "say": "Judge Davila found the same number of victims and the same loss as in Holmes's case, so the guideline range was the same: one hundred thirty-five to one hundred sixty-eight months. Holmes had been sentenced at the bottom of that range. Balwani got one hundred fifty-five months, and a twenty-five-thousand-dollar fine.",
+   "show": "Judge Davila found the same number of victims and the same loss as in Holmes's case, so the guideline range was the same: 135 to 168 months. Holmes had been sentenced at the bottom of that range. Balwani got 155 months, and a $25,000 fine.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9_155.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1859,
+     1.0,
+     0.0587
+    ],
+    "kicker": "NINTH CIRCUIT · OPINION · PAGE 17",
+    "title": "“155 months of imprisonment”",
+    "src": "U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "The U.S. Attorney said Balwani valued business success and personal wealth far more than patient safety.",
+   "show": "The U.S. Attorney said Balwani \"valued business success and personal wealth far more than patient safety.\"",
+   "scene": {
+    "type": "quote",
+    "q": "valued business success and personal wealth far more than patient safety.",
+    "case": "UNITED STATES v. BALWANI",
+    "doc": "U.S. ATTORNEY STEPHANIE M. HINDS",
+    "cite": "U.S. Attorney's Office, N.D. Cal., press release (Dec 7, 2022)",
+    "size": 50
+   }
+  },
+  {
+   "say": "In May twenty twenty-three, the court ordered restitution: four hundred fifty-two million dollars, with Holmes and Balwani each liable for the full amount, to investors and to Safeway and Walgreens.",
+   "show": "In May 2023, the court ordered restitution: $452 million, with Holmes and Balwani jointly and severally liable, to investors and to Safeway and Walgreens.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9_155.jpg",
+    "pan": [
+     0.413,
+     0.473
+    ],
+    "hl": [
+     0.0,
+     0.6149,
+     1.0,
+     0.1064
+    ],
+    "kicker": "NINTH CIRCUIT · RESTITUTION ORDER",
+    "title": "$452 million",
+    "src": "U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "Chapter seven. The last appeal.",
+   "scene": {
+    "type": "chapter",
+    "n": "VII",
+    "title": "The Last Appeal"
+   }
+  },
+  {
+   "say": "On appeal, Balwani argued that former employees had been allowed to give expert opinions without being qualified as experts, and that he had been tried on facts the indictment never charged.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ca9_cover.jpg",
+    "pan": [
+     0.399,
+     0.459
+    ],
+    "hl": [
+     0.0,
+     0.5892,
+     1.0,
+     0.1299
+    ],
+    "kicker": "U.S. COURT OF APPEALS · NINTH CIRCUIT",
+    "title": "Holmes · Balwani",
+    "src": "U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "In February twenty twenty-five, the Ninth Circuit agreed that some of that testimony veered into expert territory, but called the error harmless. And it held the indictment plainly gave him notice. Convictions and sentences, affirmed.",
+   "show": "In February 2025, the Ninth Circuit agreed that some of that testimony \"veered into expert territory,\" but called the error harmless. And it held the indictment \"plainly gave\" him notice. Convictions and sentences, affirmed.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NINTH CIRCUIT · FEB 24, 2025",
+    "stamp": "AFFIRMED",
+    "big": "Conviction stands",
+    "sub": "Amended Dec 22, 2025 · rehearing denied"
+   }
+  },
+  {
+   "say": "He asked for rehearing. In December twenty twenty-five, the court denied it. In May twenty twenty-six, he petitioned the Supreme Court. The government waived its right to respond. On October fifth, the petition was denied. Justice Thomas took no part.",
+   "show": "He asked for rehearing. In December 2025, the court denied it. In May 2026, he petitioned the Supreme Court. The government waived its right to respond. On October 5, the petition was denied. Justice Thomas took no part.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "BALWANI v. UNITED STATES · No. 25-1330",
+    "events": [
+     {
+      "date": "Dec 2025",
+      "text": "Rehearing denied"
+     },
+     {
+      "date": "May 2026",
+      "text": "Petition filed"
+     },
+     {
+      "date": "Jun 2026",
+      "text": "U.S. waives response"
+     },
+     {
+      "date": "Oct 5, 2026",
+      "text": "Petition denied"
+     }
+    ],
+    "at": 3,
+    "src": "Supreme Court of the United States, docket No. 25-1330, Balwani v. United States · U.S. v. Holmes; U.S. v. Balwani, Order and Amended Opinion (9th Cir., Dec 22, 2025)"
+   }
+  },
+  {
+   "say": "Holmes, meanwhile, won a reduction. In March twenty twenty-six, under a change to the sentencing guidelines, her sentence was cut from one hundred thirty-five months to one hundred twenty-three.",
+   "show": "Holmes, meanwhile, won a reduction. In March 2026, under a change to the sentencing guidelines, her sentence was cut from 135 months to 123.",
+   "scene": {
+    "type": "stat",
+    "kicker": "ELIZABETH HOLMES · MARCH 26, 2026",
+    "value": "135 → 123",
+    "label": "months · guidelines amendment",
+    "src": "Order Granting Motion for Modification of Sentence, U.S. v. Holmes (N.D. Cal., Mar 26, 2026)"
+   }
+  },
+  {
+   "say": "So why more time for Balwani? The record gives the pieces. Every count against him ended in a guilty verdict, including defrauding patients. The S.E.C. alleged he drafted the numbers investors saw. And he oversaw the lab the warnings came from.",
+   "show": "So why more time for Balwani? The record gives the pieces. Every count against him ended in a guilty verdict, including defrauding patients. The SEC alleged he drafted the numbers investors saw. And he oversaw the lab the warnings came from.",
+   "scene": {
+    "type": "doc",
+    "img": "img/tsi_tests.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.0929,
+     1.0,
+     0.1271
+    ],
+    "kicker": "THIRD SUPERSEDING INDICTMENT",
+    "title": "The tests",
+    "src": "Third Superseding Indictment, U.S. v. Holmes & Balwani, No. 18-cr-258 (N.D. Cal., Jul 28, 2020)"
+   }
+  },
+  {
+   "say": "One tiny drop changes everything. In San Jose, it was twelve counts.",
+   "show": "\"One tiny drop changes everything.\" In San Jose, it was twelve counts.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "One tiny drop.",
+     "Twelve|counts."
+    ]
+   }
+  },
+  {
+   "say": "This is SWORN. Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ]
+}

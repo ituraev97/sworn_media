@@ -141,3 +141,11 @@ Changelog:
 - Fact-checker caught: "the court found" for a Rule 29 summary (use "the judge wrote"), a U.S. Attorney quote that dropped "As alleged", an unsourced "well-known auditor", a witness described as "a physician" who was the company's own R&D head, a bar-chart title that mislabeled total invested money as AUM, and a date mismatch inside an indictment paragraph.
 - 1,679 words at 0.98 = 12:33. Short 2 at 90 words was 42.5 s → cut to 80 words (37.9 s). Keep Shorts ≤ 80 words.
 - Shorts 0.5 s check: put the quote itself in the hook plate (s3 had "WHAT HE SAID VS. THE RECORD" → changed to the quote).
+
+## Notes from run 011 (2026-11-11)
+- Picked a second Theranos episode (Balwani, new backlog row 024) over the rotation's THE ARGUMENT because Mapp v. Ohio measured Low demand and Theranos had the best own case-day (Shorts 22/18/16) plus a fresh peg (cert denied Oct 5, 2026). THE ARGUMENT is due next run.
+- RECAP item gov.uscourts.cand.327949 has no Balwani-only filings after his severance (no verdict form, judgment or his sentencing memo). Usable instead: 9th Cir. amended opinion filed as ECF 1802 (page = opinion page), U.S. admin. motion ECF 1811 (verdict/sentence dates, fine), Holmes memo ECF 1643 (lab emails/texts), TSI ECF 469, SEC v. Balwani complaint gov.uscourts.cand.323856 Dkt 1 (allegations — always say "the SEC alleged").
+- supremecourt.gov docket HTML (docketfiles/html/public/<no>.html) worked via WebFetch; yahoo and bop.gov needed approval and timed out unattended.
+- Court opinions can mention uncharged abuse allegations between co-defendants (ca9 p.16): crop them out of doc images; never narrate them.
+- Long video 1,513 words = 11:37; first encode exceeded 95 MB → make.sh re-encode at 855k took ~15 min (static docs look fine). Shorts at 70 words = 34–35 s.
+- Fact-checker caught: "former" job titles at sentencing, SEC complaint facts stated without "alleged" (incl. "investors got a binder"), a quote cut so it changed meaning ("one out of four failures of every single test" → "…that we do on this . . . system"), "owed jointly" vs "jointly and severally", linking Count 12 to Arizona ads, an AP quote framed as answering a point AP never connected, and two highlight boxes on the wrong paragraph.

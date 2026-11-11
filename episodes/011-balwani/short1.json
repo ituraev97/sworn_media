@@ -1,0 +1,57 @@
+{
+ "title": "\"[They] Weren't Just Projections, They Were Lies.\"",
+ "template": "verbatim quote",
+ "hook": "\"THEY WERE|LIES.\"",
+ "lines": [
+  {
+   "say": "They weren't just projections. They were lies. A federal judge said that at the sentencing of former Theranos president Sunny Balwani, the A.P. reported.",
+   "show": "\"…weren't just projections, they were lies.\" A federal judge said that at the sentencing of former Theranos president Sunny Balwani, the AP reported.",
+   "scene": {
+    "type": "quote",
+    "q": "weren't just projections, they were lies.",
+    "case": "UNITED STATES v. BALWANI",
+    "doc": "JUDGE EDWARD J. DAVILA · AT SENTENCING",
+    "cite": "As quoted by Associated Press (Dec 7, 2022)",
+    "size": 54
+   }
+  },
+  {
+   "say": "The S.E.C. alleged he drafted investor projections of over one hundred million dollars in revenue for twenty fourteen. It alleged Theranos recorded little more than one hundred thousand.",
+   "show": "The SEC alleged he drafted investor projections of over $100 million in revenue for 2014. It alleged Theranos recorded little more than $100,000.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sec_real.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.398,
+     1.0,
+     0.0638
+    ],
+    "kicker": "SEC COMPLAINT · AS ALLEGED",
+    "src": "SEC v. Balwani, Complaint (N.D. Cal. 2018) — allegations"
+   }
+  },
+  {
+   "say": "A jury convicted him on all twelve counts. Sentence: one hundred fifty-five months.",
+   "show": "A jury convicted him on all twelve counts. Sentence: 155 months.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "SAN JOSE · 2022",
+    "stamp": "GUILTY",
+    "big": "155 months",
+    "sub": "Ramesh \"Sunny\" Balwani · 12 of 12 counts"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}
