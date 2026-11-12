@@ -1,0 +1,65 @@
+{
+ "title": "$3,696.09 in Overtime: The \"Property\" in the Bridgegate Case",
+ "template": "dollar-figure reveal",
+ "hook": "$3,696.09|IN OVERTIME",
+ "lines": [
+  {
+   "say": "Three thousand six hundred ninety-six dollars and nine cents. Payroll records put the Bridgegate toll collectors' extra shifts at that.",
+   "show": "$3,696.09. Payroll records put the Bridgegate toll collectors' extra shifts at that.",
+   "scene": {
+    "type": "doc",
+    "img": "img/usb_cost.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.339,
+     1.0,
+     0.1444
+    ],
+    "kicker": "BRIEF FOR THE UNITED STATES",
+    "src": "Brief for the United States, Kelly v. United States (2019)"
+   }
+  },
+  {
+   "say": "Prosecutors said the employees' time was property, taken by fraud through a fake traffic study. The jury convicted.",
+   "scene": {
+    "type": "doc",
+    "img": "img/usb_14.jpg",
+    "pan": [
+     0.258,
+     0.318
+    ],
+    "hl": [
+     0.0,
+     0.4907,
+     1.0,
+     0.0692
+    ],
+    "kicker": "BRIEF FOR THE UNITED STATES",
+    "src": "Brief for the United States, Kelly v. United States (2019)"
+   }
+  },
+  {
+   "say": "The Supreme Court disagreed, nine to nothing. That cost, it said, was only an incidental byproduct of the scheme.",
+   "show": "The Supreme Court disagreed, 9–0. That cost, it said, \"was its incidental byproduct.\"",
+   "scene": {
+    "type": "quote",
+    "q": "was its incidental byproduct.",
+    "case": "KELLY v. UNITED STATES",
+    "doc": "OPINION OF THE COURT",
+    "cite": "Kelly v. United States, opinion of the Court (U.S. May 7, 2020)",
+    "size": 60
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

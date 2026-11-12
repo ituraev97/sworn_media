@@ -1,0 +1,49 @@
+{
+ "title": "Guilty on All 7 Counts. Then the Supreme Court Said 9–0.",
+ "template": "before → after",
+ "hook": "GUILTY →|REVERSED 9–0",
+ "lines": [
+  {
+   "say": "What the jury found: guilty on all seven counts. Two officials had cut Fort Lee's bridge lanes to punish its mayor, prosecutors said, behind a fake traffic study.",
+   "show": "What the jury found: guilty on all seven counts. Two officials had cut Fort Lee's bridge lanes to punish its mayor, prosecutors said, behind a fake traffic study.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NEWARK · NOV 4, 2016",
+    "stamp": "GUILTY",
+    "big": "All 7 counts",
+    "sub": "Baroni & Kelly"
+   }
+  },
+  {
+   "say": "What the Supreme Court found: the evidence no doubt shows wrongdoing. Deception, corruption, abuse of power.",
+   "show": "What the Supreme Court found: the evidence \"no doubt shows wrongdoing—deception, corruption, abuse of power.\"",
+   "scene": {
+    "type": "quote",
+    "q": "deception, corruption, abuse of power.",
+    "case": "KELLY v. UNITED STATES",
+    "doc": "OPINION OF THE COURT · 2020",
+    "cite": "Kelly v. United States, opinion of the Court (U.S. May 7, 2020)",
+    "size": 58
+   }
+  },
+  {
+   "say": "But not every corrupt act by state or local officials is a federal crime. Reversed, nine to nothing.",
+   "show": "\"But not every corrupt act by state or local officials is a federal crime.\" Reversed, 9–0.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "SUPREME COURT · MAY 7, 2020",
+    "stamp": "REVERSED",
+    "big": "9–0",
+    "sub": "Kelly v. United States",
+    "neutral": true
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

@@ -1,0 +1,57 @@
+{
+ "title": "\"Time for Some Traffic Problems in Fort Lee.\"",
+ "template": "verbatim quote",
+ "hook": "\"TIME FOR SOME|TRAFFIC PROBLEMS\"",
+ "lines": [
+  {
+   "say": "Time for some traffic problems in Fort Lee. That was the whole e-mail, sent in August twenty thirteen by a deputy chief of staff to New Jersey's governor. The reply: Got it.",
+   "show": "\"Time for some traffic problems in Fort Lee.\" That was the whole e-mail, sent in August 2013 by a deputy chief of staff to New Jersey's governor. The reply: \"Got it.\"",
+   "scene": {
+    "type": "quote",
+    "q": "Time for some traffic problems in Fort Lee.",
+    "case": "KELLY v. UNITED STATES",
+    "doc": "E-MAIL · AUG 13, 2013",
+    "cite": "Quoted in Kelly v. United States, opinion of the Court (U.S. May 7, 2020)",
+    "size": 54
+   }
+  },
+  {
+   "say": "On the first day of school, Fort Lee's lanes onto the George Washington Bridge went from three to one. Four days of gridlock.",
+   "scene": {
+    "type": "doc",
+    "img": "img/usb_smile.jpg",
+    "pan": [
+     0.258,
+     0.318
+    ],
+    "hl": [
+     0.0,
+     0.4147,
+     1.0,
+     0.2207
+    ],
+    "kicker": "BRIEF FOR THE UNITED STATES",
+    "src": "Brief for the United States, Kelly v. United States (2019)"
+   }
+  },
+  {
+   "say": "A jury convicted her on every count. Then the Supreme Court threw it out, nine to nothing.",
+   "show": "A jury convicted her on every count. Then the Supreme Court threw it out, 9–0.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "SUPREME COURT · MAY 7, 2020",
+    "stamp": "REVERSED",
+    "big": "9–0",
+    "sub": "Kelly v. United States",
+    "neutral": true
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}
