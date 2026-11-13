@@ -4,6 +4,7 @@
 @font-face{font-family:'DM Serif Display';src:url(fonts/dm-serif-display-latin-400-normal.woff2)}
 @font-face{font-family:'Inter';font-weight:800;src:url(fonts/inter-latin-800-normal.woff2)}
 @font-face{font-family:'Inter';font-weight:600;src:url(fonts/inter-latin-600-normal.woff2)}
+@font-face{font-family:Anton;src:url(fonts/anton-latin-400-normal.woff2)}
 @font-face{font-family:'Courier Prime';font-weight:400;src:url(fonts/courier-prime-latin-400-normal.woff2)}
 @font-face{font-family:'Courier Prime';font-weight:700;src:url(fonts/courier-prime-latin-700-normal.woff2)}
 :root{--night:#0b1020;--panel:#161d33;--hair:#2a3350;--paper:#f3eee3;--doc:#e9e2d0;--muted:#8a93a6;--gold:#c9a227;--red:#c8102e;--hook:#f2c94c}
@@ -33,8 +34,15 @@ html,body{background:var(--night);overflow:hidden}
 .cta{background:var(--gold);color:var(--night);font-family:Inter;font-weight:800;letter-spacing:.14em;text-align:center}
 #subs{position:absolute;text-align:center;font-family:Inter;font-weight:800;color:var(--paper)}
 #hud *{position:absolute}
+#flash{position:absolute;inset:0;background:#fff;opacity:0;pointer-events:none}
+.hk-img{position:absolute;inset:0;background-repeat:no-repeat;filter:saturate(1.3) contrast(1.15)}
+.hk-shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.35) 0%,rgba(0,0,0,0) 22%,rgba(0,0,0,0) 40%,rgba(0,0,0,.85) 58%,#000 75%)}
+.hk-tag{position:absolute;left:0;top:250px;background:#E0001B;color:#fff;font:italic 800 56px/1 Inter;padding:18px 40px 18px 56px;clip-path:polygon(0 0,100% 0,94% 100%,0 100%);box-shadow:0 5px 0 #000}
+.hk-num{position:absolute;left:0;width:1080px;text-align:center;font-family:Anton;color:#FFE81A;-webkit-text-stroke:10px #000;paint-order:stroke fill;text-shadow:0 12px 0 #000;line-height:1}
+.hk-lab{position:absolute;left:40px;width:1000px;text-align:center;font-family:Anton;color:#fff;-webkit-text-stroke:8px #000;paint-order:stroke fill;font-size:84px;line-height:1.02}
+.sub-hot{color:#FFE81A}
 </style></head>
-<body><div id="stage"><div id="scenes"></div><div id="hud"></div><div id="subs"></div></div>
+<body><div id="stage"><div id="scenes"></div><div id="hud"></div><div id="subs"></div><div id="flash"></div></div>
 <script>
 let T, MODE, W, H, U, BOX, BASE, built = {};
 const ease = x => x <= 0 ? 0 : x >= 1 ? 1 : 1 - Math.pow(1 - x, 3);
@@ -58,8 +66,8 @@ function init(tm, base) {
     hud.innerHTML = `<div class="kicker" id="tag" style="left:64px;top:208px;font-size:26px">● SWORN · REAL VERDICT</div>
       <div class="serif" id="hook" style="left:64px;top:252px;width:860px;font-size:78px;line-height:.98">${esc(T.hook).replace(/\|/g, '<br>')}</div>
       <img id="wm" src="brand/seal.svg" style="right:56px;top:186px;width:84px;opacity:.6">`;
-    Object.assign(sub.style, { left: '60px', width: '960px', top: '1335px', fontSize: '64px', lineHeight: '1.1',
-      textShadow: '0 0 6px #0b1020,0 0 6px #0b1020,0 0 10px #0b1020,3px 3px 0 #0b1020,-3px -3px 0 #0b1020,3px -3px 0 #0b1020,-3px 3px 0 #0b1020' });
+    Object.assign(sub.style, { left: '50px', width: '980px', top: '1300px', fontSize: '92px', lineHeight: '1.05', fontFamily: 'Anton', fontWeight: 400,
+      textTransform: 'uppercase', color: '#fff', webkitTextStroke: '9px #000', paintOrder: 'stroke fill', textShadow: '0 7px 0 #000' });
   }
 }
 const img = p => (p.startsWith('/') || p.startsWith('brand/')) ? p : BASE + '/' + p;
@@ -193,6 +201,17 @@ B.timeline = (r, s) => {
   return (lt, blk) => { const d = blk.b - blk.a; if (long) axis.style.width = (ease(cl(lt / 0.8, 0, 1)) * BOX.w) + 'px'; else axis.style.height = (ease(cl(lt / 0.8, 0, 1)) * 540 * U) + 'px';
     evs.forEach((e, i) => { const at = s.sync && blk.lines[i] !== undefined ? blk.lines[i] - blk.a : 0.3 + i * Math.min(0.9, (d - 1) / n); const p = ease(cl((lt - at) / 0.35, 0, 1)); e.style.opacity = p; e.style.transform = long ? `translateY(${(1 - p) * 20}px)` : `translateX(${(1 - p) * 20}px)`; }); };
 };
+B.hook = (r, s) => {
+  // Shorts v2 frame-0 hook: full-frame face/document + tag + giant number + label. s.img, s.pos, s.zoom, s.tag, s.number, s.label
+  const im = el(r, 'hk-img', { backgroundImage: `url('${img(s.img)}')`, backgroundPosition: s.pos || '50% 25%', backgroundSize: `auto ${(s.zoom || 1) * 75}%` });
+  el(r, 'hk-shade', {});
+  if (s.tag) el(r, 'hk-tag', {}, esc(s.tag));
+  const n = String(s.number || ''); const fs = Math.min(300, Math.round(1000 * 1.7 / Math.max(3, n.length)));
+  const num = el(r, 'hk-num', { top: (1000 - fs) + 'px', fontSize: fs + 'px' }, esc(n));
+  const lab = el(r, 'hk-lab', { top: '1015px' }, esc(s.label || '').replace(/\|/g, '<br>'));
+  return (lt) => { im.style.transform = `scale(${1.0 + 0.10 * ease(cl(lt / 3, 0, 1))})`; const p = cl((lt - 0.15) / 0.22, 0, 1);
+    num.style.transform = `scale(${1 + 0.12 * Math.sin(Math.PI * p)})`; };
+};
 B.verdict = (r, s) => {
   const long = MODE === 'long';
   el(r, 'abs kicker', { left: 0, width: BOX.w + 'px', textAlign: 'center', top: px(long ? 120 : 20), fontSize: px(26), color: 'var(--muted)' }, esc(s.kicker || 'THE VERDICT'));
@@ -219,7 +238,8 @@ function sceneEl(i) {
   if (built[i]) return built[i];
   const blk = T.blocks[i]; const s = blk.spec;
   const root = el(document.getElementById('scenes'), 'scene', {});
-  const box = el(root, 'box', { left: BOX.x + 'px', top: BOX.y + 'px', width: BOX.w + 'px', height: BOX.h + 'px' });
+  const full = s.type === 'hook';
+  const box = el(root, 'box', full ? { left: 0, top: 0, width: W + 'px', height: H + 'px' } : { left: BOX.x + 'px', top: BOX.y + 'px', width: BOX.w + 'px', height: BOX.h + 'px' });
   const fn = (B[s.type] || B.big)(box, s);
   built[i] = { root, fn, blk };
   // free far scenes
@@ -230,13 +250,21 @@ function render(t) {
   const bl = T.blocks; let i = bl.findIndex(b => t >= b.a && t < b.b); if (i < 0) i = bl.length - 1;
   for (const k in built) if (+k !== i && +k !== i - 1 && +k !== i + 1) built[k].root.style.opacity = 0;
   const show = j => { if (j < 0 || j >= bl.length) return; const b = bl[j]; if (t < b.a - 0.25 || t > b.b + 0.25) { if (built[j]) built[j].root.style.opacity = 0; return; }
-    const s = sceneEl(j); const o = cl((t - (b.a - 0.2)) / 0.25, 0, 1) * (j === bl.length - 1 ? 1 : cl((b.b + 0.2 - t) / 0.25, 0, 1));
-    s.root.style.opacity = o; s.root.style.transform = `translateY(${(1 - ease(cl((t - b.a + 0.2) / 0.5, 0, 1))) * 26}px)`; s.fn(Math.max(0, t - b.a), b); };
+    const s = sceneEl(j); const o = (j === 0 ? 1 : cl((t - (b.a - 0.2)) / 0.25, 0, 1)) * (j === bl.length - 1 ? 1 : cl((b.b + 0.2 - t) / 0.25, 0, 1));
+    s.root.style.opacity = o; s.root.style.transform = b.spec.type === 'hook' ? 'none' : `translateY(${(1 - ease(cl((t - b.a + 0.2) / 0.5, 0, 1))) * 26}px)`; s.fn(Math.max(0, t - b.a), b); };
   show(i - 1); show(i); show(i + 1);
   const last = bl[bl.length - 1]; const isEnd = last.spec.type === 'end' && t >= last.a;
-  const hudO = isEnd ? cl(1 - (t - last.a) / 0.3, 0, 1) : 1; document.getElementById('hud').style.opacity = hudO;
+  const cur = bl[i]; const onHook = cur.spec.type === 'hook';
+  const hudO = (isEnd || onHook) ? 0 : 1; document.getElementById('hud').style.opacity = hudO;
+  const lt0 = t - cur.a; const punchy = MODE === 'short' && i > 0 && ['stat', 'verdict', 'big'].includes(cur.spec.type);
+  const pk = punchy ? cl(1 - lt0 / 0.3, 0, 1) : 0;
+  document.getElementById('scenes').style.transform = `scale(${1 + 0.07 * pk})`;
+  document.getElementById('flash').style.opacity = punchy ? 0.55 * cl(1 - lt0 / 0.12, 0, 1) : 0;
   let s = ''; for (const [a, b, c] of T.subs) if (t >= a && t < b) { s = c; break; }
-  const sub = document.getElementById('subs'); sub.textContent = s; sub.style.opacity = isEnd ? 0 : 1;
+  const sub = document.getElementById('subs');
+  if (MODE === 'short') sub.innerHTML = esc(s).split(' ').map(w => /[0-9$]/.test(w) ? `<span class="sub-hot">${w}</span>` : w).join(' ');
+  else sub.textContent = s;
+  sub.style.opacity = isEnd ? 0 : 1;
 }
 window.init = init; window.render = render;
 </script></body></html>

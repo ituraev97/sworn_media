@@ -7,18 +7,19 @@ import sys, json, re
 spec = json.load(open(sys.argv[1])); W = sys.argv[2]; mode = sys.argv[3]
 durs = json.load(open(f"{W}/vo/durs.json"))
 L = spec["lines"]; assert len(L) == len(durs), "run tts.py first"
-t = 0.45; starts = []
+SH = mode == 'short'
+t = 0.05 if SH else 0.45; starts = []
 for i, ln in enumerate(L):
     sc = ln.get("scene", {})
-    if sc.get("type") == "chapter" and i > 0: t += 0.6
+    if sc.get("type") == "chapter" and i > 0: t += 0.3 if SH else 0.6
     starts.append(round(t, 3))
-    t += durs[i] + 0.32 + ln.get("pause", 0)
-    if sc.get("type") == "title": t += 0.5
+    t += durs[i] + (0.16 if SH else 0.32) + ln.get("pause", 0)
+    if sc.get("type") == "title": t += 0.2 if SH else 0.5
 total = round(t + (3.2 if mode == "long" else 1.4), 2)
 blocks = []
 for i, ln in enumerate(L):
     if "scene" in ln or not blocks:
-        blocks.append({"spec": ln.get("scene", {"type": "big", "lines": [""]}), "a": starts[i] - 0.12, "lines": []})
+        blocks.append({"spec": ln.get("scene", {"type": "big", "lines": [""]}), "a": max(0.0, starts[i] - 0.12) if i == 0 else starts[i] - 0.12, "lines": []})
     blocks[-1]["lines"].append(starts[i])
 for j, b in enumerate(blocks):
     b["b"] = blocks[j + 1]["a"] if j + 1 < len(blocks) else total

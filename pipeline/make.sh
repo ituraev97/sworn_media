@@ -29,7 +29,7 @@ fi
 if [ "$WHAT" != long ]; then
   for f in "$E"/short*.json; do
     n=$(basename "$f" .json | sed 's/short//'); SW="$W/s$n"; mkdir -p "$SW"
-    python3 "$P/tts.py" "$f" "$SW" 1.05
+    python3 "$P/tts.py" "$f" "$SW" 1.15
     python3 "$P/timeline.py" "$f" "$SW" short
     node "$P/render.js" "$SW" "$E" "$SW/video.mp4" 2
     python3 "$P/audio.py" "$SW"

@@ -1,0 +1,72 @@
+{
+ "title": "Elizabeth Holmes Put Pfizer's Logo on It HERSELF",
+ "hook": "She added|the logos herself.",
+ "lines": [
+  {
+   "say": "Elizabeth Holmes admitted she put Pfizer's logo on the report herself. She's now serving one hundred twenty-three months.",
+   "show": "Elizabeth Holmes admitted she put Pfizer's logo on the report herself. She's now serving 123 months.",
+   "scene": {
+    "type": "hook",
+    "img": "img/holmes_2014.jpg",
+    "pos": "52% 18%",
+    "zoom": 1.35,
+    "tag": "GUILTY",
+    "number": "123 MONTHS",
+    "label": "FAKE PFIZER LOGO|SHE ADDED IT HERSELF"
+   }
+  },
+  {
+   "say": "Prosecutors said she sent Walgreens reports bearing the logos of Pfizer and two other drug companies.",
+   "show": "Prosecutors said she sent Walgreens reports bearing the logos of Pfizer and two other drug companies.",
+   "scene": {
+    "type": "doc",
+    "img": "img/memo_logos.jpg",
+    "pan": [
+     0.2,
+     0.3
+    ],
+    "hl": [
+     0.0,
+     0.37,
+     1.0,
+     0.39
+    ],
+    "kicker": "APRIL 2010",
+    "src": "Gov't sentencing memorandum, Dkt. 1643"
+   }
+  },
+  {
+   "say": "Drug company witnesses testified they never authorized those logos."
+  },
+  {
+   "say": "Theranos raised more than seven hundred million dollars from investors.",
+   "show": "Theranos raised more than $700 million from investors.",
+   "scene": {
+    "type": "stat",
+    "kicker": "SEC \u00b7 MARCH 2018",
+    "value": "$700M+",
+    "label": "raised from investors",
+    "src": "SEC press release 2018-41"
+   }
+  },
+  {
+   "say": "Guilty of defrauding investors. Her sentence was later cut from one hundred thirty-five months to one hundred twenty-three.",
+   "show": "Guilty of defrauding investors. Her sentence was later cut from 135 months to 123.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "THE SENTENCE",
+    "stamp": "GUILTY",
+    "big": "123 months",
+    "sub": "reduced from 135 \u00b7 March 2026",
+    "at": 0.1
+   }
+  },
+  {
+   "say": "Was ten years enough? Tell me below.",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}
