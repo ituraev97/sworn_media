@@ -96,7 +96,7 @@ B.chapter = (r, s) => {
 B.doc = (r, s) => {
   // real document scan; s.img, s.pan=[from,to] (fraction of image height at top of frame), s.hl=[x,y,w,h] fractions of image, s.zoom
   const long = MODE === 'long';
-  const fw = long ? 1000 : BOX.w, fx = long ? BOX.w - 1000 : 0, fy = long ? 0 : 70 * U, fh = long ? BOX.h - 50 : BOX.h - 70 * U - 50 * U;
+  const fw = long ? 1000 : W, fx = long ? BOX.w - 1000 : -BOX.x, fy = long ? 0 : 70 * U, fh = long ? BOX.h - 50 : BOX.h - 70 * U - 50 * U;
   if (long) {
     const col = el(r, 'abs', { left: 0, top: px(60), width: '580px', display: 'flex', flexDirection: 'column', gap: px(18) });
     if (s.kicker) el(col, 'kicker', { fontSize: px(26), lineHeight: '1.35' }, esc(s.kicker));
@@ -107,7 +107,7 @@ B.doc = (r, s) => {
   const im = document.createElement('img'); im.src = img(s.img); f.appendChild(im);
   let hl = null; if (s.hl) hl = el(f, 'hl', {});
   srcLine(r, s);
-  const pan = s.pan || [0, 0.12], z = s.zoom || 1;
+  const pan = s.pan || [0, 0.12], z = s.zoom || (long ? 1 : 1.2);
   return (lt, blk) => {
     const d = blk.b - blk.a, p = cl(lt / d, 0, 1); const ih = im.naturalHeight * (fw / im.naturalWidth) * z;
     const y = -(pan[0] + (pan[1] - pan[0]) * p) * ih; const sc = z * (1 + 0.025 * p);
@@ -149,10 +149,11 @@ B.big = (r, s) => {
 };
 B.stat = (r, s) => {
   if (s.kicker) el(r, 'abs kicker', { left: 0, top: px(MODE === 'long' ? 180 : 40), fontSize: px(26) }, esc(s.kicker));
-  const v = el(r, 'abs serif', { left: 0, top: px(MODE === 'long' ? 230 : 90), fontSize: px(MODE === 'long' ? 220 : 170), lineHeight: '1', color: 'var(--gold)' }, esc(s.value));
-  const l = el(r, 'abs sans', { left: 0, top: px(MODE === 'long' ? 480 : 300), width: BOX.w + 'px', fontSize: px(40), lineHeight: '1.3' }, esc(s.label).replace(/\|/g, '<br>'));
+  const v = MODE === 'long' ? el(r, 'abs serif', { left: 0, top: px(230), fontSize: px(220), lineHeight: '1', color: 'var(--gold)' }, esc(s.value))
+    : el(r, 'abs', { left: 0, width: BOX.w + 'px', textAlign: 'center', top: px(80), fontFamily: 'Anton', fontSize: Math.min(330, Math.round(BOX.w * 1.7 / Math.max(3, String(s.value).length))) + 'px', lineHeight: '1', color: '#FFE81A', webkitTextStroke: '8px #000', paintOrder: 'stroke fill', textShadow: '0 10px 0 #000' }, esc(s.value));
+  const l = el(r, 'abs sans', { left: 0, top: px(MODE === 'long' ? 480 : 520), width: BOX.w + 'px', fontSize: px(MODE === 'long' ? 40 : 58), lineHeight: '1.25', textAlign: MODE === 'long' ? 'left' : 'center', fontWeight: 800 }, esc(s.label).replace(/\|/g, '<br>'));
   srcLine(r, s);
-  return (lt) => { const p = ease(cl(lt / 0.5, 0, 1)); v.style.opacity = p; v.style.transform = `scale(${1.06 - 0.06 * p})`; v.style.transformOrigin = '0 50%'; l.style.opacity = ease(cl((lt - 0.4) / 0.4, 0, 1)); };
+  return (lt) => { const p = ease(cl(lt / 0.5, 0, 1)); v.style.opacity = p; v.style.transform = `scale(${1.06 - 0.06 * p})`; v.style.transformOrigin = MODE === 'long' ? '0 50%' : '50% 50%'; l.style.opacity = ease(cl((lt - 0.4) / 0.4, 0, 1)); };
 };
 B.bars = (r, s) => {
   // s.items=[{label,value,display}]
@@ -217,7 +218,7 @@ B.verdict = (r, s) => {
   el(r, 'abs kicker', { left: 0, width: BOX.w + 'px', textAlign: 'center', top: px(long ? 120 : 20), fontSize: px(26), color: 'var(--muted)' }, esc(s.kicker || 'THE VERDICT'));
   const w = el(r, 'abs', { left: 0, width: BOX.w + 'px', textAlign: 'center', top: px(long ? 210 : 110) });
   const st = el(w, 'stamp' + (s.neutral ? ' neutral' : ''), { borderWidth: px(10), fontSize: px(long ? 128 : 124), padding: px(22) + ' ' + px(50) + ' ' + px(10) }, esc(s.stamp || 'GUILTY'));
-  const big = el(r, 'abs serif', { left: 0, width: BOX.w + 'px', textAlign: 'center', top: px(long ? 470 : 350), fontSize: px(long ? 120 : 130), lineHeight: '1' }, esc(s.big || ''));
+  const big = el(r, 'abs serif', { left: 0, width: BOX.w + 'px', textAlign: 'center', top: px(long ? 470 : 350), fontSize: px(long ? 120 : 175), lineHeight: '1' }, esc(s.big || ''));
   const sub = el(r, 'abs sans', { left: 0, width: BOX.w + 'px', textAlign: 'center', top: px(long ? 620 : 510), fontSize: px(34), color: 'var(--muted)' }, esc(s.sub || ''));
   const k = s.at ?? 0.7;
   return (lt) => { const p = cl((lt - k) / 0.18, 0, 1); st.style.opacity = lt < k ? 0 : 1; st.style.transform = `rotate(-4deg) scale(${1.15 - 0.15 * p})`;
