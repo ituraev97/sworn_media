@@ -1,0 +1,57 @@
+{
+ "title": "\"Fully Functions and Works\" vs. \"Missing Critical Parts\"",
+ "template": "before → after",
+ "hook": "\"FULLY FUNCTIONS|AND WORKS\"",
+ "lines": [
+  {
+   "say": "Fully functions and works, which is really incredible. That is how, according to the SEC, Trevor Milton described Nikola's prototype semi-truck in twenty sixteen.",
+   "show": "\"Fully functions and works which is really incredible.\" That is how, according to the SEC, Trevor Milton described Nikola's prototype semi-truck in 2016.",
+   "scene": {
+    "type": "quote",
+    "q": "fully functions and works which is really incredible.",
+    "case": "UNITED STATES v. MILTON",
+    "doc": "TREVOR MILTON · DEC 1, 2016",
+    "cite": "As quoted in SEC v. Milton, Complaint (S.D.N.Y. 2021) — allegations",
+    "size": 56
+   }
+  },
+  {
+   "say": "What prosecutors told the court the trial showed: it was neither functioning nor designed to run on hydrogen, and it was missing critical parts.",
+   "show": "What prosecutors told the court the trial showed: it was \"neither functioning nor even designed to be hydrogen-powered and was missing critical parts.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/gm_6.jpg",
+    "pan": [
+     0.322,
+     0.382
+    ],
+    "hl": [
+     0.0,
+     0.5384,
+     1.0,
+     0.1559
+    ],
+    "kicker": "GOV'T SENTENCING MEMORANDUM",
+    "src": "Gov't Sentencing Memorandum, U.S. v. Milton (S.D.N.Y. 2023)"
+   }
+  },
+  {
+   "say": "The verdict: guilty on three of four fraud counts. Four years. Then, in twenty twenty-five, a presidential pardon.",
+   "show": "The verdict: guilty on three of four fraud counts. Four years. Then, in 2025, a presidential pardon.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "S.D.N.Y. · OCTOBER 14, 2022",
+    "stamp": "GUILTY",
+    "big": "3 of 4 counts",
+    "sub": "United States v. Trevor Milton"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

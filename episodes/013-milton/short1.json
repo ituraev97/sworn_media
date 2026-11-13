@@ -1,0 +1,56 @@
+{
+ "title": "\"Behold, the Nikola One in Motion.\" It Rolled Downhill.",
+ "template": "verbatim quote",
+ "hook": "\"BEHOLD, THE NIKOLA|ONE IN MOTION.\"",
+ "lines": [
+  {
+   "say": "Behold, the Nikola One in motion. That was the caption in January twenty eighteen, on a video of Nikola's semi-truck cruising down a road.",
+   "show": "\"Behold, the Nikola One in motion.\" That was the caption in January 2018, on a video of Nikola's semi-truck cruising down a road.",
+   "scene": {
+    "type": "quote",
+    "q": "Behold, the Nikola One in motion.",
+    "case": "UNITED STATES v. MILTON",
+    "doc": "NIKOLA TWEET · JAN 25, 2018",
+    "cite": "As quoted in SEC v. Milton, Complaint (S.D.N.Y. 2021) — allegations",
+    "size": 60
+   }
+  },
+  {
+   "say": "According to the SEC, the truck could not run under its own power. It was towed to the top of an incline and filmed rolling down.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sec_20.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.0972,
+     1.0,
+     0.0679
+    ],
+    "kicker": "SEC v. MILTON · COMPLAINT",
+    "src": "SEC v. Milton, Complaint (S.D.N.Y. 2021) — allegations"
+   }
+  },
+  {
+   "say": "Founder Trevor Milton had said it would be the first time anyone has seen the Nikola truck move. In twenty twenty-two, a jury convicted him of fraud.",
+   "show": "Founder Trevor Milton had said it would be \"the first time anyone has seen the Nikola truck move.\" In 2022, a jury convicted him of fraud.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "S.D.N.Y. · OCTOBER 14, 2022",
+    "stamp": "GUILTY",
+    "big": "3 of 4 counts",
+    "sub": "United States v. Trevor Milton"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}

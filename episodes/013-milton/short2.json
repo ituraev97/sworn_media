@@ -1,0 +1,64 @@
+{
+ "title": "$660.8 Million Restitution Request. 13 Days Later, a Pardon.",
+ "template": "dollar-figure reveal",
+ "hook": "$660.8 MILLION|THEN A PARDON",
+ "lines": [
+  {
+   "say": "Six hundred sixty point eight million dollars. That is the restitution prosecutors asked Nikola founder Trevor Milton to pay shareholders, on March fourteenth, twenty twenty-five.",
+   "show": "$660.8 million. That is the restitution prosecutors asked Nikola founder Trevor Milton to pay shareholders, on March 14, 2025.",
+   "scene": {
+    "type": "doc",
+    "img": "img/rest.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4771,
+     1.0,
+     0.0324
+    ],
+    "kicker": "U.S. ATTORNEY, S.D.N.Y. · MAR 14, 2025",
+    "src": "Gov't restitution letter, U.S. v. Milton (Mar 14, 2025)"
+   }
+  },
+  {
+   "say": "A jury had convicted him of fraud. A judge had given him four years. He was free on bail, appealing.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "DECEMBER 18, 2023",
+    "stamp": "SENTENCED",
+    "big": "4 years",
+    "sub": "Free on bail pending appeal"
+   }
+  },
+  {
+   "say": "Thirteen days later came a full and unconditional pardon, covering any fines, forfeitures and restitution ordered by the court.",
+   "show": "13 days later came \"A Full and Unconditional Pardon,\" with \"remission of any and all fines, penalties, forfeitures, and restitution ordered by the court.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/pard.jpg",
+    "pan": [
+     0.386,
+     0.446
+    ],
+    "hl": [
+     0.0,
+     0.55,
+     1.0,
+     0.1041
+    ],
+    "kicker": "EXECUTIVE GRANT OF CLEMENCY · MAR 2025",
+    "src": "Executive Grant of Clemency (Mar 2025), U.S. v. Milton"
+   }
+  },
+  {
+   "say": "Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ],
+ "label": "SWORN"
+}
