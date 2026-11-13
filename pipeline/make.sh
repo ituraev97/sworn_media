@@ -24,7 +24,7 @@ if [ "$WHAT" != shorts ]; then
   fi
   ffmpeg -nostdin -v error -y -i "$W/out/long.mp4" -vf "fps=1/8,scale=320:180,tile=8x10" -frames:v 1 "$W/out/contact_long.jpg"
   python3 "$P/describe.py" "$E" "$W" > /dev/null
-  node "$P/thumb.js" "$E/thumb.json" "$E" "$W/out"
+  if [ -f "$E/thumb2.json" ]; then node "$P/thumb2.js" "$E/thumb2.json" "$E" "$W/out"; else node "$P/thumb.js" "$E/thumb.json" "$E" "$W/out"; fi
 fi
 if [ "$WHAT" != long ]; then
   for f in "$E"/short*.json; do
