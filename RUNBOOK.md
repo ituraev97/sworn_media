@@ -3,6 +3,44 @@
 One run = one long episode (10–13 min, ≥ 10:00, 1920×1080) + **3** vertical Shorts (25–40 s, 1080×1920; owner rule 2026-11-06), all about ONE court case, hosted here and scheduled in Metricool for ONE US day.
 Reference episode: `episodes/001-madoff/` (make_spec.py → episode.json, make_shorts.py → short1–6.json, meta.json, thumb.json, factcheck.md). Read it before writing anything.
 
+## ⚡ v2 rules (owner-approved 2026-11-14). These override older sections where they conflict
+Why: channel analytics showed Shorts lose viewers in 1–2 s and long videos have no thumbnails. YouTube Studio "Inspiration" for our niche (court/true-crime news) shows that winning videos have a **big emotional face**, few words, a fresh news peg, and a title built as "name + what happened". Holmes/Balwani/Theranos items are in that feed.
+
+**Blocker:** custom thumbnails fail ("Could not upload video thumbnail") until the owner's sister phone-verifies the channel at youtube.com/verify. Keep generating thumbnails anyway and report the blocker in every run summary until uploads succeed.
+
+1. **Case choice (fresh first).**
+   - Look first at the loudest federal fraud/white-collar news of the last 72 h – 7 days: justice.gov/news (OPA + USAO), SEC litigation releases, FBI, AP/Reuters court news.
+   - Prefer: a recognisable name (CEO, celebrity, politician, influencer) or a big $ amount, a guilty plea / verdict / sentence, and **a lawful face photo**.
+   - Big trials go out on verdict/sentencing day.
+   - Use the backlog only when no fresh case qualifies. A fresh case with no lawful face → Shorts only, or a long video with the number panel.
+   - Unchanged: convicted/sentenced, or "charged/alleged" with presumption of innocence stated. Never sexual crimes or crimes involving children (so no Diddy, Russell Brand, Clancy). Independent fact-check agent before scheduling.
+2. **Lawful face sources only** (record the source and license in sources.md and the description):
+   - U.S. federal works: DOJ/FBI/USMS/DoD/Congress photos, which are public domain.
+   - State booking photos only where the state treats them as public records.
+   - **Wikimedia Commons** files licensed PD, CC0, CC BY or CC BY-SA. Search via the commons.wikimedia.org API (send a User-Agent). Download from `upload.wikimedia.org`; `thumb.wikimedia.org` is blocked. Add the credit line "Photo: <Artist>, <License> via Wikimedia Commons" to the description.
+   - Never use news-agency, TV or Getty frames, and never use courtroom sketches.
+   - Crop away third-party logos.
+3. **Thumbnail v2 = `pipeline/thumb2.js`.**
+   - **Owner's pick is style B:** 50/50 split; face left (zoom ~1.35, face centered); red number panel right (auto-sized `$9B` + white label such as "GONE TO ZERO"); factual tag top-left (`BREAKING` only if ≤7 days old, otherwise `GUILTY`/`SENTENCED`/`CHARGED`); white line 1 + **red** line 2 (Anton, 90–125 px).
+   - Make B as `thumb_A.jpg` (the main one), plus two alternates for Test & Compare.
+   - Every word must be factual. "Fraud" only after a conviction or plea; otherwise "CHARGED".
+   - Reference: Holmes demo `episodes/_v2demo/thumb2.json`.
+4. **Titles:** Name + $amount + scheme + CAPS verb + years/twist, under 70 characters, every word sourced. Example: "Elizabeth Holmes: The $9B Blood Test That NEVER Worked — 11 Years".
+5. **Shorts v2 (20–35 s, 3/day):**
+   - frame 0 = face/document + giant number + tag;
+   - narration starts at 0.05 s with the verdict, speed 1.15;
+   - big centered word-level captions;
+   - punch-zoom and flash on numbers;
+   - no slow intro.
+6. **Long videos 12–18 min:**
+   - published within 24–48 h of the news;
+   - a re-hook every ~2 min;
+   - the hero's name at the start of the title.
+7. **Engagement:**
+   - the description and the first comment ask one question ("Was 11 years enough?");
+   - end screen added in Studio by the owner;
+   - Shorts "Related video" field points to the long video (Studio, manual).
+
 ## 0. Context
 - Channel bible: Projects doc `claude/sworn-bible.md` (project "AI YOUTUBE"). Brand book: Design System artifact "SWORN".
 - YouTube channel: SWORN (UCNoMjeEPiut8OgSGl0Y-WJg). Metricool brand **SWORN, blogId 7806713**. Publish timezone **America/New_York**.

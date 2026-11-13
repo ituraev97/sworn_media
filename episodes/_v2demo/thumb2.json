@@ -1,0 +1,56 @@
+{
+ "A": {
+  "left": {
+   "img": "img/holmes_2014.jpg",
+   "pos": "50% 26%",
+   "zoom": 1.35
+  },
+  "right": {
+   "number": "$9B",
+   "label": "GONE TO ZERO"
+  },
+  "split": 0.5,
+  "tag": "SENTENCED",
+  "line1": "SHE FOOLED BILLIONAIRES",
+  "line2": "NOW 11 YEARS",
+  "line2color": "red",
+  "size1": 92,
+  "size2": 124
+ },
+ "B": {
+  "left": {
+   "img": "img/holmes_2014.jpg",
+   "pos": "52% 28%",
+   "zoom": 1.55
+  },
+  "right": {
+   "number": "11 YRS",
+   "label": "FEDERAL PRISON"
+  },
+  "split": 0.56,
+  "tag": "GUILTY",
+  "line1": "$9 BILLION THERANOS",
+  "line2": "FRAUD EXPOSED",
+  "line2color": "yellow",
+  "size1": 96,
+  "size2": 118
+ },
+ "C": {
+  "left": {
+   "img": "img/holmes_2014.jpg",
+   "pos": "52% 26%",
+   "zoom": 1.7
+  },
+  "right": {
+   "number": "$700M+",
+   "label": "FROM INVESTORS"
+  },
+  "split": 0.5,
+  "tag": "GUILTY",
+  "line1": "THE BLOOD TEST",
+  "line2": "THAT NEVER WORKED",
+  "line2color": "yellow",
+  "size1": 100,
+  "size2": 108
+ }
+}
