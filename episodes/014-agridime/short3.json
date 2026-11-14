@@ -1,0 +1,78 @@
+{
+ "title": "\"Too Good to Be True\" — Their Own Ad Said It",
+ "template": "verbatim quote",
+ "lines": [
+  {
+   "say": "We know it sounds too good to be true. A real ad from a Texas cattle company promising fifteen to twenty percent a year.",
+   "show": "\"We know it sounds too good to be true.\" A real ad from a Texas cattle company promising 15-20% a year.",
+   "scene": {
+    "type": "hook",
+    "img": "img/sec_7.jpg",
+    "pos": "50% 36%",
+    "zoom": 1.6,
+    "tag": "GUILTY",
+    "number": "15–20%",
+    "label": "\"WE KNOW IT SOUNDS|TOO GOOD TO BE TRUE\""
+   }
+  },
+  {
+   "say": "Make money raising cattle without having to do all the work, it said.",
+   "show": "\"Make money raising cattle without having to do all the work,\" it said.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sec_7.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3632,
+     1.0,
+     0.0736
+    ],
+    "kicker": "SEC v. AGRIDIME · COMPLAINT",
+    "src": "SEC v. Agridime, Complaint (N.D. Tex. 2023) — allegations"
+   }
+  },
+  {
+   "say": "Agridime collected over two hundred forty million dollars from more than twenty-two hundred people.",
+   "show": "Agridime collected over $240 million from more than 2,200 people.",
+   "scene": {
+    "type": "stat",
+    "kicker": "2021–2023",
+    "value": "$240M",
+    "label": "from 2,200+ victims",
+    "src": "U.S. Attorney's Office, N.D. Tex. (Nov 11, 2026)"
+   }
+  },
+  {
+   "say": "Prosecutors say scheme money built a nearly one point five million dollar barndominium in Kansas.",
+   "show": "Prosecutors say scheme money built a nearly $1.5 million \"barndominium\" in Kansas.",
+   "scene": {
+    "type": "photo",
+    "img": "img/rel_barndo.jpg",
+    "caption": "PHOTO RELEASED BY THE U.S. ATTORNEY",
+    "src": "U.S. Attorney's Office, N.D. Tex. (Nov 11, 2026)",
+    "fit": "cover"
+   }
+  },
+  {
+   "say": "Then the jury said guilty.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "FORT WORTH · NOV 10, 2026",
+    "stamp": "GUILTY",
+    "big": "Joshua & Jason Link",
+    "sub": "wire fraud · money laundering"
+   }
+  },
+  {
+   "say": "Would that ad have fooled you? Tell me below.",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

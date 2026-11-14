@@ -1,0 +1,1040 @@
+{
+ "label": "SWORN · CASE 014",
+ "lines": [
+  {
+   "say": "In February, the FBI put a thirty-two-year-old cattle executive on its wanted list. A month later, he was taken into custody at Los Angeles International Airport.",
+   "show": "In February, the FBI put a 32-year-old cattle executive on its wanted list. A month later, he was taken into custody at Los Angeles International Airport.",
+   "scene": {
+    "type": "doc",
+    "img": "img/poster.jpg",
+    "pan": [
+     0.339,
+     0.339
+    ],
+    "hl": [
+     0.0,
+     0.8438,
+     1.0,
+     0.033
+    ],
+    "kicker": "WANTED BY THE FBI · 2026",
+    "title": "Joshua Robert Link",
+    "src": "FBI wanted poster, Joshua Robert Link (2026), via USAO N.D. Tex."
+   }
+  },
+  {
+   "say": "On Tuesday, November tenth, a federal jury in Fort Worth, Texas, convicted him, and his brother.",
+   "show": "On Tuesday, November 10, a federal jury in Fort Worth, Texas, convicted him, and his brother.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "FORT WORTH · NOVEMBER 10, 2026",
+    "stamp": "GUILTY",
+    "big": "Joshua & Jason Link",
+    "sub": "wire fraud conspiracy · wire fraud · money laundering"
+   }
+  },
+  {
+   "say": "Prosecutors say Joshua Link's company sold cattle to more than twenty-two hundred people across the U.S., and collected over two hundred forty million dollars. It sold about sixty thousand more head of cattle than it controlled.",
+   "show": "Prosecutors say Joshua Link's company sold cattle to more than 2,200 people across the U.S., and collected over $240 million. It sold about 60,000 more head of cattle than it controlled.",
+   "scene": {
+    "type": "stat",
+    "kicker": "AGRIDIME · 2021–2023",
+    "value": "$240M",
+    "label": "collected from more than 2,200 victims",
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 11, 2026)"
+   }
+  },
+  {
+   "say": "The U.S. Attorney called it a high-tech Ponzi scheme. This is the paper trail: the offer, the missing herd, the ranch, the flight, and the verdict.",
+   "show": "The U.S. Attorney called it a \"high-tech Ponzi scheme.\" This is the paper trail: the offer, the missing herd, the ranch, the flight, and the verdict.",
+   "scene": {
+    "type": "title",
+    "kicker": "SWORN · CASE 014 · BREAKING",
+    "title": "The Missing|Herd",
+    "sub": "United States v. Joshua & Jason Link · N.D. Tex. · 2026"
+   }
+  },
+  {
+   "say": "Chapter one. Two thousand dollars a head.",
+   "show": "Chapter one. $2,000 a head.",
+   "scene": {
+    "type": "chapter",
+    "n": "I",
+    "title": "$2,000 a Head"
+   }
+  },
+  {
+   "say": "Agridime was registered in Texas in April twenty seventeen and headquartered in Fort Worth. It offered cattle sales, meat processing, distribution and retail meat sales.",
+   "show": "Agridime was registered in Texas in April 2017 and headquartered in Fort Worth. It offered cattle sales, meat processing, distribution and retail meat sales.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ssi_1.jpg",
+    "pan": [
+     0.114,
+     0.114
+    ],
+    "hl": [
+     0.0,
+     0.855,
+     1.0,
+     0.11
+    ],
+    "kicker": "SECOND SUPERSEDING INDICTMENT · PAGE 1",
+    "title": "United States v. Joshua Robert Link et al.",
+    "src": "Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges"
+   }
+  },
+  {
+   "say": "Joshua Link co-founded it with an older partner, Jed Wood. According to the SEC, each owned forty-five and a half percent. Link was the Executive Director, a role the SEC said he described as equivalent to CEO. In twenty twenty-three, he was thirty years old.",
+   "show": "Joshua Link co-founded it with an older partner, Jed Wood. According to the SEC, each owned 45.5%. Link was the Executive Director, a role the SEC said he described as \"equivalent to CEO.\" In 2023, he was 30 years old.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sec_3.jpg",
+    "pan": [
+     0.347,
+     0.407
+    ],
+    "hl": [
+     0.0,
+     0.6301,
+     1.0,
+     0.0305
+    ],
+    "kicker": "SEC v. AGRIDIME · COMPLAINT · ALLEGATIONS",
+    "title": "“Joshua Link, age 30”",
+    "src": "SEC v. Agridime LLC et al., No. 4:23-cv-01224-P, Complaint (N.D. Tex. Dec 11, 2023) — allegations"
+   }
+  },
+  {
+   "say": "From at least January twenty twenty-one, Agridime sold the public something else. Not beef. Cattle contracts.",
+   "scene": {
+    "type": "big",
+    "kicker": "AGRIDIME · FROM 2021",
+    "lines": [
+     "Not beef.",
+     "Cattle|contracts."
+    ],
+    "src": "Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges"
+   }
+  },
+  {
+   "say": "Here is how the company's website explained it. The customer purchases cattle from us for two thousand dollars per head. That two thousand dollars is used to purchase one steer or heifer, feed that animal to finish, fully process the beef into retail packaging, and then ultimately sell the beef.",
+   "show": "Here is how the company's website explained it: \"The customer purchases cattle from us for $2,000 per head. That $2,000 is used to purchase one steer or heifer, feed that animal to finish, fully process the beef into retail packaging and then ultimately sell the beef.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/ssi_13.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.263,
+     1.0,
+     0.1127
+    ],
+    "kicker": "SECOND SUPERSEDING INDICTMENT · PAGE 13",
+    "title": "The website pitch",
+    "src": "Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges"
+   }
+  },
+  {
+   "say": "You could even buy online. One live steer or heifer, two thousand dollars, add to cart.",
+   "show": "You could even buy online. \"1 LIVE STEER OR HEIFER. $2,000.00.\" Add to cart.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ssi_13.jpg",
+    "pan": [
+     0.021,
+     0.081
+    ],
+    "hl": [
+     0.0,
+     0.263,
+     1.0,
+     0.1127
+    ],
+    "kicker": "SECOND SUPERSEDING INDICTMENT · PAGE 13",
+    "title": "“1 LIVE STEER OR HEIFER · $2,000.00”",
+    "src": "Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges"
+   }
+  },
+  {
+   "say": "And the return was written into the promise. All cattle purchased during the second quarter of twenty twenty-three, the site said, will be guaranteed fifteen to twenty percent yearly profits.",
+   "show": "And the return was written into the promise. \"All cattle purchased during the Q2 of 2023,\" the site said, \"will be guaranteed 15-20% yearly profits.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/ssi_4.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4761,
+     1.0,
+     0.2627
+    ],
+    "kicker": "SECOND SUPERSEDING INDICTMENT · PAGE 4",
+    "title": "“guaranteed 15-20% yearly profits”",
+    "src": "Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges"
+   }
+  },
+  {
+   "say": "The SEC later quoted one of the company's own ads. Have you ever wanted to make money raising cattle without having to do all the work? We know it sounds too good to be true.",
+   "show": "The SEC later quoted one of the company's own ads: \"Have you ever wanted to make money raising cattle without having to do all the work? We know it sounds too good to be true.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/sec_7.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3632,
+     1.0,
+     0.0736
+    ],
+    "kicker": "SEC v. AGRIDIME · COMPLAINT · ALLEGATIONS",
+    "title": "“We know it sounds too good to be true”",
+    "src": "SEC v. Agridime LLC et al., No. 4:23-cv-01224-P, Complaint (N.D. Tex. Dec 11, 2023) — allegations"
+   }
+  },
+  {
+   "say": "For bigger buyers, according to the SEC, the guarantee went as high as thirty-two percent. The FBI put the range at fifteen to thirty-two percent.",
+   "show": "For bigger buyers, according to the SEC, the guarantee went as high as 32%. The FBI put the range at 15% to 32%.",
+   "scene": {
+    "type": "stat",
+    "kicker": "PROMISED RETURNS",
+    "value": "15–32%",
+    "label": "a year, \"guaranteed\" in the contracts",
+    "src": "FBI wanted poster, Joshua Robert Link (2026), via USAO N.D. Tex. · SEC v. Agridime LLC et al., No. 4:23-cv-01224-P, Complaint (N.D. Tex. Dec 11, 2023) — allegations"
+   }
+  },
+  {
+   "say": "According to the SEC, buyers never took delivery of an animal. Their money was supposed to become their cows. Prosecutors say it didn't.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Their money was",
+     "supposed to|become their cows."
+    ],
+    "src": "SEC v. Agridime LLC et al., No. 4:23-cv-01224-P, Complaint (N.D. Tex. Dec 11, 2023) — allegations"
+   }
+  },
+  {
+   "say": "Chapter two. The missing herd.",
+   "scene": {
+    "type": "chapter",
+    "n": "II",
+    "title": "The Missing Herd"
+   }
+  },
+  {
+   "say": "Here is what the grand jury charged. Agridime promised each buyer that their money would buy specific individual cattle, raise them, process them, and sell the meat. In reality, the indictment says, the money paid Agridime's operating expenses, its loans, and the people who had bought in earlier.",
+   "show": "Here is what the grand jury charged. Agridime promised each buyer that their money would buy specific individual cattle, raise them, process them, and sell the meat. In reality, the indictment says, the money paid Agridime's operating expenses, its loans, and the people who had bought in earlier.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ssi_6.jpg",
+    "pan": [
+     0.182,
+     0.242
+    ],
+    "hl": [
+     0.0,
+     0.3438,
+     1.0,
+     0.2732
+    ],
+    "kicker": "SECOND SUPERSEDING INDICTMENT · PAGE 6",
+    "title": "The object of the conspiracy",
+    "src": "Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges"
+   }
+  },
+  {
+   "say": "At trial, prosecutors put the gap on a single chart. By December eleventh, twenty twenty-three, Agridime had sold cattle contracts for about one hundred fifteen thousand, two hundred fifty-five head.",
+   "show": "At trial, prosecutors put the gap on a single chart. By December 11, 2023, Agridime had sold cattle contracts for about 115,255 head.",
+   "scene": {
+    "type": "bars",
+    "kicker": "GOV'T TRIAL EXHIBIT · JAN 2021 – DEC 11, 2023",
+    "title": "Cattle sold vs. cattle bought",
+    "sync": true,
+    "items": [
+     {
+      "label": "CONTRACTS SOLD (HEAD)",
+      "value": 115255,
+      "display": "115,255"
+     },
+     {
+      "label": "NET CATTLE PURCHASED",
+      "value": 51704,
+      "display": "51,704"
+     }
+    ],
+    "src": "Gov't trial exhibit, as published by the U.S. Attorney's Office, N.D. Tex. (Nov 11, 2026)"
+   }
+  },
+  {
+   "say": "The cattle it had actually bought, net: about fifty-one thousand, seven hundred four."
+  },
+  {
+   "say": "That is the gap the U.S. Attorney's Office described: about sixty thousand more head of cattle sold to the public than Agridime controlled.",
+   "show": "That is the gap the U.S. Attorney's Office described: about 60,000 more head of cattle sold to the public than Agridime controlled.",
+   "scene": {
+    "type": "photo",
+    "img": "img/rel_chart.jpg",
+    "caption": "GOV'T EXHIBIT KC15 · AS PUBLISHED BY THE U.S. ATTORNEY",
+    "src": "Gov't trial exhibit, as published by the U.S. Attorney's Office, N.D. Tex. (Nov 11, 2026)",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "So where did the new money go? The SEC alleged that at least fifty-eight million dollars, between December twenty twenty-two and September twenty twenty-three, was used to pay earlier investors. In short, the SEC wrote, Agridime is operating a Ponzi scheme.",
+   "show": "So where did the new money go? The SEC alleged that at least $58 million, between December 2022 and September 2023, was used to pay earlier investors. \"In short,\" the SEC wrote, \"Agridime is operating a Ponzi scheme.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/sec_9.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.0361,
+     1.0,
+     0.0649
+    ],
+    "kicker": "SEC v. AGRIDIME · COMPLAINT · ALLEGATIONS · PAGE 9",
+    "title": "“In short, Agridime is operating a Ponzi scheme.”",
+    "src": "SEC v. Agridime LLC et al., No. 4:23-cv-01224-P, Complaint (N.D. Tex. Dec 11, 2023) — allegations"
+   }
+  },
+  {
+   "say": "By September twenty twenty-three, the SEC said, Agridime owed investors more than one hundred twenty-three million dollars in principal, plus about twenty-four million in guaranteed profits. Its cash: less than one and a half million.",
+   "show": "By September 2023, the SEC said, Agridime owed investors more than $123 million in principal, plus about $24 million in guaranteed \"profits.\" Its cash: less than $1.5 million.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sec_9.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1473,
+     1.0,
+     0.1031
+    ],
+    "kicker": "SEC v. AGRIDIME · COMPLAINT · ALLEGATIONS · PAGE 9",
+    "title": "$123 million owed · under $1.5 million cash",
+    "src": "SEC v. Agridime LLC et al., No. 4:23-cv-01224-P, Complaint (N.D. Tex. Dec 11, 2023) — allegations"
+   }
+  },
+  {
+   "say": "And someone was getting paid. A table released by the U.S. Attorney's Office shows salaries and commissions from twenty twenty-one through twenty twenty-three. Josh and Tia Link, combined because of a joint bank account: two point seven three million dollars. Jed Wood: two point four one million.",
+   "show": "And someone was getting paid. A table released by the U.S. Attorney's Office shows salaries and commissions from 2021 through 2023. Josh and Tia Link, combined because of a joint bank account: $2.73 million. Jed Wood: $2.41 million.",
+   "scene": {
+    "type": "photo",
+    "img": "img/rel_salary.jpg",
+    "caption": "SALARY & COMMISSION TABLE · RELEASED BY THE U.S. ATTORNEY",
+    "src": "Gov't trial exhibit, as published by the U.S. Attorney's Office, N.D. Tex. (Nov 11, 2026)",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "Brokers took a cut too. The indictment says sales agents were paid up to ten percent of every contract, and one broker in North Dakota, Taylor Bang, collected nearly seven million dollars in commissions.",
+   "show": "Brokers took a cut too. The indictment says sales agents were paid up to 10% of every contract, and one broker in North Dakota, Taylor Bang, collected nearly $7 million in commissions.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ssi_20.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2221,
+     1.0,
+     0.0331
+    ],
+    "kicker": "SECOND SUPERSEDING INDICTMENT · PAGE 20",
+    "title": "$6,987,000 of commission payments",
+    "src": "Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges"
+   }
+  },
+  {
+   "say": "Now hold that number. Fifteen to twenty percent guaranteed, paid out of a herd that, by the government's chart, was less than half the size of what had been sold. The next question is how they kept buyers from noticing.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Less than half",
+     "the herd|that was sold."
+    ],
+    "src": "Gov't trial exhibit, as published by the U.S. Attorney's Office, N.D. Tex. (Nov 11, 2026)"
+   }
+  },
+  {
+   "say": "Chapter three. The cover.",
+   "scene": {
+    "type": "chapter",
+    "n": "III",
+    "title": "The Cover"
+   }
+  },
+  {
+   "say": "Some buyers asked for proof, like their cattle's ear-tag numbers. According to the indictment, in April twenty twenty-three Joshua Link gave the same tag information to two different buyers, purporting to show that specific cattle had been bought for each of them.",
+   "show": "Some buyers asked for proof, like their cattle's ear-tag numbers. According to the indictment, in April 2023 Joshua Link gave the same tag information to two different buyers, \"purporting to show specific heads of cattle had been purchased for each victim.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/ssi_20.jpg",
+    "pan": [
+     0.422,
+     0.463
+    ],
+    "hl": [
+     0.0,
+     0.6643,
+     1.0,
+     0.1123
+    ],
+    "kicker": "SECOND SUPERSEDING INDICTMENT · PAGE 20",
+    "title": "“duplicative Electronic Identification (“EID”) tag information”",
+    "src": "Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges"
+   }
+  },
+  {
+   "say": "Then the regulators arrived. In April twenty twenty-three, Arizona ordered Agridime to stop selling its cattle contracts in that state. In May, North Dakota issued its own cease-and-desist order.",
+   "show": "Then the regulators arrived. In April 2023, Arizona ordered Agridime to stop selling its cattle contracts in that state. In May, North Dakota issued its own cease-and-desist order.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "STATE ORDERS · 2023",
+    "at": 1,
+    "sync": true,
+    "events": [
+     {
+      "date": "APR 18, 2023",
+      "text": "Arizona: cease and desist"
+     },
+     {
+      "date": "MAY 24, 2023",
+      "text": "North Dakota: cease and desist"
+     },
+     {
+      "date": "DEC 11, 2023",
+      "text": "SEC sues; receiver appointed"
+     }
+    ],
+    "src": "Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges · SEC v. Agridime LLC et al., No. 4:23-cv-01224-P, Complaint (N.D. Tex. Dec 11, 2023) — allegations"
+   }
+  },
+  {
+   "say": "The sales kept going. Agridime's marketing director, Tia Link, has admitted in her plea papers that in August twenty twenty-three she sent a buyer the current contract and wrote: Agridime is regulated by the USDA and just went through and passed our twenty twenty-three audit with the USDA.",
+   "show": "The sales kept going. Agridime's marketing director, Tia Link, has admitted in her plea papers that in August 2023 she sent a buyer the current contract and wrote: \"Agridime is regulated by the USDA and just went through and passed our 2023 audit with the USDA.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/tia_3.jpg",
+    "pan": [
+     0.463,
+     0.463
+    ],
+    "hl": [
+     0.0,
+     0.7813,
+     1.0,
+     0.0506
+    ],
+    "kicker": "FACTUAL RESUME · TIA LINK · STIPULATED",
+    "title": "“passed our 2023 audit with the USDA”",
+    "src": "Factual Resume, U.S. v. Tia Makenzie Link, No. 4:26-CR-051-P, Dkt. 116 (Jun 17, 2026)"
+   }
+  },
+  {
+   "say": "Another buyer asked whether it was guaranteed that one year from now you will pay me fifty-five hundred. Her answer, as stipulated: Yes, that is correct.",
+   "show": "Another buyer asked whether it was \"guaranteed that one year from now you will pay me 5500.\" Her answer, as stipulated: \"Yes, that is correct.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/tia_3.jpg",
+    "pan": [
+     0.463,
+     0.463
+    ],
+    "hl": [
+     0.0,
+     0.8771,
+     1.0,
+     0.0657
+    ],
+    "kicker": "FACTUAL RESUME · TIA LINK · STIPULATED",
+    "title": "“Yes, that is correct”",
+    "src": "Factual Resume, U.S. v. Tia Makenzie Link, No. 4:26-CR-051-P, Dkt. 116 (Jun 17, 2026)"
+   }
+  },
+  {
+   "say": "In October twenty twenty-three, an Arizona buyer agreed to pay two hundred forty thousand dollars for eighty specific cattle, with a promised thirty percent profit within nine months. Broker Taylor Bang has admitted the deal was made despite the Arizona order.",
+   "show": "In October 2023, an Arizona buyer agreed to pay $240,000 for 80 specific cattle, with a promised 30% profit within nine months. Broker Taylor Bang has admitted the deal was made despite the Arizona order.",
+   "scene": {
+    "type": "doc",
+    "img": "img/bang_4.jpg",
+    "pan": [
+     0.144,
+     0.144
+    ],
+    "hl": [
+     0.0,
+     0.7662,
+     1.0,
+     0.1708
+    ],
+    "kicker": "FACTUAL RESUME · TAYLOR BANG · STIPULATED",
+    "title": "$240,000 · 80 cattle · 30% in 9 months",
+    "src": "Factual Resume, U.S. v. Taylor Orris Bang, No. 4:26-CR-051-P (2026)"
+   }
+  },
+  {
+   "say": "The indictment says the contract was then written in Bang's name, and the money sent to his account instead of Agridime's, to hide the Arizona buyer.",
+   "scene": {
+    "type": "big",
+    "kicker": "SECOND SUPERSEDING INDICTMENT · CHARGES",
+    "lines": [
+     "The buyer's name",
+     "left off|the contract."
+    ],
+    "src": "Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges"
+   }
+  },
+  {
+   "say": "And in November, Agridime's financial controller pitched a buyer by phone. According to the indictment, she offered him twenty-four point four four percent, and explained where the profits came from.",
+   "show": "And in November, Agridime's financial controller pitched a buyer by phone. According to the indictment, she offered him 24.44%, and explained where the profits came from.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ssi_10.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4643,
+     1.0,
+     0.0714
+    ],
+    "kicker": "SECOND SUPERSEDING INDICTMENT · PAGE 10",
+    "title": "“I could offer you [profits of] 24.44%”",
+    "src": "Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges"
+   }
+  },
+  {
+   "say": "Where we end up making the money, she said, is when we harvest, process and get the meat out. And that's why we're able to offer that percentage. The indictment calls that false. The controller, Royana Thomas, pleaded guilty on November fourth.",
+   "show": "\"Where we end up making the money,\" she said, \"is when we harvest, process and get the meat out … and that's why we're able to offer that percentage.\" The indictment calls that false. The controller, Royana Thomas, pleaded guilty on November 4.",
+   "scene": {
+    "type": "quote",
+    "q": "where we end up making the money is when we harvest, process and get the meat out",
+    "case": "UNITED STATES v. LINK",
+    "doc": "ROYANA THOMAS · PHONE CALL · NOV 28, 2023",
+    "cite": "As quoted in Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges",
+    "size": 46
+   }
+  },
+  {
+   "say": "Chapter four. The ranch in Kansas.",
+   "scene": {
+    "type": "chapter",
+    "n": "IV",
+    "title": "The Ranch"
+   }
+  },
+  {
+   "say": "There was a second scheme. And this one, the jury found, the Link brothers ran against Agridime itself.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "A second scheme.",
+     "Against|Agridime itself."
+    ],
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 11, 2026)"
+   }
+  },
+  {
+   "say": "Jason Link, Joshua's brother, owned Shady Brook Ranch in Hope, Kansas, and worked for Agridime as a livestock broker and Meat Chain Director. Some Agridime cattle were kept on his ranch.",
+   "show": "Jason Link, Joshua's brother, owned Shady Brook Ranch in Hope, Kansas, and worked for Agridime as a livestock broker and Meat Chain Director. Some Agridime cattle were kept on his ranch.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ssi_1.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4295,
+     1.0,
+     0.04
+    ],
+    "kicker": "SECOND SUPERSEDING INDICTMENT · PAGE 1",
+    "title": "Jason Allen Link (06)",
+    "src": "Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges"
+   }
+  },
+  {
+   "say": "From November twenty twenty-one, Joshua sent bills to Agridime's accountants: payments due to Shady Brook for feed and yardage. The trial evidence showed a separate company was already feeding those cattle, and being paid for it. Agridime paid twice.",
+   "show": "From November 2021, Joshua sent bills to Agridime's accountants: payments due to Shady Brook for \"feed and yardage.\" The trial evidence showed a separate company was already feeding those cattle, and being paid for it. Agridime paid twice.",
+   "scene": {
+    "type": "photo",
+    "img": "img/rel_feed.jpg",
+    "caption": "PAYMENTS TO SHADY BROOK · TABLE RELEASED BY THE U.S. ATTORNEY",
+    "src": "Gov't trial exhibit, as published by the U.S. Attorney's Office, N.D. Tex. (Nov 11, 2026)",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "And the math, the indictment says, did not add up. One September twenty twenty-three email read: one hundred twenty-four head, times seven hundred fifty dollars per head, equals one hundred twenty-three thousand. At that rate, the correct figure was ninety-three thousand.",
+   "show": "And the math, the indictment says, did not add up. One September 2023 email read: \"124 head x $750 per head = $123,000.\" At that rate, the correct figure was $93,000.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ssi_35.jpg",
+    "pan": [
+     0.463,
+     0.463
+    ],
+    "hl": [
+     0.0,
+     0.8516,
+     1.0,
+     0.0731
+    ],
+    "kicker": "SECOND SUPERSEDING INDICTMENT · PAGE 35",
+    "title": "“124 head x $750 per head = $123,000”",
+    "src": "Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges"
+   }
+  },
+  {
+   "say": "When the accountants asked for a copy of the lease with Jason, Joshua answered: we do the billing on a per head basis at seven hundred fifty dollars per head. No lease existed, according to the indictment.",
+   "show": "When the accountants asked for a copy of the lease with Jason, Joshua answered: \"we do the billing on a per head basis at $750 per head.\" No lease existed, according to the indictment.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ssi_36.jpg",
+    "pan": [
+     0.242,
+     0.302
+    ],
+    "hl": [
+     0.0,
+     0.5188,
+     1.0,
+     0.0437
+    ],
+    "kicker": "SECOND SUPERSEDING INDICTMENT · PAGE 36",
+    "title": "“Can you send us the lease you have with Jason”",
+    "src": "Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges"
+   }
+  },
+  {
+   "say": "In all, prosecutors say, more than two point seven million dollars went to Shady Brook. Here is what bank records showed it bought.",
+   "show": "In all, prosecutors say, more than $2.7 million went to Shady Brook. Here is what bank records showed it bought.",
+   "scene": {
+    "type": "stat",
+    "kicker": "\"FEED AND YARDAGE\" · NOV 2021 – JAN 2024",
+    "value": "$2.7M+",
+    "label": "paid to the brother's ranch for services it did not provide",
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 11, 2026)"
+   }
+  },
+  {
+   "say": "One million, four hundred ninety-eight thousand, two hundred seventy-five dollars, for a five-bedroom, four-bathroom barndominium in Kansas, built, prosecutors say, for the brothers' recreational use.",
+   "show": "$1,498,275 for a five-bedroom, four-bathroom \"barndominium\" in Kansas, built, prosecutors say, for the brothers' recreational use.",
+   "scene": {
+    "type": "photo",
+    "img": "img/rel_barndo.jpg",
+    "caption": "THE \"BARNDOMINIUM\" · PHOTO RELEASED BY THE U.S. ATTORNEY",
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 11, 2026)",
+    "fit": "cover"
+   }
+  },
+  {
+   "say": "Twenty-four thousand, eight hundred thirty-eight dollars for a two thousand six Hummer H two. And thousands more for solar panels and plumbing supplies.",
+   "show": "$24,838 for a 2006 Hummer H2. And thousands more for solar panels and plumbing supplies.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ssi_37.jpg",
+    "pan": [
+     0.415,
+     0.463
+    ],
+    "hl": [
+     0.0,
+     0.6573,
+     1.0,
+     0.1131
+    ],
+    "kicker": "SECOND SUPERSEDING INDICTMENT · PAGE 37",
+    "title": "Barndominium · 2006 Hummer H2",
+    "src": "Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges"
+   }
+  },
+  {
+   "say": "Even after the company collapsed, the bills kept coming. In January twenty twenty-four, the indictment says, Jason emailed the court-appointed receiver now running Agridime, demanding payment. If Shady Brook is not paid, he wrote, I will have no choice but to start selling cattle to cover those bills.",
+   "show": "Even after the company collapsed, the bills kept coming. In January 2024, the indictment says, Jason emailed the court-appointed receiver now running Agridime, demanding payment. \"If Shady Brook is not paid …,\" he wrote, \"I will have no choice but to start selling cattle to cover those bills.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/ssi_37.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.0669,
+     1.0,
+     0.0432
+    ],
+    "kicker": "SECOND SUPERSEDING INDICTMENT · PAGE 37",
+    "title": "“I will have no choice but to start selling cattle”",
+    "src": "Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges"
+   }
+  },
+  {
+   "say": "The next day he explained the seven-hundred-fifty-dollar rate: there is still feed that grows out of the ground.",
+   "show": "The next day he explained the $750 rate: \"There is still feed that grows out of the ground.\"",
+   "scene": {
+    "type": "quote",
+    "q": "There is still feed that grows out of the ground.",
+    "case": "UNITED STATES v. LINK",
+    "doc": "JASON LINK · E-MAIL · JAN 11, 2024",
+    "cite": "As quoted in Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges",
+    "size": 58
+   }
+  },
+  {
+   "say": "Chapter five. The collapse and the flight.",
+   "scene": {
+    "type": "chapter",
+    "n": "V",
+    "title": "The Flight"
+   }
+  },
+  {
+   "say": "On December eleventh, twenty twenty-three, the SEC filed suit, under seal, to halt what it called an active Ponzi scheme. The same day, a federal judge in Fort Worth appointed a receiver to take control of Agridime.",
+   "show": "On December 11, 2023, the SEC filed suit, under seal, to halt what it called an \"active Ponzi scheme.\" The same day, a federal judge in Fort Worth appointed a receiver to take control of Agridime.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sec_1.jpg",
+    "pan": [
+     0.246,
+     0.306
+    ],
+    "hl": [
+     0.0,
+     0.5293,
+     1.0,
+     0.0315
+    ],
+    "kicker": "SEC v. AGRIDIME · COMPLAINT · DEC 11, 2023",
+    "title": "“active Ponzi scheme”",
+    "src": "SEC v. Agridime LLC et al., No. 4:23-cv-01224-P, Complaint (N.D. Tex. Dec 11, 2023) — allegations"
+   }
+  },
+  {
+   "say": "In May twenty twenty-four, the Commodity Futures Trading Commission sued too. In June twenty twenty-five, Agridime agreed to a judgment ordering one hundred two point nine million dollars in restitution, to be paid through the receiver.",
+   "show": "In May 2024, the Commodity Futures Trading Commission sued too. In June 2025, Agridime agreed to a judgment ordering $102.9 million in restitution, to be paid through the receiver.",
+   "scene": {
+    "type": "doc",
+    "img": "img/cftc_5.jpg",
+    "pan": [
+     0.462,
+     0.463
+    ],
+    "hl": [
+     0.0,
+     0.7303,
+     1.0,
+     0.0612
+    ],
+    "kicker": "CFTC v. AGRIDIME · CONSENT ORDER · JUNE 2025",
+    "title": "Restitution: $102,936,904",
+    "src": "CFTC v. Agridime LLC et al., No. 4:24-cv-0424-P, Consent Order, Dkt. 44 (N.D. Tex. Jun 10, 2025)"
+   }
+  },
+  {
+   "say": "Then the criminal case. On January twenty-ninth, twenty twenty-six, a federal arrest warrant was issued for Joshua Link. On February eleventh, a Fort Worth grand jury indicted him and four others.",
+   "show": "Then the criminal case. On January 29, 2026, a federal arrest warrant was issued for Joshua Link. On February 11, a Fort Worth grand jury indicted him and four others.",
+   "scene": {
+    "type": "doc",
+    "img": "img/poster.jpg",
+    "pan": [
+     0.35,
+     0.45
+    ],
+    "hl": [
+     0.0,
+     0.866,
+     1.0,
+     0.03
+    ],
+    "kicker": "FBI WANTED POSTER · CAUTION",
+    "title": "Warrant: January 29, 2026",
+    "src": "FBI wanted poster, Joshua Robert Link (2026), via USAO N.D. Tex."
+   }
+  },
+  {
+   "say": "Link was not in custody. He was already on the FBI's wanted list. In reality, the poster said, Agridime purchased only a fraction of the cattle. Approximate loss: one hundred fifteen million dollars, to over two thousand buyers.",
+   "show": "Link was not in custody. He was already on the FBI's wanted list. \"In reality,\" the poster said, \"Agridime purchased only a fraction of the cattle.\" Approximate loss: $115 million, to over 2,000 buyers.",
+   "scene": {
+    "type": "doc",
+    "img": "img/poster.jpg",
+    "pan": [
+     0.339,
+     0.339
+    ],
+    "hl": [
+     0.0,
+     0.8438,
+     1.0,
+     0.033
+    ],
+    "kicker": "WANTED BY THE FBI",
+    "title": "“purchased only a fraction of the cattle”",
+    "src": "FBI wanted poster, Joshua Robert Link (2026), via USAO N.D. Tex."
+   }
+  },
+  {
+   "say": "For about four weeks he was on the FBI's white-collar wanted list. On March ninth, according to FBI Dallas, he was taken into custody at Los Angeles International Airport, by Customs and Border Protection, airport police and FBI task force officers.",
+   "show": "For about four weeks he was on the FBI's white-collar wanted list. On March 9, according to FBI Dallas, he was taken into custody at Los Angeles International Airport, by Customs and Border Protection, airport police and FBI task force officers.",
+   "scene": {
+    "type": "big",
+    "kicker": "LAX · MARCH 9, 2026",
+    "lines": [
+     "Fugitive:",
+     "taken into custody|at the airport."
+    ],
+    "src": "DTN/Progressive Farmer, citing FBI Dallas (Mar 16, 2026); Cowboy State Daily (Mar 16, 2026)"
+   }
+  },
+  {
+   "say": "Two days later, a second indictment charged both Link brothers over the ranch payments. One by one, the others pleaded guilty.",
+   "show": "Two days later, a second indictment charged both Link brothers over the ranch payments. One by one, the others pleaded guilty.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ssi_1.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.362,
+     1.0,
+     0.108
+    ],
+    "kicker": "SECOND SUPERSEDING INDICTMENT · SEPTEMBER 2026",
+    "title": "Joshua Link · Royana Thomas · Jason Link",
+    "src": "Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges · Indictment, U.S. v. Jason Allen Link & Joshua Robert Link, No. 4:26-CR-060-P, Dkt. 1 (N.D. Tex. Mar 11, 2026)"
+   }
+  },
+  {
+   "say": "Jed Wood, the co-founder, in March. In his plea papers he stipulated that he and others obtained over two hundred twenty million dollars from over two thousand victims.",
+   "show": "Jed Wood, the co-founder, in March. In his plea papers he stipulated that he and others \"obtained over $220 million from over 2,000 victims.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/wood_5.jpg",
+    "pan": [
+     0.463,
+     0.463
+    ],
+    "hl": [
+     0.0,
+     0.852,
+     1.0,
+     0.0306
+    ],
+    "kicker": "FACTUAL RESUME · JED WOOD · STIPULATED",
+    "title": "“over $220 million from over 2,000 victims”",
+    "src": "Factual Resume, U.S. v. Jed Hansel Wood, No. 4:26-CR-051-P, Dkt. 63 (Mar 25, 2026)"
+   }
+  },
+  {
+   "say": "Tia Link in June. Taylor Bang in September. Royana Thomas on November fourth. That left the two brothers.",
+   "show": "Tia Link in June. Taylor Bang in September. Royana Thomas on November 4. That left the two brothers.",
+   "scene": {
+    "type": "list",
+    "kicker": "GUILTY PLEAS · 2026",
+    "items": [
+     [
+      "MAR 25",
+      "Jed Wood · Operations Director · wire fraud conspiracy"
+     ],
+     [
+      "JUN 17",
+      "Tia Link · Marketing Director · money laundering"
+     ],
+     [
+      "SEP 9",
+      "Taylor Bang · cattle broker · wire fraud conspiracy"
+     ],
+     [
+      "NOV 4",
+      "Royana Thomas · Financial Controller · wire fraud conspiracy"
+     ]
+    ],
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 11, 2026)"
+   }
+  },
+  {
+   "say": "Chapter six. The verdict.",
+   "scene": {
+    "type": "chapter",
+    "n": "VI",
+    "title": "The Verdict"
+   }
+  },
+  {
+   "say": "The trial lasted six days, before U.S. District Judge Mark Pittman. Prosecutors laid out the contracts, the money, and the ranch.",
+   "show": "The trial lasted six days, before U.S. District Judge Mark Pittman. Prosecutors laid out the contracts, the money, and the ranch.",
+   "scene": {
+    "type": "big",
+    "kicker": "FORT WORTH · NOVEMBER 2026",
+    "lines": [
+     "Six days.",
+     "One jury."
+    ],
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 11, 2026)"
+   }
+  },
+  {
+   "say": "On November tenth, it returned its verdict. Joshua Link: guilty on two counts of wire fraud conspiracy, two counts of wire fraud, and two counts of money laundering.",
+   "show": "On November 10, it returned its verdict. Joshua Link: guilty on two counts of wire fraud conspiracy, two counts of wire fraud, and two counts of money laundering.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOVEMBER 10, 2026 · JOSHUA LINK",
+    "stamp": "GUILTY",
+    "big": "6 counts",
+    "sub": "2 wire fraud conspiracy · 2 wire fraud · 2 money laundering"
+   }
+  },
+  {
+   "say": "Jason Link: guilty on one count of wire fraud conspiracy, two counts of wire fraud, and two counts of money laundering.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOVEMBER 10, 2026 · JASON LINK",
+    "stamp": "GUILTY",
+    "big": "5 counts",
+    "sub": "1 wire fraud conspiracy · 2 wire fraud · 2 money laundering"
+   }
+  },
+  {
+   "say": "The jury also found that the brothers conspired to defraud Agridime itself, and its owners.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Guilty of",
+     "defrauding|Agridime itself."
+    ],
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 11, 2026)"
+   }
+  },
+  {
+   "say": "These defendants preyed directly on Main Street Americans, U.S. Attorney Ryan Raybould said. Instead of building a legitimate cattle business, the Link brothers ran a high-tech Ponzi scheme.",
+   "show": "\"These defendants preyed directly on Main Street Americans,\" U.S. Attorney Ryan Raybould said. \"Instead of building a legitimate cattle business, the Link brothers ran a high-tech Ponzi scheme.\"",
+   "scene": {
+    "type": "quote",
+    "q": "Instead of building a legitimate cattle business, the Link brothers ran a high-tech Ponzi scheme",
+    "case": "UNITED STATES v. LINK",
+    "doc": "U.S. ATTORNEY RYAN RAYBOULD",
+    "cite": "U.S. Attorney's Office, N.D. Tex., press release (Nov 11, 2026)",
+    "size": 46
+   }
+  },
+  {
+   "say": "The FBI's special agent in charge in Dallas spoke of the brothers' calculated efforts to lure prospective investors.",
+   "show": "The FBI's special agent in charge in Dallas spoke of \"the two brothers' calculated efforts to lure prospective investors.\"",
+   "scene": {
+    "type": "quote",
+    "q": "the two brothers' calculated efforts to lure prospective investors",
+    "case": "UNITED STATES v. LINK",
+    "doc": "FBI DALLAS SAC R. JOSEPH ROTHROCK",
+    "cite": "U.S. Attorney's Office, N.D. Tex., press release (Nov 11, 2026)",
+    "size": 50
+   }
+  },
+  {
+   "say": "Each conspiracy and wire fraud count carries up to twenty years in prison. Each money laundering count, up to ten. The judge, not the maximum, will decide the sentence. Sentencing for both brothers is set for March fourth, twenty twenty-seven.",
+   "show": "Each conspiracy and wire fraud count carries up to 20 years in prison. Each money laundering count, up to 10. The judge, not the maximum, will decide the sentence. Sentencing for both brothers is set for March 4, 2027.",
+   "scene": {
+    "type": "stat",
+    "kicker": "SENTENCING",
+    "value": "Mar 4, 2027",
+    "label": "up to 20 years per fraud count · up to 10 per laundering count",
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 11, 2026)"
+   }
+  },
+  {
+   "say": "The four who pleaded guilty face their own sentences, and restitution to the victims is still to be decided.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Restitution:",
+     "still to be|decided."
+    ],
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 11, 2026)"
+   }
+  },
+  {
+   "say": "So here is the whole case in one line. Two thousand dollars a head, fifteen to twenty percent guaranteed. More than two hundred forty million dollars collected. About sixty thousand more head of cattle sold than Agridime controlled.",
+   "show": "So here is the whole case in one line. $2,000 a head, 15-20% guaranteed. More than $240 million collected. About 60,000 more head of cattle sold than Agridime controlled.",
+   "scene": {
+    "type": "list",
+    "kicker": "THE CASE IN NUMBERS",
+    "items": [
+     [
+      "$2,000",
+      "per head, \"guaranteed 15-20% yearly profits\""
+     ],
+     [
+      "$240M+",
+      "collected from more than 2,200 victims, 2021–2023"
+     ],
+     [
+      "~60,000",
+      "more head sold than Agridime controlled"
+     ],
+     [
+      "$2.7M+",
+      "in \"feed and yardage\" to the brother's ranch"
+     ],
+     [
+      "6 + 5",
+      "guilty counts · Joshua and Jason Link"
+     ]
+    ],
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 11, 2026) · Second Superseding Indictment, U.S. v. Link et al., No. 4:26-CR-051-P, Dkt. 168 (N.D. Tex. Sep 11, 2026) — charges"
+   }
+  },
+  {
+   "say": "Their own ad said it first. We know it sounds too good to be true.",
+   "show": "Their own ad said it first: \"We know it sounds too good to be true.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/sec_1.jpg",
+    "pan": [
+     0.463,
+     0.463
+    ],
+    "hl": [
+     0.0,
+     0.7897,
+     1.0,
+     0.0313
+    ],
+    "kicker": "SEC v. AGRIDIME · COMPLAINT",
+    "title": "“We know it sounds too good to be true.”",
+    "src": "SEC v. Agridime LLC et al., No. 4:23-cv-01224-P, Complaint (N.D. Tex. Dec 11, 2023) — allegations"
+   }
+  },
+  {
+   "say": "What sentence should the Link brothers get in March? Tell me in the comments. This is SWORN. Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ]
+}

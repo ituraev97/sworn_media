@@ -1,0 +1,57 @@
+{
+ "A": {
+  "left": {
+   "img": "img/link_face.jpg",
+   "pos": "50% 38%",
+   "zoom": 1.0
+  },
+  "right": {
+   "number": "$240M",
+   "label": "CATTLE SCHEME"
+  },
+  "split": 0.5,
+  "tag": "BREAKING",
+  "breaking": true,
+  "line1": "FBI FUGITIVE CONVICTED",
+  "line2": "SOLD COWS IT DIDN'T HAVE",
+  "line2color": "red",
+  "size1": 92,
+  "size2": 100
+ },
+ "B": {
+  "left": {
+   "img": "img/link_face.jpg",
+   "pos": "50% 40%",
+   "zoom": 1.0
+  },
+  "right": {
+   "number": "2,200",
+   "label": "VICTIMS"
+  },
+  "split": 0.56,
+  "tag": "GUILTY",
+  "line1": "$240 MILLION CATTLE",
+  "line2": "PONZI SCHEME",
+  "line2color": "yellow",
+  "size1": 96,
+  "size2": 118
+ },
+ "C": {
+  "left": {
+   "img": "img/link_face.jpg",
+   "pos": "50% 42%",
+   "zoom": 1.15
+  },
+  "right": {
+   "number": "15-20%",
+   "label": "\"GUARANTEED\""
+  },
+  "split": 0.5,
+  "tag": "GUILTY",
+  "line1": "\"TOO GOOD TO BE TRUE\"",
+  "line2": "THEIR OWN AD SAID IT",
+  "line2color": "yellow",
+  "size1": 96,
+  "size2": 104
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "title": "$240 Million Cattle Scheme. FBI Fugitive Caught at LAX.",
+ "template": "number reveal + chase",
+ "lines": [
+  {
+   "say": "Guilty. Joshua Link's cattle company collected over two hundred forty million dollars. Then he landed on the FBI's wanted list.",
+   "show": "Guilty. Joshua Link's cattle company collected over $240 million. Then he landed on the FBI's wanted list.",
+   "scene": {
+    "type": "hook",
+    "img": "img/link_face.jpg",
+    "pos": "50% 0%",
+    "zoom": 0.85,
+    "tag": "GUILTY",
+    "number": "$240M",
+    "label": "FBI FUGITIVE|NOW CONVICTED"
+   }
+  },
+  {
+   "say": "The FBI's poster said Agridime purchased only a fraction of the cattle.",
+   "show": "The FBI's poster said \"Agridime purchased only a fraction of the cattle.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/poster.jpg",
+    "pan": [
+     0.416,
+     0.416
+    ],
+    "hl": [
+     0.0,
+     0.8438,
+     1.0,
+     0.033
+    ],
+    "kicker": "WANTED BY THE FBI · 2026",
+    "src": "FBI wanted poster, Joshua Robert Link (2026)"
+   }
+  },
+  {
+   "say": "On March ninth, he was taken into custody at Los Angeles International Airport.",
+   "show": "On March 9, he was taken into custody at Los Angeles International Airport.",
+   "scene": {
+    "type": "big",
+    "kicker": "LAX · MARCH 9, 2026",
+    "lines": [
+     "Taken into",
+     "custody|at LAX."
+    ],
+    "src": "DTN, citing FBI Dallas (Mar 2026)"
+   }
+  },
+  {
+   "say": "On November tenth, a Fort Worth jury convicted him and his brother Jason. Sentencing is set for March.",
+   "show": "On November 10, a Fort Worth jury convicted him and his brother Jason. Sentencing is set for March.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "FORT WORTH · NOV 10, 2026",
+    "stamp": "GUILTY",
+    "big": "Joshua & Jason Link",
+    "sub": "wire fraud · money laundering"
+   }
+  },
+  {
+   "say": "How many years should he get? Tell me below.",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

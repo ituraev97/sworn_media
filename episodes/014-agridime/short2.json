@@ -1,0 +1,69 @@
+{
+ "title": "115,255 Cattle Sold on Contract. Only 51,704 Net Bought.",
+ "template": "number vs number",
+ "lines": [
+  {
+   "say": "Contracts for one hundred fifteen thousand, two hundred fifty-five head of cattle sold. Only fifty-one thousand, seven hundred four net bought. That's the government's chart from the Agridime trial.",
+   "show": "Contracts for 115,255 head of cattle sold. Only 51,704 net bought. That's the government's chart from the Agridime trial.",
+   "scene": {
+    "type": "hook",
+    "img": "img/link_face.jpg",
+    "pos": "50% 0%",
+    "zoom": 0.85,
+    "tag": "GUILTY",
+    "number": "115,255",
+    "label": "HEAD SOLD ON CONTRACT|ONLY 51,704 NET BOUGHT"
+   }
+  },
+  {
+   "say": "Buyers paid two thousand dollars a head, with guaranteed fifteen to twenty percent yearly profits.",
+   "show": "Buyers paid $2,000 a head, with \"guaranteed 15-20% yearly profits.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/ssi_4.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4761,
+     1.0,
+     0.2627
+    ],
+    "kicker": "SECOND SUPERSEDING INDICTMENT",
+    "src": "Second Superseding Indictment, U.S. v. Link (N.D. Tex. 2026)"
+   }
+  },
+  {
+   "say": "Prosecutors say new money paid earlier buyers. The U.S. Attorney called it a high-tech Ponzi scheme.",
+   "show": "Prosecutors say new money paid earlier buyers. The U.S. Attorney called it a \"high-tech Ponzi scheme.\"",
+   "scene": {
+    "type": "quote",
+    "q": "the Link brothers ran a high-tech Ponzi scheme",
+    "case": "UNITED STATES v. LINK",
+    "doc": "U.S. ATTORNEY RYAN RAYBOULD",
+    "cite": "U.S. Attorney's Office, N.D. Tex. (Nov 11, 2026)",
+    "size": 50
+   }
+  },
+  {
+   "say": "On November tenth, the Link brothers were found guilty.",
+   "show": "On November 10, the Link brothers were found guilty.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "FORT WORTH · NOV 10, 2026",
+    "stamp": "GUILTY",
+    "big": "Joshua & Jason Link",
+    "sub": "wire fraud · money laundering"
+   }
+  },
+  {
+   "say": "Would you have bought one? Comment below.",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}
