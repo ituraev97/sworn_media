@@ -1,0 +1,71 @@
+{
+ "title": "\"Not All Heroes Wear Capes. Some Have YouTube Channels.\"",
+ "template": "verbatim quote",
+ "lines": [
+  {
+   "say": "Not all heroes wear capes. Some have YouTube channels. A U.S. Attorney said that in twenty twenty-five, about scambaiters.",
+   "show": "\"Not all heroes wear capes. Some have YouTube channels.\" A U.S. Attorney said that in 2025, about scambaiters.",
+   "scene": {
+    "type": "hook",
+    "img": "img/chen_face.jpg",
+    "pos": "50% 0%",
+    "zoom": 0.85,
+    "tag": "SENTENCED",
+    "number": "78 MONTHS",
+    "label": "\"SOME HAVE|YOUTUBE CHANNELS\""
+   }
+  },
+  {
+   "say": "Scammer Payback and Trilogy Media baited fraudsters and confronted them on camera.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ring65.jpg",
+    "pan": [
+     0.148,
+     0.208
+    ],
+    "hl": [
+     0.0,
+     0.2096,
+     1.0,
+     0.0166
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · AUGUST 27, 2025",
+    "src": "U.S. Attorney's Office, S.D. Cal. (Aug 27, 2025)"
+   }
+  },
+  {
+   "say": "Prosecutors say their videos helped identify three defendants in a sixty-five million dollar ring.",
+   "show": "Prosecutors say their videos helped identify three defendants in a $65 million ring."
+  },
+  {
+   "say": "In twenty twenty-three, Trilogy Media confronted a courier known as Little Tiger.",
+   "show": "In 2023, Trilogy Media confronted a courier known as \"Little Tiger.\"",
+   "scene": {
+    "type": "photo",
+    "img": "img/slide_0222.jpg",
+    "caption": "DOJ SENTENCING SLIDE · 2/22/2023",
+    "src": "DOJ sentencing slide (Nov 13, 2026)",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "On November thirteenth, with them in court, he got seventy-eight months.",
+   "show": "On November 13, with them in court, he got 78 months.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "SAN DIEGO · NOV 13, 2026",
+    "stamp": "SENTENCED",
+    "big": "78 months",
+    "sub": "Jiandong Chen, aka \"Little Tiger\""
+   }
+  },
+  {
+   "say": "Should police team up with scambaiters more? Tell me below.",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

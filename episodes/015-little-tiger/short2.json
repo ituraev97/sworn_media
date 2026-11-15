@@ -1,0 +1,87 @@
+{
+ "title": "$27 Million From 2,000 Seniors: The Fake Refund Trick",
+ "template": "number + how it works",
+ "lines": [
+  {
+   "say": "More than twenty-seven million dollars from about two thousand seniors. One of the most frequent tricks: a refund that never existed.",
+   "show": "More than $27 million from about 2,000 seniors. One of the most frequent tricks: a refund that never existed.",
+   "scene": {
+    "type": "hook",
+    "img": "img/cash_count.jpg",
+    "pos": "50% 45%",
+    "zoom": 1.8,
+    "tag": "SENTENCED",
+    "number": "$27M",
+    "label": "THE FAKE REFUND|2,000 SENIORS"
+   }
+  },
+  {
+   "say": "A call or pop-up says you're owed a small refund. Then the caller pretends to over-refund you by accident.",
+   "scene": {
+    "type": "doc",
+    "img": "img/chenplea.jpg",
+    "pan": [
+     0.135,
+     0.195
+    ],
+    "hl": [
+     0.0,
+     0.2109,
+     1.0,
+     0.0636
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · APRIL 2, 2026",
+    "src": "U.S. Attorney's Office, S.D. Cal. (Apr 2, 2026)"
+   }
+  },
+  {
+   "say": "Send back the difference, they say. In cash, by express mail.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE REFUND SCAM",
+    "lines": [
+     "Send back",
+     "the|difference."
+    ],
+    "src": "U.S. Attorney's Office, S.D. Cal. (Apr 2, 2026)"
+   }
+  },
+  {
+   "say": "There was no refund. Victims sent their own money, to couriers with fake IDs.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind.jpg",
+    "pan": [
+     0.177,
+     0.237
+    ],
+    "hl": [
+     0.0,
+     0.2524,
+     1.0,
+     0.0381
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · JULY 31, 2024",
+    "src": "U.S. Attorney's Office, S.D. Cal. (Jul 31, 2024)"
+   }
+  },
+  {
+   "say": "One courier, Jiandong Chen, just got seventy-eight months.",
+   "show": "One courier, Jiandong Chen, just got 78 months.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "SAN DIEGO · NOV 13, 2026",
+    "stamp": "SENTENCED",
+    "big": "78 months",
+    "sub": "Jiandong Chen, aka \"Little Tiger\""
+   }
+  },
+  {
+   "say": "Has your family gotten this call? Tell me below.",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

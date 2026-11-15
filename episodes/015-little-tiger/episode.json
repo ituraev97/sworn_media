@@ -1,0 +1,1227 @@
+{
+ "label": "SWORN · CASE 015",
+ "lines": [
+  {
+   "say": "In July twenty twenty-three, a man went to a house in the Los Angeles area to pick up bulk cash from someone he believed was an elderly fraud victim.",
+   "show": "In July 2023, a man went to a house in the Los Angeles area to pick up bulk cash from someone he believed was an elderly fraud victim.",
+   "scene": {
+    "type": "doc",
+    "img": "img/chenplea.jpg",
+    "pan": [
+     0.245,
+     0.305
+    ],
+    "hl": [
+     0.0,
+     0.3362,
+     1.0,
+     0.0538
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · APRIL 2, 2026",
+    "title": "“to pick up bulk cash”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Apr 2, 2026)"
+   }
+  },
+  {
+   "say": "Instead, two YouTubers from Trilogy Media, Ashton Bingham and Art Kulik, confronted him about working for a scam organization. Their video has now been watched more than one point four million times.",
+   "show": "Instead, two YouTubers from Trilogy Media, Ashton Bingham and Art Kulik, confronted him about working for a scam organization. Their video has now been watched more than 1.4 million times.",
+   "scene": {
+    "type": "big",
+    "kicker": "TRILOGY MEDIA · YOUTUBE · 2023",
+    "lines": [
+     "Confronted",
+     "on camera.|1.4 million views."
+    ],
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026) · YouTube Data API, Trilogy Media video qjiFJWsHbwE (checked Nov 15, 2026)"
+   }
+  },
+  {
+   "say": "Federal prosecutors identify the man as Jiandong Chen, also known as Little Tiger.",
+   "show": "Federal prosecutors identify the man as Jiandong Chen, also known as \"Little Tiger.\"",
+   "scene": {
+    "type": "photo",
+    "img": "img/slide_0222.jpg",
+    "caption": "JIANDONG CHEN, AKA \"LITTLE TIGER\" · DOJ SENTENCING SLIDE",
+    "src": "DOJ sentencing slide, published with the U.S. Attorney's release (Nov 13, 2026)",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "On Friday, November thirteenth, twenty twenty-six, a federal judge in San Diego sentenced him to seventy-eight months in prison. Six and a half years. And the two YouTubers were in the courtroom.",
+   "show": "On Friday, November 13, 2026, a federal judge in San Diego sentenced him to 78 months in prison. Six and a half years. And the two YouTubers were in the courtroom.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "SAN DIEGO · NOVEMBER 13, 2026",
+    "stamp": "SENTENCED",
+    "big": "78 months",
+    "sub": "Jiandong Chen · fraud & money laundering conspiracy"
+   }
+  },
+  {
+   "say": "Investigators identified more than two thousand elderly victims, with more than twenty-seven million dollars in losses. The victims were in their seventies and eighties.",
+   "show": "Investigators identified more than 2,000 elderly victims, with more than $27 million in losses. The victims were in their 70s and 80s.",
+   "scene": {
+    "type": "stat",
+    "kicker": "2021–2023",
+    "value": "$27M+",
+    "label": "lost by 2,000+ elderly victims",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "This is how the scam worked, how the cash moved, and how a YouTube channel ended up in a federal sentencing hearing.",
+   "show": "This is how the scam worked, how the cash moved, and how a YouTube channel ended up in a federal sentencing hearing.",
+   "scene": {
+    "type": "title",
+    "kicker": "SWORN · CASE 015 · BREAKING",
+    "title": "The Little Tiger|Sting",
+    "sub": "United States v. Jiandong Chen · S.D. Cal. · 24-cr-1317"
+   }
+  },
+  {
+   "say": "Chapter one. The pop-up.",
+   "scene": {
+    "type": "chapter",
+    "n": "I",
+    "title": "The Pop-Up"
+   }
+  },
+  {
+   "say": "It could start with a phone call, an email, or a pop-up ad. According to the Justice Department, victims received unsolicited phone calls, emails and pop-up ads, telling them to call a phone number.",
+   "show": "It could start with a phone call, an email, or a pop-up ad. According to the Justice Department, victims received unsolicited phone calls, emails and pop-up ads, telling them to call a phone number.",
+   "scene": {
+    "type": "doc",
+    "img": "img/chenplea.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1341,
+     1.0,
+     0.0345
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · APRIL 2, 2026",
+    "title": "Unsolicited calls, emails, pop-up ads",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Apr 2, 2026)"
+   }
+  },
+  {
+   "say": "Unbeknownst to the victims, the release says, those phone numbers belonged to India-based scam call centers.",
+   "show": "\"Unbeknownst to the victims,\" the release says, \"those phone numbers belonged to India-based scam call centers.\""
+  },
+  {
+   "say": "The callers played tech support, the bank, or the government. In many cases, they had victims download commercially available remote desktop software, and used it to get into their computers.",
+   "show": "The callers played tech support, the bank, or the government. In many cases, they had victims download commercially available remote desktop software, and used it to get into their computers.",
+   "scene": {
+    "type": "doc",
+    "img": "img/chenplea.jpg",
+    "pan": [
+     0.077,
+     0.137
+    ],
+    "hl": [
+     0.0,
+     0.1773,
+     1.0,
+     0.0346
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · APRIL 2, 2026",
+    "title": "“remote desktop software”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Apr 2, 2026)"
+   }
+  },
+  {
+   "say": "This is not a small problem. According to the FBI, Americans sixty and older reported more than seven point seven billion dollars in losses in twenty twenty-five alone.",
+   "show": "This is not a small problem. According to the FBI, Americans 60 and older reported more than $7.7 billion in losses in 2025 alone.",
+   "scene": {
+    "type": "stat",
+    "kicker": "FBI · AGE 60+ · 2025",
+    "value": "$7.7B+",
+    "label": "in reported losses in one year",
+    "src": "FBI figures for 2025, as reported by Bitdefender (May 19, 2026)"
+   }
+  },
+  {
+   "say": "In this case, one of the most frequent tricks was the refund scam. And it is worth knowing exactly how it works.",
+   "scene": {
+    "type": "big",
+    "kicker": "ONE OF THE MOST FREQUENT SCAMS",
+    "lines": [
+     "The refund",
+     "that|never came."
+    ],
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Apr 2, 2026)"
+   }
+  },
+  {
+   "say": "The victim was told they were owed a small refund, for example, from a retailer, for an alleged unauthorized charge. While pretending to process it, the caller would accidentally over-refund them.",
+   "show": "The victim was told they were owed a small refund, for example, from a retailer, for an alleged unauthorized charge. While pretending to process it, the caller would \"accidentally\" over-refund them.",
+   "scene": {
+    "type": "doc",
+    "img": "img/chenplea.jpg",
+    "pan": [
+     0.125,
+     0.185
+    ],
+    "hl": [
+     0.0,
+     0.2109,
+     1.0,
+     0.0636
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · APRIL 2, 2026",
+    "title": "“accidentally ‘over-refunded’”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Apr 2, 2026)"
+   }
+  },
+  {
+   "say": "Then came the request. Send back the difference, by wire transfer, or in cash, by express mail.",
+   "show": "Then came the request. Send back the difference, by wire transfer, or in cash, by express mail.",
+   "scene": {
+    "type": "list",
+    "kicker": "HOW THE MONEY WAS SENT",
+    "items": [
+     [
+      "1",
+      "wire transfer"
+     ],
+     [
+      "2",
+      "bulk cash in express-mail packages"
+     ],
+     [
+      "3",
+      "in-person pickups"
+     ]
+    ],
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Apr 2, 2026) · U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "In reality, the Justice Department says, the victims had not received any money. They were sending their own.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "No refund.",
+     "They sent|their own money."
+    ],
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Apr 2, 2026) · U.S. Attorney's Office, S.D. Cal., press release (May 8, 2026)"
+   }
+  },
+  {
+   "say": "So who was waiting for those boxes of cash? People on this side of the ocean. People like the Little Tiger.",
+   "scene": {
+    "type": "big",
+    "kicker": "WHO PICKED UP THE CASH",
+    "lines": [
+     "The couriers.",
+     "Like|the Little Tiger."
+    ],
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "Chapter two. Cash in a box.",
+   "scene": {
+    "type": "chapter",
+    "n": "II",
+    "title": "Cash in a Box"
+   }
+  },
+  {
+   "say": "Here is what the indictment said. The defendants provided fake names, and addresses of retail locations, including CVS Pharmacy stores, where the packages were picked up. They picked up the money-laden packages using fake IDs.",
+   "show": "Here is what the indictment said. The defendants provided fake names, and addresses of retail locations, including CVS Pharmacy stores, where the packages were picked up. They picked up the \"money-laden packages using fake IDs.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind.jpg",
+    "pan": [
+     0.168,
+     0.228
+    ],
+    "hl": [
+     0.0,
+     0.2524,
+     1.0,
+     0.0381
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · JULY 31, 2024 · THE INDICTMENT",
+    "title": "“fake names and addresses”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release on the indictment (Jul 31, 2024)"
+   }
+  },
+  {
+   "say": "In his plea agreement, Chen admitted using fraudulent driver's licenses or IDs, matching the fictitious recipient names, to retrieve the victim packages containing bulk cash.",
+   "show": "In his plea agreement, Chen admitted using fraudulent driver's licenses or IDs, matching the fictitious recipient names, to retrieve the victim packages containing bulk cash.",
+   "scene": {
+    "type": "doc",
+    "img": "img/chenplea.jpg",
+    "pan": [
+     0.361,
+     0.421
+    ],
+    "hl": [
+     0.0,
+     0.4614,
+     1.0,
+     0.0345
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · APRIL 2, 2026",
+    "title": "“fraudulent driver’s licenses or IDs”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Apr 2, 2026)"
+   }
+  },
+  {
+   "say": "Then the cash had to vanish. The ringleader, Zhao Wang, known as Oscar, admitted that his couriers typically delivered the money to him each day after collecting the packages.",
+   "show": "Then the cash had to vanish. The ringleader, Zhao Wang, known as \"Oscar,\" admitted that his couriers typically delivered the money to him each day after collecting the packages.",
+   "scene": {
+    "type": "doc",
+    "img": "img/wangplea.jpg",
+    "pan": [
+     0.399,
+     0.459
+    ],
+    "hl": [
+     0.0,
+     0.4926,
+     1.0,
+     0.0559
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · JANUARY 15, 2026",
+    "title": "Zhao Wang, aka “Oscar” · guilty plea",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Jan 15, 2026)"
+   }
+  },
+  {
+   "say": "His partners overseas supplied a cryptocurrency wallet. Wang transferred the money in crypto, and kept upwards of eighteen percent for himself.",
+   "show": "His partners overseas supplied a cryptocurrency wallet. Wang transferred the money in crypto, and kept upwards of 18% for himself.",
+   "scene": {
+    "type": "stat",
+    "kicker": "ZHAO WANG · ADMITTED",
+    "value": "18%+",
+    "label": "his cut (\"upwards of 18%\") — the rest went out in crypto",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Jan 15, 2026)"
+   }
+  },
+  {
+   "say": "He also admitted he obtained the fake IDs personally, gave them to his co-conspirators, and recruited others, including his co-defendants.",
+   "show": "He also admitted he obtained the fake IDs personally, gave them to his co-conspirators, and recruited others, including his co-defendants.",
+   "scene": {
+    "type": "doc",
+    "img": "img/wangplea.jpg",
+    "pan": [
+     0.278,
+     0.338
+    ],
+    "hl": [
+     0.0,
+     0.3772,
+     1.0,
+     0.0458
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · JANUARY 15, 2026",
+    "title": "“obtained the fake IDs personally”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Jan 15, 2026)"
+   }
+  },
+  {
+   "say": "Chen admitted the same pipeline. Fraud proceeds laundered through cryptocurrency, to send funds to partners abroad, to pay co-conspirators, and to pay for trips to collect more cash, including to Las Vegas.",
+   "show": "Chen admitted the same pipeline. Fraud proceeds laundered through cryptocurrency, to send funds to partners abroad, to pay co-conspirators, and to pay for trips to collect more cash, including to Las Vegas.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sent.jpg",
+    "pan": [
+     0.523,
+     0.583
+    ],
+    "hl": [
+     0.0,
+     0.6131,
+     1.0,
+     0.0415
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · NOVEMBER 13, 2026",
+    "title": "Laundered through cryptocurrency",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "And here is the strangest detail. According to prosecutors, the couriers filmed themselves. In Wang's sentencing papers, the government said co-conspirators documented themselves retrieving packages, opening them, and counting the money inside.",
+   "show": "And here is the strangest detail. According to prosecutors, the couriers filmed themselves. In Wang's sentencing papers, the government said co-conspirators documented themselves retrieving packages, opening them, and counting the money inside.",
+   "scene": {
+    "type": "doc",
+    "img": "img/wangsent.jpg",
+    "pan": [
+     0.216,
+     0.276
+    ],
+    "hl": [
+     0.0,
+     0.3005,
+     1.0,
+     0.0383
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · MAY 8, 2026",
+    "title": "“countless such photos and videos”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (May 8, 2026)"
+   }
+  },
+  {
+   "say": "Agents seized countless such photos and videos from Wang's phone. And at Chen's own sentencing, prosecutors pointed to numerous videos of him doing the same.",
+   "show": "\"Agents seized countless such photos and videos from Wang's phone.\" And at Chen's own sentencing, prosecutors pointed to numerous videos of him doing the same.",
+   "scene": {
+    "type": "big",
+    "kicker": "SEIZED FROM THE RINGLEADER'S PHONE",
+    "lines": [
+     "Countless",
+     "photos|and videos."
+    ],
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (May 8, 2026) · U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "Chapter three. The package videos.",
+   "scene": {
+    "type": "chapter",
+    "n": "III",
+    "title": "Package Videos"
+   }
+  },
+  {
+   "say": "At Chen's sentencing, the prosecutor laid out a timeline. Chen moved to the United States in November twenty twenty-two. By February twenty twenty-three, he was actively participating in the scheme.",
+   "show": "At Chen's sentencing, the prosecutor laid out a timeline. Chen moved to the United States in November 2022. By February 2023, he was actively participating in the scheme.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sent.jpg",
+    "pan": [
+     0.202,
+     0.262
+    ],
+    "hl": [
+     0.0,
+     0.2971,
+     1.0,
+     0.0325
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · NOVEMBER 13, 2026",
+    "title": "“actively participating”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "The U.S. Attorney's Office published these slides. February twenty-second, twenty twenty-three. A package, cut open. Hundred-dollar bills, counted by hand.",
+   "show": "The U.S. Attorney's Office published these slides. February 22, 2023. A package, cut open. $100 bills, counted by hand.",
+   "scene": {
+    "type": "photo",
+    "img": "img/slide_0222.jpg",
+    "caption": "\"PACKAGE VIDEOS\" · 2/22/2023 · DOJ SENTENCING SLIDE",
+    "src": "DOJ sentencing slide, published with the U.S. Attorney's release (Nov 13, 2026)",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "The next day, February twenty-third. The slide is labeled with a CVS store in San Marcos, California. An express shipping label. And a book, with cash between its pages.",
+   "show": "The next day, February 23. The slide is labeled with a CVS store in San Marcos, California. An express shipping label. And a book, with cash between its pages.",
+   "scene": {
+    "type": "photo",
+    "img": "img/slide_0223.jpg",
+    "caption": "\"PACKAGE VIDEOS\" · 2/23/2023 · DOJ SENTENCING SLIDE",
+    "src": "DOJ sentencing slide, published with the U.S. Attorney's release (Nov 13, 2026)",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "May nineteenth. Another box. Another stack of cash.",
+   "show": "May 19. Another box. Another stack of cash.",
+   "scene": {
+    "type": "photo",
+    "img": "img/slide_0519.jpg",
+    "caption": "\"PACKAGE VIDEOS\" · 5/19/2023 · DOJ SENTENCING SLIDE",
+    "src": "DOJ sentencing slide, published with the U.S. Attorney's release (Nov 13, 2026)",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "The government said that in some of these videos, Chen was wearing the same distinctive clothing as in the viral YouTube video.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sent.jpg",
+    "pan": [
+     0.22,
+     0.28
+    ],
+    "hl": [
+     0.0,
+     0.315,
+     1.0,
+     0.0325
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · NOVEMBER 13, 2026",
+    "title": "“the same distinctive clothing”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "In June twenty twenty-three, local law enforcement arrested him. Based on publicly filed documents, it did not stop him.",
+   "show": "In June 2023, local law enforcement arrested him. Based on publicly filed documents, it did not stop him.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sent.jpg",
+    "pan": [
+     0.256,
+     0.316
+    ],
+    "hl": [
+     0.0,
+     0.346,
+     1.0,
+     0.0414
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · NOVEMBER 13, 2026",
+    "title": "“despite being arrested by local law enforcement”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "The next month came the house in the Los Angeles area. Chen arrived to pick up bulk cash from someone he believed to be an elderly victim. Bingham and Kulik confronted him about working for a scam organization.",
+   "show": "The next month came the house in the Los Angeles area. Chen arrived to pick up bulk cash from someone he believed to be an elderly victim. Bingham and Kulik confronted him about working for a scam organization.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sent.jpg",
+    "pan": [
+     0.122,
+     0.182
+    ],
+    "hl": [
+     0.0,
+     0.2213,
+     1.0,
+     0.0236
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · NOVEMBER 13, 2026",
+    "title": "“confronted in a viral YouTube video”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "Trilogy Media posted the video on August nineteenth, twenty twenty-three. Its title: Confronting Scammers With a Fake Funeral. Epic Reactions.",
+   "show": "Trilogy Media posted the video on August 19, 2023. Its title: \"CONFRONTING SCAMMERS WITH A FAKE FUNERAL (EPIC REACTIONS).\"",
+   "scene": {
+    "type": "big",
+    "kicker": "TRILOGY MEDIA · AUG 19, 2023",
+    "lines": [
+     "“Confronting Scammers",
+     "With a|Fake Funeral”"
+    ],
+    "src": "YouTube Data API, Trilogy Media video qjiFJWsHbwE (checked Nov 15, 2026) · U.S. Attorney's Office, S.D. Cal., press release (Apr 2, 2026)"
+   }
+  },
+  {
+   "say": "You might think that being exposed on YouTube would end a cash courier's career. According to the government, it didn't.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Exposed on YouTube.",
+     "Still|picking up cash."
+    ],
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "His involvement continued through at least December twenty-second, twenty twenty-three, when federal agents encountered him in Upland, California, attempting to retrieve more victim packages.",
+   "show": "His involvement continued through at least December 22, 2023, when federal agents encountered him in Upland, California, attempting to retrieve more victim packages.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sent.jpg",
+    "pan": [
+     0.256,
+     0.316
+    ],
+    "hl": [
+     0.0,
+     0.346,
+     1.0,
+     0.0414
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · NOVEMBER 13, 2026",
+    "title": "Upland, California · December 22, 2023",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "In his plea agreement he admitted something else. He frequently relocated to different jurisdictions, including the Southern District of California, to evade law enforcement.",
+   "show": "In his plea agreement he admitted something else. He frequently relocated to different jurisdictions, including the Southern District of California, to evade law enforcement.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sent.jpg",
+    "pan": [
+     0.282,
+     0.342
+    ],
+    "hl": [
+     0.0,
+     0.3728,
+     1.0,
+     0.0414
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · NOVEMBER 13, 2026",
+    "title": "“to evade law enforcement”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "So the Little Tiger kept moving. Seven months later, the FBI and its partners moved first.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "THE LITTLE TIGER · 2022–2024",
+    "at": 4,
+    "sync": true,
+    "events": [
+     {
+      "date": "NOV 2022",
+      "text": "moves to the U.S."
+     },
+     {
+      "date": "FEB 2023",
+      "text": "package videos"
+     },
+     {
+      "date": "JUN 2023",
+      "text": "arrested by local law enforcement"
+     },
+     {
+      "date": "JUL 2023",
+      "text": "confronted on YouTube"
+     },
+     {
+      "date": "DEC 22, 2023",
+      "text": "federal agents, Upland"
+     },
+     {
+      "date": "JUL 31, 2024",
+      "text": "federal arrests"
+     }
+    ],
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026) · U.S. Attorney's Office, S.D. Cal., press release on the indictment (Jul 31, 2024)"
+   }
+  },
+  {
+   "say": "Chapter four. The takedown.",
+   "scene": {
+    "type": "chapter",
+    "n": "IV",
+    "title": "The Takedown"
+   }
+  },
+  {
+   "say": "In June twenty twenty-four, a federal indictment charged five defendants. On July thirty-first, it was unsealed.",
+   "show": "In June 2024, a federal indictment charged five defendants. On July 31, it was unsealed.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind.jpg",
+    "pan": [
+     0.0,
+     0.032
+    ],
+    "hl": [
+     0.0,
+     0.0603,
+     1.0,
+     0.0301
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · JULY 31, 2024",
+    "title": "“An indictment was unsealed today”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release on the indictment (Jul 31, 2024)"
+   }
+  },
+  {
+   "say": "That morning, about sixty federal, state and local officers arrested four of them, in Los Angeles and Las Vegas, and searched their homes. Jiandong Chen, then of Pomona, California, was one of the four.",
+   "show": "That morning, about 60 federal, state and local officers arrested four of them, in Los Angeles and Las Vegas, and searched their homes. Jiandong Chen, then of Pomona, California, was one of the four.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind.jpg",
+    "pan": [
+     0.012,
+     0.072
+    ],
+    "hl": [
+     0.0,
+     0.0963,
+     1.0,
+     0.038
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · JULY 31, 2024",
+    "title": "About 60 officers · four arrests",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release on the indictment (Jul 31, 2024)"
+   }
+  },
+  {
+   "say": "The charges: conspiracy to commit mail and wire fraud, up to forty years in prison. And conspiracy to launder money, up to twenty.",
+   "show": "The charges: conspiracy to commit mail and wire fraud, up to 40 years in prison. And conspiracy to launder money, up to 20.",
+   "scene": {
+    "type": "list",
+    "kicker": "CASE NO. 24CR1317-RSH · CHARGES",
+    "items": [
+     [
+      "40 YRS",
+      "max · conspiracy to commit mail and wire fraud"
+     ],
+     [
+      "20 YRS",
+      "max · conspiracy to launder monetary instruments"
+     ]
+    ],
+    "src": "U.S. Attorney's Office, S.D. Cal., press release on the indictment (Jul 31, 2024)"
+   }
+  },
+  {
+   "say": "According to the indictment, the defendants specifically targeted elderly Americans. At that point, those were allegations. Then came the admissions.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE INDICTMENT · 2024",
+    "lines": [
+     "“Specifically",
+     "targeted|elderly Americans”"
+    ],
+    "src": "U.S. Attorney's Office, S.D. Cal., press release on the indictment (Jul 31, 2024)"
+   }
+  },
+  {
+   "say": "In January twenty twenty-six, the ringleader, Zhao Wang, pleaded guilty. In April, Jiandong Chen did too.",
+   "show": "In January 2026, the ringleader, Zhao Wang, pleaded guilty. In April, Jiandong Chen did too.",
+   "scene": {
+    "type": "list",
+    "kicker": "GUILTY PLEAS",
+    "items": [
+     [
+      "JAN 15, 2026",
+      "Zhao Wang, aka \"Oscar\" · lead defendant"
+     ],
+     [
+      "APR 2, 2026",
+      "Jiandong Chen, aka \"Little Tiger\""
+     ]
+    ],
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Jan 15, 2026) · U.S. Attorney's Office, S.D. Cal., press release (Apr 2, 2026)"
+   }
+  },
+  {
+   "say": "In May, U.S. District Judge Robert Huie sentenced Wang to one hundred fifty-one months. Just over twelve and a half years.",
+   "show": "In May, U.S. District Judge Robert Huie sentenced Wang to 151 months. Just over twelve and a half years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "MAY 8, 2026 · ZHAO WANG",
+    "stamp": "SENTENCED",
+    "big": "151 months",
+    "sub": "the ringleader · Judge Robert S. Huie"
+   }
+  },
+  {
+   "say": "The judge called the scope of the fraud staggering, and Wang's domestic operation one hundred percent reprehensible.",
+   "show": "The judge called the scope of the fraud \"staggering,\" and Wang's domestic operation \"100 percent reprehensible.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/wangsent.jpg",
+    "pan": [
+     0.481,
+     0.541
+    ],
+    "hl": [
+     0.0,
+     0.5695,
+     1.0,
+     0.0302
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · MAY 8, 2026",
+    "title": "“100 percent reprehensible”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (May 8, 2026)"
+   }
+  },
+  {
+   "say": "And he explained why age mattered. Their vulnerability was not incidental. It was not coincidence. It was how they were selected. It was how they came to be scammed.",
+   "show": "And he explained why age mattered. \"Their vulnerability was not incidental. It was not coincidence. It was how they were selected. It was how they came to be scammed.\"",
+   "scene": {
+    "type": "quote",
+    "q": "Their vulnerability was not incidental. It was not coincidence. It was how they were selected.",
+    "case": "UNITED STATES v. WANG",
+    "doc": "JUDGE ROBERT S. HUIE · MAY 8, 2026",
+    "cite": "As quoted in U.S. Attorney's Office, S.D. Cal., press release (May 8, 2026)",
+    "size": 48
+   }
+  },
+  {
+   "say": "At that hearing, the wife and daughter of an eighty-three-year-old victim spoke. They said that within months of being scammed, he lived with suspicion, distrust and resentment. He soon passed away.",
+   "show": "At that hearing, the wife and daughter of an 83-year-old victim spoke. They said that within months of being scammed, he lived with suspicion, distrust and resentment. He soon passed away.",
+   "scene": {
+    "type": "doc",
+    "img": "img/wangsent.jpg",
+    "pan": [
+     0.529,
+     0.589
+    ],
+    "hl": [
+     0.0,
+     0.6137,
+     1.0,
+     0.0383
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · MAY 8, 2026",
+    "title": "An 83-year-old victim's family",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (May 8, 2026)"
+   }
+  },
+  {
+   "say": "The judge said: it's really hard to fathom the depth of that harm in somebody's last months on this planet.",
+   "show": "The judge said: \"It's really hard to fathom the depth of that harm in somebody's last months on this planet.\"",
+   "scene": {
+    "type": "quote",
+    "q": "It's really hard to fathom the depth of that harm in somebody's last months on this planet.",
+    "case": "UNITED STATES v. WANG",
+    "doc": "JUDGE ROBERT S. HUIE · MAY 8, 2026",
+    "cite": "As quoted in U.S. Attorney's Office, S.D. Cal., press release (May 8, 2026)",
+    "size": 48
+   }
+  },
+  {
+   "say": "But this story is bigger than one crew. Because the same YouTubers had been confronting cash couriers for years.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Bigger than",
+     "one|crew."
+    ],
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Aug 27, 2025)"
+   }
+  },
+  {
+   "say": "Chapter five. The scambaiters.",
+   "scene": {
+    "type": "chapter",
+    "n": "V",
+    "title": "The Scambaiters"
+   }
+  },
+  {
+   "say": "In August twenty twenty-five, the same U.S. Attorney's Office announced a separate case. Twenty-eight alleged members of what it called a Chinese organized crime ring, charged in a sixty-five million dollar fraud scheme targeting thousands of seniors.",
+   "show": "In August 2025, the same U.S. Attorney's Office announced a separate case. Twenty-eight alleged members of what it called a Chinese organized crime ring, charged in a $65 million fraud scheme targeting thousands of seniors.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ring65.jpg",
+    "pan": [
+     0.0,
+     0.033
+    ],
+    "hl": [
+     0.0,
+     0.0347,
+     1.0,
+     0.0265
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · AUGUST 27, 2025",
+    "title": "$65 million · 28 charged",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Aug 27, 2025)"
+   }
+  },
+  {
+   "say": "Among the victims, prosecutors said, was a ninety-seven-year-old San Diego widow of a Holocaust survivor, who lost her entire life savings.",
+   "show": "Among the victims, prosecutors said, was a 97-year-old San Diego widow of a Holocaust survivor, who lost her entire life savings."
+  },
+  {
+   "say": "That investigation began in December twenty twenty, when an elderly victim contacted an express mail carrier. Investigators found eleven packages, holding about one hundred thirty-five thousand dollars in cash, each addressed to a fake name.",
+   "show": "That investigation began in December 2020, when an elderly victim contacted an express mail carrier. Investigators found 11 packages, holding about $135,000 in cash, each addressed to a fake name.",
+   "scene": {
+    "type": "doc",
+    "img": "img/final65.jpg",
+    "pan": [
+     0.153,
+     0.213
+    ],
+    "hl": [
+     0.0,
+     0.2141,
+     1.0,
+     0.0204
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · OCTOBER 26, 2026",
+    "title": "11 packages · about $135,000",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Oct 26, 2026)"
+   }
+  },
+  {
+   "say": "And the Justice Department credited YouTube. A YouTuber known as Pierogi, from Scammer Payback, teamed up with Trilogy Media for coordinated stings. Videos they posted in twenty twenty and twenty twenty-one helped law enforcement identify three of the defendants.",
+   "show": "And the Justice Department credited YouTube. A YouTuber known as Pierogi, from Scammer Payback, teamed up with Trilogy Media for coordinated stings. Videos they posted in 2020 and 2021 helped law enforcement identify three of the defendants.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ring65.jpg",
+    "pan": [
+     0.143,
+     0.203
+    ],
+    "hl": [
+     0.0,
+     0.2096,
+     1.0,
+     0.0166
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · AUGUST 27, 2025",
+    "title": "“helped law enforcement identify”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Aug 27, 2025)"
+   }
+  },
+  {
+   "say": "In one sting, according to a government memo, scammers told Pierogi to send cash to a Hans Bum, at an address in South San Francisco. Trilogy Media delivered a decoy package there, and confronted the man who received it.",
+   "show": "In one sting, according to a government memo, scammers told Pierogi to send cash to a \"Hans Bum,\" at an address in South San Francisco. Trilogy Media delivered a decoy package there, and confronted the man who received it.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ring65.jpg",
+    "pan": [
+     0.208,
+     0.259
+    ],
+    "hl": [
+     0.0,
+     0.2589,
+     1.0,
+     0.0487
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · AUGUST 27, 2025",
+    "title": "The decoy package",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Aug 27, 2025)"
+   }
+  },
+  {
+   "say": "He turned out to be Zhiyi Zhang. The government says he revealed his real identity and admitted on camera to receiving packages for money. Federal agents arrested him at Los Angeles International Airport in August twenty twenty-five.",
+   "show": "He turned out to be Zhiyi Zhang. The government says he revealed his real identity and admitted on camera to receiving packages for money. Federal agents arrested him at Los Angeles International Airport in August 2025."
+  },
+  {
+   "say": "The U.S. Attorney, Adam Gordon, put it this way. Not all heroes wear capes. Some have YouTube channels.",
+   "show": "The U.S. Attorney, Adam Gordon, put it this way: \"Not all heroes wear capes. Some have YouTube channels.\"",
+   "scene": {
+    "type": "quote",
+    "q": "Not all heroes wear capes. Some have YouTube channels.",
+    "case": "THE $65 MILLION RING CASE",
+    "doc": "U.S. ATTORNEY ADAM GORDON · AUG 2025",
+    "cite": "U.S. Attorney's Office, S.D. Cal., press release (Aug 27, 2025)",
+    "size": 58
+   }
+  },
+  {
+   "say": "In their plea agreements, defendants in that ring admitted booking short-term rentals in a hub-and-spoke pattern. A hub for about a week, spokes nearby for shorter stays, then move and repeat.",
+   "show": "In their plea agreements, defendants in that ring admitted booking short-term rentals in a \"hub-and-spoke pattern.\" A hub for about a week, spokes nearby for shorter stays, then move and repeat.",
+   "scene": {
+    "type": "doc",
+    "img": "img/final65.jpg",
+    "pan": [
+     0.124,
+     0.184
+    ],
+    "hl": [
+     0.0,
+     0.1847,
+     1.0,
+     0.0204
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · OCTOBER 26, 2026",
+    "title": "“a hub-and-spoke pattern”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Oct 26, 2026)"
+   }
+  },
+  {
+   "say": "By late October twenty twenty-six, the last of the twenty-five arrested defendants had admitted their crimes. Three charged defendants remained fugitives.",
+   "show": "By late October 2026, the last of the 25 arrested defendants had admitted their crimes. Three charged defendants remained fugitives.",
+   "scene": {
+    "type": "doc",
+    "img": "img/final65.jpg",
+    "pan": [
+     0.0,
+     0.031
+    ],
+    "hl": [
+     0.0,
+     0.0314,
+     1.0,
+     0.0249
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · OCTOBER 26, 2026",
+    "title": "“The last of 25 defendants”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Oct 26, 2026)"
+   }
+  },
+  {
+   "say": "In their plea agreements, Zhiyi Zhang and another defendant, Huajian Chen, admitted being in YouTube videos in which they were confronted about their involvement.",
+   "scene": {
+    "type": "doc",
+    "img": "img/final65.jpg",
+    "pan": [
+     0.063,
+     0.123
+    ],
+    "hl": [
+     0.0,
+     0.126,
+     1.0,
+     0.0159
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · OCTOBER 26, 2026",
+    "title": "“admitted to being in YouTube videos”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Oct 26, 2026)"
+   }
+  },
+  {
+   "say": "Which brings us back to San Diego, and the Little Tiger's day in court.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Back to",
+     "San Diego.|November 13."
+    ],
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "Chapter six. The sentence.",
+   "scene": {
+    "type": "chapter",
+    "n": "VI",
+    "title": "The Sentence"
+   }
+  },
+  {
+   "say": "November thirteenth, twenty twenty-six. Ashton Bingham and Art Kulik, the YouTubers from the video, attended the hearing.",
+   "show": "November 13, 2026. Ashton Bingham and Art Kulik, the YouTubers from the video, attended the hearing.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sent.jpg",
+    "pan": [
+     0.122,
+     0.182
+    ],
+    "hl": [
+     0.0,
+     0.2213,
+     1.0,
+     0.0236
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · NOVEMBER 13, 2026",
+    "title": "“both of whom attended today’s sentencing hearing”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "Chen had pleaded guilty to conspiracy to commit mail and wire fraud, and conspiracy to launder money. In his plea agreement, he admitted his time in the conspiracy involved more than nine point five million dollars in victim losses.",
+   "show": "Chen had pleaded guilty to conspiracy to commit mail and wire fraud, and conspiracy to launder money. In his plea agreement, he admitted his time in the conspiracy involved more than $9.5 million in victim losses.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sent.jpg",
+    "pan": [
+     0.282,
+     0.342
+    ],
+    "hl": [
+     0.0,
+     0.3728,
+     1.0,
+     0.0414
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · NOVEMBER 13, 2026",
+    "title": "“over $9.5 million in victim loss”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "Before pronouncing the sentence, Judge Huie said Chen engaged in extensive course of conduct in stealing from some of the most vulnerable people here in the United States.",
+   "show": "Before pronouncing the sentence, Judge Huie said Chen \"engaged in extensive course of conduct in stealing from some of the most vulnerable people here in the United States.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/sent.jpg",
+    "pan": [
+     0.425,
+     0.485
+    ],
+    "hl": [
+     0.0,
+     0.5195,
+     1.0,
+     0.0325
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · NOVEMBER 13, 2026",
+    "title": "Judge Robert S. Huie",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "The money taken, the judge said, was more than just money. It included people's self-respect, their dignity, trust with their family members.",
+   "show": "The money taken, the judge said, was \"more than just money.\" It included \"people's self-respect, their dignity, trust with their family members.\"",
+   "scene": {
+    "type": "quote",
+    "q": "people's self-respect, their dignity, trust with their family members",
+    "case": "UNITED STATES v. CHEN",
+    "doc": "JUDGE ROBERT S. HUIE · NOV 13, 2026",
+    "cite": "As quoted in U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)",
+    "size": 52
+   }
+  },
+  {
+   "say": "What the victims went through, he said, involved desperation in the last years of somebody's life, and was a tragic thing to suffer.",
+   "show": "What the victims went through, he said, involved \"desperation in the last years of somebody's life,\" and was a \"tragic thing to suffer.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/sent.jpg",
+    "pan": [
+     0.456,
+     0.516
+    ],
+    "hl": [
+     0.0,
+     0.5463,
+     1.0,
+     0.0415
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · NOVEMBER 13, 2026",
+    "title": "“a tragic thing to suffer”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "Then the sentence. Seventy-eight months in federal prison. Six and a half years.",
+   "show": "Then the sentence. 78 months in federal prison. Six and a half years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOVEMBER 13, 2026 · JIANDONG CHEN",
+    "stamp": "SENTENCED",
+    "big": "78 months",
+    "sub": "6½ years in federal prison · Judge Robert S. Huie"
+   }
+  },
+  {
+   "say": "These victims weren't foolish, said U.S. Attorney Adam Gordon. They were lied to and exploited by a sophisticated criminal network.",
+   "show": "\"These victims weren't foolish,\" said U.S. Attorney Adam Gordon. \"They were lied to and exploited by a sophisticated criminal network.\"",
+   "scene": {
+    "type": "quote",
+    "q": "These victims weren't foolish. They were lied to and exploited by a sophisticated criminal network.",
+    "case": "UNITED STATES v. CHEN",
+    "doc": "U.S. ATTORNEY ADAM GORDON · NOV 13, 2026",
+    "cite": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)",
+    "size": 50
+   }
+  },
+  {
+   "say": "And he named the YouTubers. Stopping fraud takes an online village, he said. With friends to our cause like Ash and Art, we can do even more.",
+   "show": "And he named the YouTubers. \"Stopping fraud takes an online village,\" he said. \"With friends to our cause like Ash and Art, we can do even more.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/sent.jpg",
+    "pan": [
+     0.322,
+     0.382
+    ],
+    "hl": [
+     0.0,
+     0.4128,
+     1.0,
+     0.0414
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · NOVEMBER 13, 2026",
+    "title": "“Stopping fraud takes an online village”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "Put the sentences side by side. The ringleader, Zhao Wang: one hundred fifty-one months. The Little Tiger: seventy-eight. And as of late October, in the related sixty-five million dollar ring, one defendant, Bing Shen, had been sentenced to seventy months.",
+   "show": "Put the sentences side by side. The ringleader, Zhao Wang: 151 months. The Little Tiger: 78. And as of late October, in the related $65 million ring, one defendant, Bing Shen, had been sentenced to 70 months.",
+   "scene": {
+    "type": "bars",
+    "kicker": "SENTENCES ANNOUNCED · S.D. CAL.",
+    "title": "Months in federal prison",
+    "sync": true,
+    "items": [
+     {
+      "label": "ZHAO WANG · RINGLEADER",
+      "value": 151,
+      "display": "151"
+     },
+     {
+      "label": "JIANDONG CHEN · \"LITTLE TIGER\"",
+      "value": 78,
+      "display": "78"
+     },
+     {
+      "label": "BING SHEN · $65M RING (AS OF OCT 26)",
+      "value": 70,
+      "display": "70"
+     }
+    ],
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (May 8, 2026) · U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026) · U.S. Attorney's Office, S.D. Cal., press release (Oct 26, 2026)"
+   }
+  },
+  {
+   "say": "Back in twenty twenty-four, then-U.S. Attorney Tara McGrath gave one piece of advice. Use caution and consult with others before sending money to strangers you know only through phone calls, texts, or a computer.",
+   "show": "Back in 2024, then-U.S. Attorney Tara McGrath gave one piece of advice: \"use caution and consult with others before sending money to strangers they know only through phone calls, texts, or a computer.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind.jpg",
+    "pan": [
+     0.288,
+     0.348
+    ],
+    "hl": [
+     0.0,
+     0.3763,
+     1.0,
+     0.03
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · JULY 31, 2024",
+    "title": "“consult with others before sending money”",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release on the indictment (Jul 31, 2024)"
+   }
+  },
+  {
+   "say": "If you or someone you know is sixty or older and has been a victim of financial fraud, the National Elder Fraud Hotline is one eight three three, three seven two, eight three one one.",
+   "show": "If you or someone you know is 60 or older and has been a victim of financial fraud, the National Elder Fraud Hotline is 1-833-372-8311.",
+   "scene": {
+    "type": "stat",
+    "kicker": "NATIONAL ELDER FRAUD HOTLINE",
+    "value": "1-833-FRAUD-11",
+    "label": "1-833-372-8311 · age 60+ · or report at ic3.gov",
+    "src": "U.S. Attorney's Office, S.D. Cal., press release on the indictment (Jul 31, 2024)"
+   }
+  },
+  {
+   "say": "So here is the case in one line. A fake refund. A box of cash. A fake ID. And a YouTube video that ended up in a federal courtroom.",
+   "scene": {
+    "type": "list",
+    "kicker": "THE CASE IN NUMBERS",
+    "items": [
+     [
+      "$27M+",
+      "lost by more than 2,000 elderly victims, 2021–2023"
+     ],
+     [
+      "$9.5M+",
+      "in victim losses tied to Chen's time in the conspiracy"
+     ],
+     [
+      "18%+",
+      "the ringleader's cut (\"upwards of 18%\"), as he admitted"
+     ],
+     [
+      "1.4M+",
+      "views of the Trilogy Media video"
+     ],
+     [
+      "78 months",
+      "Jiandong Chen's sentence, Nov 13, 2026"
+     ]
+    ],
+    "src": "U.S. Attorney's Office, S.D. Cal., press release (Nov 13, 2026) · U.S. Attorney's Office, S.D. Cal., press release (Jan 15, 2026) · YouTube Data API, Trilogy Media video qjiFJWsHbwE (checked Nov 15, 2026)"
+   }
+  },
+  {
+   "say": "Would the people you love recognize a refund scam? Tell me in the comments. This is SWORN. Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ]
+}

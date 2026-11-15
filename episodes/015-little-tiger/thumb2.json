@@ -1,0 +1,57 @@
+{
+ "A": {
+  "left": {
+   "img": "img/chen_panel.jpg",
+   "pos": "50% 0%",
+   "zoom": 1.0
+  },
+  "right": {
+   "number": "$27M",
+   "label": "ELDER SCAM"
+  },
+  "split": 0.5,
+  "tag": "BREAKING",
+  "breaking": true,
+  "line1": "EXPOSED ON YOUTUBE",
+  "line2": "SENTENCED TO 78 MONTHS",
+  "line2color": "red",
+  "size1": 96,
+  "size2": 96
+ },
+ "B": {
+  "left": {
+   "img": "img/chen_panel.jpg",
+   "pos": "50% 0%",
+   "zoom": 1.0
+  },
+  "right": {
+   "number": "78",
+   "label": "MONTHS"
+  },
+  "split": 0.56,
+  "tag": "SENTENCED",
+  "line1": "\"LITTLE TIGER\"",
+  "line2": "THE SCAMBAITER STING",
+  "line2color": "yellow",
+  "size1": 104,
+  "size2": 104
+ },
+ "C": {
+  "left": {
+   "img": "img/cash_count.jpg",
+   "pos": "50% 40%",
+   "zoom": 1.0
+  },
+  "right": {
+   "number": "2,000",
+   "label": "SENIORS"
+  },
+  "split": 0.5,
+  "tag": "SENTENCED",
+  "line1": "FAKE REFUND.",
+  "line2": "REAL CASH.",
+  "line2color": "yellow",
+  "size1": 110,
+  "size2": 120
+ }
+}

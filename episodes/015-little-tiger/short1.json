@@ -1,0 +1,89 @@
+{
+ "title": "78 Months: The Scam Courier YouTubers Caught on Camera",
+ "template": "number reveal + sting",
+ "lines": [
+  {
+   "say": "Seventy-eight months in prison, for the cash courier YouTubers confronted on camera.",
+   "show": "78 months in prison, for the cash courier YouTubers confronted on camera.",
+   "scene": {
+    "type": "hook",
+    "img": "img/chen_face.jpg",
+    "pos": "50% 0%",
+    "zoom": 0.85,
+    "tag": "SENTENCED",
+    "number": "78 MONTHS",
+    "label": "CAUGHT ON YOUTUBE|NOW SENTENCED"
+   }
+  },
+  {
+   "say": "In July twenty twenty-three, Jiandong Chen, called Little Tiger, came to collect cash he thought was from an elderly victim.",
+   "show": "In July 2023, Jiandong Chen, called \"Little Tiger,\" came to collect cash he thought was from an elderly victim.",
+   "scene": {
+    "type": "doc",
+    "img": "img/chenplea.jpg",
+    "pan": [
+     0.255,
+     0.315
+    ],
+    "hl": [
+     0.0,
+     0.3362,
+     1.0,
+     0.0538
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · APRIL 2, 2026",
+    "src": "U.S. Attorney's Office, S.D. Cal. (Apr 2, 2026)"
+   }
+  },
+  {
+   "say": "Trilogy Media confronted him instead. One point four million views.",
+   "show": "Trilogy Media confronted him instead. 1.4 million views.",
+   "scene": {
+    "type": "big",
+    "kicker": "TRILOGY MEDIA · 2023",
+    "lines": [
+     "1.4 million",
+     "views.|Still collecting."
+    ],
+    "src": "YouTube Data API (Nov 15, 2026) · U.S. Attorney's Office, S.D. Cal. (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "Prosecutors say he kept going until federal agents encountered him that December.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sent.jpg",
+    "pan": [
+     0.265,
+     0.325
+    ],
+    "hl": [
+     0.0,
+     0.346,
+     1.0,
+     0.0414
+    ],
+    "kicker": "U.S. ATTORNEY · S.D. CAL. · NOVEMBER 13, 2026",
+    "src": "U.S. Attorney's Office, S.D. Cal. (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "On November thirteenth, with both YouTubers in court, a San Diego judge sentenced him.",
+   "show": "On November 13, with both YouTubers in court, a San Diego judge sentenced him.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "SAN DIEGO · NOV 13, 2026",
+    "stamp": "SENTENCED",
+    "big": "78 months",
+    "sub": "Jiandong Chen, aka \"Little Tiger\""
+   }
+  },
+  {
+   "say": "Was six and a half years enough? Tell me below.",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}
