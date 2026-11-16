@@ -107,12 +107,17 @@ Check every `https://raw.githubusercontent.com/ituraev97/sworn_media/drop-XXX/<f
 
 ## Performance rules
 Weekly review (Mondays, Asia/Tashkent). Each rule is backed by ≥ 3 of our own videos (Metricool YTVP, last 28 days). Owner content rules, schedule and AI-label settings are NOT changed here — only recommended in the report.
-1. Shorts titles open with a verbatim quote or a short declarative statement/number ("FTX Is Fine. Assets Are Fine." 200, "He Confessed. Then the Judge Spoke." 20, "It's All Just One Big Lie" 18, "Six Warnings…" 5, "The Coin Flip…" 4 → median 18). Never open a Short with Where/How/Did or "The Hidden…" explainer phrasing (5 Shorts: 3, 3, 1, 1, 1 → median 1).
-2. Average view duration was ≤ 33 s on all 10 measured Shorts (7 of 10 at ≤ 9 s): the quote or the number must be on screen from frame 0 and the first spoken line must already be the payoff-setup — no titles, no context sentence first.
-3. Do not draw conclusions from videos younger than ~7 days: Metricool returned null views for every video published after 2026-11-04 (15+ videos, including all long episodes) at review time. Re-check long-video performance next Monday.
+1. **A household name beats everything else.** Shorts median views by case-day: Holmes 18 (5 Shorts), SBF/FTX 7.5 (6), Madoff 4.5 (6), Stanford 4.5 (6), WorldCom 4 (6), Fyre 2 (6). The 3 best Shorts of the month (197, 97, 22 views) were all on SBF/Stanford/Holmes days. Pick the case with the most recognisable face/name first.
+2. **Long titles ≤ 60 characters.** Long videos with titles ≤ 60 chars: 30, 21, 4 views (median 21; Enron "Explained", Ponzi ranking, Gideon "Explained"). Titles > 70 chars: 6, 4, 2, 1, 1, 1 (median 1.5; Holmes, Stanford, WorldCom, Fyre, SBF, Madoff). Keep the owner's "Name + what happened" formula but cut it to ≤ 60.
+3. **"Explained" / ranking framing held viewers longest on long videos:** average view duration 210 s (ranking), 87 s (Enron Explained), 52 s (Gideon Explained) vs 2–49 s for the six "Name: … — the paper trail/verdict" titles. Use "… Explained" or a number-led promise when it fits the facts.
+4. **Shorts are lost in the first seconds:** median average view duration 4 s across 44 Shorts (Nov 2–11). Frame 0 must already carry face/document + number, narration from 0.05 s (v2 hook) — no context sentence first.
+5. **Opening word alone does not save a Short:** quote/number openers median 3 views (17 Shorts) vs other openers 4 (27). Where/How/Did/The openers 17 Shorts, median 4. Hook + name matter more than the first word; still never repeat an opening word on one day.
+6. **Slot (recommendation only, schedule unchanged):** Shorts at 13:00 UTC (8:00 ET, old schedule) median 13.5 views (6) vs 15:00 UTC (10:00 ET) median 2.5 (10), 21:00 UTC 9.5 (6), 23:00 UTC 3 (9). Owner may consider moving the first Short earlier.
+7. **No data yet for v2:** Metricool returned no rows for any video published after 2026-11-11 (all v2 episodes 014–015 and their Shorts). Re-check next Monday before changing v2 packaging.
 
 Changelog:
 - 2026-11-09: section created (first weekly review; 10 Shorts with data, 0 long videos with data).
+- 2026-11-16: rewritten (9 long videos + 44 Shorts with data, Nov 2–11). Old rule "quote/number openers win" dropped (no longer supported: median 3 vs 4); added name-first case choice, ≤ 60-char long titles, "Explained"/ranking framing, slot observation.
 
 ## Notes from run 002 (2026-11-02)
 - justice.gov `/usao-*/pr/` pages and `press-release/file` downloads now return a bot-challenge page from the shell (do NOT try to bypass); `/usao-sdny/file/NNN/download` and `/archive/` PDFs still work. WebFetch reads most justice.gov pages.
