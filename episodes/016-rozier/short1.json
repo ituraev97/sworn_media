@@ -1,0 +1,69 @@
+{
+ "title": "$100,000 to Leave a Game Early? The Terry Rozier Case",
+ "template": "number reveal (alleged bribe)",
+ "lines": [
+  {
+   "say": "A hundred thousand dollars to leave an NBA game early. That's what prosecutors say Terry Rozier agreed to.",
+   "show": "$100,000 to leave an NBA game early. That's what prosecutors say Terry Rozier agreed to.",
+   "scene": {
+    "type": "hook",
+    "img": "img/rozier_face.jpg",
+    "pos": "50% 30%",
+    "zoom": 1.0,
+    "tag": "CHARGED",
+    "number": "$100K",
+    "label": "ALLEGED BRIBE|TO LEAVE A GAME"
+   }
+  },
+  {
+   "say": "March twenty-third, twenty twenty-three. He walked off after nine minutes and thirty-four seconds. He wasn't on the injury report.",
+   "show": "March 23, 2023. He walked off after 9 minutes and 34 seconds. He wasn't on the injury report.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_12.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1139,
+     1.0,
+     0.1275
+    ],
+    "kicker": "THE INDICTMENT · PARAGRAPH 41",
+    "src": "Indictment, E.D.N.Y. 25-cr-323, ECF 17"
+   }
+  },
+  {
+   "say": "The government says more than two hundred thousand dollars was bet on his unders.",
+   "show": "The government says more than $200,000 was bet on his unders.",
+   "scene": {
+    "type": "stat",
+    "kicker": "ROZIER'S UNDERS",
+    "value": "$200K+",
+    "label": "IN BETS, PROSECUTORS SAY",
+    "src": "U.S. Attorney's Office, E.D.N.Y. (Oct 23, 2025)"
+   }
+  },
+  {
+   "say": "Rozier says he was hurt, and never knew about any bets. Trial: February eighth.",
+   "show": "Rozier says he was hurt, and never knew about any bets. Trial: February 8.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "BROOKLYN · TRIAL SET FOR FEB 8, 2027",
+    "stamp": "CHARGED",
+    "big": "Not guilty plea",
+    "sub": "Terry Rozier · presumed innocent",
+    "neutral": true
+   }
+  },
+  {
+   "say": "Injury, or a setup? Tell me below.",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

@@ -1,0 +1,1086 @@
+{
+ "label": "SWORN · CASE 016",
+ "lines": [
+  {
+   "say": "March twenty-third, twenty twenty-three. New Orleans. Terry Rozier, the Hornets' starting guard, walks off the court in the first quarter, and does not come back. He played nine minutes and thirty-four seconds.",
+   "show": "March 23, 2023. New Orleans. Terry Rozier, the Hornets' starting guard, walks off the court in the first quarter, and does not come back. He played 9 minutes and 34 seconds.",
+   "scene": {
+    "type": "photo",
+    "img": "img/rozier_face.jpg",
+    "caption": "TERRY ROZIER · 2017",
+    "src": "PHOTO: KEITH ALLISON · CC BY-SA 2.0 · WIKIMEDIA COMMONS · 2017",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "Federal prosecutors say those nine minutes were sold in advance. They allege he agreed to an approximately one hundred thousand dollar bribe to leave that game early, so that people around him could bet against his numbers.",
+   "show": "Federal prosecutors say those nine minutes were sold in advance. They allege he agreed to an approximately $100,000 bribe to leave that game early, so that people around him could bet against his numbers.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sup_9.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2856,
+     1.0,
+     0.2066
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · MAY 2026 · PARAGRAPH 37",
+    "title": "“an approximately $100,000 bribe”",
+    "src": "Superseding Indictment, E.D.N.Y. 25-cr-323, ECF 101 (May 28, 2026)"
+   }
+  },
+  {
+   "say": "Rozier says he was hurt, and that he is innocent. His lawyers wrote it in a court filing on November twelfth: Terry Rozier is innocent. The objective evidence proves it.",
+   "show": "Rozier says he was hurt, and that he is innocent. His lawyers wrote it in a court filing on November 12: \"Terry Rozier is innocent. The objective evidence proves it.\"",
+   "scene": {
+    "type": "quote",
+    "q": "Terry Rozier is innocent. The objective evidence proves it.",
+    "case": "UNITED STATES v. ROZIER",
+    "doc": "DEFENSE FILING · NOV 12, 2026",
+    "cite": "Rozier's omnibus motion in limine, ECF 169 (Nov 12, 2026)"
+   }
+  },
+  {
+   "say": "One day later, according to ESPN, prosecutors filed new papers, describing a text about another plan, involving a Hornets teammate.",
+   "show": "One day later, according to ESPN, prosecutors filed new papers, describing a text about another plan, involving a Hornets teammate.",
+   "scene": {
+    "type": "big",
+    "kicker": "NOVEMBER 13, 2026",
+    "lines": [
+     "A new filing.",
+     "Another|teammate?"
+    ],
+    "src": "ESPN, David Purdum (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "Rozier has pleaded not guilty. Every charge in this story is an allegation, and he is presumed innocent unless and until proven guilty. His trial is set for February eighth, twenty twenty-seven, in Brooklyn.",
+   "show": "Rozier has pleaded not guilty. Every charge in this story is an allegation, and he is presumed innocent unless and until proven guilty. His trial is set for February 8, 2027, in Brooklyn.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "BROOKLYN · TRIAL SET FOR FEB 8, 2027",
+    "stamp": "CHARGED",
+    "big": "Not guilty plea",
+    "sub": "Terry Rozier · presumed innocent",
+    "neutral": true
+   }
+  },
+  {
+   "say": "This is what the government says happened, what Rozier says happened, and what the documents show so far.",
+   "scene": {
+    "type": "title",
+    "kicker": "SWORN · CASE 016 · BREAKING",
+    "title": "Nine Minutes|in New Orleans",
+    "sub": "United States v. Terry Rozier · E.D.N.Y. · 25-cr-323"
+   }
+  },
+  {
+   "say": "Chapter one. Nine minutes.",
+   "scene": {
+    "type": "chapter",
+    "n": "I",
+    "title": "Nine Minutes"
+   }
+  },
+  {
+   "say": "Start with the game. The Hornets were on the road, in New Orleans, against the Pelicans. According to the indictment, Rozier was not on the team's injury report, and Hornets officials did not know he planned to leave early.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_9.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1493,
+     1.0,
+     0.0922
+    ],
+    "kicker": "THE INDICTMENT · OCT 2025 · PARAGRAPH 36",
+    "title": "Not on the injury report",
+    "src": "Indictment, U.S. v. Earnest et al., E.D.N.Y. 25-cr-323, ECF 17 (Oct 16, 2025)"
+   }
+  },
+  {
+   "say": "But the grand jury alleges one person did know. Before the game, Rozier told his longtime friend, Deniro Laster, that he would remove himself in the first quarter, due to a supposed injury, and not return.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_8.jpg",
+    "pan": [
+     0.491,
+     0.491
+    ],
+    "hl": [
+     0.0,
+     0.8262,
+     1.0,
+     0.0927
+    ],
+    "kicker": "THE INDICTMENT · OCT 2025 · PARAGRAPH 36",
+    "title": "“a supposed injury”",
+    "src": "Indictment, U.S. v. Earnest et al., E.D.N.Y. 25-cr-323, ECF 17 (Oct 16, 2025)"
+   }
+  },
+  {
+   "say": "Prosecutors say Laster then sold that information. Two of the buyers, Marves Fairley and an unnamed co-conspirator, agreed to pay him about one hundred thousand dollars out of their expected winnings. In this first indictment, that money is a payment to Laster for the tip. The word bribe comes later.",
+   "show": "Prosecutors say Laster then sold that information. Two of the buyers, Marves Fairley and an unnamed co-conspirator, agreed to pay him about $100,000 out of their expected winnings. In this first indictment, that money is a payment to Laster for the tip. The word bribe comes later.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_9.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4334,
+     1.0,
+     0.057
+    ],
+    "kicker": "THE INDICTMENT · OCT 2025 · PARAGRAPH 37",
+    "title": "Approximately $100,000",
+    "src": "Indictment, U.S. v. Earnest et al., E.D.N.Y. 25-cr-323, ECF 17 (Oct 16, 2025)"
+   }
+  },
+  {
+   "say": "Then the money moved. According to the indictment, a bettor named Shane Hennen put about sixty-one thousand two hundred dollars on Rozier's unders at one retail sportsbook. One associate alone placed about one hundred seven thousand.",
+   "show": "Then the money moved. According to the indictment, a bettor named Shane Hennen put about $61,200 on Rozier's unders at one retail sportsbook. One associate alone placed about $107,000.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_10.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1276,
+     1.0,
+     0.0623
+    ],
+    "kicker": "THE INDICTMENT · OCT 2025 · PARAGRAPH 39",
+    "title": "$61,200 on the unders",
+    "src": "Indictment, U.S. v. Earnest et al., E.D.N.Y. 25-cr-323, ECF 17 (Oct 16, 2025)"
+   }
+  },
+  {
+   "say": "An under bet is simple. You win if the player does less than the sportsbook expects. Fewer points. Fewer assists. Fewer minutes.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE BET",
+    "lines": [
+     "The under.",
+     "You win|when he fails."
+    ],
+    "src": "Indictment, U.S. v. Earnest et al., E.D.N.Y. 25-cr-323, ECF 17 (Oct 16, 2025)"
+   }
+  },
+  {
+   "say": "In all, the Justice Department says, the group placed and directed more than two hundred thousand dollars in wagers on Rozier's unders.",
+   "show": "In all, the Justice Department says, the group placed and directed more than $200,000 in wagers on Rozier's unders.",
+   "scene": {
+    "type": "stat",
+    "kicker": "MARCH 23, 2023 · ROZIER'S UNDERS",
+    "value": "$200K+",
+    "label": "in wagers placed and directed, prosecutors say",
+    "src": "U.S. Attorney's Office, E.D.N.Y., press release (Oct 23, 2025)"
+   }
+  },
+  {
+   "say": "And on the court, it played out the way the bettors needed. Rozier scored five points, with two assists and one three-pointer. His season averages were twenty-one point one points, five point one assists and two point six threes.",
+   "show": "And on the court, it played out the way the bettors needed. Rozier scored 5 points, with 2 assists and 1 three-pointer. His season averages were 21.1 points, 5.1 assists and 2.6 threes.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_12.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2199,
+     1.0,
+     0.1279
+    ],
+    "kicker": "THE INDICTMENT · OCT 2025 · PARAGRAPH 41",
+    "title": "5 points. 2 assists. 1 three.",
+    "src": "Indictment, U.S. v. Earnest et al., E.D.N.Y. 25-cr-323, ECF 17 (Oct 16, 2025)"
+   }
+  },
+  {
+   "say": "Nine minutes and thirty-four seconds, against a season average of about thirty-five point three minutes a game.",
+   "show": "9 minutes and 34 seconds, against a season average of about 35.3 minutes a game.",
+   "scene": {
+    "type": "bars",
+    "kicker": "MINUTES PLAYED",
+    "title": "March 23 vs. his season average",
+    "items": [
+     {
+      "label": "SEASON AVERAGE",
+      "value": 35.3,
+      "display": "35.3"
+     },
+     {
+      "label": "MARCH 23, 2023",
+      "value": 9.57,
+      "display": "9:34"
+     }
+    ],
+    "src": "Indictment, U.S. v. Earnest et al., E.D.N.Y. 25-cr-323, ECF 17 (Oct 16, 2025)"
+   }
+  },
+  {
+   "say": "The Hornets lost the game. And the government says many of the bets paid off.",
+   "scene": {
+    "type": "doc",
+    "img": "img/g144_7.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.4528,
+     1.0,
+     0.0656
+    ],
+    "kicker": "GOVERNMENT FILING · AUG 26, 2026",
+    "title": "“His team, the Hornets, lost the game.”",
+    "src": "Gov't opposition to Rozier's motion to dismiss, ECF 144 (Aug 26, 2026)"
+   }
+  },
+  {
+   "say": "But one number did not cooperate. Four rebounds. Hold on to that number. Both sides now use it to make their case.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE ONE STAT THAT DIDN'T FIT",
+    "lines": [
+     "4 rebounds.",
+     "Both sides|cite it."
+    ],
+    "src": "Indictment, U.S. v. Earnest et al., E.D.N.Y. 25-cr-323, ECF 17 (Oct 16, 2025) · Rozier's omnibus motion in limine, ECF 169 (Nov 12, 2026)"
+   }
+  },
+  {
+   "say": "Chapter two. The cash.",
+   "scene": {
+    "type": "chapter",
+    "n": "II",
+    "title": "The Cash"
+   }
+  },
+  {
+   "say": "Five days after the game, according to the indictment, Laster traveled to Philadelphia. The grand jury alleges Rozier arranged and paid for that trip.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_12.jpg",
+    "pan": [
+     0.49,
+     0.49
+    ],
+    "hl": [
+     0.0,
+     0.7907,
+     1.0,
+     0.0215
+    ],
+    "kicker": "THE INDICTMENT · OCT 2025 · PARAGRAPH 42",
+    "title": "“arranged and paid for”",
+    "src": "Indictment, U.S. v. Earnest et al., E.D.N.Y. 25-cr-323, ECF 17 (Oct 16, 2025)"
+   }
+  },
+  {
+   "say": "In Philadelphia, between the late night of March twenty-eighth and the early morning of the twenty-ninth, Fairley allegedly handed Laster tens of thousands of dollars in cash, as payment for the information about Rozier's exit.",
+   "show": "In Philadelphia, between the late night of March 28 and the early morning of the 29th, Fairley allegedly handed Laster tens of thousands of dollars in cash, as payment for the information about Rozier's exit."
+  },
+  {
+   "say": "Then, the government says, Laster drove hundreds of miles through the night to Rozier's house in Charlotte.",
+   "scene": {
+    "type": "doc",
+    "img": "img/g144_8.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1255,
+     1.0,
+     0.0657
+    ],
+    "kicker": "GOVERNMENT FILING · AUG 26, 2026",
+    "title": "“through the night”",
+    "src": "Gov't opposition to Rozier's motion to dismiss, ECF 144 (Aug 26, 2026)"
+   }
+  },
+  {
+   "say": "And in the early morning hours of April first, twenty twenty-three, according to the superseding indictment, Laster and Rozier counted the money together.",
+   "show": "And in the early morning hours of April 1, 2023, according to the superseding indictment, Laster and Rozier counted the money together.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sup_14.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1918,
+     1.0,
+     0.1044
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · MAY 2026 · PARAGRAPH 46",
+    "title": "Counting the money",
+    "src": "Superseding Indictment, E.D.N.Y. 25-cr-323, ECF 101 (May 28, 2026)"
+   }
+  },
+  {
+   "say": "Prosecutors go further. In an August filing, they wrote that Laster and Rozier photographed themselves counting the cash.",
+   "scene": {
+    "type": "doc",
+    "img": "img/g144_8.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1255,
+     1.0,
+     0.0657
+    ],
+    "kicker": "GOVERNMENT FILING · AUG 26, 2026",
+    "title": "“photographed themselves counting the cash”",
+    "src": "Gov't opposition to Rozier's motion to dismiss, ECF 144 (Aug 26, 2026)"
+   }
+  },
+  {
+   "say": "Remember: Rozier denies knowing about any bets. A photo of money does not tell a jury where the money came from. That question is what the trial is for.",
+   "scene": {
+    "type": "big",
+    "kicker": "HIS ANSWER",
+    "lines": [
+     "Cash is not",
+     "a confession."
+    ],
+    "src": "Gov't letter opposing severance, ECF 166 (Nov 3, 2026) · Rozier's omnibus motion in limine, ECF 169 (Nov 12, 2026)"
+   }
+  },
+  {
+   "say": "Chapter three. The arrest.",
+   "scene": {
+    "type": "chapter",
+    "n": "III",
+    "title": "The Arrest"
+   }
+  },
+  {
+   "say": "For two and a half years, Rozier was not charged. A defense filing says the NBA looked into the game, and in January twenty twenty-five said it had found no rule violation, and was cooperating with a federal investigation. Then, on October twenty-third, twenty twenty-five, the FBI made arrests across the country.",
+   "show": "For two and a half years, Rozier was not charged. A defense filing says the NBA looked into the game, and in January 2025 said it had found no rule violation, and was cooperating with a federal investigation. Then, on October 23, 2025, the FBI made arrests across the country.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "FROM THE GAME TO THE ARREST",
+    "at": 3,
+    "events": [
+     {
+      "date": "MAR 23, 2023",
+      "text": "the game"
+     },
+     {
+      "date": "APR 1, 2023",
+      "text": "the count"
+     },
+     {
+      "date": "OCT 16, 2025",
+      "text": "grand jury indictment"
+     },
+     {
+      "date": "OCT 23, 2025",
+      "text": "arrests"
+     }
+    ],
+    "src": "Indictment, U.S. v. Earnest et al., E.D.N.Y. 25-cr-323, ECF 17 (Oct 16, 2025) · U.S. Attorney's Office, E.D.N.Y., press release (Oct 23, 2025) · Rozier's omnibus motion in limine, ECF 169 (Nov 12, 2026)"
+   }
+  },
+  {
+   "say": "Rozier was arrested in Orlando, Florida. A federal court docket there lists the case as United States versus Rozier.",
+   "scene": {
+    "type": "big",
+    "kicker": "ORLANDO · OCTOBER 23, 2025",
+    "lines": [
+     "USA v.",
+     "Rozier."
+    ],
+    "src": "Docket, U.S. v. Rozier, M.D. Fla. 6:25-mj-02183, filed as ECF 26 (Oct 27, 2025)"
+   }
+  },
+  {
+   "say": "In Brooklyn, the indictment was unsealed. Six defendants, charged with wire fraud conspiracy and money laundering conspiracy. Rozier's listed nicknames: Scary Terry, and Chum.",
+   "show": "In Brooklyn, the indictment was unsealed. Six defendants, charged with wire fraud conspiracy and money laundering conspiracy. Rozier's listed nicknames: \"Scary Terry,\" and \"Chum.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_1.jpg",
+    "pan": [
+     0.359,
+     0.359
+    ],
+    "hl": [
+     0.0,
+     0.6793,
+     1.0,
+     0.0698
+    ],
+    "kicker": "THE INDICTMENT · OCT 2025 · UNSEALED OCT 23, 2025",
+    "title": "Six defendants",
+    "src": "Indictment, U.S. v. Earnest et al., E.D.N.Y. 25-cr-323, ECF 17 (Oct 16, 2025)"
+   }
+  },
+  {
+   "say": "Remember that second nickname. It comes back.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "\"Chum.\"",
+     "Remember it."
+    ],
+    "src": "U.S. Attorney's Office, E.D.N.Y., press release (Oct 23, 2025)"
+   }
+  },
+  {
+   "say": "The U.S. Attorney, Joseph Nocella, said: As alleged, the defendants turned professional basketball into a criminal betting operation.",
+   "scene": {
+    "type": "quote",
+    "q": "As alleged, the defendants turned professional basketball into a criminal betting operation …",
+    "case": "E.D.N.Y. · OCTOBER 23, 2025",
+    "doc": "U.S. ATTORNEY JOSEPH NOCELLA JR.",
+    "cite": "U.S. Attorney's Office, E.D.N.Y., press release (Oct 23, 2025)"
+   }
+  },
+  {
+   "say": "The New York police commissioner, Jessica Tisch, went further: Rigging a professional basketball game for personal profit is as immoral as it is illegal.",
+   "scene": {
+    "type": "quote",
+    "q": "Rigging a professional basketball game for personal profit is as immoral as it is illegal.",
+    "case": "E.D.N.Y. · OCTOBER 23, 2025",
+    "doc": "NYPD COMMISSIONER JESSICA TISCH",
+    "cite": "U.S. Attorney's Office, E.D.N.Y., press release (Oct 23, 2025)"
+   }
+  },
+  {
+   "say": "The same indictment named a former NBA player and coach, Damon Jones, and described tips about other games: a Trail Blazers game, a Magic game, and Lakers games. It also described games involving Jontay Porter, the former Raptors player, who had already pleaded guilty.",
+   "scene": {
+    "type": "list",
+    "kicker": "THE SAME INDICTMENT · OCT 2025",
+    "items": [
+     [
+      "MAR 23, 2023",
+      "Hornets — Rozier's early exit (alleged)"
+     ],
+     [
+      "MAR 24, 2023",
+      "Trail Blazers — lineup tip (alleged)"
+     ],
+     [
+      "APR 6, 2023",
+      "Magic — lineup tip (alleged)"
+     ],
+     [
+      "2023–2024",
+      "Lakers — medical tips (alleged)"
+     ],
+     [
+      "2024",
+      "Raptors — Jontay Porter (pleaded guilty)"
+     ]
+    ],
+    "src": "U.S. Attorney's Office, E.D.N.Y., press release (Oct 23, 2025)"
+   }
+  },
+  {
+   "say": "Rozier pleaded not guilty. The judge is LaShann DeArcy Hall, in the Eastern District of New York.",
+   "scene": {
+    "type": "big",
+    "kicker": "E.D.N.Y. · JUDGE LASHANN DEARCY HALL",
+    "lines": [
+     "His plea:",
+     "not guilty."
+    ],
+    "src": "Minute entry, arraignment, ECF 69 (Dec 8, 2025)"
+   }
+  },
+  {
+   "say": "Chapter four. The bribe.",
+   "scene": {
+    "type": "chapter",
+    "n": "IV",
+    "title": "The Bribe"
+   }
+  },
+  {
+   "say": "In May twenty twenty-six, the case got heavier. A grand jury returned a superseding indictment, with two new counts against Rozier: bribery in sporting contests, and honest services wire fraud conspiracy.",
+   "show": "In May 2026, the case got heavier. A grand jury returned a superseding indictment, with two new counts against Rozier: bribery in sporting contests, and honest services wire fraud conspiracy.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sup_8.jpg",
+    "pan": [
+     0.389,
+     0.389
+    ],
+    "hl": [
+     0.0,
+     0.7841,
+     1.0,
+     0.1946
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · MAY 2026 · PARAGRAPH 35",
+    "title": "Honest services",
+    "src": "Superseding Indictment, E.D.N.Y. 25-cr-323, ECF 101 (May 28, 2026)"
+   }
+  },
+  {
+   "say": "Honest services means this. Prosecutors allege he schemed to deprive the Hornets and the NBA of his honest and faithful services, through a bribe.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sup_8.jpg",
+    "pan": [
+     0.389,
+     0.389
+    ],
+    "hl": [
+     0.0,
+     0.7841,
+     1.0,
+     0.1946
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · MAY 2026 · PARAGRAPH 35",
+    "title": "“honest and faithful services”",
+    "src": "Superseding Indictment, E.D.N.Y. 25-cr-323, ECF 101 (May 28, 2026)"
+   }
+  },
+  {
+   "say": "The new version tells a different story about the injury. It says Rozier really had a lower leg injury near the end of that season. He kept playing on it. But, it alleges, he planned to use that injury as the reason to leave a game early.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sup_9.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1981,
+     1.0,
+     0.1147
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · MAY 2026 · PARAGRAPH 37",
+    "title": "“a lower leg injury”",
+    "src": "Superseding Indictment, E.D.N.Y. 25-cr-323, ECF 101 (May 28, 2026)"
+   }
+  },
+  {
+   "say": "In exchange for an approximately one hundred thousand dollar bribe, the grand jury says, Rozier agreed to withdraw early from a game still to be chosen, and to give Laster a portion.",
+   "show": "In exchange for an approximately $100,000 bribe, the grand jury says, Rozier agreed to withdraw early from a game still to be chosen, and to give Laster a portion.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sup_9.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2856,
+     1.0,
+     0.2066
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · MAY 2026 · PARAGRAPH 37",
+    "title": "“an approximately $100,000 bribe”",
+    "src": "Superseding Indictment, E.D.N.Y. 25-cr-323, ECF 101 (May 28, 2026)"
+   }
+  },
+  {
+   "say": "And while the game was being chosen, Laster allegedly kept the buyers updated, using encrypted apps.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sup_9.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.5078,
+     1.0,
+     0.0714
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · MAY 2026 · PARAGRAPH 37",
+    "title": "Encrypted applications",
+    "src": "Superseding Indictment, E.D.N.Y. 25-cr-323, ECF 101 (May 28, 2026)"
+   }
+  },
+  {
+   "say": "Now, the four rebounds. Of the four stats the indictment lists, rebounds were the only one where he went over his betting line. According to the superseding indictment, because of those four rebounds, not all of the bets won. So after the game, they negotiated the bribe down to about seventy thousand dollars.",
+   "show": "Now, the four rebounds. Of the four stats the indictment lists, rebounds were the only one where he went over his betting line. According to the superseding indictment, because of those four rebounds, not all of the bets won. So after the game, they negotiated the bribe down to about $70,000.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sup_13.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3249,
+     1.0,
+     0.1509
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · MAY 2026 · PARAGRAPH 44",
+    "title": "Down to approximately $70,000",
+    "src": "Superseding Indictment, E.D.N.Y. 25-cr-323, ECF 101 (May 28, 2026)"
+   }
+  },
+  {
+   "say": "One hundred thousand promised. Seventy thousand, the government says, delivered. A thirty thousand dollar discount, for four rebounds.",
+   "show": "$100,000 promised. $70,000, the government says, delivered. A $30,000 discount, for four rebounds.",
+   "scene": {
+    "type": "bars",
+    "kicker": "THE ALLEGED BRIBE",
+    "title": "Before and after the four rebounds",
+    "items": [
+     {
+      "label": "AGREED (ALLEGED)",
+      "value": 100,
+      "display": "$100K"
+     },
+     {
+      "label": "AFTER THE GAME (ALLEGED)",
+      "value": 70,
+      "display": "$70K"
+     }
+    ],
+    "src": "Superseding Indictment, E.D.N.Y. 25-cr-323, ECF 101 (May 28, 2026)"
+   }
+  },
+  {
+   "say": "In its August filing, the government put it in one sentence. For taking a bribe in exchange for removing himself early from a professional basketball game so that others could bet on, and profit from, his underperformance, Rozier is charged with four distinct but related crimes.",
+   "scene": {
+    "type": "doc",
+    "img": "img/g144_6.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1275,
+     1.0,
+     0.0677
+    ],
+    "kicker": "GOVERNMENT FILING · AUG 26, 2026",
+    "title": "Four counts",
+    "src": "Gov't opposition to Rozier's motion to dismiss, ECF 144 (Aug 26, 2026)"
+   }
+  },
+  {
+   "say": "Chapter five. The others.",
+   "scene": {
+    "type": "chapter",
+    "n": "V",
+    "title": "The Others"
+   }
+  },
+  {
+   "say": "While Rozier fights the charges, people around this case have been pleading guilty.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "He fights.",
+     "Others|plead."
+    ],
+    "src": "CBS News / AP (Apr 28, 2026) · Covers (May 28, 2026)"
+   }
+  },
+  {
+   "say": "In January twenty twenty-six, a bettor named Timothy McCormack was sentenced to two years in prison by Judge DeArcy Hall. The indictment says he and another man bet about forty-one thousand dollars on Rozier's unders that night.",
+   "show": "In January 2026, a bettor named Timothy McCormack was sentenced to two years in prison by Judge DeArcy Hall. The indictment says he and another man bet about $41,000 on Rozier's unders that night.",
+   "scene": {
+    "type": "stat",
+    "kicker": "JANUARY 2026 · FIRST SENTENCE",
+    "value": "2 years",
+    "label": "Timothy McCormack, a bettor in the related schemes",
+    "src": "Covers (Jan 22, 2026) · Indictment, U.S. v. Earnest et al., E.D.N.Y. 25-cr-323, ECF 17 (Oct 16, 2025)"
+   }
+  },
+  {
+   "say": "In April, Damon Jones pleaded guilty to two counts of wire fraud conspiracy, covering this case and a separate rigged-poker case. According to AP, he acknowledged using insider information from relationships he made as a player. His sentencing is set for January sixth.",
+   "show": "In April, Damon Jones pleaded guilty to two counts of wire fraud conspiracy, covering this case and a separate rigged-poker case. According to AP, he acknowledged using insider information from relationships he made as a player. His sentencing is set for January 6.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "BROOKLYN · APRIL 28, 2026",
+    "stamp": "GUILTY PLEA",
+    "big": "Damon Jones",
+    "sub": "two counts of wire fraud conspiracy · sentencing Jan 6, 2027"
+   }
+  },
+  {
+   "say": "Then, on May twenty-eighth, Marves Fairley, one of the alleged buyers of Rozier's information, pleaded guilty to seven felony counts across two cases. In court he said: I agreed to pay a player to change their game performance.",
+   "show": "Then, on May 28, Marves Fairley, one of the alleged buyers of Rozier's information, pleaded guilty to seven felony counts across two cases. In court he said: \"I agreed to pay a player to change their game performance.\"",
+   "scene": {
+    "type": "quote",
+    "q": "I agreed to pay a player to change their game performance",
+    "case": "BROOKLYN · MAY 28, 2026",
+    "doc": "MARVES FAIRLEY, AT HIS PLEA",
+    "cite": "As quoted by Covers (May 28, 2026)"
+   }
+  },
+  {
+   "say": "He did not say the name. A prosecutor did. According to Covers, a lawyer for the U.S. Attorney's Office told the court the player Fairley referenced was Rozier. Rozier's attorney disputed that his client was paid to alter his play.",
+   "scene": {
+    "type": "big",
+    "kicker": "MAY 28, 2026 · IN COURT",
+    "lines": [
+     "A prosecutor:",
+     "the player|was Rozier."
+    ],
+    "src": "As reported by Covers (May 28, 2026)"
+   }
+  },
+  {
+   "say": "Fairley's own sentencing is expected in February. Under his plea, he faces up to twenty years on six of the counts, and he agreed to a six hundred seventy-six thousand seven hundred dollar penalty, according to Covers.",
+   "show": "Fairley's own sentencing is expected in February. Under his plea, he faces up to 20 years on six of the counts, and he agreed to a $676,700 penalty, according to Covers.",
+   "scene": {
+    "type": "stat",
+    "kicker": "FAIRLEY'S PLEA",
+    "value": "$676,700",
+    "label": "agreed penalty · up to 20 years on 6 counts",
+    "src": "Covers (May 28, 2026)"
+   }
+  },
+  {
+   "say": "So some of the people accused of buying the information, or betting on it, have pleaded guilty. Rozier has not. He says he never knew about any bets.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Some plead guilty.",
+     "He pleads|not guilty."
+    ],
+    "src": "Covers (May 28, 2026) · Rozier's omnibus motion in limine, ECF 169 (Nov 12, 2026)"
+   }
+  },
+  {
+   "say": "Chapter six. His side.",
+   "scene": {
+    "type": "chapter",
+    "n": "VI",
+    "title": "His Side"
+   }
+  },
+  {
+   "say": "Rozier's defense, as the government itself summarizes it, is simple. He did not know about any bets. He left the game because he was hurt.",
+   "scene": {
+    "type": "doc",
+    "img": "img/g166_2.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2744,
+     1.0,
+     0.0466
+    ],
+    "kicker": "GOVERNMENT LETTER · NOV 3, 2026",
+    "title": "“He did not know about any bets.”",
+    "src": "Gov't letter opposing severance, ECF 166 (Nov 3, 2026)"
+   }
+  },
+  {
+   "say": "His lawyers say the objective evidence backs him. Unlike every other individual charged in this sweeping conspiracy, they wrote, he never placed a bet on an NBA game or player prop, and he had no knowledge that anyone else was betting on his performance.",
+   "scene": {
+    "type": "quote",
+    "q": "he never placed a bet on an NBA game or player prop, and he had no knowledge that anyone else was betting on his performance.",
+    "case": "UNITED STATES v. ROZIER",
+    "doc": "DEFENSE FILING · NOV 12, 2026",
+    "cite": "Rozier's omnibus motion in limine, ECF 169 (Nov 12, 2026)"
+   }
+  },
+  {
+   "say": "They point to three things. Medical evidence that he was genuinely injured. The rebounds: he beat that line, the opposite of what the bettors wanted. And one text message.",
+   "scene": {
+    "type": "list",
+    "kicker": "THE DEFENSE'S THREE POINTS",
+    "items": [
+     [
+      "1",
+      "medical evidence of a genuine injury"
+     ],
+     [
+      "2",
+      "he exceeded his rebounding prop"
+     ],
+     [
+      "3",
+      "the \"don't tell chum\" text"
+     ]
+    ],
+    "src": "Rozier's omnibus motion in limine, ECF 169 (Nov 12, 2026)"
+   }
+  },
+  {
+   "say": "Remember the nickname. Chum. While in Philadelphia, Laster texted a third person: Dont tell Chum bout the bet.",
+   "show": "Remember the nickname. \"Chum.\" While in Philadelphia, Laster texted a third person: \"Dont tell Chum bout the bet.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/g144_8.jpg",
+    "pan": [
+     0.496,
+     0.496
+    ],
+    "hl": [
+     0.0,
+     0.8882,
+     1.0,
+     0.0657
+    ],
+    "kicker": "GOVERNMENT FILING · AUG 26, 2026 · FOOTNOTE 2",
+    "title": "“Dont [sic] tell Chum bout the bet.”",
+    "src": "Gov't opposition to Rozier's motion to dismiss, ECF 144 (Aug 26, 2026)"
+   }
+  },
+  {
+   "say": "The defense says that text guts the case. Why hide a bet from the man who supposedly sold it?",
+   "scene": {
+    "type": "big",
+    "kicker": "THE DEFENSE",
+    "lines": [
+     "Why hide the bet",
+     "from Chum?"
+    ],
+    "src": "Rozier's omnibus motion in limine, ECF 169 (Nov 12, 2026)"
+   }
+  },
+  {
+   "say": "The government says its investigation developed evidence from multiple sources that this text chain does not relate to sports gambling. According to the defense, prosecutors now say it was about table games at a casino.",
+   "scene": {
+    "type": "doc",
+    "img": "img/g144_8.jpg",
+    "pan": [
+     0.496,
+     0.496
+    ],
+    "hl": [
+     0.0,
+     0.8882,
+     1.0,
+     0.0657
+    ],
+    "kicker": "GOVERNMENT FILING · AUG 26, 2026 · FOOTNOTE 2",
+    "title": "“does not relate to sports gambling”",
+    "src": "Gov't opposition to Rozier's motion to dismiss, ECF 144 (Aug 26, 2026)"
+   }
+  },
+  {
+   "say": "A jury may decide which reading is right. If the text is admitted at all.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Casino talk",
+     "or a cover-up?"
+    ],
+    "src": "Gov't opposition to Rozier's motion to dismiss, ECF 144 (Aug 26, 2026) · Rozier's omnibus motion in limine, ECF 169 (Nov 12, 2026)"
+   }
+  },
+  {
+   "say": "Rozier and Laster also asked to be tried separately. The government opposed it, calling Rozier's defense, in effect, an argument that no crime occurred, and asked to keep the joint trial, about three weeks long, starting February eighth, twenty twenty-seven.",
+   "show": "Rozier and Laster also asked to be tried separately. The government opposed it, calling Rozier's defense, in effect, an argument that no crime occurred, and asked to keep the joint trial, about three weeks long, starting February 8, 2027.",
+   "scene": {
+    "type": "doc",
+    "img": "img/g166_1.jpg",
+    "pan": [
+     0.323,
+     0.358
+    ],
+    "hl": [
+     0.0,
+     0.6582,
+     1.0,
+     0.0303
+    ],
+    "kicker": "GOVERNMENT LETTER · NOV 3, 2026",
+    "title": "Joint trial on February 8, 2027",
+    "src": "Gov't letter opposing severance, ECF 166 (Nov 3, 2026)"
+   }
+  },
+  {
+   "say": "Chapter seven. The new filing.",
+   "scene": {
+    "type": "chapter",
+    "n": "VII",
+    "title": "The New Filing"
+   }
+  },
+  {
+   "say": "Which brings us to last week. On November thirteenth, ESPN reported on a new government filing, asking the judge to admit more evidence at trial.",
+   "show": "Which brings us to last week. On November 13, ESPN reported on a new government filing, asking the judge to admit more evidence at trial.",
+   "scene": {
+    "type": "big",
+    "kicker": "ESPN · NOVEMBER 13, 2026",
+    "lines": [
+     "New evidence,",
+     "prosecutors say."
+    ],
+    "src": "ESPN, David Purdum (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "The headline claim: in April twenty twenty-three, about two weeks after the Pelicans game, Laster allegedly texted Fairley that he and Rozier were setting up another under bet, this one involving one of Rozier's then-teammates.",
+   "show": "The headline claim: in April 2023, about two weeks after the Pelicans game, Laster allegedly texted Fairley that he and Rozier were setting up another under bet, this one involving one of Rozier's then-teammates.",
+   "scene": {
+    "type": "big",
+    "kicker": "APRIL 2023 · ALLEGED · AS DESCRIBED BY ESPN",
+    "lines": [
+     "Another under bet?",
+     "A teammate,|prosecutors say."
+    ],
+    "src": "ESPN, David Purdum (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "Be careful with this one. ESPN reports it is unclear whether Rozier knew about that text, whether the teammate knew of any plan, or whether any bet was ever placed. The government has not charged Laster or Rozier over it.",
+   "scene": {
+    "type": "list",
+    "kicker": "WHAT IS NOT KNOWN",
+    "items": [
+     [
+      "?",
+      "whether Rozier knew of the text"
+     ],
+     [
+      "?",
+      "whether the teammate knew of any plan"
+     ],
+     [
+      "?",
+      "whether any bet was placed"
+     ],
+     [
+      "0",
+      "charges against Laster or Rozier over it"
+     ]
+    ],
+    "src": "ESPN, David Purdum (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "The filing also accuses Rozier of lying to the NBA during its investigation, and of not turning over all of his phones. And it asks the judge to let the jury hear that Rozier is paying the legal fees of Laster and Laster's siblings.",
+   "scene": {
+    "type": "list",
+    "kicker": "THE GOVERNMENT'S NEW CLAIMS · NOV 2026",
+    "items": [
+     [
+      "1",
+      "lied to the NBA's investigators (alleged)"
+     ],
+     [
+      "2",
+      "did not turn over all his phones (alleged)"
+     ],
+     [
+      "3",
+      "pays legal fees for Laster and his siblings (alleged)"
+     ],
+     [
+      "4",
+      "told people March 23 would be his last game of the season (alleged)"
+     ]
+    ],
+    "src": "ESPN, David Purdum (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "His lawyer, David Markus, told ESPN they deny the new allegations in the strongest possible way.",
+   "scene": {
+    "type": "big",
+    "kicker": "DAVID MARKUS · ROZIER'S LAWYER",
+    "lines": [
+     "\"In the strongest",
+     "possible way.\""
+    ],
+    "src": "ESPN, David Purdum (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "And the NBA? A league spokesperson said the league understands no player other than Rozier is alleged to have engaged in misconduct in this scheme. We continue to cooperate with the government's investigation.",
+   "scene": {
+    "type": "quote",
+    "q": "We continue to cooperate with the government's investigation.",
+    "case": "NBA SPOKESPERSON",
+    "doc": "TO ESPN · NOV 2026",
+    "cite": "ESPN, David Purdum (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "So here is where it stands. Rozier faces four counts, including conspiracy to launder money. The original charges each carried a maximum of twenty years. He says he was injured, and never knew about a single bet.",
+   "scene": {
+    "type": "list",
+    "kicker": "THE CHARGES AGAINST ROZIER",
+    "items": [
+     [
+      "1",
+      "wire fraud conspiracy"
+     ],
+     [
+      "2",
+      "money laundering conspiracy"
+     ],
+     [
+      "3",
+      "bribery in sporting contests"
+     ],
+     [
+      "4",
+      "honest services wire fraud conspiracy"
+     ]
+    ],
+    "src": "Gov't opposition to Rozier's motion to dismiss, ECF 144 (Aug 26, 2026) · U.S. Attorney's Office, E.D.N.Y., press release (Oct 23, 2025)"
+   }
+  },
+  {
+   "say": "The government says the nine minutes were planned, the information was sold, and the cash was counted at his house.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE GOVERNMENT'S CASE · ALLEGED",
+    "lines": [
+     "Planned. Sold.",
+     "Counted."
+    ],
+    "src": "Superseding Indictment, E.D.N.Y. 25-cr-323, ECF 101 (May 28, 2026) · Gov't opposition to Rozier's motion to dismiss, ECF 144 (Aug 26, 2026)"
+   }
+  },
+  {
+   "say": "In February, a Brooklyn jury will be asked one question. Was Terry Rozier hurt, or was he paid?",
+   "scene": {
+    "type": "big",
+    "kicker": "FEBRUARY 8, 2027 · BROOKLYN",
+    "lines": [
+     "Hurt",
+     "or paid?"
+    ],
+    "src": "Gov't letter opposing severance, ECF 166 (Nov 3, 2026)"
+   }
+  },
+  {
+   "say": "Until then, he is presumed innocent. What do you think the four rebounds prove? Tell us in the comments. This is SWORN.",
+   "scene": {
+    "type": "end",
+    "cta": "WHAT DO THE FOUR REBOUNDS PROVE?"
+   }
+  }
+ ]
+}

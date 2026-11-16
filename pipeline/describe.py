@@ -12,4 +12,6 @@ out += ["", "Every quotation on screen is verbatim from the source shown with it
         "Narration uses a synthetic voice.",
         "SWORN is an independent channel and is not affiliated with any court or government agency.",
         "", M.get("hashtags", "#truecrime #courtcase #fraud #documentary")]
+if M.get("question"):
+    out += ["", M["question"]]
 open(f"{W}/out/youtube_description.txt", "w").write("\n".join(out)); print("\n".join(out))

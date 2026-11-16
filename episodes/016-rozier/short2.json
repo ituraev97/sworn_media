@@ -1,0 +1,77 @@
+{
+ "title": "Four Rebounds Cut the Alleged Bribe to $70K, Feds Say",
+ "template": "twist (one stat, two stories)",
+ "lines": [
+  {
+   "say": "Four rebounds. Prosecutors say that one stat cut Terry Rozier's alleged bribe from a hundred thousand to seventy thousand dollars.",
+   "show": "Four rebounds. Prosecutors say that one stat cut Terry Rozier's alleged bribe from $100,000 to $70,000.",
+   "scene": {
+    "type": "hook",
+    "img": "img/sup_13.jpg",
+    "pos": "50% 38%",
+    "zoom": 1.9,
+    "tag": "CHARGED",
+    "number": "$70K",
+    "label": "AFTER 4 REBOUNDS|PROSECUTORS SAY"
+   }
+  },
+  {
+   "say": "He left the game after nine minutes. Points, assists, threes: all under the betting lines.",
+   "show": "He left the game after nine minutes. Points, assists, threes: all under the betting lines.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_12.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2199,
+     1.0,
+     0.1279
+    ],
+    "kicker": "THE INDICTMENT · PARAGRAPH 41",
+    "src": "Indictment, E.D.N.Y. 25-cr-323, ECF 17"
+   }
+  },
+  {
+   "say": "But four rebounds went over. Some bets lost. So, the superseding indictment alleges, the bribe was negotiated down.",
+   "scene": {
+    "type": "doc",
+    "img": "img/sup_13.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3249,
+     1.0,
+     0.1509
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · PARAGRAPH 44",
+    "src": "Superseding Indictment, ECF 101 (May 28, 2026)"
+   }
+  },
+  {
+   "say": "His lawyers say the same stat shows he played hard, the opposite of what bettors wanted.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE DEFENSE · NOV 12, 2026",
+    "lines": [
+     "Same stat.",
+     "Opposite|story."
+    ],
+    "src": "Rozier motion in limine, ECF 169 (Nov 12, 2026)"
+   }
+  },
+  {
+   "say": "He pleaded not guilty. So who's right? Tell me below.",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

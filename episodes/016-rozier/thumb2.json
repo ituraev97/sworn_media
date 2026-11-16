@@ -1,0 +1,57 @@
+{
+ "A": {
+  "left": {
+   "img": "img/rozier_face.jpg",
+   "pos": "50% 40%",
+   "zoom": 1.0
+  },
+  "right": {
+   "number": "$100K",
+   "label": "ALLEGED BRIBE"
+  },
+  "split": 0.5,
+  "tag": "BREAKING",
+  "breaking": true,
+  "line1": "NBA STAR CHARGED",
+  "line2": "LEFT GAME AFTER 9 MIN",
+  "line2color": "red",
+  "size1": 100,
+  "size2": 96
+ },
+ "B": {
+  "left": {
+   "img": "img/rozier_face.jpg",
+   "pos": "50% 42%",
+   "zoom": 1.2
+  },
+  "right": {
+   "number": "9:34",
+   "label": "MINUTES PLAYED"
+  },
+  "split": 0.56,
+  "tag": "CHARGED",
+  "line1": "TERRY ROZIER",
+  "line2": "HURT OR PAID?",
+  "line2color": "yellow",
+  "size1": 110,
+  "size2": 120
+ },
+ "C": {
+  "left": {
+   "img": "img/rozier_face.jpg",
+   "pos": "50% 40%",
+   "zoom": 1.0
+  },
+  "right": {
+   "number": "$70K",
+   "label": "CASH, FEDS ALLEGE"
+  },
+  "split": 0.5,
+  "tag": "CHARGED",
+  "line1": "4 REBOUNDS",
+  "line2": "$100K TO $70K, FEDS SAY",
+  "line2color": "yellow",
+  "size1": 110,
+  "size2": 92
+ }
+}

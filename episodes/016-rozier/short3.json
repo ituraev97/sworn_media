@@ -1,0 +1,77 @@
+{
+ "title": "\"Dont Tell Chum Bout the Bet\": The Disputed Text",
+ "template": "verbatim quote (contested text)",
+ "lines": [
+  {
+   "say": "Dont tell Chum bout the bet. Chum is Terry Rozier's nickname. And this one text may decide his case.",
+   "show": "\"Dont tell Chum bout the bet.\" \"Chum\" is Terry Rozier's nickname. And this one text may decide his case.",
+   "scene": {
+    "type": "hook",
+    "img": "img/g144_8.jpg",
+    "pos": "50% 96%",
+    "zoom": 1.9,
+    "tag": "CHARGED",
+    "number": "\"THE BET\"",
+    "label": "\"DONT TELL CHUM|BOUT THE BET\""
+   }
+  },
+  {
+   "say": "Prosecutors say his friend Deniro Laster sold word of Rozier's early exit from a March twenty twenty-three game.",
+   "show": "Prosecutors say his friend Deniro Laster sold word of Rozier's early exit from a March 2023 game.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_8.jpg",
+    "pan": [
+     0.551,
+     0.551
+    ],
+    "hl": [
+     0.0,
+     0.8262,
+     1.0,
+     0.0927
+    ],
+    "kicker": "THE INDICTMENT · PARAGRAPH 36",
+    "src": "Indictment, E.D.N.Y. 25-cr-323, ECF 17"
+   }
+  },
+  {
+   "say": "Laster sent that text from Philadelphia. The defense says it proves Rozier never knew about the bets.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE DEFENSE",
+    "lines": [
+     "Why hide it",
+     "from Chum?"
+    ],
+    "src": "Rozier motion in limine, ECF 169 (Nov 12, 2026)"
+   }
+  },
+  {
+   "say": "The government says the text has nothing to do with sports gambling.",
+   "scene": {
+    "type": "doc",
+    "img": "img/g144_8.jpg",
+    "pan": [
+     0.555,
+     0.555
+    ],
+    "hl": [
+     0.0,
+     0.8882,
+     1.0,
+     0.0657
+    ],
+    "kicker": "GOVERNMENT FILING · FOOTNOTE 2",
+    "src": "Gov't filing, ECF 144 (Aug 26, 2026)"
+   }
+  },
+  {
+   "say": "Trial is set for February. What do you think it means? Tell me below.",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}
