@@ -25,7 +25,7 @@ shorts = [
  {"title": "$100,000 to Leave a Game Early? The Terry Rozier Case", "template": "number reveal (alleged bribe)",
   "lines": [
   L("A hundred thousand dollars to leave an NBA game early. That's what prosecutors say Terry Rozier agreed to.",
-    dict(type="hook", img="img/rozier_face.jpg", pos="50% 30%", zoom=1.0, tag="CHARGED", number="$100K", label="ALLEGED BRIBE|TO LEAVE A GAME"),
+    dict(type="hook", img="img/rozier_hook.jpg", pos="50% 0%", zoom=1.3334, tag="CHARGED", number="$100K", label="ALLEGED BRIBE|TO LEAVE A GAME"),
     show="$100,000 to leave an NBA game early. That's what prosecutors say Terry Rozier agreed to."),
   L("March twenty-third, twenty twenty-three. He walked off after nine minutes and thirty-four seconds. He wasn't on the injury report.",
     doc("ind_12", "THE INDICTMENT · PARAGRAPH 41", SRC_I, 0),

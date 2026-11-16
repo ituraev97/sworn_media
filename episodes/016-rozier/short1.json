@@ -7,9 +7,9 @@
    "show": "$100,000 to leave an NBA game early. That's what prosecutors say Terry Rozier agreed to.",
    "scene": {
     "type": "hook",
-    "img": "img/rozier_face.jpg",
-    "pos": "50% 30%",
-    "zoom": 1.0,
+    "img": "img/rozier_hook.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
     "tag": "CHARGED",
     "number": "$100K",
     "label": "ALLEGED BRIBE|TO LEAVE A GAME"
