@@ -1,0 +1,57 @@
+{
+ "A": {
+  "left": {
+   "img": "img/shkreli_face.jpg",
+   "cover": true,
+   "pos": "50% 25%"
+  },
+  "right": {
+   "img": "img/r29_aum.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%",
+   "stamp": "GUILTY",
+   "stampPos": "left:50%;top:42%"
+  },
+  "split": 0.5,
+  "tag": "GUILTY",
+  "line1": "IT WASN'T THE PILL",
+  "line2": "\"$35M\" WAS $1.13M",
+  "line2color": "red",
+  "size1": 100,
+  "size2": 100
+ },
+ "B": {
+  "left": {
+   "q": [
+    "WHY",
+    "PRISON?"
+   ]
+  },
+  "right": {
+   "img": "img/shkreli_face.jpg",
+   "cover": true,
+   "pos": "50% 25%"
+  },
+  "split": 0.5,
+  "tag": "GUILTY"
+ },
+ "C": {
+  "left": {
+   "img": "img/r29_113.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%"
+  },
+  "right": {
+   "img": "img/shkreli_face.jpg",
+   "cover": true,
+   "pos": "50% 25%"
+  },
+  "split": 0.42,
+  "tag": "GUILTY",
+  "line1": "PHARMA BRO",
+  "line2": "GUILTY OF FRAUD",
+  "line2color": "yellow",
+  "size1": 100,
+  "size2": 104
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "A": {
+  "left": {
+   "img": "img/ebbers_face.jpg",
+   "cover": true,
+   "pos": "50% 25%"
+  },
+  "right": {
+   "img": "img/opp_38.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%",
+   "stamp": "25 YEARS",
+   "stampPos": "left:50%;top:42%"
+  },
+  "split": 0.5,
+  "tag": "SENTENCED",
+  "line1": "$3.8 BILLION HIDDEN",
+  "line2": "WORLDCOM FRAUD",
+  "line2color": "red",
+  "size1": 100,
+  "size2": 104
+ },
+ "B": {
+  "left": {
+   "q": [
+    "WHO",
+    "HID",
+    "$3.8B?"
+   ]
+  },
+  "right": {
+   "img": "img/ebbers_face.jpg",
+   "cover": true,
+   "pos": "50% 25%"
+  },
+  "split": 0.5,
+  "tag": "SENTENCED"
+ },
+ "C": {
+  "left": {
+   "img": "img/ca2_harsh.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%"
+  },
+  "right": {
+   "img": "img/ebbers_face.jpg",
+   "cover": true,
+   "pos": "50% 25%"
+  },
+  "split": 0.42,
+  "tag": "SENTENCED",
+  "line1": "\"HIT THE NUMBERS\"",
+  "line2": "25 YEARS IN PRISON",
+  "line2color": "yellow",
+  "size1": 100,
+  "size2": 104
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "A": {
+  "left": {
+   "img": "img/link_face.jpg",
+   "cover": true,
+   "pos": "50% 30%"
+  },
+  "right": {
+   "img": "img/poster.jpg",
+   "zoom": 1.2,
+   "pos": "50% 10%",
+   "stamp": "CONVICTED",
+   "stampPos": "left:50%;top:42%"
+  },
+  "split": 0.5,
+  "tag": "CONVICTED",
+  "line1": "FBI FUGITIVE CONVICTED",
+  "line2": "$240M CATTLE PONZI",
+  "line2color": "red",
+  "size1": 100,
+  "size2": 100
+ },
+ "B": {
+  "left": {
+   "q": [
+    "WHERE",
+    "ARE THE",
+    "COWS?"
+   ]
+  },
+  "right": {
+   "img": "img/link_face.jpg",
+   "cover": true,
+   "pos": "50% 30%"
+  },
+  "split": 0.5,
+  "tag": "CONVICTED"
+ },
+ "C": {
+  "left": {
+   "img": "img/sec_1.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%"
+  },
+  "right": {
+   "img": "img/link_face.jpg",
+   "cover": true,
+   "pos": "50% 30%"
+  },
+  "split": 0.42,
+  "tag": "CONVICTED",
+  "line1": "\"TOO GOOD TO BE TRUE\"",
+  "line2": "THEIR OWN AD SAID IT",
+  "line2color": "yellow",
+  "size1": 100,
+  "size2": 104
+ }
+}

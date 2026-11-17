@@ -1,0 +1,58 @@
+{
+ "A": {
+  "left": {
+   "img": "img/madoff_face.jpg",
+   "cover": true,
+   "pos": "50% 25%"
+  },
+  "right": {
+   "img": "img/stanford_face.jpg",
+   "cover": true,
+   "pos": "50% 30%"
+  },
+  "split": 0.5,
+  "tag": "SENTENCED",
+  "line1": "5 PONZI SCHEMES",
+  "line2": "50+ YEARS IN PRISON",
+  "line2color": "red",
+  "size1": 104,
+  "size2": 104
+ },
+ "B": {
+  "left": {
+   "q": [
+    "WHO",
+    "GOT THE",
+    "MOST?"
+   ]
+  },
+  "right": {
+   "img": "img/madoff_face.jpg",
+   "cover": true,
+   "pos": "50% 25%"
+  },
+  "split": 0.5,
+  "tag": "SENTENCED"
+ },
+ "C": {
+  "left": {
+   "img": "img/md_sent.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%",
+   "stamp": "150 YEARS",
+   "stampPos": "left:50%;top:42%"
+  },
+  "right": {
+   "img": "img/madoff_face.jpg",
+   "cover": true,
+   "pos": "50% 25%"
+  },
+  "split": 0.42,
+  "tag": "SENTENCED",
+  "line1": "#1 OF 5",
+  "line2": "150 YEARS",
+  "line2color": "yellow",
+  "size1": 100,
+  "size2": 110
+ }
+}

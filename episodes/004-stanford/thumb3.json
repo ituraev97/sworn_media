@@ -1,0 +1,58 @@
+{
+ "A": {
+  "left": {
+   "img": "img/stanford_face.jpg",
+   "cover": true,
+   "pos": "50% 30%"
+  },
+  "right": {
+   "img": "img/pr_sent.jpg",
+   "zoom": 1.6,
+   "pos": "10% 5%",
+   "stamp": "110 YEARS",
+   "stampPos": "left:50%;top:42%"
+  },
+  "split": 0.5,
+  "tag": "SENTENCED",
+  "line1": "THE SEC KNEW IN 1997",
+  "line2": "$7 BILLION FRAUD",
+  "line2color": "red",
+  "size1": 100,
+  "size2": 100
+ },
+ "B": {
+  "left": {
+   "q": [
+    "WHY",
+    "WAIT",
+    "12 YEARS?"
+   ]
+  },
+  "right": {
+   "img": "img/stanford_face.jpg",
+   "cover": true,
+   "pos": "50% 30%"
+  },
+  "split": 0.5,
+  "tag": "SENTENCED"
+ },
+ "C": {
+  "left": {
+   "img": "img/cmp_cover.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%"
+  },
+  "right": {
+   "img": "img/stanford_face.jpg",
+   "cover": true,
+   "pos": "50% 30%"
+  },
+  "split": 0.42,
+  "tag": "SENTENCED",
+  "line1": "POSSIBLE PONZI",
+  "line2": "110 YEARS IN PRISON",
+  "line2color": "yellow",
+  "size1": 100,
+  "size2": 104
+ }
+}

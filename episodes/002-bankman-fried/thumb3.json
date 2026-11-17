@@ -1,0 +1,58 @@
+{
+ "A": {
+  "left": {
+   "img": "img/sbf_face.jpg",
+   "cover": true,
+   "pos": "50% 25%"
+  },
+  "right": {
+   "img": "img/tweets.jpg",
+   "zoom": 1.6,
+   "pos": "20% 8%",
+   "stamp": "25 YEARS",
+   "stampPos": "left:50%;top:42%"
+  },
+  "split": 0.5,
+  "tag": "SENTENCED",
+  "line1": "\"FTX IS FINE\"",
+  "line2": "THEN 25 YEARS",
+  "line2color": "red",
+  "size1": 100,
+  "size2": 100
+ },
+ "B": {
+  "left": {
+   "q": [
+    "FTX",
+    "IS",
+    "FINE?"
+   ]
+  },
+  "right": {
+   "img": "img/sbf_face.jpg",
+   "cover": true,
+   "pos": "50% 25%"
+  },
+  "split": 0.5,
+  "tag": "SENTENCED"
+ },
+ "C": {
+  "left": {
+   "img": "img/judgment3.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%"
+  },
+  "right": {
+   "img": "img/sbf_face.jpg",
+   "cover": true,
+   "pos": "50% 25%"
+  },
+  "split": 0.42,
+  "tag": "SENTENCED",
+  "line1": "THE TWEET VS. THE TRUTH",
+  "line2": "25 YEARS IN PRISON",
+  "line2color": "yellow",
+  "size1": 100,
+  "size2": 104
+ }
+}

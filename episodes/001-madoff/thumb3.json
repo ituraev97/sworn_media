@@ -1,0 +1,58 @@
+{
+ "A": {
+  "left": {
+   "img": "img/madoff_face.jpg",
+   "cover": true,
+   "pos": "50% 25%"
+  },
+  "right": {
+   "img": "img/arrest2.jpg",
+   "zoom": 1.6,
+   "pos": "10% 35%",
+   "stamp": "150 YEARS",
+   "stampPos": "left:50%;top:42%"
+  },
+  "split": 0.5,
+  "tag": "SENTENCED",
+  "line1": "\"ONE BIG LIE\"",
+  "line2": "HE CONFESSED IT ALL",
+  "line2color": "red",
+  "size1": 100,
+  "size2": 100
+ },
+ "B": {
+  "left": {
+   "q": [
+    "WHAT",
+    "DID HE",
+    "CONFESS?"
+   ]
+  },
+  "right": {
+   "img": "img/madoff_face.jpg",
+   "cover": true,
+   "pos": "50% 25%"
+  },
+  "split": 0.5,
+  "tag": "SENTENCED"
+ },
+ "C": {
+  "left": {
+   "img": "img/sentence.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%"
+  },
+  "right": {
+   "img": "img/madoff_face.jpg",
+   "cover": true,
+   "pos": "50% 25%"
+  },
+  "split": 0.42,
+  "tag": "SENTENCED",
+  "line1": "THE CONFESSION",
+  "line2": "150 YEARS IN PRISON",
+  "line2color": "yellow",
+  "size1": 100,
+  "size2": 104
+ }
+}

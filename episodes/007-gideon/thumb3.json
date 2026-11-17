@@ -1,0 +1,57 @@
+{
+ "A": {
+  "left": {
+   "img": "img/gideon_face.jpg",
+   "cover": true,
+   "pos": "50% 25%"
+  },
+  "right": {
+   "img": "img/op_coll.jpg",
+   "zoom": 1.6,
+   "pos": "20% 30%",
+   "stamp": "NO LAWYER",
+   "stampPos": "left:50%;top:42%"
+  },
+  "split": 0.5,
+  "tag": "SUPREME COURT",
+  "line1": "TOO POOR FOR A LAWYER",
+  "line2": "HE WON 9\u20130",
+  "line2color": "red",
+  "size1": 100,
+  "size2": 100
+ },
+ "B": {
+  "left": {
+   "q": [
+    "NO",
+    "LAWYER?"
+   ]
+  },
+  "right": {
+   "img": "img/gideon_face.jpg",
+   "cover": true,
+   "pos": "50% 25%"
+  },
+  "split": 0.5,
+  "tag": "SUPREME COURT"
+ },
+ "C": {
+  "left": {
+   "img": "img/verdict.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%"
+  },
+  "right": {
+   "img": "img/gideon_face.jpg",
+   "cover": true,
+   "pos": "50% 25%"
+  },
+  "split": 0.42,
+  "tag": "SUPREME COURT",
+  "line1": "SAME MAN. NEW TRIAL.",
+  "line2": "NOT GUILTY",
+  "line2color": "yellow",
+  "size1": 100,
+  "size2": 104
+ }
+}

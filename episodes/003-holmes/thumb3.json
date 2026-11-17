@@ -1,0 +1,57 @@
+{
+ "A": {
+  "left": {
+   "img": "img/holmes_face.jpg",
+   "cover": true,
+   "pos": "52% 22%"
+  },
+  "right": {
+   "img": "img/verdict1.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%",
+   "stamp": "GUILTY",
+   "stampPos": "left:50%;top:42%"
+  },
+  "split": 0.5,
+  "tag": "GUILTY",
+  "line1": "GUILTY ON INVESTORS",
+  "line2": "NOT GUILTY ON PATIENTS",
+  "line2color": "red",
+  "size1": 100,
+  "size2": 100
+ },
+ "B": {
+  "left": {
+   "q": [
+    "GUILTY",
+    "OR NOT?"
+   ]
+  },
+  "right": {
+   "img": "img/holmes_face.jpg",
+   "cover": true,
+   "pos": "52% 22%"
+  },
+  "split": 0.5,
+  "tag": "GUILTY"
+ },
+ "C": {
+  "left": {
+   "img": "img/verdict2.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%"
+  },
+  "right": {
+   "img": "img/holmes_face.jpg",
+   "cover": true,
+   "pos": "52% 22%"
+  },
+  "split": 0.42,
+  "tag": "GUILTY",
+  "line1": "SPLIT VERDICT",
+  "line2": "NOW 123 MONTHS",
+  "line2color": "yellow",
+  "size1": 100,
+  "size2": 104
+ }
+}
