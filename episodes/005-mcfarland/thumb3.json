@@ -1,0 +1,57 @@
+{
+ "A": {
+  "left": {
+   "img": "img/mcfarland_face.jpg",
+   "cover": true,
+   "pos": "50% 30%"
+  },
+  "right": {
+   "img": "img/memo_1459.jpg",
+   "zoom": 1.5,
+   "pos": "40% 50%",
+   "stamp": "6 YEARS",
+   "stampPos": "left:50%;top:42%"
+  },
+  "split": 0.5,
+  "tag": "SENTENCED",
+  "line1": "$1.46M REAL",
+  "line2": "$34.79M ON PAPER",
+  "line2color": "red",
+  "size1": 110,
+  "size2": 110
+ },
+ "B": {
+  "left": {
+   "q": [
+    "FAKE",
+    "NUMBERS?"
+   ]
+  },
+  "right": {
+   "img": "img/mcfarland_face.jpg",
+   "cover": true,
+   "pos": "50% 30%"
+  },
+  "split": 0.5,
+  "tag": "SENTENCED"
+ },
+ "C": {
+  "left": {
+   "img": "img/jdg_72.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%"
+  },
+  "right": {
+   "img": "img/mcfarland_face.jpg",
+   "cover": true,
+   "pos": "50% 30%"
+  },
+  "split": 0.42,
+  "tag": "SENTENCED",
+  "line1": "FYRE FESTIVAL FRAUD",
+  "line2": "6 YEARS IN PRISON",
+  "line2color": "yellow",
+  "size1": 100,
+  "size2": 104
+ }
+}

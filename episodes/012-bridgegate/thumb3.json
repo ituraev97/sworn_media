@@ -1,0 +1,58 @@
+{
+ "A": {
+  "left": {
+   "number": "9\u20130",
+   "label": "SUPREME COURT"
+  },
+  "right": {
+   "img": "img/usb_14.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%",
+   "stamp": "THROWN OUT",
+   "stampPos": "left:50%;top:42%"
+  },
+  "split": 0.5,
+  "tag": "REVERSED",
+  "line1": "GUILTY. THEN 9\u20130.",
+  "line2": "BRIDGEGATE THROWN OUT",
+  "line2color": "red",
+  "size1": 104,
+  "size2": 96
+ },
+ "B": {
+  "left": {
+   "q": [
+    "WHY",
+    "THROWN",
+    "OUT?"
+   ]
+  },
+  "right": {
+   "img": "img/usb_bridge.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%",
+   "stamp": "REVERSED",
+   "stampPos": "left:50%;top:42%"
+  },
+  "split": 0.5,
+  "tag": "REVERSED"
+ },
+ "C": {
+  "left": {
+   "img": "img/usb_bridge.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%"
+  },
+  "right": {
+   "number": "9\u20130",
+   "label": "UNANIMOUS"
+  },
+  "split": 0.42,
+  "tag": "REVERSED",
+  "line1": "\"TRAFFIC PROBLEMS\"",
+  "line2": "CONVICTIONS THROWN OUT",
+  "line2color": "yellow",
+  "size1": 100,
+  "size2": 96
+ }
+}

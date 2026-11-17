@@ -1,0 +1,58 @@
+{
+ "A": {
+  "left": {
+   "number": "155 MO",
+   "label": "MORE THAN HOLMES"
+  },
+  "right": {
+   "img": "img/ca9_all.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%",
+   "stamp": "ALL 12 COUNTS",
+   "stampPos": "left:50%;top:42%"
+  },
+  "split": 0.5,
+  "tag": "GUILTY",
+  "line1": "THE OTHER THERANOS VERDICT",
+  "line2": "GUILTY ON ALL 12 COUNTS",
+  "line2color": "red",
+  "size1": 92,
+  "size2": 96
+ },
+ "B": {
+  "left": {
+   "q": [
+    "WHY",
+    "MORE TIME",
+    "THAN HOLMES?"
+   ]
+  },
+  "right": {
+   "img": "img/ca9_155.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%",
+   "stamp": "155 MONTHS",
+   "stampPos": "left:50%;top:42%"
+  },
+  "split": 0.5,
+  "tag": "GUILTY"
+ },
+ "C": {
+  "left": {
+   "img": "img/ca9_155.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%"
+  },
+  "right": {
+   "number": "155",
+   "label": "VS. HOLMES: 135"
+  },
+  "split": 0.42,
+  "tag": "GUILTY",
+  "line1": "SUNNY BALWANI",
+  "line2": "WHY HE GOT MORE TIME",
+  "line2color": "yellow",
+  "size1": 104,
+  "size2": 100
+ }
+}

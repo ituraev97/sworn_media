@@ -1,0 +1,56 @@
+{
+ "A": {
+  "left": {
+   "number": "24 YRS",
+   "label": "ENRON CEO"
+  },
+  "right": {
+   "img": "img/ind_c51.jpg",
+   "zoom": 1.5,
+   "pos": "40% 85%",
+   "stamp": "GUILTY",
+   "stampPos": "left:50%;top:30%"
+  },
+  "split": 0.5,
+  "tag": "SENTENCED",
+  "line1": "SOLD $15M AFTER 9/11",
+  "line2": "24 YEARS, CUT TO 14",
+  "line2color": "red",
+  "size1": 100,
+  "size2": 100
+ },
+ "B": {
+  "left": {
+   "q": [
+    "WHY",
+    "24",
+    "YEARS?"
+   ]
+  },
+  "right": {
+   "img": "img/ind_c51.jpg",
+   "zoom": 1.5,
+   "pos": "40% 85%"
+  },
+  "split": 0.5,
+  "tag": "SENTENCED"
+ },
+ "C": {
+  "left": {
+   "img": "img/ind_call.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%"
+  },
+  "right": {
+   "number": "$15M",
+   "label": "6 DAYS AFTER 9/11"
+  },
+  "split": 0.42,
+  "tag": "SENTENCED",
+  "line1": "THE ENRON SCANDAL",
+  "line2": "24 YEARS, CUT TO 14",
+  "line2color": "yellow",
+  "size1": 100,
+  "size2": 100
+ }
+}

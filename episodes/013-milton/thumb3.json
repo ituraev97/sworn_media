@@ -1,0 +1,56 @@
+{
+ "A": {
+  "left": {
+   "number": "4 YRS",
+   "label": "THEN PARDONED"
+  },
+  "right": {
+   "img": "img/gm_6.jpg",
+   "zoom": 1.6,
+   "pos": "30% 70%",
+   "stamp": "GUILTY",
+   "stampPos": "left:50%;top:42%"
+  },
+  "split": 0.5,
+  "tag": "GUILTY",
+  "line1": "THE TRUCK ROLLED DOWNHILL",
+  "line2": "GUILTY. THEN PARDONED.",
+  "line2color": "red",
+  "size1": 96,
+  "size2": 100
+ },
+ "B": {
+  "left": {
+   "q": [
+    "ROLLING",
+    "OR",
+    "DRIVING?"
+   ]
+  },
+  "right": {
+   "img": "img/gm_6.jpg",
+   "zoom": 1.6,
+   "pos": "30% 70%"
+  },
+  "split": 0.5,
+  "tag": "GUILTY"
+ },
+ "C": {
+  "left": {
+   "img": "img/sec_20.jpg",
+   "zoom": 1.6,
+   "pos": "30% 15%"
+  },
+  "right": {
+   "number": "0 DAYS",
+   "label": "IN PRISON"
+  },
+  "split": 0.42,
+  "tag": "PARDONED",
+  "line1": "SENTENCED TO 4 YEARS",
+  "line2": "NEVER WENT TO PRISON",
+  "line2color": "yellow",
+  "size1": 100,
+  "size2": 100
+ }
+}
