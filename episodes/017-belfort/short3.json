@@ -1,0 +1,84 @@
+{
+ "title": "$9,188,876.06 in \"Distributions\": The Wolf's Company Books",
+ "template": "document reveal (forensic accounting)",
+ "lines": [
+  {
+   "say": "Nine point one nine million dollars. A government accountant found that much in personal expenses of Jordan Belfort and his partner, paid by his company.",
+   "show": "$9.19 million. A government accountant found that much in personal expenses of Jordan Belfort and his partner, paid by his company.",
+   "scene": {
+    "type": "hook",
+    "img": "img/gil_1.jpg",
+    "pos": "50% 84%",
+    "zoom": 1.9,
+    "tag": "COURT FILING",
+    "number": "$9.19M",
+    "label": "\"DISTRIBUTIONS\"|PAID BY HIS COMPANY"
+   }
+  },
+  {
+   "say": "It sat in an account called Distributions. He found no agreement to pay it back.",
+   "scene": {
+    "type": "doc",
+    "img": "img/gil_1.jpg",
+    "pan": [
+     0.544,
+     0.544
+    ],
+    "hl": [
+     0.0,
+     0.8093,
+     1.0,
+     0.0555
+    ],
+    "kicker": "FORENSIC ACCOUNTANT · MARCH 2018",
+    "src": "Gilsen declaration, D. Nev. ECF 4-1 (Mar 31, 2018)"
+   }
+  },
+  {
+   "say": "Asked under oath if he signed any loan agreements with the company, Belfort said: No.",
+   "scene": {
+    "type": "doc",
+    "img": "img/gil_2.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2487,
+     1.0,
+     0.0868
+    ],
+    "kicker": "FORENSIC ACCOUNTANT · MARCH 2018",
+    "src": "Gilsen declaration, D. Nev. ECF 4-1 (Mar 31, 2018)"
+   }
+  },
+  {
+   "say": "Prosecutors said some of that money could have gone to his victims, who were owed about ninety-seven million.",
+   "show": "Prosecutors said some of that money could have gone to his victims, who were owed about $97 million.",
+   "scene": {
+    "type": "doc",
+    "img": "img/mtc_6.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.3099,
+     1.0,
+     0.0573
+    ],
+    "kicker": "U.S. MOTION TO COMPEL · 2018",
+    "src": "U.S. motion to compel, ECF 1 (Mar 29, 2018)"
+   }
+  },
+  {
+   "say": "Loan or income? Tell me below.",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

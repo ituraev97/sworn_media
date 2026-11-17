@@ -1,0 +1,56 @@
+{
+ "A": {
+  "left": {
+   "img": "img/belfort_face.jpg",
+   "pos": "30% 20%",
+   "zoom": 1.0
+  },
+  "right": {
+   "number": "$110M",
+   "label": "ORDERED TO REPAY"
+  },
+  "split": 0.5,
+  "tag": "GUILTY",
+  "line1": "THE REAL WOLF",
+  "line2": "FEDS: $97M UNPAID IN 2018",
+  "line2color": "red",
+  "size1": 110,
+  "size2": 88
+ },
+ "B": {
+  "left": {
+   "img": "img/belfort_face.jpg",
+   "pos": "30% 20%",
+   "zoom": 1.0
+  },
+  "right": {
+   "number": "$12.8M",
+   "label": "PAID BY 2018: FEDS"
+  },
+  "split": 0.52,
+  "tag": "GUILTY",
+  "line1": "JORDAN BELFORT",
+  "line2": "NOW HE SAYS HE'S DONE",
+  "line2color": "yellow",
+  "size1": 110,
+  "size2": 92
+ },
+ "C": {
+  "left": {
+   "img": "img/belfort_face.jpg",
+   "pos": "30% 20%",
+   "zoom": 1.0
+  },
+  "right": {
+   "number": "20 YRS",
+   "label": "THEN IT EXPIRES"
+  },
+  "split": 0.5,
+  "tag": "GUILTY",
+  "line1": "$110M RESTITUTION",
+  "line2": "HOW MUCH GOT PAID?",
+  "line2color": "yellow",
+  "size1": 110,
+  "size2": 110
+ }
+}

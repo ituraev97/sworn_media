@@ -1,0 +1,67 @@
+{
+ "title": "\"Life Imitated Art\": What DOJ Alleged About the Wolf Movie",
+ "template": "verbatim quote (DOJ) + twist",
+ "lines": [
+  {
+   "say": "More than a hundred million dollars from a theft. That's what the Justice Department alleged went into The Wolf of Wall Street.",
+   "show": "More than $100 million from a theft. That's what the Justice Department alleged went into The Wolf of Wall Street.",
+   "scene": {
+    "type": "hook",
+    "img": "img/cald.jpg",
+    "pos": "50% 74%",
+    "zoom": 1.9,
+    "tag": "DOJ ALLEGED",
+    "number": "$100M+",
+    "label": "TO FINANCE THE FILM|DOJ ALLEGED IN 2016"
+   }
+  },
+  {
+   "say": "It said Red Granite Pictures financed the film with that money, from Malaysia's one M.D.B. fund.",
+   "show": "It said Red Granite Pictures financed the film with that money, from Malaysia's 1MDB fund.",
+   "scene": {
+    "type": "doc",
+    "img": "img/cald.jpg",
+    "pan": [
+     0.556,
+     0.616
+    ],
+    "hl": [
+     0.0,
+     0.7226,
+     1.0,
+     0.043
+    ],
+    "kicker": "DOJ · JULY 20, 2016",
+    "src": "DOJ, AAG Caldwell remarks (Jul 20, 2016)"
+   }
+  },
+  {
+   "say": "Its words: according to the allegations in the complaint, this is a case where life imitated art.",
+   "scene": {
+    "type": "quote",
+    "q": "According to the allegations in the complaint, this is a case where life imitated art.",
+    "case": "AAG LESLIE R. CALDWELL",
+    "doc": "DOJ · JULY 20, 2016",
+    "cite": "DOJ, AAG Caldwell remarks (Jul 20, 2016)"
+   }
+  },
+  {
+   "say": "In twenty eighteen, Red Granite agreed to pay sixty million dollars, admitting no wrongdoing. Belfort wasn't accused.",
+   "show": "In 2018, Red Granite agreed to pay $60 million, admitting no wrongdoing. Belfort wasn't accused.",
+   "scene": {
+    "type": "stat",
+    "kicker": "RED GRANITE · 2018",
+    "value": "$60M",
+    "label": "SETTLEMENT · NO ADMISSION",
+    "src": "CNBC (Mar 7, 2018)"
+   }
+  },
+  {
+   "say": "A fraud movie, funded by theft, the DOJ alleged. Did you know?",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

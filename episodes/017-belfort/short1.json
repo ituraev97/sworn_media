@@ -1,0 +1,68 @@
+{
+ "title": "$12.8M of $110M by 2018, Feds Said: The Wolf's Restitution",
+ "template": "number reveal (ordered vs. paid)",
+ "lines": [
+  {
+   "say": "Twelve point eight million dollars. That's what prosecutors said Jordan Belfort, the Wolf of Wall Street, had paid by twenty eighteen, of one hundred ten million.",
+   "show": "$12.8 million. That's what prosecutors said Jordan Belfort, the Wolf of Wall Street, had paid by 2018, of $110 million.",
+   "scene": {
+    "type": "hook",
+    "img": "img/belfort_hook.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "GUILTY",
+    "number": "$12.8M",
+    "label": "PAID OF $110M|BY 2018, FEDS SAID"
+   }
+  },
+  {
+   "say": "In two thousand three, a judge ordered it, for fifteen hundred thirteen investors.",
+   "show": "In 2003, a judge ordered it, for 1,513 investors.",
+   "scene": {
+    "type": "doc",
+    "img": "img/mtc_2.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2163,
+     1.0,
+     0.2093
+    ],
+    "kicker": "U.S. MOTION TO COMPEL · 2018",
+    "src": "U.S. motion to compel, ECF 1 (Mar 29, 2018)"
+   }
+  },
+  {
+   "say": "He was supposed to pay half his income. Prosecutors said he kept at least nine million from speeches.",
+   "show": "He was supposed to pay half his income. Prosecutors said he kept at least $9 million from speeches.",
+   "scene": {
+    "type": "stat",
+    "kicker": "SPEAKING FEES · 2013–2015",
+    "value": "$9M+",
+    "label": "KEPT, PROSECUTORS SAID",
+    "src": "Bloomberg (May 16, 2018)"
+   }
+  },
+  {
+   "say": "TMZ reported his obligation expired this year, under a twenty-year federal limit. Belfort says he completed it.",
+   "show": "TMZ reported his obligation expired this year, under a 20-year federal limit. Belfort says he completed it.",
+   "scene": {
+    "type": "quote",
+    "q": "…I completed my court-ordered restitution.",
+    "case": "JORDAN BELFORT",
+    "doc": "TO TMZ · JULY 2026",
+    "cite": "TMZ (Jul 13, 2026)"
+   }
+  },
+  {
+   "say": "Should restitution ever expire? Tell me below.",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}
