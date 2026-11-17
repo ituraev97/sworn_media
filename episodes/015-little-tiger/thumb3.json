@@ -1,0 +1,60 @@
+{
+ "A": {
+  "left": {
+   "img": "img/chen_face.jpg",
+   "cover": true,
+   "pos": "50% 30%"
+  },
+  "right": {
+   "img": "img/cash_count.jpg",
+   "cover": true,
+   "pos": "50% 55%",
+   "stamp": "GUILTY",
+   "stampPos": "left:50%;top:30%"
+  },
+  "split": 0.5,
+  "tag": "SENTENCED",
+  "line1": "HE FILMED THE CASH",
+  "line2": "$27M ELDER SCAM",
+  "line2color": "red",
+  "size1": 104,
+  "size2": 112
+ },
+ "B": {
+  "left": {
+   "q": [
+    "WHERE'S",
+    "THE",
+    "$27M?"
+   ]
+  },
+  "right": {
+   "img": "img/chen_face.jpg",
+   "cover": true,
+   "pos": "50% 30%",
+   "stamp": "78 MONTHS",
+   "stampPos": "left:50%;top:84%"
+  },
+  "split": 0.5,
+  "tag": "SENTENCED"
+ },
+ "C": {
+  "left": {
+   "img": "img/cash_count.jpg",
+   "cover": true,
+   "pos": "50% 50%"
+  },
+  "right": {
+   "img": "img/chen_face.jpg",
+   "cover": true,
+   "pos": "50% 30%"
+  },
+  "split": 0.42,
+  "tag": "SENTENCED",
+  "line1": "EXPOSED ON YOUTUBE",
+  "line2": "NOW 78 MONTHS",
+  "line2color": "yellow",
+  "size1": 104,
+  "size2": 118
+ }
+}

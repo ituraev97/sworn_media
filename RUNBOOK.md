@@ -20,11 +20,30 @@ Why: channel analytics showed Shorts lose viewers in 1–2 s and long videos hav
    - **Wikimedia Commons** files licensed PD, CC0, CC BY or CC BY-SA. Search via the commons.wikimedia.org API (send a User-Agent). Download from `upload.wikimedia.org`; `thumb.wikimedia.org` is blocked. Add the credit line "Photo: <Artist>, <License> via Wikimedia Commons" to the description.
    - Never use news-agency, TV or Getty frames, and never use courtroom sketches.
    - Crop away third-party logos.
-3. **Thumbnail v2 = `pipeline/thumb2.js`.**
-   - **Owner's pick is style B:** 50/50 split; face left (zoom ~1.35, face centered); red number panel right (auto-sized `$9B` + white label such as "GONE TO ZERO"); factual tag top-left (`BREAKING` only if ≤7 days old, otherwise `GUILTY`/`SENTENCED`/`CHARGED`); white line 1 + **red** line 2 (Anton, 90–125 px).
-   - Make B as `thumb_A.jpg` (the main one), plus two alternates for Test & Compare.
-   - Every word must be factual. "Fraud" only after a conviction or plea; otherwise "CHARGED".
-   - Reference: Holmes demo `episodes/_v2demo/thumb2.json`.
+3. **Thumbnails v3 (owner 2026-11-17: "make them awesome, look at what takes off") = `pipeline/thumb2.js` with `<ep>/thumb2.json`.**
+   - **Why v3:** our v2 thumbnails (red number panel + label + two text lines) all looked the same and carried 4 text blocks. In Nov 2026 the court/fraud outliers (YouTube Data API, last 30 days: 50–1000× views/subs, e.g. "WHERE'S THE $250M?", "$1.2B MEDICARE FRAUD / CAUGHT BOARDING A FLIGHT", "30 YEARS IN PRISON / $250M FOOD FRAUD") share these traits:
+     - Two REAL photos side by side: a big face plus the evidence or action (cash, seized assets, FBI agents, the jet, the mansion, a wanted poster or document with a stamp). No flat colour panels.
+     - At most 2 text elements, ≤ 5 words per line, and the number sits inside the line ("$27M ELDER SCAM").
+     - Or a question on a dark navy half ("WHERE'S THE $250M?") next to the face.
+     - Faces are large, sharp and emotional (open mouth, stare, crying); the eyes sit in the upper third.
+   - **Three formats every time:**
+     - **A** = face + evidence photo (`left.img` face with `cover`, `right.img` evidence with a `stamp` like GUILTY / CAPTURED / 78 MONTHS / $97M UNPAID), plus line1 white and line2 red.
+     - **B** = question: `left: {"q": ["WHERE'S","THE","$27M?"]}`, face right, no bottom lines.
+     - **C** = evidence or document left (split 0.42), face right, line1 white and line2 yellow.
+     - Use the strongest one as thumb_A.
+   - **Evidence photos, lawful only:**
+     - photos inside DOJ/USAO press releases and sentencing slides (cash, seized cars, gold, mansions);
+     - exhibits from court filings;
+     - FBI/DEA/USMS/ICE photos;
+     - DVIDS;
+     - Wikimedia Commons PD/CC.
+     - A document page zoomed to its key line works when there is no photo.
+     - Never news or TV frames.
+   - **Number panels:** the red number panel (`{"number": …}`) is allowed only when no evidence photo exists at all.
+   - **Face quality:** source face ≥ 500 px tall; never stretch a tiny face; crop to the eyes and mouth.
+   - **QA:** look at all three at full size AND at 168×94. At small size the face, the number and one word must still read.
+   - **Facts:** every word must be factual. "Fraud" only after a conviction or plea, otherwise "CHARGED" / "FEDS ALLEGE". A question mark does not excuse a false implication.
+   - **References:** `episodes/015-little-tiger/thumb3.json`, `episodes/016-rozier/thumb3.json`, `episodes/017-belfort/thumb3.json`.
 4. **Titles:** Name + $amount + scheme + CAPS verb + years/twist, under 70 characters, every word sourced. Example: "Elizabeth Holmes: The $9B Blood Test That NEVER Worked — 11 Years".
 5. **Shorts v2 (20–35 s, 3/day):**
    - frame 0 = face/document + giant number + tag;

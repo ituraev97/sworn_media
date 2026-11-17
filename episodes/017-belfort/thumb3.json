@@ -1,0 +1,58 @@
+{
+ "A": {
+  "left": {
+   "img": "img/belfort_face.jpg",
+   "cover": true,
+   "pos": "40% 25%"
+  },
+  "right": {
+   "img": "img/mtc_1.jpg",
+   "zoom": 1.6,
+   "pos": "30% 25%",
+   "stamp": "$97M UNPAID",
+   "stampPos": "left:50%;top:40%"
+  },
+  "split": 0.5,
+  "tag": "GUILTY",
+  "line1": "THE REAL WOLF",
+  "line2": "FEDS: $97M UNPAID IN 2018",
+  "line2color": "red",
+  "size1": 110,
+  "size2": 84
+ },
+ "B": {
+  "left": {
+   "q": [
+    "WHERE'S",
+    "THE",
+    "$110M?"
+   ]
+  },
+  "right": {
+   "img": "img/belfort_face.jpg",
+   "cover": true,
+   "pos": "40% 25%"
+  },
+  "split": 0.5,
+  "tag": "GUILTY"
+ },
+ "C": {
+  "left": {
+   "img": "img/mtc_1.jpg",
+   "zoom": 1.9,
+   "pos": "30% 25%"
+  },
+  "split": 0.42,
+  "tag": "GUILTY",
+  "line1": "$110M RESTITUTION",
+  "line2": "THEN IT EXPIRED?",
+  "line2color": "yellow",
+  "size1": 104,
+  "size2": 124,
+  "right": {
+   "img": "img/belfort_face.jpg",
+   "cover": true,
+   "pos": "40% 25%"
+  }
+ }
+}

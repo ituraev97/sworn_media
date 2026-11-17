@@ -1,0 +1,58 @@
+{
+ "A": {
+  "left": {
+   "img": "img/rozier_face.jpg",
+   "cover": true,
+   "pos": "50% 22%"
+  },
+  "right": {
+   "img": "img/g144_6.jpg",
+   "zoom": 1.7,
+   "pos": "20% 8%",
+   "stamp": "CHARGED",
+   "stampPos": "left:50%;top:38%"
+  },
+  "split": 0.5,
+  "tag": "CHARGED",
+  "line1": "LEFT AFTER 9 MINUTES",
+  "line2": "$100K BRIBE, FEDS ALLEGE",
+  "line2color": "red",
+  "size1": 100,
+  "size2": 92
+ },
+ "B": {
+  "left": {
+   "q": [
+    "HURT",
+    "OR",
+    "PAID?"
+   ]
+  },
+  "right": {
+   "img": "img/rozier_face.jpg",
+   "cover": true,
+   "pos": "50% 22%"
+  },
+  "split": 0.5,
+  "tag": "CHARGED"
+ },
+ "C": {
+  "left": {
+   "img": "img/g144_6.jpg",
+   "zoom": 1.9,
+   "pos": "20% 8%"
+  },
+  "split": 0.42,
+  "tag": "CHARGED",
+  "line1": "NBA STAR CHARGED",
+  "line2": "$100K TO LEAVE?",
+  "line2color": "yellow",
+  "size1": 110,
+  "size2": 124,
+  "right": {
+   "img": "img/rozier_face.jpg",
+   "cover": true,
+   "pos": "50% 45%"
+  }
+ }
+}
