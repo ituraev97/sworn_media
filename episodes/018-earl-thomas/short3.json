@@ -1,0 +1,77 @@
+{
+ "title": "3,716 Grams and $228,000 Cash: Inside the Earl Thomas Case",
+ "template": "number reveal (the search)",
+ "lines": [
+  {
+   "say": "Three thousand seven hundred sixteen grams of cocaine. Found in the home of the man who used Earl Thomas's identity.",
+   "show": "3,716 grams of cocaine. Found in the home of the man who used Earl Thomas's identity.",
+   "scene": {
+    "type": "hook",
+    "img": "img/earl_hook.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.0,
+    "tag": "BREAKING",
+    "number": "3,716 G",
+    "label": "SEIZED FROM THE HOME OF|THE MAN WHO USED HIS NAME"
+   }
+  },
+  {
+   "say": "Plus a pistol, and two hundred twenty-eight thousand dollars in cash.",
+   "show": "Plus a pistol, and $228,000 in cash.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.607,
+     0.667
+    ],
+    "hl": [
+     0.0,
+     0.7373,
+     1.0,
+     0.051
+    ],
+    "kicker": "U.S. ATTORNEY · NOV 17, 2026",
+    "src": "U.S. Attorney's Office, E.D. La. (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "Kevin Thompson pleaded guilty to the cocaine count. Five years minimum, up to forty.",
+   "show": "Kevin Thompson pleaded guilty to the cocaine count. 5 years minimum, up to 40.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.739,
+     0.748
+    ],
+    "hl": [
+     0.0,
+     0.8619,
+     1.0,
+     0.0667
+    ],
+    "kicker": "U.S. ATTORNEY · NOV 17, 2026",
+    "src": "U.S. Attorney's Office, E.D. La. (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "And, with Thomas's estranged wife, to wire fraud conspiracy.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NEW ORLEANS · NOV 12, 2026",
+    "stamp": "PLEADED GUILTY",
+    "big": "Wire fraud conspiracy",
+    "sub": "+ cocaine count · Kevin J. Thompson",
+    "at": 0.1
+   }
+  },
+  {
+   "say": "What should his sentence be? Tell me below.",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

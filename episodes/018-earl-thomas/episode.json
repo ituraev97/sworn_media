@@ -1,0 +1,1242 @@
+{
+ "label": "SWORN · CASE 018",
+ "lines": [
+  {
+   "say": "June twenty twenty-three. A man pulls up to a credit union near New Orleans, driving a Rolls-Royce. The account he has come to use is in another man's name.",
+   "show": "June 2023. A man pulls up to a credit union near New Orleans, driving a Rolls-Royce. The account he has come to use is in another man's name.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.512,
+     0.572
+    ],
+    "hl": [
+     0.0,
+     0.6587,
+     1.0,
+     0.051
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · NOV 17, 2026",
+    "title": "“arrived driving a Rolls Royce”",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "According to the Justice Department, the Rolls-Royce had been fraudulently obtained from that same man. Credit union officials had already called the sheriff's office.",
+   "show": "According to the Justice Department, the Rolls-Royce had been \"fraudulently obtained\" from that same man. Credit union officials had already called the sheriff's office."
+  },
+  {
+   "say": "News reports, citing the sheriff's office and court records, identified the man whose name was on that account. Earl Thomas. Super Bowl champion, seven-time Pro Bowl safety, a star of Seattle's Legion of Boom.",
+   "show": "News reports, citing the sheriff's office and court records, identified the man whose name was on that account. Earl Thomas. Super Bowl champion, 7-time Pro Bowl safety, a star of Seattle's Legion of Boom.",
+   "scene": {
+    "type": "photo",
+    "img": "img/earl_2014.jpg",
+    "caption": "EARL THOMAS · SEATTLE SEAHAWKS · 2014",
+    "src": "PHOTO: KEITH ALLISON · CC BY-SA 2.0 · WIKIMEDIA COMMONS · 2014",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "And on November twelfth, twenty twenty-six, in federal court in New Orleans, two people pleaded guilty. The man in the Rolls-Royce, Kevin Thompson. And Earl Thomas's estranged wife, Nina Thomas.",
+   "show": "And on November 12, 2026, in federal court in New Orleans, two people pleaded guilty. The man in the Rolls-Royce, Kevin Thompson. And Earl Thomas's estranged wife, Nina Thomas.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NEW ORLEANS · NOVEMBER 12, 2026",
+    "stamp": "PLEADED GUILTY",
+    "big": "Conspiracy to commit wire fraud",
+    "sub": "Kevin J. Thompson · Nina Thomas"
+   }
+  },
+  {
+   "say": "The Justice Department's total: between one and a half and three million dollars, stolen from the victim.",
+   "show": "The Justice Department's total: between $1.5 million and $3 million, stolen from the victim.",
+   "scene": {
+    "type": "stat",
+    "kicker": "THE JUSTICE DEPARTMENT'S TOTAL",
+    "value": "$1.5M–$3M",
+    "label": "stolen from the victim",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "This is how it worked. A practiced signature, accounts in his name, his union payments rerouted, his cars sold. And how a phone number on a form led to an arrest.",
+   "scene": {
+    "type": "title",
+    "kicker": "SWORN · CASE 018 · BREAKING",
+    "title": "The Earl Thomas|Accounts",
+    "sub": "United States v. Thompson & Thomas · E.D. La."
+   }
+  },
+  {
+   "say": "Chapter one. The star.",
+   "scene": {
+    "type": "chapter",
+    "n": "I",
+    "title": "The Star"
+   }
+  },
+  {
+   "say": "To understand why anyone would target Earl Thomas, start with the money he earned.",
+   "scene": {
+    "type": "big",
+    "kicker": "WHY HIM",
+    "lines": [
+     "Start with",
+     "the money|he earned."
+    ],
+    "src": "Wikipedia, \"Earl Thomas\" (accessed Nov 18, 2026)"
+   }
+  },
+  {
+   "say": "Thomas grew up in Orange, Texas, and starred at the University of Texas. In twenty ten, the Seattle Seahawks took him in the first round, fourteenth overall.",
+   "show": "Thomas grew up in Orange, Texas, and starred at the University of Texas. In 2010, the Seattle Seahawks took him in the first round, 14th overall.",
+   "scene": {
+    "type": "photo",
+    "img": "img/earl_2011.jpg",
+    "caption": "EARL THOMAS · SEAHAWKS · 2011",
+    "src": "PHOTO: JEFFREY BEALL · CC BY-SA 3.0 · WIKIMEDIA COMMONS · 2011",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "At Texas, he was a consensus All-American in twenty oh nine, and played in the national championship game against Alabama.",
+   "show": "At Texas, he was a consensus All-American in 2009, and played in the national championship game against Alabama.",
+   "scene": {
+    "type": "big",
+    "kicker": "UNIVERSITY OF TEXAS · 2009",
+    "lines": [
+     "Consensus",
+     "All-American."
+    ],
+    "src": "Wikipedia, \"Earl Thomas\" (accessed Nov 18, 2026) · Sports Illustrated / Longhorns On SI (Nov 9, 2023)"
+   }
+  },
+  {
+   "say": "He became the center field of the Legion of Boom, the Seattle secondary that won the franchise's first Super Bowl, forty-three to eight over Denver, in February twenty fourteen.",
+   "show": "He became the center field of the Legion of Boom, the Seattle secondary that won the franchise's first Super Bowl, 43 to 8 over Denver, in February 2014.",
+   "scene": {
+    "type": "stat",
+    "kicker": "SUPER BOWL XLVIII · FEB 2, 2014",
+    "value": "43–8",
+    "label": "Seattle over Denver",
+    "src": "Wikipedia, \"Earl Thomas\" (accessed Nov 18, 2026)"
+   }
+  },
+  {
+   "say": "A year later, he started in a second Super Bowl, a loss to New England.",
+   "scene": {
+    "type": "photo",
+    "img": "img/earl_back.jpg",
+    "caption": "EARL THOMAS III · SEAHAWKS · 2013",
+    "src": "PHOTO: MIKE MORRIS · CC BY-SA 2.0 · WIKIMEDIA COMMONS · 2013",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "Seven Pro Bowls. Three first-team All-Pro selections. A place on the NFL's All-Decade Team of the twenty-tens.",
+   "show": "7 Pro Bowls. 3 first-team All-Pro selections. A place on the NFL's All-Decade Team of the 2010s.",
+   "scene": {
+    "type": "list",
+    "kicker": "THE RÉSUMÉ",
+    "items": [
+     [
+      "7",
+      "Pro Bowls"
+     ],
+     [
+      "3",
+      "first-team All-Pro selections"
+     ],
+     [
+      "1",
+      "Super Bowl ring (XLVIII)"
+     ],
+     [
+      "2010s",
+      "All-Decade Team"
+     ]
+    ],
+    "src": "Wikipedia, \"Earl Thomas\" (accessed Nov 18, 2026)"
+   }
+  },
+  {
+   "say": "And the contracts were big. In twenty fourteen, Seattle extended him for four years and forty million dollars. In twenty nineteen, he signed with the Baltimore Ravens: four years, fifty-five million, thirty-two million of it guaranteed.",
+   "show": "And the contracts were big. In 2014, Seattle extended him for 4 years and $40 million. In 2019, he signed with the Baltimore Ravens: 4 years, $55 million, $32 million of it guaranteed.",
+   "scene": {
+    "type": "bars",
+    "kicker": "CONTRACTS",
+    "title": "Reported contract values",
+    "items": [
+     {
+      "label": "Seattle extension · 2014",
+      "value": 40,
+      "display": "$40M"
+     },
+     {
+      "label": "Baltimore · 2019",
+      "value": 55,
+      "display": "$55M"
+     }
+    ],
+    "src": "Wikipedia, \"Earl Thomas\" (accessed Nov 18, 2026)"
+   }
+  },
+  {
+   "say": "He has not played in the NFL since the Ravens released him in August twenty twenty. By December, his marriage was ending too.",
+   "show": "He has not played in the NFL since the Ravens released him in August 2020. By December, his marriage was ending too.",
+   "scene": {
+    "type": "photo",
+    "img": "img/earl_2018.jpg",
+    "caption": "EARL THOMAS · SEAHAWKS · 2018",
+    "src": "PHOTO: JEFFREY BEALL · CC BY 4.0 · WIKIMEDIA COMMONS · 2018",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "And that is where the federal case begins. Not on a football field. In a divorce court.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Not on a",
+     "football field.|In a divorce court."
+    ],
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "Chapter two. The order.",
+   "scene": {
+    "type": "chapter",
+    "n": "II",
+    "title": "The Order"
+   }
+  },
+  {
+   "say": "According to court documents, in December twenty twenty, Nina Thomas filed a petition for divorce from her husband, the victim.",
+   "show": "According to court documents, in December 2020, Nina Thomas filed a petition for divorce from her husband, \"the victim.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.12,
+     0.16
+    ],
+    "hl": [
+     0.0,
+     0.2374,
+     1.0,
+     0.0353
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · NOV 17, 2026",
+    "title": "“filed a petition for divorce”",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "The Justice Department's release never names him. News reports have, since twenty twenty-three, and this video follows them.",
+   "scene": {
+    "type": "big",
+    "kicker": "A NOTE ON NAMES",
+    "lines": [
+     "DOJ: “the victim.”",
+     "News reports:|Earl Thomas."
+    ],
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026) · Fox News (Nov 8, 2023), citing NOLA.com and the Jefferson Parish Sheriff's Office · TMZ (Nov 13, 2026), citing a federal court document"
+   }
+  },
+  {
+   "say": "Under the terms of a court order, both parties were ordered to not transfer property, or negotiate any negotiable instruments or checks, in the other's name.",
+   "show": "Under the terms of a court order, both parties were \"ordered to not transfer property or negotiate any negotiable instruments or checks in the other’s name.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2671,
+     1.0,
+     0.0353
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · NOV 17, 2026",
+    "title": "“ordered to not transfer property”",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "Remember that order. Because in twenty twenty-one, the release says, Nina Thomas entered into a romantic relationship with Kevin Thompson, of New Orleans.",
+   "show": "Remember that order. Because in 2021, the release says, Nina Thomas entered into a romantic relationship with Kevin Thompson, of New Orleans.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.167,
+     0.227
+    ],
+    "hl": [
+     0.0,
+     0.3058,
+     1.0,
+     0.0668
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · NOV 17, 2026",
+    "title": "“a romantic relationship”",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "And together, prosecutors say, they devised a scheme to defraud the victim, including by impersonating him, and making unauthorized financial transfers by electronic wires.",
+   "show": "And together, prosecutors say, they devised a scheme to defraud the victim, \"including by impersonating the victim and making unauthorized financial transfers by electronic wires.\""
+  },
+  {
+   "say": "The indictment put a start date on it: on or about September sixth, twenty twenty-one.",
+   "show": "The indictment put a start date on it: on or about September 6, 2021.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind.jpg",
+    "pan": [
+     0.181,
+     0.241
+    ],
+    "hl": [
+     0.0,
+     0.3146,
+     1.0,
+     0.064
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · DEC 23, 2024 · THE INDICTMENT",
+    "title": "From September 6, 2021",
+    "src": "U.S. Attorney's Office, E.D. La., press release on the superseding indictment (Dec 23, 2024)"
+   }
+  },
+  {
+   "say": "And it ran, the indictment says, to on or about December thirteenth, twenty twenty-four. More than three years, money moving from the victim's real accounts into accounts the two of them created.",
+   "show": "And it ran, the indictment says, to on or about December 13, 2024. More than 3 years, money moving from the victim's real accounts into accounts the two of them created.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind.jpg",
+    "pan": [
+     0.181,
+     0.241
+    ],
+    "hl": [
+     0.0,
+     0.3146,
+     1.0,
+     0.064
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · DEC 23, 2024 · THE INDICTMENT",
+    "title": "From his accounts to theirs",
+    "src": "U.S. Attorney's Office, E.D. La., press release on the superseding indictment (Dec 23, 2024)"
+   }
+  },
+  {
+   "say": "So how do you become another man? The first step, according to the indictment, was an email address.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE QUESTION",
+    "lines": [
+     "How do you become",
+     "another man?"
+    ],
+    "src": "U.S. Attorney's Office, E.D. La., press release on the superseding indictment (Dec 23, 2024)"
+   }
+  },
+  {
+   "say": "Chapter three. The accounts.",
+   "scene": {
+    "type": "chapter",
+    "n": "III",
+    "title": "The Accounts"
+   }
+  },
+  {
+   "say": "The indictment says they created an email account in the victim's name. Then they used it to open several bank accounts, using the victim's or Thompson's address, and in some cases Thompson's phone number.",
+   "show": "The indictment says they created an email account in the victim's name. Then they used it to open several bank accounts, using the victim's or Thompson's address, and in some cases Thompson's phone number.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind.jpg",
+    "pan": [
+     0.241,
+     0.301
+    ],
+    "hl": [
+     0.0,
+     0.3595,
+     1.0,
+     0.094
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · DEC 23, 2024 · THE INDICTMENT",
+    "title": "“an email account in Victim 1’s name”",
+    "src": "U.S. Attorney's Office, E.D. La., press release on the superseding indictment (Dec 23, 2024)"
+   }
+  },
+  {
+   "say": "In twenty twenty-two, the plea release says, they opened accounts at a credit union and a bank in the New Orleans area, under the victim's name.",
+   "show": "In 2022, the plea release says, they opened accounts at a credit union and a bank in the New Orleans area, under the victim's name.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.214,
+     0.274
+    ],
+    "hl": [
+     0.0,
+     0.353,
+     1.0,
+     0.0667
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · NOV 17, 2026",
+    "title": "Accounts “under the victim’s name”",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "And one detail stands out. At the direction of Nina Thomas, the release says, Thompson practiced signing the victim's name.",
+   "show": "And one detail stands out. \"At the direction of THOMAS,\" the release says, \"THOMPSON practiced signing the victim’s name.\"",
+   "scene": {
+    "type": "quote",
+    "q": "At the direction of THOMAS, THOMPSON practiced signing the victim’s name.",
+    "case": "UNITED STATES v. THOMPSON & THOMAS",
+    "doc": "U.S. ATTORNEY'S RELEASE · NOV 17, 2026",
+    "cite": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "Sheriff's investigators said in twenty twenty-three that Thompson opened the credit union account with a driver's license bearing Thomas's information, and his own photo.",
+   "show": "Sheriff's investigators said in 2023 that Thompson opened the credit union account with a driver's license bearing Thomas's information, and his own photo.",
+   "scene": {
+    "type": "big",
+    "kicker": "JEFFERSON PARISH SHERIFF'S OFFICE · 2023",
+    "lines": [
+     "His name.",
+     "Thompson's|photo."
+    ],
+    "src": "CBS Sports (Nov 8, 2023), citing NOLA.com"
+   }
+  },
+  {
+   "say": "Then came the money. After the accounts were opened, a direct deposit form was signed and submitted to the victim's labor union association, sending all of his payments to the new account. Without his authorization.",
+   "show": "Then came the money. After the accounts were opened, a direct deposit form was signed and submitted to the victim's labor union association, sending all of his payments to the new account. Without his authorization.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.269,
+     0.329
+    ],
+    "hl": [
+     0.0,
+     0.4001,
+     1.0,
+     0.0824
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · NOV 17, 2026",
+    "title": "“direct deposit authorization form”",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "One check deposited into that account totaled eight hundred eighty-five thousand, four hundred nineteen dollars.",
+   "show": "One check deposited into that account totaled $885,419.",
+   "scene": {
+    "type": "stat",
+    "kicker": "ONE CHECK",
+    "value": "$885,419",
+    "label": "deposited into the account in his name",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "Between twenty twenty-two and twenty twenty-three, the release says, Thompson, using the victim's identification and aided by Nina Thomas, deposited or withdrew hundreds of thousands of dollars at a bank in New Orleans.",
+   "show": "Between 2022 and 2023, the release says, Thompson, using the victim's identification and aided by Nina Thomas, deposited or withdrew hundreds of thousands of dollars at a bank in New Orleans.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.332,
+     0.392
+    ],
+    "hl": [
+     0.0,
+     0.4629,
+     1.0,
+     0.0824
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · NOV 17, 2026",
+    "title": "“hundreds of thousands of dollars”",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "The deposits included union checks payable to the victim, and proceeds from vehicles owned by the victim, sold without his authorization.",
+   "show": "The deposits included union checks payable to the victim, and proceeds from vehicles owned by the victim, sold without his authorization."
+  },
+  {
+   "say": "The indictment described cash withdrawals of as much as three hundred thousand dollars at a time.",
+   "show": "The indictment described cash withdrawals of as much as $300,000 at a time.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind.jpg",
+    "pan": [
+     0.293,
+     0.353
+    ],
+    "hl": [
+     0.0,
+     0.4345,
+     1.0,
+     0.049
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · DEC 23, 2024 · THE INDICTMENT",
+    "title": "Withdrawals “as much as $300,000.00”",
+    "src": "U.S. Attorney's Office, E.D. La., press release on the superseding indictment (Dec 23, 2024)"
+   }
+  },
+  {
+   "say": "And it named two purchases. A Hermès Birkin handbag, for twenty-eight thousand, seven hundred ninety-six dollars. And a Porsche Panamera, for fifty-two thousand, eight hundred ninety.",
+   "show": "And it named two purchases. A Hermès Birkin handbag, for $28,796. And a Porsche Panamera, for $52,890.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind.jpg",
+    "pan": [
+     0.33,
+     0.39
+    ],
+    "hl": [
+     0.0,
+     0.4644,
+     1.0,
+     0.0641
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · DEC 23, 2024 · THE INDICTMENT",
+    "title": "A Birkin and a Porsche",
+    "src": "U.S. Attorney's Office, E.D. La., press release on the superseding indictment (Dec 23, 2024)"
+   }
+  },
+  {
+   "say": "Even his credit card was used. The plea release says they used his driver's license to authorize a charge on his card, for plastic surgery for another person.",
+   "show": "Even his credit card was used. The plea release says they used his driver's license to authorize a charge on his card, for plastic surgery for another person.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.379,
+     0.439
+    ],
+    "hl": [
+     0.0,
+     0.5257,
+     1.0,
+     0.0511
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · NOV 17, 2026",
+    "title": "His card, someone else’s surgery",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "Proceeds from other transactions, it says, were used to buy luxury items for the two of them.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.418,
+     0.478
+    ],
+    "hl": [
+     0.0,
+     0.5729,
+     1.0,
+     0.0353
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · NOV 17, 2026",
+    "title": "“luxury items”",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "The plea release describes this activity across twenty twenty-two and twenty twenty-three. Then a credit union noticed.",
+   "scene": {
+    "type": "big",
+    "kicker": "2022 → 2023",
+    "lines": [
+     "Then a credit union",
+     "noticed."
+    ],
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   },
+   "show": "The plea release describes this activity across 2022 and 2023. Then a credit union noticed."
+  },
+  {
+   "say": "Chapter four. The Rolls-Royce.",
+   "scene": {
+    "type": "chapter",
+    "n": "IV",
+    "title": "The Rolls-Royce"
+   }
+  },
+  {
+   "say": "In June twenty twenty-three, the credit union contacted the Jefferson Parish Sheriff's Office. Someone, it said, had assumed the victim's identity, and withdrawn more than seven hundred thousand dollars from his account.",
+   "show": "In June 2023, the credit union contacted the Jefferson Parish Sheriff's Office. Someone, it said, had assumed the victim's identity, and withdrawn more than $700,000 from his account.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.48,
+     0.54
+    ],
+    "hl": [
+     0.0,
+     0.6273,
+     1.0,
+     0.051
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · NOV 17, 2026",
+    "title": "“had assumed the victim’s identity”",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "Thompson was scheduled to visit the credit union. He arrived driving a Rolls-Royce, fraudulently obtained from the victim.",
+   "show": "Thompson was scheduled to visit the credit union. He arrived driving a Rolls-Royce, fraudulently obtained from the victim.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.512,
+     0.572
+    ],
+    "hl": [
+     0.0,
+     0.6587,
+     1.0,
+     0.051
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · NOV 17, 2026",
+    "title": "“driving a Rolls Royce”",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "Reports in November twenty twenty-three, citing the sheriff's office, described it as a blue Rolls-Royce Cullinan SUV. The date was June ninth.",
+   "show": "Reports in November 2023, citing the sheriff's office, described it as a blue Rolls-Royce Cullinan SUV. The date was June 9.",
+   "scene": {
+    "type": "big",
+    "kicker": "JUNE 9, 2023 · PER NOLA.COM VIA FOX NEWS",
+    "lines": [
+     "A blue",
+     "Rolls-Royce|Cullinan."
+    ],
+    "src": "Fox News (Nov 8, 2023), citing NOLA.com and the Jefferson Parish Sheriff's Office"
+   }
+  },
+  {
+   "say": "And here is the line on the form. Credit union officials reviewed the membership form, and learned that though the account was in the victim's name, the phone number used to open it was Thompson's.",
+   "show": "And here is the line on the form. Credit union officials reviewed the membership form, and learned that though the account was in the victim's name, the phone number used to open it was Thompson's.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.543,
+     0.603
+    ],
+    "hl": [
+     0.0,
+     0.6901,
+     1.0,
+     0.0511
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · NOV 17, 2026",
+    "title": "The phone number was Thompson’s",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "Officers arrested him. In his possession, the release says: a driver's license, a Social Security card, and bank cards, all in the victim's name.",
+   "show": "Officers arrested him. In his possession, the release says: a driver's license, a Social Security card, and bank cards, all in the victim's name.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.567,
+     0.627
+    ],
+    "hl": [
+     0.0,
+     0.7216,
+     1.0,
+     0.0353
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · NOV 17, 2026",
+    "title": "His ID cards, in the victim’s name",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "Then officers got a search warrant for Thompson's home. What they found turned an identity theft case into a drug case too.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE SEARCH WARRANT",
+    "lines": [
+     "An identity case",
+     "becomes|a drug case."
+    ],
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "Three thousand, seven hundred sixteen grams of cocaine. A Springfield Armory Hellcat pistol. And two hundred twenty-eight thousand dollars in cash.",
+   "show": "3,716 grams of cocaine. A Springfield Armory Hellcat pistol. And $228,000 in cash.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.59,
+     0.65
+    ],
+    "hl": [
+     0.0,
+     0.7373,
+     1.0,
+     0.051
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · NOV 17, 2026",
+    "title": "What the search found",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "At first, the charges were local. Identity theft, forgery, money laundering, bank fraud and more, and a bond reported at seven hundred thirty thousand dollars.",
+   "show": "At first, the charges were local. Identity theft, forgery, money laundering, bank fraud and more, and a bond reported at $730,000.",
+   "scene": {
+    "type": "list",
+    "kicker": "STATE CHARGES · 2023 · PER NOLA.COM",
+    "items": [
+     [
+      "1",
+      "identity theft"
+     ],
+     [
+      "2",
+      "forgery"
+     ],
+     [
+      "3",
+      "money laundering"
+     ],
+     [
+      "4",
+      "credit card, computer & bank fraud"
+     ]
+    ],
+    "src": "Fox News (Nov 8, 2023), citing NOLA.com and the Jefferson Parish Sheriff's Office"
+   }
+  },
+  {
+   "say": "And then, according to those reports, after his release, Thompson went to the sheriff's office to try to get the Rolls-Royce back. He arrived in a car that had been reported stolen in Atlanta.",
+   "scene": {
+    "type": "big",
+    "kicker": "PER NOLA.COM, AS REPORTED BY FOX NEWS & CBS SPORTS",
+    "lines": [
+     "He came back",
+     "for the Rolls."
+    ],
+    "src": "Fox News (Nov 8, 2023), citing NOLA.com and the Jefferson Parish Sheriff's Office · CBS Sports (Nov 8, 2023), citing NOLA.com"
+   }
+  },
+  {
+   "say": "The sheriff's office said federal investigators were also involved. By twenty twenty-four, it was a federal case.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Then the",
+     "FBI and DEA|stepped in."
+    ],
+    "src": "Fox News (Nov 8, 2023), citing NOLA.com and the Jefferson Parish Sheriff's Office · U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "When the story first broke, in November twenty twenty-three, reports put the loss at about one point nine million dollars. The number would keep moving.",
+   "show": "When the story first broke, in November 2023, reports put the loss at about $1.9 million. The number would keep moving.",
+   "scene": {
+    "type": "bars",
+    "kicker": "THE NUMBER, OVER TIME",
+    "title": "How much was taken?",
+    "items": [
+     {
+      "label": "Nov 2023 · news reports",
+      "value": 1.9,
+      "display": "~$1.9M"
+     },
+     {
+      "label": "Dec 2024 · alleged, per TMZ",
+      "value": 2.7,
+      "display": "$2.7M+"
+     },
+     {
+      "label": "Nov 2026 · DOJ, after the pleas",
+      "value": 3,
+      "display": "$1.5M–$3M"
+     }
+    ],
+    "src": "Fox News (Nov 8, 2023), citing NOLA.com and the Jefferson Parish Sheriff's Office · TMZ (Dec 21, 2024), citing court documents · U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "Chapter five. The indictment.",
+   "scene": {
+    "type": "chapter",
+    "n": "V",
+    "title": "The Indictment"
+   }
+  },
+  {
+   "say": "On December thirteenth, twenty twenty-four, a federal grand jury in New Orleans returned a superseding indictment, now charging Kevin Thompson and Nina Thomas together.",
+   "show": "On December 13, 2024, a federal grand jury in New Orleans returned a superseding indictment, now charging Kevin Thompson and Nina Thomas together.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1427,
+     1.0,
+     0.094
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · DEC 23, 2024 · THE INDICTMENT",
+    "title": "The superseding indictment",
+    "src": "U.S. Attorney's Office, E.D. La., press release on the superseding indictment (Dec 23, 2024)"
+   }
+  },
+  {
+   "say": "The counts: conspiracy to commit wire fraud, wire fraud, aggravated identity theft, and money laundering.",
+   "scene": {
+    "type": "list",
+    "kicker": "SUPERSEDING INDICTMENT · DEC 13, 2024",
+    "items": [
+     [
+      "1",
+      "conspiracy to commit wire fraud"
+     ],
+     [
+      "2",
+      "wire fraud"
+     ],
+     [
+      "3",
+      "aggravated identity theft"
+     ],
+     [
+      "4",
+      "money laundering"
+     ]
+    ],
+    "src": "U.S. Attorney's Office, E.D. La., press release on the superseding indictment (Dec 23, 2024)"
+   }
+  },
+  {
+   "say": "Thompson alone was also charged with possessing cocaine with intent to distribute, and with possessing a firearm in furtherance of a drug trafficking crime.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.2177,
+     1.0,
+     0.064
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · DEC 23, 2024 · THE INDICTMENT",
+    "title": "Thompson alone",
+    "src": "U.S. Attorney's Office, E.D. La., press release on the superseding indictment (Dec 23, 2024)"
+   }
+  },
+  {
+   "say": "TMZ reported that both were taken into custody on December sixteenth, and that the court documents alleged more than two point seven million dollars had been taken.",
+   "show": "TMZ reported that both were taken into custody on December 16, and that the court documents alleged more than $2.7 million had been taken.",
+   "scene": {
+    "type": "stat",
+    "kicker": "ALLEGED IN DECEMBER 2024 · PER TMZ",
+    "value": "$2.7M+",
+    "label": "taken, the court documents alleged",
+    "src": "TMZ (Dec 21, 2024), citing court documents · TMZ (Nov 13, 2026)"
+   }
+  },
+  {
+   "say": "TMZ also reported that Nina Thomas was released shortly after her arrest. The case went on, quietly, for almost two years.",
+   "scene": {
+    "type": "big",
+    "kicker": "DECEMBER 2024 · PER TMZ",
+    "lines": [
+     "Released.",
+     "The case|went on."
+    ],
+    "src": "TMZ (Dec 21, 2024), citing court documents"
+   }
+  },
+  {
+   "say": "The stakes were high. Each wire fraud count carried up to thirty years. Aggravated identity theft carries a mandatory two years, on top of any other sentence.",
+   "show": "The stakes were high. Each wire fraud count carried up to 30 years. Aggravated identity theft carries a mandatory 2 years, on top of any other sentence.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind.jpg",
+    "pan": [
+     0.479,
+     0.539
+    ],
+    "hl": [
+     0.0,
+     0.6133,
+     1.0,
+     0.064
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · DEC 23, 2024 · THE INDICTMENT",
+    "title": "Up to 30 years · 2 years mandatory",
+    "src": "U.S. Attorney's Office, E.D. La., press release on the superseding indictment (Dec 23, 2024)"
+   }
+  },
+  {
+   "say": "And at that point, it was all an accusation. The U.S. Attorney reiterated that the indictment was merely a charging document, and that guilt had to be proven beyond a reasonable doubt.",
+   "show": "And at that point, it was all an accusation. The U.S. Attorney \"reiterated that the superseding indictment is merely a charging document,\" and that guilt had to be proven beyond a reasonable doubt.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind.jpg",
+    "pan": [
+     0.728,
+     0.728
+    ],
+    "hl": [
+     0.0,
+     0.883,
+     1.0,
+     0.0491
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · DEC 23, 2024 · THE INDICTMENT",
+    "title": "“merely a charging document”",
+    "src": "U.S. Attorney's Office, E.D. La., press release on the superseding indictment (Dec 23, 2024)"
+   }
+  },
+  {
+   "say": "For almost two years, there was no trial. Then, this month, both defendants pleaded guilty.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "THE CASE",
+    "events": [
+     {
+      "date": "DEC 2020",
+      "text": "Divorce petition filed"
+     },
+     {
+      "date": "SEP 2021",
+      "text": "Scheme begins, per indictment"
+     },
+     {
+      "date": "JUN 9, 2023",
+      "text": "Arrest at the credit union"
+     },
+     {
+      "date": "DEC 13, 2024",
+      "text": "Superseding indictment"
+     },
+     {
+      "date": "NOV 12, 2026",
+      "text": "Both plead guilty"
+     }
+    ],
+    "at": 4,
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026) · U.S. Attorney's Office, E.D. La., press release on the superseding indictment (Dec 23, 2024) · Fox News (Nov 8, 2023), citing NOLA.com and the Jefferson Parish Sheriff's Office"
+   }
+  },
+  {
+   "say": "Chapter six. The plea.",
+   "scene": {
+    "type": "chapter",
+    "n": "VI",
+    "title": "The Plea"
+   }
+  },
+  {
+   "say": "On November twelfth, twenty twenty-six, before U.S. District Judge Brandon S. Long, Kevin Thompson and Nina Thomas each pleaded guilty to one count of conspiracy to commit wire fraud.",
+   "show": "On November 12, 2026, before U.S. District Judge Brandon S. Long, Kevin Thompson and Nina Thomas each pleaded guilty to one count of conspiracy to commit wire fraud.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1184,
+     1.0,
+     0.0824
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · NOV 17, 2026",
+    "title": "Both pleaded guilty",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "Thompson also pleaded guilty to possession with intent to distribute five hundred grams or more of cocaine.",
+   "show": "Thompson also pleaded guilty to possession with intent to distribute 500 grams or more of cocaine.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "hl": [
+     0.0,
+     0.1812,
+     1.0,
+     0.051
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · NOV 17, 2026",
+    "title": "And the cocaine count",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "A conspiracy count means each of them admitted agreeing with the other to commit wire fraud. The release lists only those counts. Aggravated identity theft, with its mandatory two years, is not among them.",
+   "show": "A conspiracy count means each of them admitted agreeing with the other to commit wire fraud. The release lists only those counts. Aggravated identity theft, with its mandatory 2 years, is not among them.",
+   "scene": {
+    "type": "big",
+    "kicker": "WHAT THEY PLEADED TO",
+    "lines": [
+     "One conspiracy count each.",
+     "Not aggravated|identity theft."
+    ],
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026) · U.S. Attorney's Office, E.D. La., press release on the superseding indictment (Dec 23, 2024)"
+   }
+  },
+  {
+   "say": "Here is what that means in years. The wire fraud conspiracy count carries a maximum of five years in prison, for each of them.",
+   "show": "Here is what that means in years. The wire fraud conspiracy count carries a maximum of 5 years in prison, for each of them.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.653,
+     0.713
+    ],
+    "hl": [
+     0.0,
+     0.7917,
+     1.0,
+     0.0667
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · NOV 17, 2026",
+    "title": "Up to 5 years",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "For Thompson, the drug count is heavier: a mandatory minimum of five years, and up to forty.",
+   "show": "For Thompson, the drug count is heavier: a mandatory minimum of 5 years, and up to 40.",
+   "scene": {
+    "type": "bars",
+    "kicker": "MAXIMUM PRISON TERMS · PER DOJ",
+    "title": "What the counts carry",
+    "items": [
+     {
+      "label": "Wire fraud conspiracy · each",
+      "value": 5,
+      "display": "5 yrs max"
+     },
+     {
+      "label": "Cocaine count · Thompson (min. 5)",
+      "value": 40,
+      "display": "40 yrs max"
+     }
+    ],
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "The final number in the release: between one point five and three million dollars, stolen from the victim.",
+   "show": "The final number in the release: between $1.5 million and $3 million, stolen from the victim.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.434,
+     0.494
+    ],
+    "hl": [
+     0.0,
+     0.5886,
+     1.0,
+     0.0353
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · NOV 17, 2026",
+    "title": "“stole between $1,500,000.00 and $3,000,000.00”",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "TMZ, citing a federal court document, reported a restitution figure of three million, four hundred ninety-seven thousand, four hundred forty-four dollars and sixty-four cents, which it said the two of them would be jointly responsible for paying. That is more than the Justice Department's theft range.",
+   "show": "TMZ, citing a federal court document, reported a restitution figure of $3,497,444.64, which it said the two of them would be jointly responsible for paying. That is more than the Justice Department's theft range.",
+   "scene": {
+    "type": "stat",
+    "kicker": "RESTITUTION · PER TMZ",
+    "value": "$3,497,444.64",
+    "label": "jointly, TMZ reported",
+    "src": "TMZ (Nov 13, 2026), citing a federal court document"
+   }
+  },
+  {
+   "say": "And TMZ listed the property Nina Thomas must forfeit under her plea deal. A twenty twenty Rolls-Royce Cullinan. A twenty twenty Aston Martin Vantage. A twenty eighteen Porsche Panamera. A Birkin bag, Chanel jewelry, gold chains, designer clothes, and two hundred twenty-eight thousand, eight hundred sixty dollars in cash.",
+   "show": "And TMZ listed the property Nina Thomas must forfeit under her plea deal. A 2020 Rolls-Royce Cullinan. A 2020 Aston Martin Vantage. A 2018 Porsche Panamera. A Birkin bag, Chanel jewelry, gold chains, designer clothes, and $228,860 in cash.",
+   "scene": {
+    "type": "list",
+    "kicker": "FORFEITURE LIST · PER TMZ",
+    "items": [
+     [
+      "1",
+      "2020 Rolls-Royce Cullinan"
+     ],
+     [
+      "2",
+      "2020 Aston Martin Vantage"
+     ],
+     [
+      "3",
+      "2018 Porsche Panamera"
+     ],
+     [
+      "4",
+      "Birkin bag, Chanel, gold chains"
+     ],
+     [
+      "5",
+      "$228,860 in cash"
+     ]
+    ],
+    "src": "TMZ (Nov 16, 2026), citing court documents"
+   }
+  },
+  {
+   "say": "According to TMZ, prosecutors also warned that if any of that property cannot be found, they can seek a money judgment, or other assets, up to the value of what is missing.",
+   "scene": {
+    "type": "big",
+    "kicker": "FORFEITURE · PER TMZ",
+    "lines": [
+     "Can't find it?",
+     "Then other|assets."
+    ],
+    "src": "TMZ (Nov 16, 2026), citing court documents"
+   }
+  },
+  {
+   "say": "No sentencing date was given in the release. Judge Long will decide the sentences.",
+   "scene": {
+    "type": "big",
+    "kicker": "WHAT'S NEXT",
+    "lines": [
+     "Sentencing:",
+     "Judge|Brandon S. Long."
+    ],
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "The case was investigated by the FBI, the Drug Enforcement Administration, and the Jefferson Parish Sheriff's Office.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.715,
+     0.715
+    ],
+    "hl": [
+     0.0,
+     0.932,
+     1.0,
+     0.0511
+    ],
+    "kicker": "U.S. ATTORNEY · E.D. LA. · NOV 17, 2026",
+    "title": "The investigators",
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "And notice what did not stop this. A court order told both spouses not to move each other's money. It did not stop the transfers. What exposed it was a credit union that noticed, and a phone number on a form.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE LESSON",
+    "lines": [
+     "The order didn't",
+     "stop it.|A credit union noticed."
+    ],
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "So here is the case, in numbers. A court order not to touch each other's property. A practiced signature. One check for eight hundred eighty-five thousand, four hundred nineteen dollars. More than seven hundred thousand withdrawn at one credit union. And a phone number that did not belong to the man on the account.",
+   "show": "So here is the case, in numbers. A court order not to touch each other's property. A practiced signature. One check for $885,419. More than $700,000 withdrawn at one credit union. And a phone number that did not belong to the man on the account.",
+   "scene": {
+    "type": "list",
+    "kicker": "THE CASE IN NUMBERS",
+    "items": [
+     [
+      "$885,419",
+      "one check"
+     ],
+     [
+      "$700,000+",
+      "withdrawn at the credit union"
+     ],
+     [
+      "3,716 g",
+      "cocaine found"
+     ],
+     [
+      "$1.5M–$3M",
+      "stolen, per DOJ"
+     ]
+    ],
+    "src": "U.S. Attorney's Office, E.D. La., press release (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "Earl Thomas spent a decade reading quarterbacks, and taking the ball away. Off the field, according to the guilty pleas, his estranged wife and her boyfriend were taking the money, in his own name.",
+   "scene": {
+    "type": "photo",
+    "img": "img/earl_2014.jpg",
+    "caption": "EARL THOMAS · 2014",
+    "src": "PHOTO: KEITH ALLISON · CC BY-SA 2.0 · WIKIMEDIA COMMONS · 2014",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "Both now wait for Judge Long's sentence. The maximum on the fraud count is five years.",
+   "show": "Both now wait for Judge Long's sentence. The maximum on the fraud count is 5 years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "UNITED STATES v. THOMPSON & THOMAS",
+    "stamp": "PLEADED GUILTY",
+    "big": "Up to 5 years",
+    "sub": "wire fraud conspiracy · sentencing pending"
+   }
+  },
+  {
+   "say": "What sentence would be fair here? Tell us in the comments.",
+   "scene": {
+    "type": "end",
+    "cta": "WHAT SENTENCE WOULD BE FAIR?"
+   }
+  }
+ ]
+}

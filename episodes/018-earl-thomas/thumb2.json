@@ -1,0 +1,58 @@
+{
+ "A": {
+  "left": {
+   "img": "img/earl_face.jpg",
+   "cover": true,
+   "pos": "70% 30%"
+  },
+  "right": {
+   "img": "img/zoom_total.jpg",
+   "cover": true,
+   "pos": "50% 50%",
+   "stamp": "PLEADED GUILTY",
+   "stampPos": "left:50%;top:22%"
+  },
+  "split": 0.5,
+  "tag": "BREAKING",
+  "line1": "HIS ESTRANGED WIFE & BOYFRIEND",
+  "line2": "STOLE UP TO $3M",
+  "line2color": "red",
+  "size1": 80,
+  "size2": 120
+ },
+ "B": {
+  "left": {
+   "q": [
+    "WHO",
+    "STOLE FROM",
+    "EARL THOMAS?"
+   ]
+  },
+  "right": {
+   "img": "img/earl_face.jpg",
+   "cover": true,
+   "pos": "60% 30%"
+  },
+  "split": 0.5,
+  "tag": "BREAKING"
+ },
+ "C": {
+  "left": {
+   "img": "img/zoom_rolls.jpg",
+   "cover": true,
+   "pos": "50% 50%"
+  },
+  "right": {
+   "img": "img/earl_face.jpg",
+   "cover": true,
+   "pos": "60% 30%"
+  },
+  "split": 0.42,
+  "tag": "BREAKING",
+  "line1": "HIS ROLLS-ROYCE, HIS NAME",
+  "line2": "WIFE & BOYFRIEND PLEAD GUILTY",
+  "line2color": "yellow",
+  "size1": 96,
+  "size2": 92
+ }
+}

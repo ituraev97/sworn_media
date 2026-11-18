@@ -1,0 +1,77 @@
+{
+ "title": "$1.5M–$3M Stolen From Earl Thomas: Both Plead Guilty",
+ "template": "number reveal + verdict",
+ "lines": [
+  {
+   "say": "Up to three million dollars stolen, prosecutors say, from the man news reports identify as Super Bowl champion Earl Thomas. His estranged wife and her boyfriend just pleaded guilty.",
+   "show": "Up to $3 million stolen, prosecutors say, from the man news reports identify as Super Bowl champion Earl Thomas. His estranged wife and her boyfriend just pleaded guilty.",
+   "scene": {
+    "type": "hook",
+    "img": "img/earl_hook.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.0,
+    "tag": "BREAKING",
+    "number": "UP TO $3M",
+    "label": "STOLEN FROM EARL THOMAS|BOTH PLEADED GUILTY"
+   }
+  },
+  {
+   "say": "They opened accounts in his name. Her boyfriend practiced signing it.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.23,
+     0.29
+    ],
+    "hl": [
+     0.0,
+     0.353,
+     1.0,
+     0.0667
+    ],
+    "kicker": "U.S. ATTORNEY · NOV 17, 2026",
+    "src": "U.S. Attorney's Office, E.D. La. (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "His union payments were redirected. One check: eight hundred eighty-five thousand, four hundred nineteen dollars.",
+   "show": "His union payments were redirected. One check: $885,419.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.285,
+     0.345
+    ],
+    "hl": [
+     0.0,
+     0.4001,
+     1.0,
+     0.0824
+    ],
+    "kicker": "U.S. ATTORNEY · NOV 17, 2026",
+    "src": "U.S. Attorney's Office, E.D. La. (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "On November twelfth, both pleaded guilty to wire fraud conspiracy. Up to five years each on that count.",
+   "show": "On November 12, both pleaded guilty to wire fraud conspiracy. Up to 5 years each on that count.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NEW ORLEANS · NOV 12, 2026",
+    "stamp": "PLEADED GUILTY",
+    "big": "Up to 5 years",
+    "sub": "wire fraud conspiracy · each",
+    "at": 0.1
+   }
+  },
+  {
+   "say": "What sentence is fair? Tell me below.",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

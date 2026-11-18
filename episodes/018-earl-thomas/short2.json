@@ -1,0 +1,75 @@
+{
+ "title": "\"Driving a Rolls Royce\": The Man Using Earl Thomas's Name",
+ "template": "verbatim quote + how he got caught",
+ "lines": [
+  {
+   "say": "More than seven hundred thousand dollars, withdrawn in Earl Thomas's name, reports say. Then the man behind it drove a Rolls-Royce to the credit union.",
+   "show": "More than $700,000, withdrawn in Earl Thomas's name, reports say. Then the man behind it drove a Rolls-Royce to the credit union.",
+   "scene": {
+    "type": "hook",
+    "img": "img/earl_hook.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.0,
+    "tag": "BREAKING",
+    "number": "$700K+",
+    "label": "WITHDRAWN IN HIS NAME|THEN: THE ROLLS-ROYCE"
+   }
+  },
+  {
+   "say": "The credit union had already called the sheriff. Kevin Thompson arrived in a Rolls-Royce fraudulently obtained from the victim.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.528,
+     0.588
+    ],
+    "hl": [
+     0.0,
+     0.6587,
+     1.0,
+     0.051
+    ],
+    "kicker": "U.S. ATTORNEY · NOV 17, 2026",
+    "src": "U.S. Attorney's Office, E.D. La. (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "The account was in the victim's name. The phone number was Thompson's.",
+   "scene": {
+    "type": "doc",
+    "img": "img/plea.jpg",
+    "pan": [
+     0.56,
+     0.62
+    ],
+    "hl": [
+     0.0,
+     0.6901,
+     1.0,
+     0.0511
+    ],
+    "kicker": "U.S. ATTORNEY · NOV 17, 2026",
+    "src": "U.S. Attorney's Office, E.D. La. (Nov 17, 2026)"
+   }
+  },
+  {
+   "say": "This month, he and Thomas's estranged wife pleaded guilty.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NEW ORLEANS · NOV 12, 2026",
+    "stamp": "PLEADED GUILTY",
+    "big": "Wire fraud conspiracy",
+    "sub": "Kevin J. Thompson · Nina Thomas",
+    "at": 0.1
+   }
+  },
+  {
+   "say": "Should the bank have caught it sooner? Tell me below.",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}
