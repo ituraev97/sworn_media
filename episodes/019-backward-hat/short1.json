@@ -1,0 +1,60 @@
+{
+ "title": "\"Let's Do 9.91\": How a $600M Fund Set Returns, Feds Say",
+ "template": "verbatim quote + number reveal",
+ "lines": [
+  {
+   "say": "More than six hundred million dollars from over two thousand investors. Prosecutors say the monthly return was picked by text.",
+   "show": "$600M+ from over 2,000 investors. Prosecutors say the monthly return was picked by text.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_991.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "BREAKING",
+    "number": "$600M",
+    "label": "RETURNS SET BY TEXT|PROSECUTORS ALLEGE"
+   }
+  },
+  {
+   "say": "An employee texts: aggressive fund, ten point oh one percent, does this sound right? Later, prosecutors say, co-founder Phillip Williams replies: let's do nine point nine one, bumped it up a bit.",
+   "show": "An employee texts: \"Aggressive fund 10.01% / Does this sound right?\" Later, prosecutors say, co-founder Phillip Williams replies: \"… Let's do 9.91 bumped it up a bit\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/c6.jpg",
+    "pan": [
+     0.001,
+     0.061
+    ],
+    "hl": [
+     0.0,
+     0.0662,
+     1.0,
+     0.2703
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · MAY 14, 2026",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "On November eighteenth, two of its co-founders were arrested. They're charged, not convicted.",
+   "show": "On November 18, two of its co-founders were arrested. They're charged, not convicted.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOV 18, 2026 · ARRESTED",
+    "stamp": "CHARGED",
+    "big": "Presumed innocent",
+    "sub": "Williams · Johnson · 2 of 3 co-founders",
+    "neutral": true,
+    "at": 0.1
+   }
+  },
+  {
+   "say": "Would you have trusted six percent a month?",
+   "show": "Would you have trusted 6% a month?",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

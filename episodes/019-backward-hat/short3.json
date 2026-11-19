@@ -1,0 +1,79 @@
+{
+ "title": "\"Accepting New Investors\": The Reply to an IRS Undercover",
+ "template": "verbatim quote + how it ended",
+ "lines": [
+  {
+   "say": "We are accepting new investors at the moment. That's the reply an undercover I.R.S. employee got, prosecutors say.",
+   "show": "\"We are accepting new investors at the moment.\" That's the reply an undercover IRS employee got, prosecutors say.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_new.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "BREAKING",
+    "number": "$600M",
+    "label": "STILL TAKING MONEY|PROSECUTORS ALLEGE"
+   }
+  },
+  {
+   "say": "By then, the complaint says, the fund had dissipated most investor assets.",
+   "show": "By then, the complaint says, the fund had \"dissipated most investor assets.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/c9.jpg",
+    "pan": [
+     0.099,
+     0.159
+    ],
+    "hl": [
+     0.0,
+     0.2469,
+     1.0,
+     0.104
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 26",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "Williams drafted an investor email about longer processing times, the complaint says. Then, on November thirteenth, he told investors about a third-party identity validator.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c9.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.0524,
+     1.0,
+     0.104
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · NOV 13, 2026",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., Nov 17, 2026) — allegations"
+   },
+   "show": "Williams drafted an investor email about longer processing times, the complaint says. Then, on November 13, he told investors about \"a third-party identity validator.\""
+  },
+  {
+   "say": "Five days later, two of its co-founders were arrested. Charged, not convicted.",
+   "show": "5 days later, two of its co-founders were arrested. Charged, not convicted.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOV 18, 2026 · ARRESTED",
+    "stamp": "CHARGED",
+    "big": "Presumed innocent",
+    "sub": "Williams · Johnson · 2 of 3 co-founders",
+    "neutral": true,
+    "at": 0.1
+   }
+  },
+  {
+   "say": "What's the biggest red flag here?",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

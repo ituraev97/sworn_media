@@ -1,0 +1,79 @@
+{
+ "title": "$130M+ to One Founder, Feds Allege: Where $600M Went",
+ "template": "number reveal + follow the money",
+ "lines": [
+  {
+   "say": "More than a hundred thirty million dollars went to one founder's accounts, prosecutors allege, from a forex firm that raised six hundred million.",
+   "show": "More than $130 million went to one founder's accounts, prosecutors allege, from a forex firm that raised $600 million.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_130.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "CHARGED",
+    "number": "$130M+",
+    "label": "TO ONE FOUNDER'S ACCOUNTS|PER THE COMPLAINT"
+   }
+  },
+  {
+   "say": "At least about two hundred million, the complaint says, paid earlier investors with newer investors' money.",
+   "show": "At least about $200 million, the complaint says, paid earlier investors with newer investors' money.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c6.jpg",
+    "pan": [
+     0.386,
+     0.446
+    ],
+    "hl": [
+     0.0,
+     0.5545,
+     1.0,
+     0.0637
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 19(b)",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "More than forty million, it says, went to co-founder Devin Johnson's accounts. The forex trading? Only minimal funds, the agent writes.",
+   "show": "More than $40 million, it says, went to co-founder Devin Johnson's accounts. The forex trading? \"Only minimal funds,\" the agent writes.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c6.jpg",
+    "pan": [
+     0.555,
+     0.615
+    ],
+    "hl": [
+     0.0,
+     0.7424,
+     1.0,
+     0.026
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 19(d)",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "Phillip Williams and Devin Johnson were arrested November eighteenth. Both are presumed innocent.",
+   "show": "Phillip Williams and Devin Johnson were arrested November 18. Both are presumed innocent.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOV 18, 2026 · ARRESTED",
+    "stamp": "CHARGED",
+    "big": "Presumed innocent",
+    "sub": "Williams · Johnson · 2 of 3 co-founders",
+    "neutral": true,
+    "at": 0.1
+   }
+  },
+  {
+   "say": "Where do you think the rest went?",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

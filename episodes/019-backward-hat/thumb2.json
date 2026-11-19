@@ -1,0 +1,54 @@
+{
+ "A": {
+  "left": {
+   "q": [
+    "WHERE DID",
+    "$600M",
+    "GO?"
+   ]
+  },
+  "right": {
+   "img": "img/t_130.jpg",
+   "cover": true,
+   "pos": "50% 0%"
+  },
+  "split": 0.5,
+  "tag": "BREAKING"
+ },
+ "B": {
+  "left": {
+   "img": "img/t_991.jpg",
+   "cover": true,
+   "pos": "50% 0%"
+  },
+  "right": {
+   "number": "$600M",
+   "label": "CHARGED"
+  },
+  "split": 0.5,
+  "tag": "BREAKING",
+  "line1": "RETURNS PICKED BY TEXT",
+  "line2": "FEDS ALLEGE",
+  "line2color": "red",
+  "size1": 92,
+  "size2": 100
+ },
+ "C": {
+  "left": {
+   "img": "img/t_6pct.jpg",
+   "cover": true,
+   "pos": "50% 0%"
+  },
+  "right": {
+   "number": "6%+",
+   "label": "A MONTH, ON PAPER"
+  },
+  "split": 0.42,
+  "tag": "BREAKING",
+  "line1": "$600M FOREX FUND",
+  "line2": "2 FOUNDERS CHARGED",
+  "line2color": "yellow",
+  "size1": 96,
+  "size2": 104
+ }
+}

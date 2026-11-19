@@ -1,0 +1,1149 @@
+{
+ "label": "SWORN · CASE 019",
+ "lines": [
+  {
+   "say": "May fourteenth, twenty twenty-six. According to federal prosecutors, a text message arrives for the man running an investment firm that raised more than six hundred million dollars. Aggressive fund, ten point oh one percent. Does this sound right?",
+   "show": "May 14, 2026. According to federal prosecutors, a text message arrives for the man running an investment firm that raised more than $600 million. \"Aggressive fund 10.01% / Does this sound right?\"",
+   "scene": {
+    "type": "quote",
+    "q": "Aggressive fund 10.01% / Does this sound right?",
+    "case": "A Backward Hat employee, May 14, 2026",
+    "doc": "Text message quoted in the criminal complaint, ¶ 18",
+    "cite": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "He asks what it was last month. Nine point five one, the employee says. Later in the exchange, according to federal prosecutors, he writes: Let's do nine point nine one, bumped it up a bit.",
+   "show": "He asks what it was last month. \"9.51% last month,\" the employee says. Later in the exchange, according to federal prosecutors, he writes: \"… Let's do 9.91 bumped it up a bit.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/c6.jpg",
+    "pan": [
+     0.0,
+     0.041
+    ],
+    "hl": [
+     0.0,
+     0.0662,
+     1.0,
+     0.2703
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 18 · MAY 14, 2026",
+    "title": "“Let’s do 9.91 bumped it up a bit”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "Prosecutors say that is how Backward Hat Capital decided what its investors had earned. Not from trades. From a text.",
+   "scene": {
+    "type": "big",
+    "kicker": "WHAT PROSECUTORS ALLEGE",
+    "lines": [
+     "Not from trades.",
+     "From a text."
+    ],
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "According to prosecutors, more than two thousand investors put in more than six hundred million dollars. They were told the fund typically made more than six percent a month.",
+   "show": "According to prosecutors, more than 2,000 investors put in more than $600 million. They were told the fund typically made more than 6% a month.",
+   "scene": {
+    "type": "stat",
+    "kicker": "BACKWARD HAT CAPITAL · SINCE 2022",
+    "value": "$600M+",
+    "label": "from more than 2,000 investors",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "On the morning of November eighteenth, twenty twenty-six, federal agents arrested two of its founders. Phillip Patrick Williams in Kokomo, Indiana. Devin Allen Johnson in Gilbert, Arizona.",
+   "show": "On the morning of November 18, 2026, federal agents arrested two of its founders. Phillip Patrick Williams in Kokomo, Indiana. Devin Allen Johnson in Gilbert, Arizona.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOVEMBER 18, 2026",
+    "stamp": "CHARGED",
+    "big": "Securities fraud & conspiracy",
+    "sub": "Phillip Patrick Williams · Devin Allen Johnson",
+    "neutral": true
+   }
+  },
+  {
+   "say": "They are charged, not convicted, and they are presumed innocent. Everything in the complaint is an allegation. This is what it says.",
+   "scene": {
+    "type": "title",
+    "kicker": "SWORN · CASE 019 · BREAKING",
+    "title": "Backward Hat|$600 Million",
+    "sub": "United States v. Williams & Johnson · S.D.N.Y. · criminal complaint"
+   }
+  },
+  {
+   "say": "Chapter one. The promise.",
+   "scene": {
+    "type": "chapter",
+    "n": "I",
+    "title": "The Promise"
+   }
+  },
+  {
+   "say": "According to the complaint, Backward Hat Capital was founded in or about July twenty twenty-two by three people: Williams, Johnson, and a third co-founder the complaint does not name. Each held an equal share.",
+   "show": "According to the complaint, Backward Hat Capital was founded in or about July 2022 by three people: Williams, Johnson, and a third co-founder the complaint does not name. Each held an equal share.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c4.jpg",
+    "pan": [
+     0.226,
+     0.286
+    ],
+    "hl": [
+     0.0,
+     0.4043,
+     1.0,
+     0.0825
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 11",
+    "title": "Three co-founders, equal shares",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "Today Williams is fifty-one, of Kokomo. Johnson is twenty-nine, of Zionsville, outside Indianapolis. The audit reports investors later received called Williams the Managing Partner and C.E.O., and Johnson the Managing Director of Algorithmic Strategy.",
+   "show": "Today Williams is 51, of Kokomo. Johnson is 29, of Zionsville, outside Indianapolis. The audit reports investors later received called Williams the \"Managing Partner/CEO\", and Johnson the \"Managing Director, Algorithmic Strategy.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/c5.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.085,
+     1.0,
+     0.0637
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 14(a)",
+    "title": "“Managing Partner/CEO”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "The pitch was forex. Foreign exchange: trading one currency against another, dollars against euros, yen against pounds, looking for tiny price gaps.",
+   "scene": {
+    "type": "big",
+    "kicker": "THE PITCH",
+    "lines": [
+     "Forex.",
+     "Currency against|currency."
+    ],
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "A marketing deck from late twenty twenty-three said Backward Hat started out of the desire to help friends and family navigate the complexities of the Forex arena, and had grown at a staggering rate.",
+   "show": "A marketing deck from late 2023 said Backward Hat \"started out of the desire to help friends and family navigate the complexities of the Forex arena\", and had grown \"at a staggering rate.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/c4.jpg",
+    "pan": [
+     0.451,
+     0.511
+    ],
+    "hl": [
+     0.0,
+     0.6297,
+     1.0,
+     0.0824
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 13 · 2023 MARKETING DECK",
+    "title": "“grown … at a staggering rate”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "The website described forex pair arbitrage, using the firm's own proprietary automation and algorithms. By the complaint's count, there were more than twelve separate funds.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c4.jpg",
+    "pan": [
+     0.357,
+     0.417
+    ],
+    "hl": [
+     0.0,
+     0.5545,
+     1.0,
+     0.0449
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 12–13",
+    "title": "More than twelve separate funds",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "And the returns were the hook. The statements investors saw typically showed more than six percent a month.",
+   "show": "And the returns were the hook. The statements investors saw typically showed more than 6% a month.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c4.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.1226,
+     1.0,
+     0.0636
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 9",
+    "title": "“typically exceeded 6% per month”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "Do the math, and the complaint does: compounded, that is more than one hundred percent a year. An investor would more than double their money in twelve months.",
+   "show": "Do the math, and the complaint does: compounded, that is more than 100% a year. An investor would more than double their money in 12 months.",
+   "scene": {
+    "type": "stat",
+    "kicker": "6% A MONTH, COMPOUNDED",
+    "value": "100%+",
+    "label": "a year, on paper: money would more than double",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "Which raises a simple question. Who decided what that monthly number was?",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Who picked",
+     "the number?"
+    ],
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "Chapter two. The number.",
+   "scene": {
+    "type": "chapter",
+    "n": "II",
+    "title": "The Number"
+   }
+  },
+  {
+   "say": "Investigators say they reviewed Backward Hat's own internal spreadsheets. Every fund, they say, earned the same percentage each month, except one more aggressive fund that earned more.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c5.jpg",
+    "pan": [
+     0.404,
+     0.464
+    ],
+    "hl": [
+     0.0,
+     0.5733,
+     1.0,
+     0.1012
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 16",
+    "title": "The same return, every fund but one",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "From January to August twenty twenty-six, according to those records, the regular funds never fell below six percent in a month. The aggressive fund never fell below nine and a half.",
+   "show": "From January to August 2026, according to those records, the regular funds never fell below 6% in a month. The aggressive fund never fell below 9.5%.",
+   "scene": {
+    "type": "bars",
+    "kicker": "MONTHLY RETURN · JAN–AUG 2026 · PER BACKWARD HAT RECORDS",
+    "title": "The lowest month",
+    "items": [
+     {
+      "label": "Regular funds",
+      "value": 6,
+      "display": "never below 6%"
+     },
+     {
+      "label": "\"Aggressive\" fund",
+      "value": 9.5,
+      "display": "never below 9.5%"
+     }
+    ],
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "On the investor dashboard, from October twenty twenty-three to September twenty twenty-six, the monthly rate shown was always between six point oh one and seven point two one percent. Not one month below six.",
+   "show": "On the investor dashboard, from October 2023 to September 2026, the monthly rate shown was always between 6.01% and 7.21%. Not one month below six.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c5.jpg",
+    "pan": [
+     0.554,
+     0.614
+    ],
+    "hl": [
+     0.0,
+     0.7424,
+     1.0,
+     0.0636
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 17 · THE DASHBOARD",
+    "title": "“between 6.01% and 7.21%”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "So where did the rate come from? According to the complaint, each month Williams himself set the return rate used to value every investor's account.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c5.jpg",
+    "pan": [
+     0.639,
+     0.699
+    ],
+    "hl": [
+     0.0,
+     0.8363,
+     1.0,
+     0.0448
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 18",
+    "title": "“WILLIAMS set the return rate”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "August fifth, twenty twenty-six. An employee texts him a list of past returns: For returns tomorrow. Let me know if you need anything else. Williams replies with four characters. Six point six two.",
+   "show": "August 5, 2026. An employee texts him a list of past returns: \"For returns tomorrow. Let me know if you need anything else.\" Williams replies with four characters. \"6.62.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/c5.jpg",
+    "pan": [
+     0.686,
+     0.746
+    ],
+    "hl": [
+     0.0,
+     0.8738,
+     1.0,
+     0.0637
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 18 · AUG 5, 2026",
+    "title": "WILLIAMS responded with “6.62”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "The agent writes that six point six two percent was the rate Backward Hat then used for its regular funds for July.",
+   "show": "The agent writes that 6.62% was the rate Backward Hat then used for its regular funds for July.",
+   "scene": {
+    "type": "stat",
+    "kicker": "JULY 2026 · REGULAR FUNDS",
+    "value": "6.62%",
+    "label": "the number in the text, per the agent",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "And then the exchange from May. Aggressive fund, ten point oh one percent, does this sound right. What was it last month. Nine point five one last month. Let's do nine point nine one, bumped it up a bit.",
+   "show": "And then the exchange from May. \"Aggressive fund 10.01% / Does this sound right?\" \"What was it last month?\" \"9.51% last month …\" \"… Let's do 9.91 bumped it up a bit\"",
+   "scene": {
+    "type": "quote",
+    "q": "What was it last month? … Let’s do 9.91 bumped it up a bit",
+    "case": "Phillip Patrick Williams, May 14, 2026",
+    "doc": "Texts quoted in the criminal complaint, ¶ 18",
+    "cite": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "If the returns were set by text, what happened to the money itself? The complaint points to bank records.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Then where",
+     "did the money|go?"
+    ],
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "Chapter three. The money.",
+   "scene": {
+    "type": "chapter",
+    "n": "III",
+    "title": "The Money"
+   }
+  },
+  {
+   "say": "Investigators say they traced Backward Hat's bank and cryptocurrency exchange records. More than two thousand investors, more than six hundred million dollars in.",
+   "show": "Investigators say they traced Backward Hat's bank and cryptocurrency exchange records. More than 2,000 investors, more than $600 million in.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c3.jpg",
+    "pan": [
+     0.68,
+     0.74
+    ],
+    "hl": [
+     0.0,
+     0.8779,
+     1.0,
+     0.0449
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 9",
+    "title": "“more than $600 million … over 2,000 investors”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "At least about two hundred million dollars, the complaint says, went back out to earlier investors, paid with new investors' money, in what it calls a Ponzi scheme-like fashion.",
+   "show": "At least about $200 million, the complaint says, went back out to earlier investors, paid with new investors' money, in what it calls a \"Ponzi scheme-like fashion.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/c6.jpg",
+    "pan": [
+     0.366,
+     0.426
+    ],
+    "hl": [
+     0.0,
+     0.5545,
+     1.0,
+     0.0637
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 19(b)",
+    "title": "“in a Ponzi scheme-like fashion”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "More than about two hundred million went to the founders and to general partners, or G.P.s, whom the complaint describes as people Backward Hat enlisted to bring in more investors.",
+   "show": "More than about $200 million went to the founders and to general partners, or \"GPs\", whom the complaint describes as people Backward Hat enlisted to bring in more investors.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c6.jpg",
+    "pan": [
+     0.46,
+     0.52
+    ],
+    "hl": [
+     0.0,
+     0.6297,
+     1.0,
+     0.1012
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 19(c)",
+    "title": "Founders and \"GPs\"",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "Of that, the complaint says, more than one hundred thirty million dollars went to accounts controlled by Phillip Williams. More than forty million to accounts controlled by Devin Johnson.",
+   "show": "Of that, the complaint says, more than $130 million went to accounts controlled by Phillip Williams. More than $40 million to accounts controlled by Devin Johnson.",
+   "scene": {
+    "type": "bars",
+    "kicker": "WHERE THE MONEY WENT · PER THE COMPLAINT",
+    "title": "Out of $600M+ raised",
+    "items": [
+     {
+      "label": "Paid back to earlier investors",
+      "value": 200,
+      "display": "≈$200M+"
+     },
+     {
+      "label": "Founders & GPs (total)",
+      "value": 200,
+      "display": "$200M+"
+     },
+     {
+      "label": "…of which to Williams",
+      "value": 130,
+      "display": "$130M+"
+     },
+     {
+      "label": "…of which to Johnson",
+      "value": 40,
+      "display": "$40M+"
+     }
+    ],
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "And the trading, the forex algorithm at the heart of the pitch? Only minimal funds, the agent writes, appear to have been potentially used for forex trading.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c6.jpg",
+    "pan": [
+     0.535,
+     0.595
+    ],
+    "hl": [
+     0.0,
+     0.7424,
+     1.0,
+     0.026
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 19(d)",
+    "title": "“Only minimal funds”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "One more detail. On February twelfth, twenty twenty-six, according to the complaint, an employee learned that Johnson had moved about three hundred thousand dollars from a Backward Hat account into his personal account. Confronted, the complaint says, he put it back.",
+   "show": "One more detail. On February 12, 2026, according to the complaint, an employee learned that Johnson had moved about $300,000 from a Backward Hat account into his personal account. Confronted, the complaint says, he put it back.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c6.jpg",
+    "pan": [
+     0.611,
+     0.671
+    ],
+    "hl": [
+     0.0,
+     0.7987,
+     1.0,
+     0.0637
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 20 · FEB 12, 2026",
+    "title": "About $300,000 — then returned",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "So how did Backward Hat keep raising money for more than four years? Investors had a document that seemed to answer every doubt. An independent audit.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Four-plus years.",
+     "One document:|“Independent.”"
+    ],
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "Chapter four. The audit.",
+   "scene": {
+    "type": "chapter",
+    "n": "IV",
+    "title": "The Audit"
+   }
+  },
+  {
+   "say": "Backward Hat hired a firm to produce an Independent Financial Audit and Quality of Earnings reports, covering twenty twenty-three, twenty twenty-four and twenty twenty-five.",
+   "show": "Backward Hat hired a firm to produce an \"Independent Financial Audit\" and \"Quality of Earnings\" reports, covering 2023, 2024 and 2025.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c4.jpg",
+    "pan": [
+     0.695,
+     0.755
+    ],
+    "hl": [
+     0.0,
+     0.8926,
+     1.0,
+     0.0449
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 14",
+    "title": "“Independent Financial Audit”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "The audit reported an average gross return of six point three percent from twenty twenty-three through mid twenty twenty-five, and concluded that the fund exhibits strong financial integrity, sound governance, and consistent performance across all audited periods.",
+   "show": "The audit reported an average gross return of 6.3% from 2023 through mid-2025, and concluded that the fund \"exhibits strong financial integrity, sound governance, and consistent performance across all audited periods.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/c5.jpg",
+    "pan": [
+     0.0,
+     0.032
+    ],
+    "hl": [
+     0.0,
+     0.1602,
+     1.0,
+     0.0636
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 14(b)",
+    "title": "“strong financial integrity, sound governance”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "An opinion letter said the financial statements present fairly, in all material respects, the fund's financial position. And the reports called the audit and the auditor independent, again and again.",
+   "scene": {
+    "type": "quote",
+    "q": "the financial statements present fairly, in all material respects, the financial position of [the fund]",
+    "case": "\"Independent Auditor's Opinion Letter\"",
+    "doc": "As quoted in the criminal complaint, ¶ 14(c)",
+    "cite": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "On November fourteenth, twenty twenty-five, the complaint says, Johnson sent those reports to a prospective investor. That person invested.",
+   "show": "On November 14, 2025, the complaint says, Johnson sent those reports to a prospective investor. That person invested.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c5.jpg",
+    "pan": [
+     0.301,
+     0.361
+    ],
+    "hl": [
+     0.0,
+     0.4982,
+     1.0,
+     0.0448
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 15 · NOV 14, 2025",
+    "title": "Sent to a prospective investor",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "Now the other side of that audit. According to the complaint, Phillip Williams had co-founded a company with the auditor's own C.E.O.",
+   "show": "Now the other side of that audit. According to the complaint, Phillip Williams had co-founded a company with the auditor's own CEO.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c7.jpg",
+    "pan": [
+     0.0,
+     0.057
+    ],
+    "hl": [
+     0.0,
+     0.1945,
+     1.0,
+     0.0449
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 21(a)",
+    "title": "Williams “co-founded a company with the CEO of the Auditor”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "And on May twenty-ninth, twenty twenty-six, that C.E.O. emailed Johnson about the significant amount of work, value creation, introductions, and commitments that remain unresolved from the past several years.",
+   "show": "And on May 29, 2026, that CEO emailed Johnson about \"the significant amount of work, value creation, introductions, and commitments that remain unresolved from the past several years.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/c7.jpg",
+    "pan": [
+     0.063,
+     0.123
+    ],
+    "hl": [
+     0.0,
+     0.2509,
+     1.0,
+     0.0636
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 21(b) · MAY 29, 2026",
+    "title": "“commitments that remain unresolved”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "He wrote that if those commitments had been honored as represented, he would have accumulated no less than two million dollars in his personal Backward Hat account. They had not yet materialized, he wrote. Prosecutors say the auditor's C.E.O. had personal interests in Backward Hat that investors were never told about. The complaint does not name the auditor or its C.E.O., and neither is charged.",
+   "show": "He wrote that if those commitments had been honored as represented, he would have \"accumulated no less than $2,000,000\" in his personal Backward Hat account. They had \"not yet materialized,\" he wrote. Prosecutors say the auditor's CEO had personal interests in Backward Hat that investors were never told about. The complaint does not name the auditor or its CEO, and neither is charged.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c7.jpg",
+    "pan": [
+     0.473,
+     0.533
+    ],
+    "hl": [
+     0.0,
+     0.6798,
+     1.0,
+     0.0261
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 21(b)(iii)",
+    "title": "“no less than $2,000,000”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "And while the audit was still being sent out, the complaint says Johnson was already building another fund. With a name built for twenty twenty-five.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Another fund.",
+     "Its name:|AI Capital."
+    ],
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   },
+   "show": "And while the audit was still being sent out, the complaint says Johnson was already building another fund. With a name built for 2025."
+  },
+  {
+   "say": "Chapter five. AI Capital.",
+   "scene": {
+    "type": "chapter",
+    "n": "V",
+    "title": "AI Capital"
+   }
+  },
+  {
+   "say": "Since at least August twenty twenty-five, according to the complaint, Johnson, with Williams's knowledge, tried to expand the scheme through a related fund called A.I. Capital L.P.",
+   "show": "Since at least August 2025, according to the complaint, Johnson, with Williams's knowledge, tried to expand the scheme through a related fund called AI Capital LP.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c7.jpg",
+    "pan": [
+     0.595,
+     0.655
+    ],
+    "hl": [
+     0.0,
+     0.7737,
+     1.0,
+     0.0824
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 22",
+    "title": "“AI Capital LP”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "Its pitch: the same supposed forex algorithm. Its marketing listed Williams as Investment Manager and Strategic Advisor.",
+   "show": "Its pitch: the same supposed forex algorithm. Its marketing listed Williams as \"Investment Manager and Strategic Advisor.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/c8.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.1059,
+     1.0,
+     0.0455
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 23(b)",
+    "title": "“Investment Manager and Strategic Advisor”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "A data room for prospective investors held a spreadsheet titled Trades, B.H., presented as an export of executed trades from the fund that supports A.I. Capital. It purported to show profitable forex trading over about three weeks in the summer of twenty twenty-four.",
+   "show": "A data room for prospective investors held a spreadsheet titled \"Trades – BH\", presented as an export of executed trades from \"the fund that supports AI Capital.\" It purported to show profitable forex trading over about three weeks in the summer of 2024.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c8.jpg",
+    "pan": [
+     0.033,
+     0.093
+    ],
+    "hl": [
+     0.0,
+     0.2016,
+     1.0,
+     0.103
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 23(c)",
+    "title": "“Trades – BH (2025.09.04)”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "And in one presentation, the complaint says, Johnson told a prospective investor that A.I. Capital had obtained seventy-five million dollars in funding. In fact, prosecutors say, it had not received any investor money at all.",
+   "show": "And in one presentation, the complaint says, Johnson told a prospective investor that AI Capital had obtained $75 million in funding. In fact, prosecutors say, it had not received any investor money at all.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c8.jpg",
+    "pan": [
+     0.129,
+     0.189
+    ],
+    "hl": [
+     0.0,
+     0.3164,
+     1.0,
+     0.0648
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 23(d)",
+    "title": "$75 million claimed — $0 received, prosecutors say",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "Then, in the summer of twenty twenty-six, according to the complaint, Backward Hat began struggling to pay investors who asked for their money back.",
+   "show": "Then, in the summer of 2026, according to the complaint, Backward Hat began struggling to pay investors who asked for their money back.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Summer 2026.",
+     "Withdrawals|delayed."
+    ],
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "Chapter six. The delays.",
+   "scene": {
+    "type": "chapter",
+    "n": "VI",
+    "title": "The Delays"
+   }
+  },
+  {
+   "say": "Beginning that summer, the complaint says, Backward Hat had difficulty meeting withdrawal requests. And the explanations kept changing.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c8.jpg",
+    "pan": [
+     0.263,
+     0.323
+    ],
+    "hl": [
+     0.0,
+     0.4313,
+     1.0,
+     0.1029
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 24",
+    "title": "Difficulty meeting withdrawal requests",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "October twelfth. Williams sends a general partner a draft email for investors: the standard processing time for all distributions is now fifteen to twenty-five business days, citing recent changes in international requirements. The old window, the agent notes, was ten to fifteen.",
+   "show": "October 12. Williams sends a general partner a draft email for investors: the standard processing time for all distributions is now 15–25 business days, citing \"recent changes in international requirements.\" The old window, the agent notes, was 10–15.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c8.jpg",
+    "pan": [
+     0.473,
+     0.533
+    ],
+    "hl": [
+     0.0,
+     0.6418,
+     1.0,
+     0.103
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 25(a) · OCT 12, 2026",
+    "title": "“15-25 business days”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "October nineteenth. A general partner who stepped in to coordinate tells all the G.P.s the problem is a transition in prime-broker arrangements. Liquidity, the email says, continues to arrive in increments rather than through one larger release.",
+   "show": "October 19. A general partner who \"stepped in to coordinate\" tells all the GPs the problem is \"a transition\" in \"prime-broker arrangements.\" \"Liquidity continues to arrive in increments rather than through one larger release.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/c8.jpg",
+    "pan": [
+     0.636,
+     0.696
+    ],
+    "hl": [
+     0.0,
+     0.7949,
+     1.0,
+     0.1222
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 25(b) · OCT 19, 2026",
+    "title": "“[l]iquidity continues to arrive in increments”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "November thirteenth. Williams emails investors himself: higher-than-usual withdrawal volume, he writes, triggered additional verification checks by a third-party identity validator.",
+   "show": "November 13. Williams emails investors himself: higher-than-usual withdrawal volume, he writes, \"triggered additional verification checks by a third-party identity validator.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/c9.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.0524,
+     1.0,
+     0.104
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 25(c) · NOV 13, 2026",
+    "title": "“a third-party identity validator”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "The agent's version is different. At the same time, he writes, Williams was trying to find an independent source of funding to cover the withdrawals, because by the summer of twenty twenty-six Backward Hat had dissipated most investor assets.",
+   "show": "The agent's version is different. At the same time, he writes, Williams was trying to find an independent source of funding to cover the withdrawals, because by the summer of 2026 Backward Hat had \"dissipated most investor assets.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/c9.jpg",
+    "pan": [
+     0.079,
+     0.139
+    ],
+    "hl": [
+     0.0,
+     0.2469,
+     1.0,
+     0.104
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 26",
+    "title": "“dissipated most investor assets”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "And the door was still open. On October sixth, an undercover I.R.S. employee emailed Backward Hat posing as a would-be investor. On October twentieth, the reply came back: We are accepting new investors at the moment.",
+   "show": "And the door was still open. On October 6, an undercover IRS employee emailed Backward Hat posing as a would-be investor. On October 20, the reply came back: \"[W]e are accepting new investors at the moment.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/c9.jpg",
+    "pan": [
+     0.365,
+     0.425
+    ],
+    "hl": [
+     0.0,
+     0.5007,
+     1.0,
+     0.1689
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 27 · IRS UNDERCOVER",
+    "title": "“accepting new investors at the moment”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "On November sixth, an email to an investor: If you sent a contribution recently and don't see it yet, please reply with the date, amount, and sending bank so we can match it quickly. Twelve days later, the agents came.",
+   "show": "On November 6, an email to an investor: \"If you sent a contribution recently and don't see it yet, please reply with the date, amount, and sending bank so we can match it quickly.\" 12 days later, the agents came.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c9.jpg",
+    "pan": [
+     0.479,
+     0.539
+    ],
+    "hl": [
+     0.0,
+     0.6304,
+     1.0,
+     0.1365
+    ],
+    "kicker": "S.D.N.Y. COMPLAINT · ¶ 27 · NOV 6, 2026",
+    "title": "“If you sent a contribution recently …”",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "Chapter seven. The arrests.",
+   "scene": {
+    "type": "chapter",
+    "n": "VII",
+    "title": "The Arrests"
+   }
+  },
+  {
+   "say": "On November seventeenth, Homeland Security Investigations Special Agent Robert Fanesi swore to the complaint by telephone before Magistrate Judge Gary Stein of the Southern District of New York. It was filed under seal.",
+   "show": "On November 17, Homeland Security Investigations Special Agent Robert Fanesi swore to the complaint by telephone before Magistrate Judge Gary Stein of the Southern District of New York. It was filed under seal.",
+   "scene": {
+    "type": "doc",
+    "img": "img/c1.jpg",
+    "pan": [
+     0.0,
+     0.05
+    ],
+    "hl": [
+     0.0,
+     0.1262,
+     1.0,
+     0.1589
+    ],
+    "kicker": "S.D.N.Y. · SEALED COMPLAINT · SWORN NOV 17, 2026",
+    "title": "United States v. Williams and Johnson",
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "The next day, it was unsealed. Williams was arrested that morning in Kokomo and brought before a federal court in the Southern District of Indiana. Johnson was arrested in Gilbert, Arizona, to appear in federal court there the next day.",
+   "scene": {
+    "type": "doc",
+    "img": "img/pr.jpg",
+    "pan": [
+     0.0,
+     0.025
+    ],
+    "hl": [
+     0.0,
+     0.1623,
+     1.0,
+     0.0451
+    ],
+    "kicker": "U.S. ATTORNEY · S.D.N.Y. · NOV 18, 2026",
+    "title": "Arrested “this morning”",
+    "src": "U.S. Attorney's Office, S.D.N.Y., press release (Nov 18, 2026)"
+   }
+  },
+  {
+   "say": "Each is charged with securities fraud and conspiracy to commit wire fraud, each carrying up to twenty years, and conspiracy to commit securities fraud, up to five. Any sentence, the release notes, would be up to a judge.",
+   "show": "Each is charged with securities fraud and conspiracy to commit wire fraud, each carrying up to 20 years, and conspiracy to commit securities fraud, up to 5. Any sentence, the release notes, would be up to a judge.",
+   "scene": {
+    "type": "list",
+    "kicker": "THE CHARGES · EACH DEFENDANT",
+    "items": [
+     [
+      "20 yrs max",
+      "Securities fraud"
+     ],
+     [
+      "20 yrs max",
+      "Conspiracy to commit wire fraud"
+     ],
+     [
+      "5 yrs max",
+      "Conspiracy to commit securities fraud"
+     ]
+    ],
+    "src": "U.S. Attorney's Office, S.D.N.Y., press release (Nov 18, 2026)"
+   }
+  },
+  {
+   "say": "U.S. Attorney Jamie McDonald said the charges are, quote, alleging a six-hundred-million-dollar investment fraud scheme. The Homeland Security Investigations, F.B.I., and I.R.S. Criminal Investigation offices in New York, Indianapolis and Chicago worked the case.",
+   "show": "U.S. Attorney Jamie McDonald said the charges are \"alleging a $600 million investment fraud scheme.\" The HSI, FBI and IRS Criminal Investigation offices in New York, Indianapolis and Chicago worked the case.",
+   "scene": {
+    "type": "doc",
+    "img": "img/pr.jpg",
+    "pan": [
+     0.0,
+     0.059
+    ],
+    "hl": [
+     0.0,
+     0.2066,
+     1.0,
+     0.0253
+    ],
+    "kicker": "U.S. ATTORNEY · S.D.N.Y. · NOV 18, 2026",
+    "title": "“alleging a $600 million investment fraud scheme”",
+    "src": "U.S. Attorney's Office, S.D.N.Y., press release (Nov 18, 2026)"
+   }
+  },
+  {
+   "say": "Local station WRTV reported that the S.E.C. and the Commodity Futures Trading Commission have also filed civil actions against both men.",
+   "show": "Local station WRTV reported that the SEC and the Commodity Futures Trading Commission have also filed civil actions against both men.",
+   "scene": {
+    "type": "big",
+    "kicker": "ALSO REPORTED",
+    "lines": [
+     "SEC + CFTC:",
+     "civil actions|filed too."
+    ],
+    "src": "WRTV / WISH-TV (John Herrick, Nov 18, 2026)"
+   }
+  },
+  {
+   "say": "And Barry Minkow, who writes a fraud newsletter, wrote the same day that he and his lawyer had filed a detailed report on Backward Hat back in July, and that a request then came through his lawyers: do not discuss this case publicly. That is his account.",
+   "scene": {
+    "type": "quote",
+    "q": "Do not discuss this case publicly.",
+    "case": "Barry Minkow, describing a request that came through his lawyers",
+    "doc": "\"One Minute On Fraud\", Nov 18, 2026",
+    "cite": "Barry Minkow, \"One Minute On Fraud\" (Substack, Nov 18, 2026) — his own account"
+   }
+  },
+  {
+   "say": "What do the defendants say? We found no public statement from either man. A Justice Department spokesperson said both were using appointed counsel for their initial court appearances, and the Indianapolis Business Journal said phone messages it left at numbers it believes are theirs got no immediate response.",
+   "scene": {
+    "type": "big",
+    "kicker": "THEIR SIDE",
+    "lines": [
+     "No public",
+     "statement|found."
+    ],
+    "src": "Indianapolis Business Journal via The Indiana Lawyer (Susan Orr, Nov 18, 2026)"
+   }
+  },
+  {
+   "say": "The F.B.I. is asking anyone who invested to come forward through a page for Backward Hat investors.",
+   "show": "The FBI is asking anyone who invested to come forward through a page for Backward Hat investors: fbi.gov/backwardhatinvestors.",
+   "scene": {
+    "type": "doc",
+    "img": "img/pr.jpg",
+    "pan": [
+     0.508,
+     0.568
+    ],
+    "hl": [
+     0.0,
+     0.7201,
+     1.0,
+     0.0153
+    ],
+    "kicker": "U.S. ATTORNEY · S.D.N.Y. · NOV 18, 2026",
+    "title": "fbi.gov/backwardhatinvestors",
+    "src": "U.S. Attorney's Office, S.D.N.Y., press release (Nov 18, 2026)"
+   }
+  },
+  {
+   "say": "And the release ends where this video must too. The charges contained in the complaint are merely accusations, and the defendants are presumed innocent unless and until proven guilty.",
+   "scene": {
+    "type": "doc",
+    "img": "img/pr.jpg",
+    "pan": [
+     0.709,
+     0.769
+    ],
+    "hl": [
+     0.0,
+     0.9166,
+     1.0,
+     0.0252
+    ],
+    "kicker": "U.S. ATTORNEY · S.D.N.Y. · NOV 18, 2026",
+    "title": "“merely accusations”",
+    "src": "U.S. Attorney's Office, S.D.N.Y., press release (Nov 18, 2026)"
+   }
+  },
+  {
+   "say": "But the acting head of the I.R.S. Criminal Investigation office in Chicago, Robert Kuszynski, left one line that works for anyone, anywhere. When someone promises extraordinary returns with little risk, ask hard questions. Easy money often comes at someone else's expense.",
+   "show": "But the acting head of the IRS Criminal Investigation office in Chicago, Robert Kuszynski, left one line that works for anyone, anywhere. \"When someone promises extraordinary returns with little risk, ask hard questions. Easy money often comes at someone else's expense.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/pr.jpg",
+    "pan": [
+     0.286,
+     0.346
+    ],
+    "hl": [
+     0.0,
+     0.4885,
+     1.0,
+     0.0352
+    ],
+    "kicker": "U.S. ATTORNEY · S.D.N.Y. · NOV 18, 2026",
+    "title": "“ask hard questions”",
+    "src": "U.S. Attorney's Office, S.D.N.Y., press release (Nov 18, 2026)"
+   }
+  },
+  {
+   "say": "More than six percent a month on paper, month after month, and an audit that called it sound. Would you have asked the hard questions? Tell us in the comments.",
+   "show": "6%+ a month on paper, month after month, and an audit that called it sound. Would you have asked the hard questions? Tell us in the comments.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "6% a month.",
+     "Would you|have asked?"
+    ],
+    "src": "Criminal complaint, U.S. v. Williams & Johnson (S.D.N.Y., sworn Nov 17, 2026) — allegations"
+   }
+  },
+  {
+   "say": "This is SWORN. Real trials. Real evidence. The verdict.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ]
+}
