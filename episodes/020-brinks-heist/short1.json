@@ -1,0 +1,79 @@
+{
+ "title": "$100M or Under $10M? The Brinks Heist Plea Twist",
+ "template": "number reveal + twist",
+ "lines": [
+  {
+   "say": "Jewelry its owners valued at a hundred million dollars, stolen from a Brinks truck. The lead defendant just pleaded guilty, and contends certain victims had declared a total of under ten million to Brinks.",
+   "show": "Jewelry its owners valued at $100 million, stolen from a Brinks truck. The lead defendant just pleaded guilty, and contends certain victims had declared a total of under $10 million to Brinks.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_10m.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "GUILTY PLEA",
+    "number": "$100M",
+    "label": "OR UNDER $10M?|HIS PLEA DEAL"
+   }
+  },
+  {
+   "say": "In twenty twenty-two, he and his co-conspirators broke the locks and took twenty-four bags.",
+   "show": "In 2022, he and his co-conspirators broke the locks and took 24 bags.",
+   "scene": {
+    "type": "doc",
+    "img": "img/p11.jpg",
+    "pan": [
+     0.503,
+     0.563
+    ],
+    "hl": [
+     0.0,
+     0.6569,
+     1.0,
+     0.0916
+    ],
+    "kicker": "PLEA AGREEMENT · JULY 11, 2022",
+    "src": "Plea agreement, U.S. v. Mestanza Cercado, Dkt. 158 (C.D. Cal., Nov 9, 2026)"
+   }
+  },
+  {
+   "say": "Prosecutors dispute that, and say restitution is at least a hundred million.",
+   "show": "Prosecutors dispute that, and say restitution is at least $100 million.",
+   "scene": {
+    "type": "doc",
+    "img": "img/p7.jpg",
+    "pan": [
+     0.003,
+     0.063
+    ],
+    "hl": [
+     0.0,
+     0.1237,
+     1.0,
+     0.1583
+    ],
+    "kicker": "PLEA AGREEMENT · ¶ 9",
+    "src": "Plea agreement, U.S. v. Mestanza Cercado, Dkt. 158 (C.D. Cal., Nov 9, 2026)"
+   }
+  },
+  {
+   "say": "Sentencing is in April. The maximum is twenty years.",
+   "show": "Sentencing is in April. The maximum is 20 years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOV 19, 2026 · RIVERSIDE",
+    "stamp": "GUILTY PLEA",
+    "big": "Max 20 Years",
+    "sub": "Sentencing April 15, 2027 · Mestanza Cercado",
+    "at": 0.1
+   }
+  },
+  {
+   "say": "Should he owe a hundred million, or less than ten?",
+   "show": "Should he owe $100 million, or less than $10 million?",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

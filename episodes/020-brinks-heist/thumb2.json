@@ -1,0 +1,30 @@
+{
+ "A": {
+  "left": {"q": ["$100M", "OR UNDER", "$10M?"]},
+  "right": {"img": "img/t_10m.jpg", "cover": true, "pos": "50% 0%", "vignette": false},
+  "split": 0.5,
+  "tag": "BREAKING"
+ },
+ "B": {
+  "left": {"img": "img/t_24.jpg", "cover": true, "pos": "50% 0%", "vignette": false},
+  "right": {"img": "img/tocumen.jpg", "cover": true, "pos": "30% 50%", "stamp": "CAUGHT", "stampPos": "left:50%;top:36%"},
+  "split": 0.5,
+  "tag": "GUILTY PLEA",
+  "line1": "$100M JEWELRY HEIST",
+  "line2": "CAUGHT ON A LAYOVER",
+  "line2color": "red",
+  "size1": 100,
+  "size2": 96
+ },
+ "C": {
+  "left": {"img": "img/t_texts.jpg", "cover": true, "pos": "50% 0%", "vignette": false},
+  "right": {"img": "img/tocumen.jpg", "cover": true, "pos": "15% 50%"},
+  "split": 0.42,
+  "tag": "GUILTY PLEA",
+  "line1": "$100M HEIST: INDICTED, HE RAN",
+  "line2": "THEN PLEADED GUILTY",
+  "line2color": "yellow",
+  "size1": 104,
+  "size2": 100
+ }
+}

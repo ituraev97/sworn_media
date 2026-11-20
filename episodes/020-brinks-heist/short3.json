@@ -1,0 +1,84 @@
+{
+ "title": "24 Bags, 300 Miles: How the $100M Brinks Heist Worked",
+ "template": "number reveal + method",
+ "lines": [
+  {
+   "say": "Twenty-four bags of jewelry, valued by the victims at a hundred million dollars. The lead defendant just pleaded guilty and admitted how.",
+   "show": "24 bags of jewelry, valued by the victims at $100 million. The lead defendant just pleaded guilty and admitted how.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_24.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "GUILTY PLEA",
+    "number": "24 BAGS",
+    "label": "$100M · 300 MILES|PER HIS PLEA DEAL"
+   }
+  },
+  {
+   "say": "A crew scouted a jewelry show, picked a Brinks truck with seventy-three bags, and followed it about three hundred miles.",
+   "show": "A crew scouted a jewelry show, picked a Brinks truck with 73 bags, and followed it about 300 miles.",
+   "scene": {
+    "type": "doc",
+    "img": "img/p11.jpg",
+    "pan": [
+     0.369,
+     0.429
+    ],
+    "hl": [
+     0.0,
+     0.4903,
+     1.0,
+     0.1583
+    ],
+    "kicker": "PLEA AGREEMENT · JULY 10–11, 2022",
+    "src": "Plea agreement, U.S. v. Mestanza Cercado, Dkt. 158 (C.D. Cal., Nov 9, 2026)"
+   }
+  },
+  {
+   "say": "At a truck stop in Lebec, they broke the locks. Brinks's lawsuit said one driver slept, the other was getting food.",
+   "scene": {
+    "type": "doc",
+    "img": "img/p11.jpg",
+    "pan": [
+     0.503,
+     0.563
+    ],
+    "hl": [
+     0.0,
+     0.6569,
+     1.0,
+     0.0916
+    ],
+    "kicker": "PLEA AGREEMENT · JULY 11, 2022",
+    "src": "Plea agreement, U.S. v. Mestanza Cercado, Dkt. 158 (C.D. Cal., Nov 9, 2026); Brinks lawsuit (2022), as reported by AP"
+   }
+  },
+  {
+   "say": "Then they switched off their phones. Charges took almost three years.",
+   "scene": {
+    "type": "doc",
+    "img": "img/i7.jpg",
+    "pan": [
+     0.02,
+     0.08
+    ],
+    "hl": [
+     0.0,
+     0.1568,
+     1.0,
+     0.1265
+    ],
+    "kicker": "INDICTMENT · OVERT ACT 22",
+    "src": "Indictment, U.S. v. Mestanza Cercado et al. (C.D. Cal., June 11, 2025)"
+   }
+  },
+  {
+   "say": "How did they think they'd get away with it?",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}
