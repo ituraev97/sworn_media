@@ -1,0 +1,97 @@
+{
+ "title": "\"They're Not FBI by the Way\": The DA Who Vouched",
+ "template": "verbatim quote + twist",
+ "lines": [
+  {
+   "say": "They're not F.B.I., by the way. That's what a Mississippi district attorney told his city's mayor about two developers, according to the indictment.",
+   "show": "\"They're not FBI by the way.\" That's what a Mississippi district attorney told his city's mayor about two developers, according to the indictment.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_call.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "SENTENCED",
+    "number": "“NOT FBI”",
+    "label": "THEY WERE FBI|FBI RECORDING · INDICTMENT"
+   }
+  },
+  {
+   "say": "They were. Both worked for the F.B.I.",
+   "scene": {
+    "type": "doc",
+    "img": "img/i2.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.1048,
+     1.0,
+     0.0324
+    ],
+    "kicker": "INDICTMENT · ¶ 1",
+    "src": "Indictment, U.S. v. Owens, Lumumba & Banks (S.D. Miss. 3:24-cr-103)"
+   }
+  },
+  {
+   "say": "The indictment says district attorney Jody Owens took a hundred twenty-five thousand dollars in cash on a yacht, and told them: Everybody needs something fixed.",
+   "show": "The indictment says district attorney Jody Owens took $125,000 in cash on a yacht, and told them: \"Everybody needs something fixed.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/i7.jpg",
+    "pan": [
+     0.237,
+     0.297
+    ],
+    "hl": [
+     0.0,
+     0.3564,
+     1.0,
+     0.1614
+    ],
+    "kicker": "INDICTMENT · ¶ 27 · DEC 13, 2023",
+    "src": "Indictment, U.S. v. Owens, Lumumba & Banks (S.D. Miss. 3:24-cr-103)"
+   }
+  },
+  {
+   "say": "He steered fifty thousand to the mayor.",
+   "show": "He steered $50,000 to the mayor.",
+   "scene": {
+    "type": "doc",
+    "img": "img/i15.jpg",
+    "pan": [
+     0.208,
+     0.268
+    ],
+    "hl": [
+     0.0,
+     0.3325,
+     1.0,
+     0.1506
+    ],
+    "kicker": "INDICTMENT · ¶ 54 · MARCH 2024",
+    "src": "Indictment, U.S. v. Owens, Lumumba & Banks (S.D. Miss. 3:24-cr-103)"
+   }
+  },
+  {
+   "say": "Owens pleaded guilty. Forty-one months, and a hundred-thousand-dollar fine.",
+   "show": "Owens pleaded guilty. 41 months, and a $100,000 fine.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOV 5, 2026 · JACKSON, MISS.",
+    "stamp": "SENTENCED",
+    "big": "41 Months",
+    "sub": "Ex-DA Jody Owens · plus a $100,000 fine",
+    "at": 0.1
+   }
+  },
+  {
+   "say": "Would you have believed him?",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

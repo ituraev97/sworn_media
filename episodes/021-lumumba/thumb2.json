@@ -1,0 +1,60 @@
+{
+ "A": {
+  "left": {
+   "img": "img/lumumba_face.jpg",
+   "cover": true,
+   "pos": "50% 20%"
+  },
+  "right": {
+   "img": "img/ph_call.jpg",
+   "cover": true,
+   "pos": "12% 35%",
+   "stamp": "37 MONTHS",
+   "stampPos": "left:62%;top:16%"
+  },
+  "split": 0.5,
+  "tag": "BREAKING",
+  "breaking": true,
+  "line1": "MAYOR'S $50K BRIBE",
+  "line2": "THE FBI WAS FILMING",
+  "line2color": "red",
+  "size1": 104,
+  "size2": 98
+ },
+ "B": {
+  "left": {
+   "q": [
+    "$50K",
+    "TO MOVE A",
+    "DEADLINE?"
+   ]
+  },
+  "right": {
+   "img": "img/lumumba_face.jpg",
+   "cover": true,
+   "pos": "50% 20%"
+  },
+  "split": 0.5,
+  "tag": "SENTENCED"
+ },
+ "C": {
+  "left": {
+   "img": "img/t_checks.jpg",
+   "cover": true,
+   "pos": "50% 0%",
+   "vignette": false
+  },
+  "right": {
+   "img": "img/lumumba_face.jpg",
+   "cover": true,
+   "pos": "50% 20%"
+  },
+  "split": 0.42,
+  "tag": "SENTENCED",
+  "line1": "FIVE $10K CHECKS",
+  "line2": "37 MONTHS IN PRISON",
+  "line2color": "yellow",
+  "size1": 108,
+  "size2": 100
+ }
+}

@@ -1,0 +1,16 @@
+# Sources — SWORN 021 (Lumumba / Jackson FBI bribery sting)
+Primary:
+- Indictment, U.S. v. Owens, Lumumba & Banks, S.D. Miss. 3:24-cr-00103-DPJ-LGI, Dkt. 3 (filed Oct 23, 2024), + Dkt. 3-1…3-6 (notice of penalties, cover sheets) — https://www.justice.gov/usao-sdms/media/1376361/dl?inline (local OCR: /home/claude/dl/ind_pages.txt). All Owens/Banks/Lee quotes, dates, $ amounts, the yacht exchange, ¶56 call, ¶62 balance $465.30, ¶63 $9,500/$5,000, ¶65 lockbox, Count 11 "none exist", stills pp.16–19.
+- USAO S.D. Miss. press release, Nov 7, 2024 — https://www.justice.gov/usao-sdms/pr/mississippi-district-attorney-mayor-jackson-and-jackson-city-council-member-charged (ages 43/41/47; Todd Gee quote; counts per defendant; "An indictment is merely an allegation").
+Reporting (hearings):
+- WLBT Nov 20, 2026 (Warren & Smith) "what was said" — sentence 37 months; Judge Daniel Jordan quotes ("You were the top elected official in the city of Jackson.", "I did sense … a true sense of remorse.", "It is still not enough to outweigh the nature and circumstances of the offense.", "This is why I think the sentence below the guideline range would not be sufficient,", "Owens vouched for the developers, told him they had been vetted,"); Lumumba quotes ("I have levied an unbearable and unfair burden on my wife, who I have known since I was in kindergarten.", "My effort at redemption starts right now,"); Evelyn ("He has no prior record or arrest of any kind."); Ask Antar Dec 2024 quote; gave up law license / can never hold elected office (Evelyn); lost bid for third term; Owens 41 mo + $100K fine; Banks 45 mo + $15K fine.
+- WLBT Nov 20, 2026 (Warren) — $50,000 forfeiture in lieu of fine; pleaded to one count of conspiracy to commit bribery.
+- WAPT Nov 20, 2026 — 3 yrs 1 month; forfeit $50,000 agreed days before; Lumumba, Banks, Owens report Jan 4.
+- Magnolia Tribune Nov 20, 2026 — Lee pleaded Aug 2024 and resigned that day, first official charged; all three initially pleaded not guilty; defendants sought dismissal/severance citing entrapment, government misconduct, venue etc.; disbarred by Mississippi Supreme Court in October.
+- SuperTalk Nov 20, 2026 — Owens 41 mo + $100K; Banks 45 mo + $15K; unseated by John Horhn June 2025; Lee awaiting sentencing.
+- The Hill Nov 20, 2026 — son of late mayor Chokwe Lumumba; youngest mayor at 34.
+- Mississippi Today Nov 5, 2026 — Owens 41 mo, $100K fine; judge foreshadowed 37–46 months for Lumumba; Fulcher quote; Lee and Smith yet to be sentenced.
+- WLBT/WLOX July 6, 2026 — plea July 6, 2026 to one count of conspiracy to commit federal program bribery; AUSA Dave Fulcher read facts ($50K, five $10K checks, FBI sources posing as developers, Apr 2 2024 Ft. Lauderdale, directed city employee to change RFQ due date, deposited Apr 4, withdrew part for personal use); Lumumba accepted the facts; up to 5 years + $250K fine.
+- Mississippi Free Press July 6, 2026 — Banks pleaded same afternoon; Owens about a week earlier; gov't dropped the more substantive charges; up to 5 years.
+- NBC News 2024 — Sherik Marve Smith, Owens's relative, pleaded guilty to conspiracy to commit bribery.
+Photo: Wikimedia Commons File:Chokwe_Antar_Lumumba.jpg — NatalieMaynor, CC BY 2.0 (2017-05-10).

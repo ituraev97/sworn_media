@@ -1,0 +1,78 @@
+{
+ "title": "$20,000 Inside a Fake Constitution: The DA's Lockbox",
+ "template": "evidence reveal",
+ "lines": [
+  {
+   "say": "About twenty thousand dollars in cash, in a lockbox made to look like the Constitution. The F.B.I. found it in a district attorney's office.",
+   "show": "About $20,000 in cash, in a lockbox made to look like \"The Constitution.\" The FBI found it in a district attorney's office.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_book.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "SENTENCED",
+    "number": "$20,000",
+    "label": "INSIDE “THE CONSTITUTION”|FBI SEARCH"
+   }
+  },
+  {
+   "say": "That day, an agent asked him about safes or lockboxes. According to the indictment, he said: none exist.",
+   "show": "That day, an agent asked him about safes or lockboxes. According to the indictment, he said: \"none exist.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/i31.jpg",
+    "pan": [
+     0.047,
+     0.107
+    ],
+    "hl": [
+     0.0,
+     0.2119,
+     1.0,
+     0.07
+    ],
+    "kicker": "INDICTMENT · COUNT 11 · MAY 22, 2024",
+    "src": "Indictment, U.S. v. Owens, Lumumba & Banks (S.D. Miss. 3:24-cr-103)"
+   }
+  },
+  {
+   "say": "About nine thousand nine hundred of that cash matched, by serial number, money undercover F.B.I. developers gave him on a yacht.",
+   "show": "About $9,900 of that cash matched, by serial number, money undercover FBI developers gave him on a yacht.",
+   "scene": {
+    "type": "doc",
+    "img": "img/i19.jpg",
+    "pan": [
+     0.086,
+     0.146
+    ],
+    "hl": [
+     0.0,
+     0.1696,
+     1.0,
+     0.2337
+    ],
+    "kicker": "INDICTMENT · ¶ 65",
+    "src": "Indictment, U.S. v. Owens, Lumumba & Banks (S.D. Miss. 3:24-cr-103)"
+   }
+  },
+  {
+   "say": "Jody Owens pleaded guilty. Forty-one months.",
+   "show": "Jody Owens pleaded guilty. 41 months.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOV 5, 2026 · JACKSON, MISS.",
+    "stamp": "SENTENCED",
+    "big": "41 Months",
+    "sub": "Ex-DA Jody Owens · plus a $100,000 fine",
+    "at": 0.1
+   }
+  },
+  {
+   "say": "Was that enough for a prosecutor?",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

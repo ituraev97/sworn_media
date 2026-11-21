@@ -1,0 +1,70 @@
+{
+ "title": "37 Months: Jackson's Ex-Mayor and the $50K FBI Sting",
+ "template": "number reveal + verdict",
+ "lines": [
+  {
+   "say": "Thirty-seven months in prison. That's the sentence for the former mayor of Jackson, Mississippi, who took fifty thousand dollars from developers secretly working for the F.B.I.",
+   "show": "37 months in prison. That's the sentence for the former mayor of Jackson, Mississippi, who took $50,000 from developers secretly working for the FBI.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_face.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "SENTENCED",
+    "number": "37 MONTHS",
+    "label": "EX-MAYOR · $50K|FBI STING"
+   }
+  },
+  {
+   "say": "On a yacht in Florida, Chokwe Antar Lumumba was handed five ten-thousand-dollar checks.",
+   "show": "On a yacht in Florida, Chokwe Antar Lumumba was handed five $10,000 checks.",
+   "scene": {
+    "type": "doc",
+    "img": "img/i16.jpg",
+    "pan": [
+     0.491,
+     0.551
+    ],
+    "hl": [
+     0.0,
+     0.6338,
+     1.0,
+     0.1142
+    ],
+    "kicker": "INDICTMENT · ¶ 57 · APRIL 2, 2024",
+    "src": "Indictment, U.S. v. Owens, Lumumba & Banks (S.D. Miss. 3:24-cr-103)"
+   }
+  },
+  {
+   "say": "He made one phone call, to move a city deadline up by fifteen days. The F.B.I. was recording.",
+   "show": "He made one phone call, to move a city deadline up by 15 days. The FBI was recording.",
+   "scene": {
+    "type": "photo",
+    "img": "img/ph_call.jpg",
+    "caption": "INDICTMENT ¶ 56 · FBI RECORDING",
+    "src": "Image printed in the indictment — FBI recording",
+    "fit": "cover"
+   }
+  },
+  {
+   "say": "He pleaded guilty. The judge told him: You were the top elected official in the city of Jackson.",
+   "show": "He pleaded guilty. The judge told him: \"You were the top elected official in the city of Jackson.\"",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOV 20, 2026 · JACKSON, MISS.",
+    "stamp": "SENTENCED",
+    "big": "37 Months",
+    "sub": "Ex-Mayor Chokwe Antar Lumumba · Judge Daniel Jordan",
+    "at": 0.1
+   }
+  },
+  {
+   "say": "Was thirty-seven months enough?",
+   "show": "Was 37 months enough?",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}
