@@ -3,6 +3,18 @@
 One run = one long episode (10–13 min, ≥ 10:00, 1920×1080) + **3** vertical Shorts (25–40 s, 1080×1920; owner rule 2026-11-06), all about ONE court case, hosted here and scheduled in Metricool for ONE US day.
 Reference episode: `episodes/001-madoff/` (make_spec.py → episode.json, make_shorts.py → short1–6.json, meta.json, thumb.json, factcheck.md). Read it before writing anything.
 
+## Real footage via relay — owner decision 2026-11-23
+The sandbox cannot reach youtube.com. A relay on the owner's server downloads clips (YouTube or any yt-dlp URL) and hands them over through Google Drive folder "FOOTAGE RELAY". Client: `tools/footage_client.py` (stdlib only; read its docstring).
+- Creds: Projects doc `claude/google-drive-oauth.md` → `/tmp/drive_creds.json` (keys client_id, client_secret, refresh_token). Never into git.
+- Find candidate videos with the YouTube Data API (the same key / yt_research.py used for research). Watch the title, channel and description; pick exact time ranges.
+- `clips.json` = `[{"name","src":"<youtube id or URL>","start":"M:SS","end":"M:SS"}]`, ≤ 40 clips, ≤ 90 s each.
+- Right after the script is drafted: `python3 /home/claude/sworn_media/tools/footage_client.py request <RUN> clips.json --creds /tmp/drive_creds.json` (RUN = episode number, e.g. 023). Keep working (fact-check, Shorts, thumbnails), then `python3 /home/claude/sworn_media/tools/footage_client.py wait <RUN> <workdir>/footage --creds /tmp/drive_creds.json --timeout 1800`. No answer in 30 min → build with the existing sources and say so in the report.
+- **Priority 1:** official US government video — DOJ/SEC/FBI press conferences, US Attorney announcements, congressional hearings (C-SPAN), court-released video. Public domain / public record.
+- **Priority 2:** news reports and courtroom footage of THIS case from news channels — short clips, under our own narration and analysis (fair use).
+- **Never:** movies or TV dramas, other YouTubers' faces or commentary, victims' or jurors' faces, minors, gore.
+- **Use:** real footage = 30–50% of the long video's runtime; ≤ ~12 s of one external clip at a time, then cut back to our graphics/documents; mostly muted under narration; original audio only for short key quotes (≤ 15 s, speaker named on screen); a source label on screen during every clip ("Source: DOJ press conference, Nov 20, 2026" / "Source: WCCO"); list every footage source (channel/outlet, title, date, URL) in the description.
+- This overrides "Never: Court TV / Law&Crime / TV footage" and "Never news or TV frames" in §3 / v2 rule 3 for **video clips** only; thumbnails and faces keep the lawful-photo rules.
+
 ## ⚡ v2 rules (owner-approved 2026-11-14). These override older sections where they conflict
 Why: channel analytics showed Shorts lose viewers in 1–2 s and long videos have no thumbnails. YouTube Studio "Inspiration" for our niche (court/true-crime news) shows that winning videos have a **big emotional face**, few words, a fresh news peg, and a title built as "name + what happened". Holmes/Balwani/Theranos items are in that feed.
 
@@ -85,6 +97,7 @@ Playwright + Chromium (`require('playwright')` with `NODE_PATH=$(npm root -g)`),
 ## 3. Sources and research (facts decide everything)
 - Primary first: justice.gov press releases and charging documents (PDFs download fine with curl from the shell: `/archive/usao/<district>/pressreleases/...` and `/usao-<district>/pr/...`), court opinions, SEC/FTC/FBI releases and complaints, supremecourt.gov. Then AP/Reuters/major outlets. WebFetch for pages the shell can't reach (sec.gov from shell is blocked; WebFetch works).
 - Every number, date, name and quote must come from a page you opened → `episodes/NNN-slug/sources.md` (claim → URL).
+- **Footage:** relay clips (see "Real footage via relay") alongside the documents, Wikimedia Commons, DVIDS and government photos below.
 - **Images = only U.S. government documents** (rasterize the PDF with `pdftoppm -r 220`, crop with PIL, save JPG in `episodes/NNN-slug/img/`). Crop OUT agency seals and logos. No photos of people unless public domain AND clearly licensed. Never: Court TV / Law&Crime / TV footage, AI images of real people, mugshots of acquitted people.
 - Quotes on screen (`quote` scenes, `q`) must be verbatim (ellipsis allowed). If it's a reporter's or prosecutors' quotation, the cite says so ("As quoted in …").
 - Charged-but-not-convicted people: "charged", "alleged", "prosecutors say". Private victims: no names.
@@ -102,25 +115,32 @@ Launch a separate agent (did not write the script) to verify every spoken line, 
 
 ## 6. Build
 ```bash
-cd /home/claude/sworn_media/pipeline && ./make.sh ../episodes/NNN-slug /home/claude/work/NNN all   # ~45–60 min on 2 cores; run with nohup and poll
+cd /home/claude/sworn_media/pipeline && LONG_MAX_MB=450 LONG_CRF=18 ./make.sh ../episodes/NNN-slug /home/claude/work/NNN all   # ~45–60 min on 2 cores; run with nohup and poll
 ```
 For quick looks: `node render.js <workdir> <episode_dir> <prefix> 1 t1,t2,...` renders single frames.
-QA (do not skip): open `out/contact_long.jpg` and every `contact_sN.jpg` — nothing cut off or overlapping, highlights on the right lines, no seals, no empty cards; loudness ≈ −14 LUFS (make.sh prints it); long ≥ 10:00 and < 95 MB; Shorts 30–60 s. Thumbnails: check at 168×94 that the big word reads.
+QA (do not skip): open `out/contact_long.jpg` and every `contact_sN.jpg` — nothing cut off or overlapping, highlights on the right lines, no seals, no empty cards; loudness ≈ −14 LUFS (make.sh prints it); long ≥ 10:00 and ≤ 450 MB; Shorts 30–60 s. Thumbnails: check at 168×94 that the big word reads.
 
-## 7. Host on GitHub (public raw URLs for Metricool)
+## 7. Host (public URLs for Metricool)
+**Long video → Google Drive (owner 2026-11-23; no more squeezing to 95 MB).** Metricool's YouTube limit is 500 MB, so the long encodes to ≤ 450 MB (§6):
+```bash
+python3 /home/claude/sworn_media/tools/drive_upload.py $W/out/long.mp4 --folder "SWORN" --creds /tmp/drive_creds.json   # prints {"id","link","direct",...}
+```
+Use `direct` as the long video's Metricool media. If Metricool rejects it as too big: re-encode to ≤ 300 MB (`LONG_MAX_MB=300 ./make.sh … long`, or rerun only the capped ffmpeg pass), upload again; still rejected → ≤ 95 MB and host it on the drop branch as before.
+**Shorts and thumbnails → GitHub drop branch (unchanged):**
 Branch = weekday of the ET target date (`drop-mon` … `drop-sun`). Orphan commit with ONLY that day's files, force-push:
 ```bash
-cd /home/claude/sworn_media && git checkout -q --orphan up && git rm -rqf . && cp $W/out/long.mp4 $W/out/thumb_A.jpg $W/out/thumb_C.jpg $W/out/s[1-3].mp4 . && \
-git add long.mp4 thumb_A.jpg thumb_C.jpg s*.mp4 && git -c user.name="SWORN bot" -c user.email="ituraev97@users.noreply.github.com" commit -qm "drop NNN" && \
+cd /home/claude/sworn_media && git checkout -q --orphan up && git rm -rqf . && cp $W/out/thumb_A.jpg $W/out/thumb_C.jpg $W/out/s[1-3].mp4 . && \
+git add thumb_A.jpg thumb_C.jpg s*.mp4 && git -c user.name="SWORN bot" -c user.email="ituraev97@users.noreply.github.com" commit -qm "drop NNN" && \
 git push -qf origin up:drop-XXX && git checkout -qf main && git branch -D up
 ```
 Check every `https://raw.githubusercontent.com/ituraev97/sworn_media/drop-XXX/<file>` with `curl -sI` → 200. Never put video on main.
 
 ## 8. Schedule in Metricool (createScheduledPost, blogId 7806713, autoPublish true, providers [{"network":"youtube"}], publicationDate timezone America/New_York)
-- Long 12:00: text = `out/youtube_description.txt`; youtubeData {title, type "video", privacy "public", madeForKids false, category "EDUCATION", tags}; media [long.mp4 URL]; videoThumbnailUrl = thumb_A URL (if rejected, retry once without it).
+- Long 12:00: text = `out/youtube_description.txt`; youtubeData {title, type "video", privacy "public", madeForKids false, category "EDUCATION", tags}; media [Drive `direct` URL of long.mp4]; videoThumbnailUrl = thumb_A URL (if rejected, retry once without it).
 - Shorts 10:00, 14:00, 18:00 (s1…s3 in that order): type "short", title from the short json, text = 1–2 lines + "Full case on the channel." + "#truecrime #courtcase #shorts", madeForKids false, category EDUCATION.
 
 ## 9. Close
+- After scheduling: `python3 /home/claude/sworn_media/tools/drive_upload.py --cleanup-days 7 --folder "SWORN" --creds /tmp/drive_creds.json` (deletes our Drive uploads older than 7 days).
 - Commit to main: episode folder (spec scripts, json, img/, sources.md, factcheck.md — no video), `backlog.md` row → `done YYYY-MM-DD`. fetch/rebase before push.
 - Report to the owner in Russian (SendUserMessage): case + title, publish date and times (ET and Tashkent = ET+10 in winter / +9 in summer), Metricool plannerUrls, fact-check result (how many fixes), anything skipped; SendUserFile thumb_A.
 

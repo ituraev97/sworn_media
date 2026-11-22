@@ -1,9 +1,11 @@
 #!/bin/bash
 # Full build of one episode: long + Shorts.  usage: make.sh <episode_dir> <workdir> [long|shorts|all]
+# Env: LONG_MAX_MB (size cap for long.mp4, default 95), LONG_CRF (first-pass CRF, default 21).
 # Needs episode.json, short1..N.json, thumb.json, meta.json in <episode_dir>. Output in <workdir>/out.
 set -e
 E=$(realpath "$1"); W=$(realpath -m "$2"); WHAT=${3:-all}; P=$(dirname "$(realpath "$0")")
 export NODE_PATH=$(npm root -g)
+MAXMB=${LONG_MAX_MB:-95}; LCRF=${LONG_CRF:-21}
 mkdir -p "$W/out"
 mux() { # $1 workdir $2 out.mp4 $3 crf
   ffmpeg -nostdin -v error -y -i "$1/video.mp4" -i "$1/mix.wav" -map 0:v -map 1:a -c:v libx264 -preset medium -crf "$3" -pix_fmt yuv420p \
@@ -14,11 +16,11 @@ if [ "$WHAT" != shorts ]; then
   python3 "$P/timeline.py" "$E/episode.json" "$W" long
   node "$P/render.js" "$W" "$E" "$W/video.mp4" 2
   python3 "$P/audio.py" "$W"
-  mux "$W" "$W/out/long.mp4" 21
+  mux "$W" "$W/out/long.mp4" "$LCRF"
   S=$(stat -c %s "$W/out/long.mp4")
-  if [ "$S" -gt 95000000 ]; then
+  if [ "$S" -gt $((MAXMB*1000000)) ]; then
     D=$(python3 -c "import json;print(json.load(open('$W/timeline.json'))['total'])")
-    BR=$(python3 -c "print(int(92e6*8/$D/1000)-200)")
+    BR=$(python3 -c "print(int($MAXMB*0.97e6*8/$D/1000)-200)")
     ffmpeg -nostdin -v error -y -i "$W/video.mp4" -i "$W/mix.wav" -map 0:v -map 1:a -c:v libx264 -preset medium -b:v ${BR}k -maxrate $((BR*2))k -bufsize $((BR*2))k \
       -pix_fmt yuv420p -c:a aac -b:a 160k -shortest -movflags +faststart "$W/out/long.mp4"
   fi
