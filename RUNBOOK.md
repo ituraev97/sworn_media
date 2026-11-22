@@ -1,7 +1,33 @@
 # SWORN — daily production runbook
 
-One run = one long episode (10–13 min, ≥ 10:00, 1920×1080) + **3** vertical Shorts (25–40 s, 1080×1920; owner rule 2026-11-06), all about ONE court case, hosted here and scheduled in Metricool for ONE US day.
+One run = one long episode (10–13 min, ≥ 10:00, 1920×1080) + 3 vertical Short **candidates** (20–40 s, 1080×1920), of which only the best **1–2 are scheduled on YouTube** (owner decision 2026-11-23, next section), all about ONE court case, hosted here and scheduled in Metricool for ONE US day.
 Reference episode: `episodes/001-madoff/` (make_spec.py → episode.json, make_shorts.py → short1–6.json, meta.json, thumb.json, factcheck.md). Read it before writing anything.
+
+## Shorts: cadence + hook rules — owner decision 2026-11-23
+Why (Metricool, 30 days, 10 channels, 546 Shorts): Shorts that open with a hard NUMBER, a FAMOUS NAME or a "WHY…?" PARADOX won by 5–50×; template clones posted 3–6 times a day decayed week over week (COLD WARRANT median 633 → 107, bookplume 329 → 42) — YouTube throttles mass-produced look-alike Shorts. This section overrides every older "3 Shorts/day", schedule and Shorts-length line in this file.
+**SWORN evidence (Nov 2–20):** winners = a famous name or recent case + a dollar figure: "$12.8M of $110M by 2018, Feds Said: The Wolf's Restitution" 537 views, "$1.5M–$3M Stolen From Earl Thomas: Both Plead Guilty" 414, "3,716 Grams and $228,000 Cash: Inside the Earl Thomas Case" 185, the FTX "Is Fine" quote 197, "$240 Million Cattle Scheme. FBI Fugitive Caught at LAX." 123. Losers = historical fraud recaps (Madoff "How a Judge Got to 150 Years", Stanford "Tier 3", Fyre "$2.56 Million in Stock") 1–10 views. Shorts median only 7.5 views at 3.8 Shorts/day.
+
+**Cadence (YouTube):**
+- Still make 3 Short candidates per run (s1–s3), score each one (below), and schedule only the best **1–2** on YouTube — **never more than 2 a day**. SWORN has no TikTok in Metricool, so the other candidates are NOT published anywhere (keep their json in the episode folder).
+- Slots: **10:00 and 18:00 ET** (the two best existing slots, 8 h apart). One Short only → 10:00. Two Shorts on one day must use different visual templates.
+- Every run is a long-video day (long 12:00 ET) → the 18:00 Short is a **trailer** for that long video (ends "Full story on the channel."); the 10:00 Short is the highest-scoring other candidate.
+
+**Scorecard — schedule a Short only if it scores ≥ 7/10** (write the scores into the run report):
+1. Hook (0–4): the first second has a hard number, a famous name/brand, or a paradox question — on screen AND spoken. 4 = all of them, punchy; 0 = generic explainer.
+2. Payoff (0–3): the hook's promise is paid in the last 2–3 s (a reveal, a number, a twist). Viewers who feel cheated swipe → YouTube stops showing the channel.
+3. Freshness (0–2): new story or new angle; never the same template as yesterday's Short.
+4. Clarity (0–1): understandable with sound off.
+No candidate reaches 7 → rewrite the hook/payoff of the best one and rebuild it; still < 7 → no Short that day (say so in the report).
+
+**Hook rules:**
+- Second 0: no logo, no title card, no "In 2008…" slow start — start on the most surprising sentence. On-screen hook ≤ 7 words, large, centered upper third.
+- Title formulas that won: [number] + [stakes] ("$12.8M of $110M…"); [famous name] + [unexpected fact] ("The Wolf of Wall Street Still Owes…"); "Why/How did…?" + paradox. ≤ 60 characters + #shorts.
+- **Banned openers/titles:** quizzes ("Name this X in 3 seconds"), plain recaps of old cases without a number or a famous name (Madoff/Stanford/Fyre-style history), "Here's what happened…", "Did you know…".
+- **Length 20–40 s** (completion rate drives distribution); hard cap 50 s. End on the payoff, then cut — no outro card longer than 1 s; a loopable last line is a plus.
+- **Template rotation:** rotate at least 3 visual templates (footage-led / document-or-number-led / timeline-led); never the same template two days running (check yesterday's Shorts in the previous episode folder).
+- Watch-time check: a Short whose average view duration in Metricool is < 5 s after 48 h → that hook style is dead, don't repeat it.
+
+**Weekly (every Monday):** the run reads the last 7 days of Shorts analytics in Metricool (views + average view duration), lists the top 3 / bottom 3 and writes one line "what won" into "Performance rules" below — repeat the winners' hook pattern, drop the losers'.
 
 ## Real footage via relay — owner decision 2026-11-23
 The sandbox cannot reach youtube.com. A relay on the owner's server downloads clips (YouTube or any yt-dlp URL) and hands them over through Google Drive folder "FOOTAGE RELAY". Client: `tools/footage_client.py` (stdlib only; read its docstring).
@@ -57,7 +83,7 @@ Why: channel analytics showed Shorts lose viewers in 1–2 s and long videos hav
    - **Facts:** every word must be factual. "Fraud" only after a conviction or plea, otherwise "CHARGED" / "FEDS ALLEGE". A question mark does not excuse a false implication.
    - **References:** `episodes/015-little-tiger/thumb3.json`, `episodes/016-rozier/thumb3.json`, `episodes/017-belfort/thumb3.json`.
 4. **Titles:** Name + $amount + scheme + CAPS verb + years/twist, under 70 characters, every word sourced. Example: "Elizabeth Holmes: The $9B Blood Test That NEVER Worked — 11 Years".
-5. **Shorts v2 (20–35 s, 3/day):**
+5. **Shorts v2 (20–40 s; 3 candidates, only the best 1–2/day go to YouTube — see "Shorts: cadence + hook rules"):**
    - frame 0 = face/document + giant number + tag;
    - narration starts at 0.05 s with the verdict, speed 1.15;
    - big centered word-level captions;
@@ -75,7 +101,7 @@ Why: channel analytics showed Shorts lose viewers in 1–2 s and long videos hav
 ## 0. Context
 - Channel bible: Projects doc `claude/sworn-bible.md` (project "AI YOUTUBE"). Brand book: Design System artifact "SWORN".
 - YouTube channel: SWORN (UCNoMjeEPiut8OgSGl0Y-WJg). Metricool brand **SWORN, blogId 7806713**. Publish timezone **America/New_York**.
-- Schedule per US day (ET): Shorts **10:00, 14:00, 18:00** (s1–s3); long episode **12:00** (owner rule 2026-11-06; was 6 Shorts).
+- Schedule per US day (ET): Shorts **10:00 and 18:00** (best 1–2 of s1–s3 by the scorecard; 18:00 = trailer for the long); long episode **12:00** (owner decision 2026-11-23; was 3 Shorts at 10:00, 14:00, 18:00, before that 6).
 - Owner decisions: voice **B** = Kokoro `am_michael` + SWORN processing (built into `pipeline/tts.py`; long speed 0.98, Shorts 1.05). Do NOT set isAiGeneratedContent (graphics + real documents + synthetic narrator; the description says "Narration uses a synthetic voice").
 
 ## 1. Setup (fresh container)
@@ -107,7 +133,7 @@ Playwright + Chromium (`require('playwright')` with `NODE_PATH=$(npm root -g)`),
 - 1,350–1,500 words → 10–11 min at speed 0.98. Cold open (≤45 s, the strongest verified moment) → `title` → 5–6 `chapter`s → closing line → `end`.
 - Scene types (see `pipeline/stage.html`): `title{kicker,title,sub}`, `chapter{n,title}`, `doc{img,pan:[from,to],hl:[x,y,w,h],kicker,title,note,src}` (real document scan; hl = gold highlight box in image fractions), `quote{q,case,doc,cite,size,recreated}`, `big{kicker,lines:[...], src}` ("|" = line break; the last line turns gold and appears on the next spoken line), `stat{kicker,value,label,src}`, `bars{kicker,title,items:[{label,value,display}],src}`, `list{kicker,items:[[n,label]],src}`, `timeline{kicker,events:[{date,text}],at,src}`, `verdict{kicker,stamp,big,sub,neutral}` (the ONLY place for red; `neutral:true` for NOT GUILTY / dismissed), `end{}`.
 - Variety: no more than 3 `quote` scenes in a row; every chapter needs at least one real document (`doc`).
-- Shorts → `make_shorts.py` → `short1.json … short6.json`: each `{title, hook: "two|lines", lines:[...]}`, 80–110 words, 6–8 lines, one angle each (the confession, the warnings, where the money went, the sentence math, the victims, the aftermath…), last line = `end`. Shorts title ≤ 90 chars.
+- Shorts → `make_shorts.py` → `short1.json … short3.json` (3 candidates): each `{title, hook: "two|lines", lines:[...]}`, 55–90 words (20–40 s), 6–8 lines, one angle each (the confession, the warnings, where the money went, the sentence math, the victims, the aftermath…), last line = `end`. Shorts title ≤ 60 chars + #shorts (hook rules above).
 - `meta.json` (title ≤ 100 chars, summary, tags, sources) and `thumb.json` (A + C: 1–2 words, one gold accent word, hook plate ≤ 5 words, document crop; C may carry a stamp; bottom-right corner stays empty).
 
 ## 5. MANDATORY independent fact-check
@@ -118,7 +144,7 @@ Launch a separate agent (did not write the script) to verify every spoken line, 
 cd /home/claude/sworn_media/pipeline && LONG_MAX_MB=450 LONG_CRF=18 ./make.sh ../episodes/NNN-slug /home/claude/work/NNN all   # ~45–60 min on 2 cores; run with nohup and poll
 ```
 For quick looks: `node render.js <workdir> <episode_dir> <prefix> 1 t1,t2,...` renders single frames.
-QA (do not skip): open `out/contact_long.jpg` and every `contact_sN.jpg` — nothing cut off or overlapping, highlights on the right lines, no seals, no empty cards; loudness ≈ −14 LUFS (make.sh prints it); long ≥ 10:00 and ≤ 450 MB; Shorts 30–60 s. Thumbnails: check at 168×94 that the big word reads.
+QA (do not skip): open `out/contact_long.jpg` and every `contact_sN.jpg` — nothing cut off or overlapping, highlights on the right lines, no seals, no empty cards; loudness ≈ −14 LUFS (make.sh prints it); long ≥ 10:00 and ≤ 450 MB; Shorts 20–40 s (hard cap 50 s). Thumbnails: check at 168×94 that the big word reads.
 
 ## 7. Host (public URLs for Metricool)
 **Long video → Google Drive (owner 2026-11-23; no more squeezing to 95 MB).** Metricool's YouTube limit is 500 MB, so the long encodes to ≤ 450 MB (§6):
@@ -137,12 +163,12 @@ Check every `https://raw.githubusercontent.com/ituraev97/sworn_media/drop-XXX/<f
 
 ## 8. Schedule in Metricool (createScheduledPost, blogId 7806713, autoPublish true, providers [{"network":"youtube"}], publicationDate timezone America/New_York)
 - Long 12:00: text = `out/youtube_description.txt`; youtubeData {title, type "video", privacy "public", madeForKids false, category "EDUCATION", tags}; media [Drive `direct` URL of long.mp4]; videoThumbnailUrl = thumb_A URL (if rejected, retry once without it).
-- Shorts 10:00, 14:00, 18:00 (s1…s3 in that order): type "short", title from the short json, text = 1–2 lines + "Full case on the channel." + "#truecrime #courtcase #shorts", madeForKids false, category EDUCATION.
+- Shorts: only the 1–2 candidates that passed the scorecard — 10:00 = best non-trailer, 18:00 = trailer for the long (never more than 2; the rest are not scheduled): type "short", title from the short json, text = 1–2 lines + "Full case on the channel." + "#truecrime #courtcase #shorts", madeForKids false, category EDUCATION.
 
 ## 9. Close
 - After scheduling: `python3 /home/claude/sworn_media/tools/drive_upload.py --cleanup-days 7 --folder "SWORN" --creds /tmp/drive_creds.json` (deletes our Drive uploads older than 7 days).
 - Commit to main: episode folder (spec scripts, json, img/, sources.md, factcheck.md — no video), `backlog.md` row → `done YYYY-MM-DD`. fetch/rebase before push.
-- Report to the owner in Russian (SendUserMessage): case + title, publish date and times (ET and Tashkent = ET+10 in winter / +9 in summer), Metricool plannerUrls, fact-check result (how many fixes), anything skipped; SendUserFile thumb_A.
+- Report to the owner in Russian (SendUserMessage): case + title, publish date and times (ET and Tashkent = ET+10 in winter / +9 in summer), Metricool plannerUrls, fact-check result (how many fixes), Shorts scorecard (each candidate's score, which 1–2 were scheduled and why), anything skipped; SendUserFile thumb_A.
 
 ## Performance rules
 Weekly review (Mondays, Asia/Tashkent). Each rule is backed by ≥ 3 of our own videos (Metricool YTVP, last 28 days). Owner content rules, schedule and AI-label settings are NOT changed here — only recommended in the report.
@@ -151,7 +177,7 @@ Weekly review (Mondays, Asia/Tashkent). Each rule is backed by ≥ 3 of our own 
 3. **"Explained" / ranking framing held viewers longest on long videos:** average view duration 210 s (ranking), 87 s (Enron Explained), 52 s (Gideon Explained) vs 2–49 s for the six "Name: … — the paper trail/verdict" titles. Use "… Explained" or a number-led promise when it fits the facts.
 4. **Shorts are lost in the first seconds:** median average view duration 4 s across 44 Shorts (Nov 2–11). Frame 0 must already carry face/document + number, narration from 0.05 s (v2 hook) — no context sentence first.
 5. **Opening word alone does not save a Short:** quote/number openers median 3 views (17 Shorts) vs other openers 4 (27). Where/How/Did/The openers 17 Shorts, median 4. Hook + name matter more than the first word; still never repeat an opening word on one day.
-6. **Slot (recommendation only, schedule unchanged):** Shorts at 13:00 UTC (8:00 ET, old schedule) median 13.5 views (6) vs 15:00 UTC (10:00 ET) median 2.5 (10), 21:00 UTC 9.5 (6), 23:00 UTC 3 (9). Owner may consider moving the first Short earlier.
+6. **Slot (recommendation only, schedule unchanged):** Shorts at 13:00 UTC (8:00 ET, old schedule) median 13.5 views (6) vs 15:00 UTC (10:00 ET) median 2.5 (10), 21:00 UTC 9.5 (6), 23:00 UTC 3 (9). Owner may consider moving the first Short earlier. (Superseded 2026-11-23: Shorts now 10:00 + 18:00 ET only.)
 7. **No data yet for v2:** Metricool returned no rows for any video published after 2026-11-11 (all v2 episodes 014–015 and their Shorts). Re-check next Monday before changing v2 packaging.
 
 Changelog:
