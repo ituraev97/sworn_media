@@ -1,0 +1,78 @@
+{
+ "title": "Acquitted on All Counts, Then Guilty of Bribing a Juror",
+ "template": "irony / before→after",
+ "lines": [
+  {
+   "say": "Acquitted on all counts. And the government says he was the one who collected two hundred thousand dollars in cash to bribe one of its jurors.",
+   "show": "Acquitted on all counts. And the government says he was the one who collected $200,000 in cash to bribe one of its jurors.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_ironic.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "SENTENCED",
+    "number": "$200,000",
+    "label": "“IRONICALLY|ACQUITTING”"
+   }
+  },
+  {
+   "say": "Said Farah was on trial in the Feeding Our Future fraud case. The bribe went to Juror fifty-two. She called the police.",
+   "show": "Said Farah was on trial in the Feeding Our Future fraud case. The bribe went to Juror 52. She called the police.",
+   "scene": {
+    "type": "doc",
+    "img": "img/a216_p3.jpg",
+    "pan": [
+     0.688,
+     0.748
+    ],
+    "hl": [
+     0.0,
+     0.8214,
+     1.0,
+     0.1324
+    ],
+    "kicker": "GOV'T MEMO · ABDIAZIZ FARAH",
+    "src": "Gov't sentencing memo, Abdiaziz Farah (D. Minn. 24-cr-173, Dkt. 216)"
+   }
+  },
+  {
+   "say": "The remaining jurors acquitted him. The government's word for it: ironically.",
+   "show": "The remaining jurors acquitted him. The government's word for it: \"ironically.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/a251_p4.jpg",
+    "pan": [
+     0.0,
+     0.003
+    ],
+    "hl": [
+     0.0,
+     0.0996,
+     1.0,
+     0.0876
+    ],
+    "kicker": "GOV'T MEMO · SAID FARAH",
+    "src": "Gov't sentencing memo, Said Farah (D. Minn. 24-cr-173, Dkt. 251)"
+   }
+  },
+  {
+   "say": "Then he pleaded guilty to bribing a juror. Six and a half years.",
+   "show": "Then he pleaded guilty to bribing a juror. Six and a half years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "OCT 30, 2026 · PER MPR NEWS",
+    "stamp": "SENTENCED",
+    "big": "6½ Years",
+    "sub": "Said Farah · bribery of a juror",
+    "at": 0.1
+   }
+  },
+  {
+   "say": "What would you have done on that jury?",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

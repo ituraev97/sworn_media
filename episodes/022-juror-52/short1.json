@@ -1,0 +1,78 @@
+{
+ "title": "$120,000 in a Gift Bag: The Juror Who Called the Police",
+ "template": "number reveal + verdict",
+ "lines": [
+  {
+   "say": "A hundred and twenty thousand dollars in cash, in a Hallmark gift bag, left at a juror's door in the first Feeding Our Future fraud trial.",
+   "show": "$120,000 in cash, in a Hallmark gift bag, left at a juror's door in the first Feeding Our Future fraud trial.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_bag.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "SENTENCED",
+    "number": "$120,000",
+    "label": "FOR JUROR 52|FEEDING OUR FUTURE"
+   }
+  },
+  {
+   "say": "A present, the courier told her stepfather. More, if she voted not guilty.",
+   "show": "A \"present,\" the courier told her stepfather. More, if she voted not guilty.",
+   "scene": {
+    "type": "doc",
+    "img": "img/a216_p3.jpg",
+    "pan": [
+     0.327,
+     0.387
+    ],
+    "hl": [
+     0.0,
+     0.4607,
+     1.0,
+     0.1324
+    ],
+    "kicker": "GOV'T MEMO · ABDIAZIZ FARAH",
+    "src": "Gov't sentencing memo, Abdiaziz Farah (D. Minn. 24-cr-173, Dkt. 216)"
+   }
+  },
+  {
+   "say": "They picked Juror fifty-two, prosecutors say, because they thought she was the youngest juror.",
+   "show": "They picked Juror 52, prosecutors say, because they thought she was the youngest juror.",
+   "scene": {
+    "type": "doc",
+    "img": "img/pr24_p1.jpg",
+    "pan": [
+     0.001,
+     0.061
+    ],
+    "hl": [
+     0.0,
+     0.1837,
+     1.0,
+     0.0339
+    ],
+    "kicker": "USAO D. MINN. · JUN 26, 2024",
+    "src": "USAO D. Minn. press release, Jun 26, 2024"
+   }
+  },
+  {
+   "say": "She called the police that night. All five people behind the plot pleaded guilty, and got four to ten years.",
+   "show": "She called the police that night. All five people behind the plot pleaded guilty, and got 4 to 10 years.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "MARCH – NOV 2026 · D. MINN.",
+    "stamp": "ALL 5 SENTENCED",
+    "big": "4 to 10 Years",
+    "sub": "Bribery of a juror · Feeding Our Future trial",
+    "at": 0.1
+   }
+  },
+  {
+   "say": "Would you have picked up the phone?",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

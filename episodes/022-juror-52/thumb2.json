@@ -1,0 +1,62 @@
+{
+ "A": {
+  "left": {
+   "q": [
+    "$200K",
+    "TO BUY",
+    "A JUROR?"
+   ]
+  },
+  "right": {
+   "img": "img/t_bag120.jpg",
+   "cover": true,
+   "pos": "50% 0%",
+   "vignette": false
+  },
+  "split": 0.5,
+  "tag": "BREAKING",
+  "breaking": true
+ },
+ "B": {
+  "left": {
+   "img": "img/t_note2.jpg",
+   "cover": true,
+   "pos": "50% 0%",
+   "vignette": false
+  },
+  "right": {
+   "img": "img/t_bag120.jpg",
+   "cover": true,
+   "pos": "50% 0%",
+   "vignette": false
+  },
+  "split": 0.5,
+  "tag": "SENTENCED",
+  "line1": "$120K BRIBE FOR JUROR 52",
+  "line2": "SHE CALLED THE POLICE",
+  "line2color": "red",
+  "size1": 100,
+  "size2": 96
+ },
+ "C": {
+  "left": {
+   "img": "img/t_call.jpg",
+   "cover": true,
+   "pos": "50% 0%",
+   "vignette": false
+  },
+  "right": {
+   "img": "img/t_stole.jpg",
+   "cover": true,
+   "pos": "50% 0%",
+   "vignette": false
+  },
+  "split": 0.42,
+  "tag": "SENTENCED",
+  "line1": "$80K SKIMMED FROM THE BRIBE",
+  "line2": "ALL 5 SENTENCED",
+  "line2color": "yellow",
+  "size1": 96,
+  "size2": 100
+ }
+}

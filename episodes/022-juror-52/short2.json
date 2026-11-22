@@ -1,0 +1,78 @@
+{
+ "title": "\"It's Done Babe\": She Skimmed $80K From a Juror Bribe",
+ "template": "verbatim quote + twist",
+ "lines": [
+  {
+   "say": "Eighty thousand dollars. That's how much the courier kept for herself, out of a two hundred thousand dollar bribe meant for a juror.",
+   "show": "$80,000. That's how much the courier kept for herself, out of a $200,000 bribe meant for a juror.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_stole.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "SENTENCED",
+    "number": "$80,000",
+    "label": "SKIMMED FROM|THE BRIBE"
+   }
+  },
+  {
+   "say": "Ladan Ali told the plotters the juror wanted five hundred thousand. In the government's words, she fabricated this entire interaction.",
+   "show": "Ladan Ali told the plotters the juror wanted $500,000. In the government's words, she \"fabricated this entire interaction.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/a277_p2.jpg",
+    "pan": [
+     0.597,
+     0.657
+    ],
+    "hl": [
+     0.0,
+     0.7312,
+     1.0,
+     0.1324
+    ],
+    "kicker": "GOV'T MEMO · LADAN ALI",
+    "src": "Gov't sentencing memo, Ladan Ali (D. Minn. 24-cr-173, Dkt. 277)"
+   }
+  },
+  {
+   "say": "She delivered the rest, and texted: It's done, babe.",
+   "show": "She delivered the rest, and texted: \"It's done babe.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/a243_p3.jpg",
+    "pan": [
+     0.237,
+     0.297
+    ],
+    "hl": [
+     0.0,
+     0.4155,
+     1.0,
+     0.0422
+    ],
+    "kicker": "GOV'T MEMO · ABDIMAJID NUR",
+    "src": "Gov't sentencing memo, Abdimajid Nur (D. Minn. 24-cr-173, Dkt. 243)"
+   }
+  },
+  {
+   "say": "The juror called the police. Ali pleaded guilty. Four years in prison.",
+   "show": "The juror called the police. Ali pleaded guilty. Four years in prison.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOV 20, 2026 · D. MINN.",
+    "stamp": "SENTENCED",
+    "big": "4 Years",
+    "sub": "Ladan Ali · Judge Eric C. Tostrud",
+    "at": 0.1
+   }
+  },
+  {
+   "say": "Was four years enough?",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}
