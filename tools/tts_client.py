@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-"""Chatterbox voice for SWORN via the owner's server (Drive folder "TTS RELAY"). Standard library only.
+"""Chatterbox voice (natural male narrator) via the owner's server (Drive folder "TTS RELAY"). Standard library only.
+Used by SWORN, COLD WARRANT and other cloud channels.
+
+  python3 tts_client.py request-spec RUN spec.json --creds /tmp/drive_creds.json [--hint "..."]
+      Generic form. spec.json = {"<out_dir_key>": {"lines": ["text", ...], "names": ["raw_01.wav", ...], "tempo": 1.0,
+      "speed": 1.0}, ...}. Every line becomes <out_dir_key>/<name> (48 kHz mono wav) in the result zip.
+      "tempos": [per-line factors] optional. "tempo" = speed-up factor applied after synthesis (1.0 = natural pace; 1.08–1.12 = brisk; Shorts 1.15).
 
   python3 tts_client.py request RUN EPISODE_DIR --creds /tmp/drive_creds.json [--hint "Names, Companies"]
       Builds the request from EPISODE_DIR/episode.json (key "vo", speed 0.98) and every short*.json (key "s<N>/vo", speed 1.15)
@@ -56,12 +62,19 @@ def build(ep):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["request", "status", "fetch"]); ap.add_argument("run"); ap.add_argument("arg", nargs="?")
+    ap.add_argument("cmd", choices=["request", "request-spec", "status", "fetch"]); ap.add_argument("run"); ap.add_argument("arg", nargs="?")
     ap.add_argument("--creds", default="/tmp/drive_creds.json"); ap.add_argument("--hint", default="")
     a = ap.parse_args()
     tok = token(a.creds); parent = folder(tok)
-    if a.cmd == "request":
-        specs = build(a.arg)
+    if a.cmd in ("request", "request-spec"):
+        specs = build(a.arg) if a.cmd == "request" else json.load(open(a.arg))
+        for k, v in specs.items():
+            if ".." in k or k.startswith("/") or not v.get("lines"):
+                sys.exit("bad spec key or empty lines: " + k)
+            if v.get("tempos") and len(v["tempos"]) != len(v["lines"]):
+                sys.exit("tempos must match lines: " + k)
+            if v.get("names") and len(v["names"]) != len(v["lines"]):
+                sys.exit("names must match lines: " + k)
         data = json.dumps({"run": a.run, "hint": a.hint, "specs": specs}).encode()
         meta = json.dumps({"name": f"req_{a.run}.json", "parents": [parent]}).encode()
         with req("POST", f"{API}/upload/drive/v3/files?uploadType=resumable", tok, meta,
