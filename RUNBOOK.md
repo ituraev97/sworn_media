@@ -254,3 +254,16 @@ Distilled from the run notes of runs 002–023 (full text: RUNBOOK_NOTES.md). Ea
 - Fact-check pattern: quotes are verbatim with every omission marked, never cut so the meaning changes, attributed to the right speaker, hearing and date, and quotes-within-quotes say so ("as quoted in", "according to the government").
 - Fact-check pattern: spoken numbers match subtitles; job titles match the date; places come from an official record; counts of conviction named by number; co-defendant status "as of <date>"; contested facts attributed everywhere; no narrator verdicts or unsourced superlatives.
 - Re-run the fact-check after inserting or moving lines (back-references break).
+
+## Thumbnails v5 — illustrated cut-out from REAL images (owner decision 2026-11-23)
+Owner: "bright and illustrated-looking, like the top drama channels — but faces must not be distorted". This section overrides the **thumb_A** part of the earlier thumbnail rules; thumb_B and thumb_C keep the current generator, so YouTube Studio → Test & Compare measures the new style against the old one. All earlier content rules stay in force: lawful image sources, every word true and sourced, fact-check of the thumbnail text, no gore, no victims' faces under crime words, bottom-right corner empty.
+
+- Tool: `tools/thumbkit/thumbkit.py` (header = full spec). Setup once per run: `pip install -q pillow numpy opencv-python-headless "rembg[cpu]"` (downloads a 176 MB cut-out model on first use; if that fails the tool still works with a soft oval mask — say so in the report).
+- It cuts the subject out of a real photo or video frame, adds a white sticker outline, a coloured glow and a rim light, washes the background in colour and sets 2–3 huge Anton words + an optional yellow sticker. Only pixel filters — no AI redraw, faces stay exactly as photographed. NEVER feed it an AI-generated image of a real person.
+- Spec (`<ep>/thumbkit.json`, a list → thumb.jpg, thumb_B.jpg… — for this channel set "out":"thumb_A.jpg"):
+  `[{"out":"thumb_A.jpg","layout":"solo","people":[{"src":"photo_or_clip","t":12.4,"crop":[x,y,w,h],"tint":"warm","kind":"person"}],"line1":"$250M","line2":"VANISHED","sticker":"SMALL FACT","brand":{"accent":"<channel colour>","sticker":"#FFD400","border":false}}]`
+  - `layout`: "solo" (subject right, words left) or "versus" (two REAL sides of the same dispute, words centre — never pair people who are not part of the same story).
+  - `kind`: "person" or "object" (boat, drug bundle, document, product, building, aircraft…).
+  - `crop`: generous box around head + shoulders (face ≈ 35–50 % of its height) in source pixels; the subject must be ≥ 360 px tall in the source (the tool warns otherwise — find a bigger image).
+  - `tint`: warm | cold | toxic | gold. `brand.accent` = the channel's main colour from the current generator.
+- After rendering, LOOK at thumb_A at 320 px wide: words readable, face not covered, outline clean (no chunks of background). If the cut-out is bad (busy background, hands lost), use the current generator for A and say so in the report.
