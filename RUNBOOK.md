@@ -204,6 +204,13 @@ Check every `https://raw.githubusercontent.com/ituraev97/sworn_media/drop-XXX/<f
 - Commit to main: episode folder (spec scripts, json, img/, sources.md, factcheck.md — no video), `backlog.md` row → `done YYYY-MM-DD`. fetch/rebase before push.
 - Report to the owner in Russian (SendUserMessage): case + title, publish date and times (ET and Tashkent = ET+10 in winter / +9 in summer), Metricool plannerUrls, fact-check result (how many fixes), Shorts scorecard (each candidate's score, which were scheduled for which day and why), anything skipped; SendUserFile thumb_A.
 
+## Proven format — owner decision 2026-11-23 (best SWORN video so far)
+"Backward Hat Capital: 2 Founders…" (thumbnail "WHERE DID $600M GO?" + court-document excerpt, 13:54): CTR 8.7 % (channel norm ~2–4 %), average view 6:03 = 43 %, but only 578 impressions — mostly search traffic, because the channel's other long videos earn too few views for YouTube to widen browse impressions. So:
+- Prefer fresh money cases that support a money question: thumbnail format B ("WHERE DID $X GO?" / "WHO TOOK $X?") + a real document excerpt with the dollar figure highlighted; the title opens with the names + the amount.
+- Keep 12–15 min with a re-hook every ~2 min; open on the money question, answer it in the last chapter.
+- Every Short of an episode ends with "Full case on the channel" and the run report reminds the owner to set the Short's "Related video" to the long (Studio only).
+- Never publish a weak long video just to fill a day — one strong long every 2 days beats daily filler.
+
 ## Performance rules
 Weekly review (Mondays, Asia/Tashkent). Each rule is backed by ≥ 3 of our own videos (Metricool YTVP, last 28 days). Owner content rules, schedule and AI-label settings are NOT changed here — only recommended in the report.
 1. **Fresh cases beat history recaps.** Shorts on v2 fresh-case days (Nov 14–20, 21 Shorts) median 16 views vs 4 for old-case Shorts (Nov 2–13, 45 Shorts); long videos median 12 (6) vs 7 (11). Fresh first; backlog only as fallback.
