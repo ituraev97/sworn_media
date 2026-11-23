@@ -1,0 +1,69 @@
+{
+ "title": "$683,000 for 3 Churches. Gov't Chart: \"Never Purchased.\"",
+ "template": "face + number reveal",
+ "lines": [
+  {
+   "say": "Six hundred eighty-three thousand dollars, for three church buildings. According to the government's chart, none was ever purchased.",
+   "show": "$683,000, for three church buildings. According to the government's chart, none was ever purchased.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_face.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "GUILTY",
+    "number": "$683,000",
+    "label": "3 CHURCHES|NEVER PURCHASED"
+   }
+  },
+  {
+   "say": "Pastor Richard Garcia sold church flipping deals: renovate a church, sell it, pay the investor a set return.",
+   "show": "Pastor Richard Garcia sold \"Church Flipping\" deals: renovate a church, sell it, pay the investor a set return.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_p5.jpg",
+    "pan": [
+     0.279,
+     0.339
+    ],
+    "hl": [
+     0.0,
+     0.3612,
+     1.0,
+     0.2347
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS",
+    "src": "Superseding Indictment, U.S. v. Garcia (N.D. Tex. 4:26-cr-146, Dkt. 35)"
+   }
+  },
+  {
+   "say": "One investor was told his churches had sold at a profit, the indictment says. The chart: proceeds from sale, zero.",
+   "show": "One investor was told his churches had sold at a profit, the indictment says. The chart: proceeds from sale, $0.",
+   "scene": {
+    "type": "photo",
+    "img": "img/f_never.jpg",
+    "caption": "GOV'T TRIAL CHART · NAMES REDACTED",
+    "src": "Gov't trial exhibit (draft chart), released by USAO N.D. Tex.",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "On November nineteenth, a federal jury in Fort Worth found Garcia guilty. More than seventy victims. More than six million dollars lost.",
+   "show": "On November 19, a federal jury in Fort Worth found Garcia guilty. More than 70 victims. More than $6 million lost.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOV 19, 2026 · FORT WORTH, TEX.",
+    "stamp": "GUILTY",
+    "big": "4 Counts",
+    "sub": "Richard Reinaldo Garcia · wire fraud",
+    "at": 0.1
+   }
+  },
+  {
+   "say": "Would you invest with your pastor?",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

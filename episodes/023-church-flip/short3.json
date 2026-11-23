@@ -1,0 +1,78 @@
+{
+ "title": "Why Did Investors Call Their Money a \"Donation\"?",
+ "template": "paradox question (document-led)",
+ "lines": [
+  {
+   "say": "Why would an investor call his money a donation? Because, prosecutors say, the pastor told him to.",
+   "show": "Why would an investor call his money a \"donation\"? Because, prosecutors say, the pastor told him to.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_face3.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "GUILTY",
+    "number": "$6M+",
+    "label": "70+ VICTIMS|PASTOR GUILTY"
+   }
+  },
+  {
+   "say": "Richard Garcia sold church flipping and concert deals, and had victims label payments as donations to Gracia Church.",
+   "show": "Richard Garcia sold church flipping and concert deals, and had victims label payments as \"donations\" to Gracia Church.",
+   "scene": {
+    "type": "doc",
+    "img": "img/prv_p1.jpg",
+    "pan": [
+     0.529,
+     0.589
+    ],
+    "hl": [
+     0.0,
+     0.6809,
+     1.0,
+     0.0965
+    ],
+    "kicker": "U.S. ATTORNEY · N.D. TEX.",
+    "src": "USAO N.D. Tex. press release, Nov 20, 2026"
+   }
+  },
+  {
+   "say": "One investor even got a donation letter, the indictment says, for money meant for church deals.",
+   "show": "One investor even got a Donation Letter, the indictment says, for money meant for church deals.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_p12.jpg",
+    "pan": [
+     0.19,
+     0.25
+    ],
+    "hl": [
+     0.0,
+     0.2835,
+     1.0,
+     0.2132
+    ],
+    "kicker": "SUPERSEDING INDICTMENT",
+    "src": "Superseding Indictment, U.S. v. Garcia (N.D. Tex. 4:26-cr-146, Dkt. 35)"
+   }
+  },
+  {
+   "say": "More than seventy victims. More than six million dollars. A jury found Garcia guilty on November nineteenth.",
+   "show": "More than 70 victims. More than $6 million. A jury found Garcia guilty on November 19.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOV 19, 2026 · FORT WORTH, TEX.",
+    "stamp": "GUILTY",
+    "big": "4 Counts",
+    "sub": "Richard Reinaldo Garcia · wire fraud",
+    "at": 0.1
+   }
+  },
+  {
+   "say": "Would you have noticed?",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

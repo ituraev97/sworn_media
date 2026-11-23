@@ -1,0 +1,1042 @@
+{
+ "label": "SWORN · CASE 023",
+ "lines": [
+  {
+   "say": "Three church buildings. One in Texarkana. One in Lubbock. One in Fort Worth.",
+   "show": "Three church buildings. One in Texarkana. One in Lubbock. One in Fort Worth.",
+   "scene": {
+    "type": "photo",
+    "img": "img/f_never.jpg",
+    "caption": "GOV'T TRIAL EXHIBIT · DRAFT CHART · NAMES OF INVESTORS REDACTED BY SWORN",
+    "src": "Government trial exhibits (summary charts marked \"DRAFT\"), released by the U.S. Attorney's Office, N.D. Tex. (United States v. Garcia, N.D. Tex. 4:26-cr-146-P)",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "According to the government's chart, investors put in a combined six hundred eighty-three thousand dollars to fix them up and sell them at a profit. Prosecutors call it church flipping.",
+   "show": "According to the government's chart, investors put in a combined $683,000 to fix them up and sell them at a profit. Prosecutors call it \"church flipping.\""
+  },
+  {
+   "say": "The government's chart at trial has two words under each address. Never purchased. Proceeds from sale: zero dollars.",
+   "show": "The government's chart at trial has two words under each address: \"NEVER PURCHASED.\" Proceeds from sale: $0.",
+   "scene": {
+    "type": "big",
+    "kicker": "GOV'T TRIAL EXHIBIT · DRAFT CHART",
+    "lines": [
+     "Never purchased.",
+     "Proceeds: $0."
+    ],
+    "src": "Government trial exhibits (summary charts marked \"DRAFT\"), released by the U.S. Attorney's Office, N.D. Tex. (United States v. Garcia, N.D. Tex. 4:26-cr-146-P)"
+   }
+  },
+  {
+   "say": "On November nineteenth, twenty twenty-six, after a four-day trial, a federal jury in Fort Worth convicted the pastor. Richard Reinaldo Garcia, of Arlington, Texas. Guilty of conspiracy to commit wire fraud, and three counts of wire fraud.",
+   "show": "On November 19, 2026, after a four-day trial, a federal jury in Fort Worth convicted the pastor. Richard Reinaldo Garcia, of Arlington, Texas. Guilty of conspiracy to commit wire fraud, and three counts of wire fraud.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOVEMBER 19, 2026 · FORT WORTH, TEX.",
+    "stamp": "GUILTY",
+    "big": "4 Counts",
+    "sub": "Richard Reinaldo Garcia · Judge Mark T. Pittman · sentencing Mar 4, 2027"
+   }
+  },
+  {
+   "say": "More than seventy victims, in the United States, Colombia, Mexico and the Dominican Republic. More than six million dollars lost.",
+   "show": "More than 70 victims, in the United States, Colombia, Mexico and the Dominican Republic. More than $6 million lost.",
+   "scene": {
+    "type": "doc",
+    "img": "img/prv_p1.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.1275,
+     1.0,
+     0.0617
+    ],
+    "kicker": "U.S. ATTORNEY · N.D. TEX. · NOV 20, 2026",
+    "title": "More than 70 victims",
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 20, 2026)"
+   }
+  },
+  {
+   "say": "This is how a church became the bank account. From the indictment, the trial exhibits, and the verdict.",
+   "show": "This is how a church became the bank account. From the indictment, the trial exhibits, and the verdict.",
+   "scene": {
+    "type": "title",
+    "kicker": "SWORN · CASE 023 · BREAKING",
+    "title": "The Church|Flipping Pastor",
+    "sub": "United States v. Garcia · N.D. Tex. 4:26-cr-146 · jury verdict Nov 19, 2026"
+   }
+  },
+  {
+   "say": "Chapter one. The pastor.",
+   "scene": {
+    "type": "chapter",
+    "n": "I",
+    "title": "The Pastor"
+   }
+  },
+  {
+   "say": "Richard Garcia is fifty-three. According to the U.S. Attorney's Office, he served as a pastor during the scheme, and he used that position.",
+   "show": "Richard Garcia is 53. According to the U.S. Attorney's Office, he served as a pastor during the scheme, and he used that position.",
+   "scene": {
+    "type": "doc",
+    "img": "img/prv_p1.jpg",
+    "pan": [
+     0.423,
+     0.483
+    ],
+    "hl": [
+     0.0,
+     0.6032,
+     1.0,
+     0.0791
+    ],
+    "kicker": "U.S. ATTORNEY · N.D. TEX. · NOV 20, 2026",
+    "title": "“served as a pastor during the scheme”",
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 20, 2026)"
+   }
+  },
+  {
+   "say": "His church had many names. The indictment lists the entities he did business through: Ministerio Gracia. Iglesia Gracia de Texas. Gracia Church of Texas. A Pesar de Todo, L.L.C. And M.G. Kingdom, Incorporated.",
+   "show": "His church had many names. The indictment lists the entities he did business through: Ministerio Gracia. Iglesia Gracia de Texas. Gracia Church of Texas. A Pesar de Todo, LLC. And MG Kingdom, Inc.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_p1.jpg",
+    "pan": [
+     0.403,
+     0.463
+    ],
+    "hl": [
+     0.0,
+     0.5181,
+     1.0,
+     0.209
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS · ¶ 1",
+    "title": "The “Relevant Entities”",
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026)"
+   }
+  },
+  {
+   "say": "Ministerio Gracia goes back to twenty twelve, with an address on South Collins Street in Arlington. Over the years, the indictment says, it also operated as Gracia Church Arlington, Dallas West International Church, and Jessed Community Church.",
+   "show": "Ministerio Gracia goes back to 2012, with an address on South Collins Street in Arlington. Over the years, the indictment says, it also operated as Gracia Church Arlington, Dallas West International Church, and Jessed Community Church.",
+   "scene": {
+    "type": "list",
+    "kicker": "MINISTERIO GRACIA · PER THE INDICTMENT",
+    "items": [
+     [
+      "2012",
+      "Registered in Texas · South Collins St, Arlington"
+     ],
+     [
+      "aka",
+      "Gracia Church Arlington"
+     ],
+     [
+      "aka",
+      "Dallas West International Church, Inc."
+     ],
+     [
+      "aka",
+      "Jessed Community Church, Inc."
+     ]
+    ],
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026) ¶ 2"
+   }
+  },
+  {
+   "say": "Iglesia Gracia de Texas, registered in twenty twenty-two, had previously used the names Gracia Church Atlanta and Gracia Church, according to the indictment. And Gracia Church of Texas, registered in twenty eighteen, had once been called Richard Garcia Ministries.",
+   "show": "Iglesia Gracia de Texas, registered in 2022, had previously used the names Gracia Church Atlanta and Gracia Church, according to the indictment. And Gracia Church of Texas, registered in 2018, had once been called Richard Garcia Ministries.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_p2.jpg",
+    "pan": [
+     0.0,
+     0.054
+    ],
+    "hl": [
+     0.0,
+     0.0128,
+     1.0,
+     0.403
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS · ¶¶ 3–4",
+    "title": "One pastor, many names",
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026)"
+   }
+  },
+  {
+   "say": "The trial evidence showed that he encouraged church members to give two things to church-owned real estate projects. Their money, and their labor.",
+   "show": "The trial evidence showed that he encouraged church members to contribute both money and labor toward church-owned real estate projects.",
+   "scene": {
+    "type": "doc",
+    "img": "img/prv_p1.jpg",
+    "pan": [
+     0.423,
+     0.483
+    ],
+    "hl": [
+     0.0,
+     0.6032,
+     1.0,
+     0.0791
+    ],
+    "kicker": "U.S. ATTORNEY · N.D. TEX. · NOV 20, 2026",
+    "title": "Money and labor",
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 20, 2026)"
+   }
+  },
+  {
+   "say": "And some of those projects were real. According to prosecutors, properties were improved and later sold for profit. While, at the same time, Garcia was asking victims for more investments.",
+   "show": "And some of those projects were real. According to prosecutors, properties were improved and later sold for profit. While, at the same time, Garcia was soliciting additional investments from victims."
+  },
+  {
+   "say": "That is what made the pitch work. The churches existed. Some renovations happened. Some properties did sell at a profit. The question was what happened to the investors' money.",
+   "show": "That is what made the pitch work. The churches existed. Some renovations happened. Some properties did sell at a profit. The question was what happened to the investors' money.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "The churches existed.",
+     "So where did|the money go?"
+    ],
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 20, 2026)"
+   }
+  },
+  {
+   "say": "Chapter two. The pitch.",
+   "scene": {
+    "type": "chapter",
+    "n": "II",
+    "title": "The Pitch"
+   }
+  },
+  {
+   "say": "From at least August twenty twenty-one through April twenty twenty-five, according to the trial evidence, Garcia and others solicited money for two kinds of deals.",
+   "show": "From at least August 2021 through April 2025, according to the trial evidence, Garcia and others solicited money for two kinds of deals.",
+   "scene": {
+    "type": "doc",
+    "img": "img/prv_p1.jpg",
+    "pan": [
+     0.319,
+     0.379
+    ],
+    "hl": [
+     0.0,
+     0.4907,
+     1.0,
+     0.0964
+    ],
+    "kicker": "U.S. ATTORNEY · N.D. TEX. · NOV 20, 2026",
+    "title": "August 2021 – April 2025",
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 20, 2026)"
+   }
+  },
+  {
+   "say": "Deal number one: partnership agreements. The indictment calls them church flipping contracts. Investors' money would renovate church properties that Garcia owned, the properties would be sold to a third-party buyer, and each investor would get a specific return, written into the contract.",
+   "show": "Deal number one: partnership agreements. The indictment calls them \"Church Flipping\" contracts. Investors' money would renovate church properties that Garcia owned, the properties would be sold to a third-party buyer, and each investor would get a specific return, written into the contract.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_p5.jpg",
+    "pan": [
+     0.259,
+     0.319
+    ],
+    "hl": [
+     0.0,
+     0.3612,
+     1.0,
+     0.2347
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS · ¶ 10(a)",
+    "title": "“Church Flipping” contracts",
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026)"
+   }
+  },
+  {
+   "say": "Deal number two: joint venture agreements for international Christian music concerts. According to the indictment, investors were told their money, combined with sponsorship deals and agreements with local Colombian government entities, would fund concerts that sold tickets, and profits would be shared.",
+   "show": "Deal number two: \"Joint Venture\" agreements for international Christian music concerts. According to the indictment, investors were told their money, combined with sponsorship deals and agreements with local Colombian government entities, would fund concerts that sold tickets, and profits would be shared.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_p6.jpg",
+    "pan": [
+     0.0,
+     0.058
+    ],
+    "hl": [
+     0.0,
+     0.0111,
+     1.0,
+     0.4133
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS · ¶ 10(b)",
+    "title": "Christian music concerts",
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026)"
+   }
+  },
+  {
+   "say": "The grand jury charged that he did not intend to host the concerts as scheduled, or to share the profits. Instead, it says, he intended to use the money for operating costs, unrelated business, and personal expenses.",
+   "show": "The grand jury charged that he did not intend to host the concerts as scheduled, or to share the profits. Instead, it says, he intended to use the money for operating costs, unrelated business, and personal expenses.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_p6.jpg",
+    "pan": [
+     0.354,
+     0.414
+    ],
+    "hl": [
+     0.0,
+     0.4868,
+     1.0,
+     0.1748
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS · ¶ 10(b)",
+    "title": "“did not intend”",
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026)"
+   }
+  },
+  {
+   "say": "There was more. The indictment says some investors were offered an interest already owned by other investors.",
+   "show": "There was more. The indictment says some investors were offered an interest already \"owned\" by other investors.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_p7.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.0103,
+     1.0,
+     0.1232
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS · ¶ 10(d)",
+    "title": "Duplicate agreements",
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026)"
+   }
+  },
+  {
+   "say": "And people were asked for money for trips to Kenya, typically two thousand dollars a person, for church programs there. According to the indictment, Garcia would cancel or never book those trips.",
+   "show": "And people were asked for money for trips to Kenya, typically $2,000 per person, for church programs there. According to the indictment, Garcia would cancel or never book those trips.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_p7.jpg",
+    "pan": [
+     0.034,
+     0.094
+    ],
+    "hl": [
+     0.0,
+     0.1466,
+     1.0,
+     0.2143
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS · ¶ 10(e)",
+    "title": "$2,000 per person · Kenya",
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026)"
+   }
+  },
+  {
+   "say": "Keep the word donation in mind. Because, according to the evidence, it is how the money moved.",
+   "show": "Keep the word \"donation\" in mind. Because, according to the evidence, it is how the money moved.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Keep one word",
+     "in mind:|“donation.”"
+    ],
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026)"
+   }
+  },
+  {
+   "say": "Chapter three. The paper trail.",
+   "scene": {
+    "type": "chapter",
+    "n": "III",
+    "title": "The Paper Trail"
+   }
+  },
+  {
+   "say": "The first example in the indictment is from August twenty twenty-one. A church property on South Collins Street in Arlington. Two investors sent a cashier's check for fifty thousand dollars, made out to M.G. Kingdom, Collins Project.",
+   "show": "The first example in the indictment is from August 2021. A church property on South Collins Street in Arlington. Two investors sent a cashier's check for $50,000, made out to \"MG Kingdom (Collins Project).\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_p9.jpg",
+    "pan": [
+     0.0,
+     0.044
+    ],
+    "hl": [
+     0.0,
+     0.0119,
+     1.0,
+     0.3841
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS · ¶ 14(a)",
+    "title": "A $50,000 cashier's check",
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026)"
+   }
+  },
+  {
+   "say": "Later, the indictment says, Garcia told them the project had made a profit of about fifty-five thousand dollars. And that he had used their money to invest in a new project. They never agreed to that.",
+   "show": "Later, the indictment says, Garcia told them the project had made a profit of about $55,000. And that he had used their money to invest in a new project. They never agreed to that.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_p9.jpg",
+    "pan": [
+     0.484,
+     0.544
+    ],
+    "hl": [
+     0.0,
+     0.565,
+     1.0,
+     0.2788
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS · ¶ 14(a)(i)",
+    "title": "A $55,000 “profit”",
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026)"
+   }
+  },
+  {
+   "say": "Then came the big ones. According to the indictment, in October twenty twenty-three, an investor from Arizona, called Individual C, signed a partnership agreement for a church property on Hazel Street in Texarkana.",
+   "show": "Then came the big ones. According to the indictment, in October 2023, an investor from Arizona, called Individual C, signed a partnership agreement for a church property on Hazel Street in Texarkana.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_p10.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.0112,
+     1.0,
+     0.2697
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS · ¶ 14(b)",
+    "title": "Hazel Street, Texarkana",
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026)"
+   }
+  },
+  {
+   "say": "He wires one hundred twenty-five thousand dollars on October eighteenth, and one hundred thousand more on October twenty-sixth. Two hundred twenty-five thousand in all.",
+   "show": "He wires $125,000 on October 18, and $100,000 more on October 26. $225,000 in all."
+  },
+  {
+   "say": "About a week after that second wire, on November third, a second deal, the indictment says. A church property on East Queens Street in Lubbock. One hundred sixty-eight thousand dollars.",
+   "show": "About a week after that second wire, on November 3, a second deal, the indictment says. A church property on East Queens Street in Lubbock. $168,000.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_p11.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.0111,
+     1.0,
+     0.27
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS · ¶ 14(c)",
+    "title": "East Queens Street, Lubbock",
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026)"
+   }
+  },
+  {
+   "say": "In twenty twenty-four, according to the indictment, Garcia told him both projects were done. That he had secured title to the properties. That they had sold at a profit. And that he had used the profits to buy another church.",
+   "show": "In 2024, according to the indictment, Garcia told him both projects were done. That he had secured title to the properties. That they had sold at a profit. And that he had used the profits to buy another church.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_p10.jpg",
+    "pan": [
+     0.426,
+     0.486
+    ],
+    "hl": [
+     0.0,
+     0.4865,
+     1.0,
+     0.3183
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS · ¶ 14(b)(i)",
+    "title": "“secured title ownership”",
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026)"
+   }
+  },
+  {
+   "say": "The indictment says none of that was true. Garcia never got ownership of either property, and the money never went into improvements.",
+   "show": "The indictment says none of that was true. Garcia did not obtain ownership of either property, and the money was not used for improvements."
+  },
+  {
+   "say": "And here is the chart prosecutors released when they announced the verdict. Hazel Street. East Queens Street. And a third property, on Ryan Avenue in Fort Worth, with a second investor's two hundred ninety thousand dollars. All three: never purchased.",
+   "show": "And here is the chart prosecutors released when they announced the verdict. Hazel Street. East Queens Street. And a third property, on Ryan Avenue in Fort Worth, with a second investor's $290,000. All three: \"NEVER PURCHASED.\"",
+   "scene": {
+    "type": "photo",
+    "img": "img/f_never.jpg",
+    "caption": "GOV'T TRIAL EXHIBIT · DRAFT CHART · NAMES OF INVESTORS REDACTED BY SWORN",
+    "src": "Government trial exhibits (summary charts marked \"DRAFT\"), released by the U.S. Attorney's Office, N.D. Tex. (United States v. Garcia, N.D. Tex. 4:26-cr-146-P)",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "So if the churches were never bought, where did the money go? The government's charts follow it, account by account.",
+   "show": "So if the churches were never bought, where did the money go? The government's charts follow it, account by account.",
+   "scene": {
+    "type": "stat",
+    "kicker": "GOV'T TRIAL EXHIBIT · DRAFT CHART",
+    "value": "$683,000",
+    "label": "the chart's three investments, added together · proceeds from sale: $0",
+    "src": "Government trial exhibits (summary charts marked \"DRAFT\"), released by the U.S. Attorney's Office, N.D. Tex. (United States v. Garcia, N.D. Tex. 4:26-cr-146-P)"
+   }
+  },
+  {
+   "say": "Chapter four. Follow the money.",
+   "scene": {
+    "type": "chapter",
+    "n": "IV",
+    "title": "Follow the Money"
+   }
+  },
+  {
+   "say": "October eighteenth, twenty twenty-three. The first one hundred twenty-five thousand for Texarkana lands in a Bank of America account in the name of Gracia Church. Before it arrived, according to the government's chart, the balance was one thousand five hundred sixty-six dollars.",
+   "show": "October 18, 2023. The first $125,000 for Texarkana lands in a Bank of America account in the name of Gracia Church. Before it arrived, according to the government's chart, the balance was $1,566.03.",
+   "scene": {
+    "type": "photo",
+    "img": "img/f_tx1.jpg",
+    "caption": "GOV'T TRIAL EXHIBIT · DRAFT CHART · GRACIA CHURCH BOA #2450 · OCT 18–25, 2023",
+    "src": "Government trial exhibits (summary charts marked \"DRAFT\"), released by the U.S. Attorney's Office, N.D. Tex. (United States v. Garcia, N.D. Tex. 4:26-cr-146-P)",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "Then, the chart shows, money goes out of that account. About thirty-six thousand dollars in payments to others, including to another investor. Twenty-two thousand to a title company, later reversed. About eighteen thousand in travel. About seventeen thousand in debt payments. Thirteen thousand to Richard Garcia's own account.",
+   "show": "Then, the chart shows, money goes out of that account. About $36,000 in payments to others, including to another investor. $22,000 to a title company, later reversed. About $18,000 in travel. About $17,000 in debt payments. $13,000 to Richard Garcia's own account.",
+   "scene": {
+    "type": "bars",
+    "kicker": "GOV'T TRIAL EXHIBIT · DRAFT CHART · OCT 18–25, 2023",
+    "title": "Out of Gracia Church #2450",
+    "items": [
+     {
+      "label": "Payments to others, incl. another investor",
+      "value": 36282,
+      "display": "$36,282"
+     },
+     {
+      "label": "Alamo Title Co. (later reverses)",
+      "value": 22000,
+      "display": "$22,000"
+     },
+     {
+      "label": "Travel",
+      "value": 18068,
+      "display": "$18,068"
+     },
+     {
+      "label": "Debt payments",
+      "value": 17439,
+      "display": "$17,439"
+     },
+     {
+      "label": "Richard R. Garcia, BOA #4494",
+      "value": 13000,
+      "display": "$13,000"
+     }
+    ],
+    "src": "Government trial exhibits (summary charts marked \"DRAFT\"), released by the U.S. Attorney's Office, N.D. Tex. (United States v. Garcia, N.D. Tex. 4:26-cr-146-P)"
+   }
+  },
+  {
+   "say": "One week later, the account was down to about thirteen thousand nine hundred dollars. According to the government's chart, the property was never purchased.",
+   "show": "One week later, the account was down to about $13,900. According to the government's chart, the property was never purchased."
+  },
+  {
+   "say": "Look at the other arrows on that chart, too. That same week, the church account also took in income from others, including tithes and offerings. Investor money and offerings went into one account, and out of it.",
+   "show": "Look at the other arrows on that chart, too. That same week, the church account also took in \"income from others, including tithes/offerings.\" Investor money and offerings went into one account, and out of it.",
+   "scene": {
+    "type": "photo",
+    "img": "img/f_tx1.jpg",
+    "caption": "GOV'T TRIAL EXHIBIT · DRAFT CHART · GRACIA CHURCH BOA #2450 · OCT 18–25, 2023",
+    "src": "Government trial exhibits (summary charts marked \"DRAFT\"), released by the U.S. Attorney's Office, N.D. Tex. (United States v. Garcia, N.D. Tex. 4:26-cr-146-P)",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "Now follow the thirteen thousand into his personal account. That account had started the week overdrawn, at minus two thousand three hundred thirty-two dollars.",
+   "show": "Now follow the $13,000 into his personal account. That account had started the week overdrawn, at minus $2,332.49.",
+   "scene": {
+    "type": "photo",
+    "img": "img/f_rg1.jpg",
+    "caption": "GOV'T TRIAL EXHIBIT · DRAFT CHART · RICHARD R GARCIA BOA #4494 · OCT 18–27, 2023",
+    "src": "Government trial exhibits (summary charts marked \"DRAFT\"), released by the U.S. Attorney's Office, N.D. Tex. (United States v. Garcia, N.D. Tex. 4:26-cr-146-P)",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "Out of it: five thousand three hundred twenty-six dollars in international transactions, in Panama. Utilities. And one thousand six hundred forty-five dollars to Mercedes-Benz Financial Services.",
+   "show": "Out of it: $5,326 in international transactions, in Panama. Utilities. And $1,645 to Mercedes-Benz Financial Services."
+  },
+  {
+   "say": "On October twenty-sixth, the second Texarkana wire, one hundred thousand dollars, lands in the church account. A few days later, another six thousand goes from the church account to Garcia. Out of his account, according to the chart: debt payments. One thousand two hundred four dollars more to Mercedes-Benz. Two hundred eighty-nine dollars at the Texas Rangers, baseball and concessions. And smaller charges, labeled Jackpocket, Apple and Audible.",
+   "show": "On October 26, the second Texarkana wire, $100,000, lands in the church account. A few days later, another $6,000 goes from the church account to Garcia. Out of his account, according to the chart: debt payments. $1,204 more to Mercedes-Benz. $289 at the Texas Rangers, \"baseball & concessions.\" And smaller charges, labeled Jackpocket, Apple and Audible.",
+   "scene": {
+    "type": "photo",
+    "img": "img/f_rg2.jpg",
+    "caption": "GOV'T TRIAL EXHIBIT · DRAFT CHART · RICHARD R GARCIA BOA #4494 · OCT 30–31, 2023",
+    "src": "Government trial exhibits (summary charts marked \"DRAFT\"), released by the U.S. Attorney's Office, N.D. Tex. (United States v. Garcia, N.D. Tex. 4:26-cr-146-P)",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "Then Lubbock. November third, one hundred sixty-eight thousand dollars into the same church account. One week later, the balance is down to about six thousand one hundred.",
+   "show": "Then Lubbock. November 3, $168,000 into the same church account. One week later, the balance is down to $6,158.24.",
+   "scene": {
+    "type": "photo",
+    "img": "img/f_lub.jpg",
+    "caption": "GOV'T TRIAL EXHIBIT · DRAFT CHART · GRACIA CHURCH BOA #2450 · NOV 3–10, 2023",
+    "src": "Government trial exhibits (summary charts marked \"DRAFT\"), released by the U.S. Attorney's Office, N.D. Tex. (United States v. Garcia, N.D. Tex. 4:26-cr-146-P)",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "The indictment also describes what it calls lulling payments: payments to victims, designed to address their requests to be paid their profits.",
+   "show": "The indictment also describes what it calls \"lulling payments\": payments to victims, designed to address their requests to be paid their profits.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_p13.jpg",
+    "pan": [
+     0.377,
+     0.437
+    ],
+    "hl": [
+     0.0,
+     0.5337,
+     1.0,
+     0.1275
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS · ¶ 19",
+    "title": "“Lulling Payments”",
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026)"
+   }
+  },
+  {
+   "say": "And when victims questioned missing profits, prosecutors say, Garcia often told them the earnings had been reinvested in other projects.",
+   "show": "And when victims questioned missing profits, prosecutors say, Garcia often falsely claimed their earnings had been reinvested into other projects.",
+   "scene": {
+    "type": "doc",
+    "img": "img/prv_p1.jpg",
+    "pan": [
+     0.362,
+     0.422
+    ],
+    "hl": [
+     0.0,
+     0.5603,
+     1.0,
+     0.0442
+    ],
+    "kicker": "U.S. ATTORNEY · N.D. TEX. · NOV 20, 2026",
+    "title": "“reinvested”",
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 20, 2026)"
+   }
+  },
+  {
+   "say": "Chapter five. The donations.",
+   "scene": {
+    "type": "chapter",
+    "n": "V",
+    "title": "The Donations"
+   }
+  },
+  {
+   "say": "So far: the deals, the money trail, the Mercedes payments. But the strangest part of this case is a single word on the bank records. And then, according to the indictment, a two point four million dollar contract with someone else's name on it.",
+   "show": "So far: the deals, the money trail, the Mercedes payments. But the strangest part of this case is a single word on the bank records. And then, according to the indictment, a $2.4 million contract with someone else's name on it.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "A $2.4 million contract.",
+     "Someone else's name|on it, per the indictment."
+    ],
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026) ¶ 17"
+   }
+  },
+  {
+   "say": "Here is the word from chapter two. According to the evidence, Garcia told victims to send their money to church-related accounts, and to call the payments donations to Gracia Church.",
+   "show": "Here is the word from chapter two. According to the evidence, Garcia instructed victims to transfer money to church-related accounts and to characterize the payments as \"donations\" to Gracia Church.",
+   "scene": {
+    "type": "doc",
+    "img": "img/prv_p1.jpg",
+    "pan": [
+     0.509,
+     0.569
+    ],
+    "hl": [
+     0.0,
+     0.6809,
+     1.0,
+     0.0965
+    ],
+    "kicker": "U.S. ATTORNEY · N.D. TEX. · NOV 20, 2026",
+    "title": "Call it a “donation”",
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 20, 2026)"
+   }
+  },
+  {
+   "say": "Even though, the U.S. Attorney's Office says, the money was meant for investments.",
+   "show": "Even though, the U.S. Attorney's Office says, the funds were intended for investment opportunities."
+  },
+  {
+   "say": "The investor from Arizona, Individual C, is one example. In twenty twenty-four, the indictment says, Garcia directed him to describe his partnership money as donations. Afterward, he received a donation letter from Ministerio Gracia.",
+   "show": "The investor from Arizona, Individual C, is one example. In 2024, the indictment says, Garcia directed him to describe his partnership money as donations. Afterward, he received a Donation Letter from Ministerio Gracia.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_p12.jpg",
+    "pan": [
+     0.17,
+     0.23
+    ],
+    "hl": [
+     0.0,
+     0.2835,
+     1.0,
+     0.2132
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS · ¶ 15(a)",
+    "title": "A “Donation Letter”",
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026)"
+   }
+  },
+  {
+   "say": "An investment has a contract, and an investor expects a return. A donation is a gift. The indictment says labeling it that way disguised business money as charity.",
+   "show": "An investment has a contract, and an investor expects a return. A donation is a gift. The indictment says labeling it that way disguised funds for a business venture as charitable donations.",
+   "scene": {
+    "type": "big",
+    "lines": [
+     "Investment: a return.",
+     "Donation:|a gift."
+    ],
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026) ¶ 15"
+   }
+  },
+  {
+   "say": "And the requests did not stop. In May twenty twenty-five, the indictment says, Garcia asked another person, Individual E, for money, and showed him a commercial contract.",
+   "show": "And the requests did not stop. In May 2025, the indictment says, Garcia asked another person, Individual E, for money, and showed him a Commercial Contract.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_p12.jpg",
+    "pan": [
+     0.668,
+     0.728
+    ],
+    "hl": [
+     0.0,
+     0.7812,
+     1.0,
+     0.2137
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS · ¶ 17",
+    "title": "May 2025",
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026)"
+   }
+  },
+  {
+   "say": "It showed Ministerio Gracia selling the property at seventeen hundred New York Avenue, Arlington, for two point four million dollars, to a buyer: Individual E himself. The indictment says he did not agree to buy it, did not know about the contract, and did not consent to his name and digital signature being put on it.",
+   "show": "It showed Ministerio Gracia selling the property at 1700 New York Ave, Arlington, for $2,400,000, to a buyer: Individual E himself. The indictment says he did not agree to buy it, did not know about the contract, and did not consent to his name and digital signature being put on it.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_p13.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.0112,
+     1.0,
+     0.079
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS · ¶ 17",
+    "title": "$2,400,000",
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026)"
+   }
+  },
+  {
+   "say": "The indictment also charged a fifth count, aggravated identity theft, over the use of Individual E's name and address on a Texas business filing in December twenty twenty-three. The U.S. Attorney's announcement of the verdict lists four counts of conviction, and does not mention that fifth count.",
+   "show": "The indictment also charged a fifth count, aggravated identity theft, over the use of Individual E's name and address on a Texas business filing in December 2023. The U.S. Attorney's announcement of the verdict lists four counts of conviction, and does not mention that fifth count.",
+   "scene": {
+    "type": "doc",
+    "img": "img/ind_p1.jpg",
+    "pan": [
+     0.013,
+     0.073
+    ],
+    "hl": [
+     0.0,
+     0.1421,
+     1.0,
+     0.182
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · FILED OCT 7, 2026",
+    "title": "The superseding indictment",
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026)"
+   }
+  },
+  {
+   "say": "Chapter six. The verdict.",
+   "scene": {
+    "type": "chapter",
+    "n": "VI",
+    "title": "The Verdict"
+   }
+  },
+  {
+   "say": "The trial lasted four days, before U.S. District Judge Mark T. Pittman, in Fort Worth. The jury found Garcia guilty on November nineteenth.",
+   "show": "The trial lasted four days, before U.S. District Judge Mark T. Pittman, in Fort Worth. The jury found Garcia guilty on November 19.",
+   "scene": {
+    "type": "doc",
+    "img": "img/prv_p1.jpg",
+    "pan": [
+     0.0,
+     0.059
+    ],
+    "hl": [
+     0.0,
+     0.1878,
+     1.0,
+     0.0617
+    ],
+    "kicker": "U.S. ATTORNEY · N.D. TEX. · NOV 20, 2026",
+    "title": "Guilty on Nov. 19",
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 20, 2026)"
+   }
+  },
+  {
+   "say": "So which deals did the jury convict on? The superseding indictment lays out three wire fraud counts, each tied to an email Garcia sent or caused to be sent.",
+   "show": "So which deals did the jury convict on? The superseding indictment lays out three wire fraud counts, each tied to an email Garcia sent or caused to be sent.",
+   "scene": {
+    "type": "list",
+    "kicker": "SUPERSEDING INDICTMENT · COUNTS 2–4 · WIRE FRAUD",
+    "items": [
+     [
+      "Count 2",
+      "Email to Individual C in Arizona · Lubbock deal · $168,000"
+     ],
+     [
+      "Count 3",
+      "Email to Individual C in Arizona · Texarkana deal · $225,000"
+     ],
+     [
+      "Count 4",
+      "Email to Individual H, Florida & Colombia · Ryan Ave, Fort Worth · $210,000"
+     ]
+    ],
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026) ¶ 23"
+   }
+  },
+  {
+   "say": "Counts two and three are the Lubbock and Texarkana deals, emails dated November thirtieth, twenty twenty-three, to the investor in Arizona. Count four is an email in January twenty twenty-three to an investor in Florida and Colombia, about the church property on Ryan Avenue in Fort Worth. The indictment puts that one at two hundred ten thousand dollars.",
+   "show": "Counts Two and Three are the Lubbock and Texarkana deals, emails dated November 30, 2023, to the investor in Arizona. Count Four is an email dated January 17, 2023, to an investor in Florida and Colombia, about the church property on Ryan Ave in Fort Worth. The indictment puts that one at $210,000."
+  },
+  {
+   "say": "Count one ties it all together: a conspiracy to commit wire fraud, with a co-conspirator the indictment does not name. The jury said guilty on all four.",
+   "show": "Count One ties it all together: a conspiracy to commit wire fraud, with a co-conspirator the indictment does not name. The jury found him guilty on all four."
+  },
+  {
+   "say": "And according to the U.S. Attorney, it did not take long. His words: a very quick decision by the jury.",
+   "show": "And according to the U.S. Attorney, it did not take long. His words: \"a very quick decision by the jury.\"",
+   "scene": {
+    "type": "doc",
+    "img": "img/prv_p1.jpg",
+    "pan": [
+     0.111,
+     0.171
+    ],
+    "hl": [
+     0.0,
+     0.3004,
+     1.0,
+     0.0616
+    ],
+    "kicker": "U.S. ATTORNEY · N.D. TEX. · NOV 20, 2026",
+    "title": "“a very quick decision”",
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 20, 2026)"
+   }
+  },
+  {
+   "say": "Prosecutors also showed the jury how Garcia lived. Between about twenty twenty-three and October twenty twenty-five, he directed more than two hundred thousand dollars a year to his personal bank accounts.",
+   "show": "Prosecutors also showed the jury how Garcia lived. Between approximately 2023 and October 2025, he directed more than $200,000 annually to his personal bank accounts.",
+   "scene": {
+    "type": "doc",
+    "img": "img/prv_p1.jpg",
+    "pan": [
+     0.604,
+     0.664
+    ],
+    "hl": [
+     0.0,
+     0.7935,
+     1.0,
+     0.0616
+    ],
+    "kicker": "U.S. ATTORNEY · N.D. TEX. · NOV 20, 2026",
+    "title": "$200,000+ a year",
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 20, 2026)"
+   }
+  },
+  {
+   "say": "He drove a twenty twenty-three Mercedes electric S.U.V. And he lived in a Mansfield residence that sold for more than one point six million dollars.",
+   "show": "He drove a 2023 Mercedes electric SUV. And he lived in a Mansfield residence that sold for more than $1.6 million.",
+   "scene": {
+    "type": "list",
+    "kicker": "PER TRIAL EVIDENCE · U.S. ATTORNEY",
+    "items": [
+     [
+      "$200K+",
+      "a year to personal accounts (≈2023 – Oct 2025)"
+     ],
+     [
+      "2023",
+      "Mercedes electric SUV"
+     ],
+     [
+      "$1.6M+",
+      "Mansfield residence, sale price"
+     ]
+    ],
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 20, 2026)"
+   }
+  },
+  {
+   "say": "U.S. Attorney Ryan Raybould, after the verdict.",
+   "show": "U.S. Attorney Ryan Raybould, after the verdict: \"This defendant didn't just take money from his victims. He abused personal relationships, exploited the trust people placed in him as a pastor, and invoked his purported Christian faith to execute his large-scale fraud scheme.\"",
+   "scene": {
+    "type": "quote",
+    "q": "This defendant didn't just take money from his victims. He abused personal relationships, exploited the trust people placed in him as a pastor, and invoked his purported Christian faith to execute his large-scale fraud scheme.",
+    "case": "U.S. Attorney Ryan Raybould · Nov 20, 2026",
+    "doc": "Press release, U.S. Attorney's Office, N.D. Tex.",
+    "cite": "U.S. Attorney's Office, N.D. Tex., press release (Nov 20, 2026)"
+   }
+  },
+  {
+   "say": "And the F.B.I. in Dallas said the scheme betrayed the trust of his congregants and others.",
+   "show": "And FBI Dallas Special Agent in Charge R. Joseph Rothrock: \"The defendant's scheme betrayed the trust of his congregants and others and used deception to lure them into making investments in his fraudulent projects.\"",
+   "scene": {
+    "type": "quote",
+    "q": "The defendant's scheme betrayed the trust of his congregants and others and used deception to lure them into making investments in his fraudulent projects.",
+    "case": "FBI Dallas Special Agent in Charge R. Joseph Rothrock",
+    "doc": "Press release, U.S. Attorney's Office, N.D. Tex., Nov 20, 2026",
+    "cite": "U.S. Attorney's Office, N.D. Tex., press release (Nov 20, 2026)"
+   }
+  },
+  {
+   "say": "The final count, according to court documents and trial evidence: more than seventy victims, and more than six million dollars lost.",
+   "show": "The final count, according to court documents and trial evidence: more than 70 victims, and more than $6 million lost.",
+   "scene": {
+    "type": "doc",
+    "img": "img/prv_p1.jpg",
+    "pan": [
+     0.656,
+     0.716
+    ],
+    "hl": [
+     0.0,
+     0.8538,
+     1.0,
+     0.0443
+    ],
+    "kicker": "U.S. ATTORNEY · N.D. TEX. · NOV 20, 2026",
+    "title": "More than $6 million",
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 20, 2026)"
+   }
+  },
+  {
+   "say": "Garcia faces up to twenty years in federal prison on each count. Sentencing is set for March fourth, twenty twenty-seven.",
+   "show": "Garcia faces up to 20 years in federal prison on each count. Sentencing is set for March 4, 2027.",
+   "scene": {
+    "type": "doc",
+    "img": "img/prv_p1.jpg",
+    "pan": [
+     0.699,
+     0.759
+    ],
+    "hl": [
+     0.0,
+     0.8967,
+     1.0,
+     0.0443
+    ],
+    "kicker": "U.S. ATTORNEY · N.D. TEX. · NOV 20, 2026",
+    "title": "Sentencing: March 4, 2027",
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 20, 2026)"
+   }
+  },
+  {
+   "say": "And the case may not be finished. The F.B.I. is still asking people who think they were victims to come forward, through an online questionnaire, in English and in Spanish.",
+   "show": "And the case may not be finished. The FBI is still asking people who think they were victims to come forward, through an online questionnaire, in English and in Spanish.",
+   "scene": {
+    "type": "doc",
+    "img": "img/prv_p1.jpg",
+    "pan": [
+     0.751,
+     0.81
+    ],
+    "hl": [
+     0.0,
+     0.9397,
+     1.0,
+     0.0616
+    ],
+    "kicker": "U.S. ATTORNEY · N.D. TEX. · NOV 20, 2026",
+    "title": "The FBI is still looking",
+    "src": "U.S. Attorney's Office, N.D. Tex., press release (Nov 20, 2026)"
+   }
+  },
+  {
+   "say": "Three churches that, according to the government's chart, were never bought. Donations that were really investments. And, according to the government's own charts, a pastor's personal account that paid Mercedes-Benz.",
+   "show": "Three churches that, according to the government's chart, were never bought. Donations that were really investments. And, according to the government's own charts, a pastor's personal account that paid Mercedes-Benz.",
+   "scene": {
+    "type": "timeline",
+    "kicker": "UNITED STATES v. GARCIA · N.D. TEX.",
+    "events": [
+     {
+      "date": "Aug 2021",
+      "text": "Scheme begins, per indictment"
+     },
+     {
+      "date": "Oct–Nov 2023",
+      "text": "$393,000 for Texarkana + Lubbock"
+     },
+     {
+      "date": "May 2025",
+      "text": "$2.4M \"Commercial Contract\""
+     },
+     {
+      "date": "Oct 7, 2026",
+      "text": "Superseding indictment"
+     },
+     {
+      "date": "Nov 19, 2026",
+      "text": "GUILTY on 4 counts"
+     },
+     {
+      "date": "Mar 4, 2027",
+      "text": "Sentencing"
+     }
+    ],
+    "src": "Superseding Indictment (United States v. Garcia, N.D. Tex. 4:26-cr-146-P, Dkt. 35, filed Oct 7, 2026); U.S. Attorney's Office, N.D. Tex., press release (Nov 20, 2026)"
+   }
+  },
+  {
+   "say": "The judge will decide his sentence in March. What sentence do you think he should get? Tell us in the comments.",
+   "show": "The judge will decide his sentence in March. What sentence do you think he should get? Tell us in the comments.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "A": {
+  "left": {
+   "q": [
+    "WHERE",
+    "DID $6M",
+    "GO?"
+   ]
+  },
+  "right": {
+   "img": "img/t_face.jpg",
+   "cover": true,
+   "pos": "50% 0%",
+   "vignette": false,
+   "stamp": "GUILTY",
+   "stampPos": "left:50%;top:78%"
+  },
+  "split": 0.5,
+  "tag": "BREAKING",
+  "breaking": true
+ },
+ "B": {
+  "left": {
+   "img": "img/t_face.jpg",
+   "cover": true,
+   "pos": "50% 0%",
+   "vignette": false
+  },
+  "right": {
+   "img": "img/t_never.jpg",
+   "cover": true,
+   "pos": "50% 0%",
+   "vignette": false
+  },
+  "split": 0.5,
+  "tag": "GUILTY",
+  "line1": "PASTOR'S $6M CHURCH SCHEME",
+  "line2": "3 CHURCHES: \"NEVER PURCHASED\"",
+  "line2color": "red",
+  "size1": 98,
+  "size2": 90
+ },
+ "C": {
+  "left": {
+   "img": "img/t_merc.jpg",
+   "cover": true,
+   "pos": "50% 0%",
+   "vignette": false
+  },
+  "right": {
+   "img": "img/t_face.jpg",
+   "cover": true,
+   "pos": "50% 0%",
+   "vignette": false
+  },
+  "split": 0.42,
+  "tag": "GUILTY",
+  "line1": "PASTOR'S ACCOUNT PAID MERCEDES",
+  "line2": "GUILTY ON 4 COUNTS",
+  "line2color": "yellow",
+  "size1": 92,
+  "size2": 100
+ }
+}

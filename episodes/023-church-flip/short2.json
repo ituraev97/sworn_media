@@ -1,0 +1,60 @@
+{
+ "title": "Church Account to Mercedes-Benz: A Pastor's Money Trail",
+ "template": "money trail (chart-led) · trailer",
+ "lines": [
+  {
+   "say": "A hundred twenty-five thousand dollars from an investor, into a church bank account. Here is where it went, according to the government.",
+   "show": "$125,000 from an investor, into a church bank account. Here is where it went, according to the government.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_face2.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "GUILTY",
+    "number": "$125,000",
+    "label": "INTO THE|CHURCH ACCOUNT"
+   }
+  },
+  {
+   "say": "Thirteen thousand to the pastor's personal account, which had started the week overdrawn.",
+   "show": "$13,000 to the pastor's personal account, which had started the week overdrawn.",
+   "scene": {
+    "type": "photo",
+    "img": "img/f_rg1.jpg",
+    "caption": "GOV'T TRIAL CHART · NAMES REDACTED",
+    "src": "Gov't trial exhibit (draft chart), released by USAO N.D. Tex.",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "From there: Panama. Mercedes-Benz Financial Services. Later, the Texas Rangers, baseball and concessions.",
+   "show": "From there: Panama. Mercedes-Benz Financial Services. Later, the Texas Rangers, \"baseball & concessions.\"",
+   "scene": {
+    "type": "photo",
+    "img": "img/f_rg2.jpg",
+    "caption": "GOV'T TRIAL CHART · NAMES REDACTED",
+    "src": "Gov't trial exhibit (draft chart), released by USAO N.D. Tex.",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "The Texarkana church in his deal? According to the government's chart, never purchased. Pastor Richard Garcia was found guilty on November nineteenth.",
+   "show": "The Texarkana church in his deal? According to the government's chart, never purchased. Pastor Richard Garcia was found guilty on November 19.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOV 19, 2026 · FORT WORTH, TEX.",
+    "stamp": "GUILTY",
+    "big": "4 Counts",
+    "sub": "Richard Reinaldo Garcia · wire fraud",
+    "at": 0.1
+   }
+  },
+  {
+   "say": "What sentence would you give him? Full story on the channel.",
+   "scene": {
+    "type": "end",
+    "cta": "FULL STORY ON THE CHANNEL"
+   }
+  }
+ ]
+}
