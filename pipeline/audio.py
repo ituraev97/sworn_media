@@ -64,6 +64,23 @@ music *= fade * music_gain
 voice = np.zeros(N)
 for i, s in enumerate(S):
     x, sr = sf.read(f"{WD}/vo/l_{i:02d}.wav"); i0 = int(s * SR); voice[i0:i0 + len(x)] += x[:N - i0]
+clip_gain = np.ones(N)
+# real footage with "audio": true -> original clip audio for the block (same mapping as clips.py: clip t = from + (t - a)),
+# narration ducked to 25 %, music to 20 %, clip level matched to the narration RMS. Missing/silent clip -> nothing changes.
+for bl in T["blocks"]:
+    s = bl["spec"]
+    if s.get("type") != "clip" or not s.get("audio") or not s.get("_path"): continue
+    a, b = bl["a"], bl["b"]; i0, i1 = int(a * SR), min(N, int(b * SR))
+    r = subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-ss", f"{float(s.get('from', 0)):.3f}", "-t", f"{b - a:.3f}", "-i", s["_path"],
+                        "-vn", "-ac", "1", "-ar", str(SR), "-f", "f32le", "-"], capture_output=True)
+    c = np.frombuffer(r.stdout, dtype=np.float32).astype(np.float64)[:i1 - i0]
+    if r.returncode or len(c) < SR * 0.2 or np.abs(c).max() < 1e-4: print(f"audio: WARNING no usable audio in {s['_path']} — clip stays silent"); continue
+    ramp = int(.12 * SR); g = np.ones(i1 - i0); g[:ramp] = np.linspace(0, 1, ramp); g[-ramp:] = np.linspace(1, 0, ramp)
+    vact = voice[np.abs(voice) > 1e-3]; vr = np.sqrt(np.mean(vact ** 2)) if len(vact) else 0.1
+    c = c / (np.sqrt(np.mean(c ** 2)) + 1e-9) * vr
+    voice[i0:i1] *= 1 - 0.75 * g; voice[i0:i0 + len(c)] += c * g[:len(c)]; clip_gain[i0:i1] *= 1 - 0.8 * g
+    print(f"audio: clip audio {a:.2f}-{b:.2f}s from {s['_path']}")
+music *= clip_gain
 venv = np.convolve(np.abs(voice), np.ones(int(.25 * SR)) / int(.25 * SR), mode="same"); duck = 1 - 0.55 * np.clip(venv / (venv.max() * .12 + 1e-9), 0, 1)
 music *= duck
 for n, a, g in [("voice", voice, .9), ("music", music, .5), ("fx", fx, .6)]:

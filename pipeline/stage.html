@@ -41,6 +41,8 @@ html,body{background:var(--night);overflow:hidden}
 .hk-num{position:absolute;left:0;width:1080px;text-align:center;font-family:Anton;color:#FFE81A;-webkit-text-stroke:10px #000;paint-order:stroke fill;text-shadow:0 12px 0 #000;line-height:1}
 .hk-lab{position:absolute;left:40px;width:1000px;text-align:center;font-family:Anton;color:#fff;-webkit-text-stroke:8px #000;paint-order:stroke fill;font-size:84px;line-height:1.02}
 .sub-hot{color:#FFE81A}
+.clip-key{position:absolute;inset:0;background:#00ff00}
+.clip-lab{position:absolute;background:rgba(11,16,32,.92);border-left:solid var(--gold);font-family:Inter;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--paper);white-space:nowrap}
 </style></head>
 <body><div id="stage"><div id="scenes"></div><div id="hud"></div><div id="subs"></div><div id="flash"></div></div>
 <script>
@@ -213,6 +215,16 @@ B.hook = (r, s) => {
   return (lt) => { im.style.transform = `scale(${1.0 + 0.10 * ease(cl(lt / 3, 0, 1))})`; const p = cl((lt - 0.15) / 0.22, 0, 1);
     num.style.transform = `scale(${1 + 0.12 * Math.sin(Math.PI * p)})`; };
 };
+B.clip = (r, s) => {
+  // real footage (RUNBOOK "Real footage via relay"): full-frame #00ff00 key area that pipeline/clips.py replaces with the clip
+  // (long: fill 1920x1080; Shorts: blurred fill + 16:9 at CLIP_SHORT_Y). Only the source label (+ HUD, subs) is drawn here.
+  // s._path (set by timeline.py) null = file missing -> plain dark frame with the label, never green.
+  const long = MODE === 'long';
+  if (s._path) el(r, 'clip-key', {});
+  if (s.label) el(r, 'clip-lab', long ? { left: '56px', top: '48px', fontSize: '24px', padding: '12px 20px', borderLeftWidth: '7px' }
+                                     : { left: '48px', top: '1214px', fontSize: '24px', padding: '11px 18px', borderLeftWidth: '7px', maxWidth: '984px', overflow: 'hidden' }, esc(s.label));
+  return () => {};
+};
 B.verdict = (r, s) => {
   const long = MODE === 'long';
   el(r, 'abs kicker', { left: 0, width: BOX.w + 'px', textAlign: 'center', top: px(long ? 120 : 20), fontSize: px(26), color: 'var(--muted)' }, esc(s.kicker || 'THE VERDICT'));
@@ -239,7 +251,7 @@ function sceneEl(i) {
   if (built[i]) return built[i];
   const blk = T.blocks[i]; const s = blk.spec;
   const root = el(document.getElementById('scenes'), 'scene', {});
-  const full = s.type === 'hook';
+  const full = s.type === 'hook' || s.type === 'clip';
   const box = el(root, 'box', full ? { left: 0, top: 0, width: W + 'px', height: H + 'px' } : { left: BOX.x + 'px', top: BOX.y + 'px', width: BOX.w + 'px', height: BOX.h + 'px' });
   const fn = (B[s.type] || B.big)(box, s);
   built[i] = { root, fn, blk };
@@ -250,13 +262,17 @@ function sceneEl(i) {
 function render(t) {
   const bl = T.blocks; let i = bl.findIndex(b => t >= b.a && t < b.b); if (i < 0) i = bl.length - 1;
   for (const k in built) if (+k !== i && +k !== i - 1 && +k !== i + 1) built[k].root.style.opacity = 0;
-  const show = j => { if (j < 0 || j >= bl.length) return; const b = bl[j]; if (t < b.a - 0.25 || t > b.b + 0.25) { if (built[j]) built[j].root.style.opacity = 0; return; }
+  const isClip = j => bl[j].spec.type === 'clip', curClip = isClip(i);
+  const show = j => { if (j < 0 || j >= bl.length) return; const b = bl[j];
+    if (t < b.a - 0.25 || t > b.b + 0.25 || (j !== i && (curClip || isClip(j)))) { if (built[j]) built[j].root.style.opacity = 0; return; }
+    if (isClip(j)) { const s = sceneEl(j); s.root.style.opacity = 1; s.root.style.transform = 'none'; s.fn(Math.max(0, t - b.a), b); return; }
     const s = sceneEl(j); const o = (j === 0 ? 1 : cl((t - (b.a - 0.2)) / 0.25, 0, 1)) * (j === bl.length - 1 ? 1 : cl((b.b + 0.2 - t) / 0.25, 0, 1));
     s.root.style.opacity = o; s.root.style.transform = b.spec.type === 'hook' ? 'none' : `translateY(${(1 - ease(cl((t - b.a + 0.2) / 0.5, 0, 1))) * 26}px)`; s.fn(Math.max(0, t - b.a), b); };
   show(i - 1); show(i); show(i + 1);
   const last = bl[bl.length - 1]; const isEnd = last.spec.type === 'end' && t >= last.a;
   const cur = bl[i]; const onHook = cur.spec.type === 'hook';
   const hudO = (isEnd || onHook) ? 0 : 1; document.getElementById('hud').style.opacity = hudO;
+  const wm = document.getElementById('wm'); if (wm) wm.style.opacity = curClip ? 0 : (MODE === 'long' ? .55 : .6); // translucent seal would tint the key
   const lt0 = t - cur.a; const punchy = MODE === 'short' && i > 0 && ['stat', 'verdict', 'big'].includes(cur.spec.type);
   const pk = punchy ? cl(1 - lt0 / 0.3, 0, 1) : 0;
   document.getElementById('scenes').style.transform = `scale(${1 + 0.07 * pk})`;

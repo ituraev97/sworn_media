@@ -23,6 +23,12 @@ for i, ln in enumerate(L):
     blocks[-1]["lines"].append(starts[i])
 for j, b in enumerate(blocks):
     b["b"] = blocks[j + 1]["a"] if j + 1 < len(blocks) else total
+    sp = b["spec"]
+    if sp.get("type") == "clip":  # real footage: resolve file (workdir, then parent workdir for Shorts) -> "_path" or None
+        import os
+        f = sp.get("file", ""); cand = [f] if os.path.isabs(f) else [os.path.join(W, f), os.path.join(W, "..", f)]
+        sp["_path"] = next((os.path.realpath(c) for c in cand if f and os.path.isfile(c)), None)
+        if not sp["_path"]: print(f"WARNING clip missing: {f!r} — block {j} stays a dark label frame", file=sys.stderr)
 subs = []
 maxw = 3 if mode == "short" else 99
 maxc = 18 if mode == "short" else 44

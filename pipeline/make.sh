@@ -15,6 +15,7 @@ if [ "$WHAT" != shorts ]; then
   python3 "$P/tts.py" "$E/episode.json" "$W" 0.98
   python3 "$P/timeline.py" "$E/episode.json" "$W" long
   node "$P/render.js" "$W" "$E" "$W/video.mp4" 2
+  python3 "$P/clips.py" "$W"
   python3 "$P/audio.py" "$W"
   mux "$W" "$W/out/long.mp4" "$LCRF"
   S=$(stat -c %s "$W/out/long.mp4")
@@ -34,6 +35,7 @@ if [ "$WHAT" != long ]; then
     python3 "$P/tts.py" "$f" "$SW" 1.15
     python3 "$P/timeline.py" "$f" "$SW" short
     node "$P/render.js" "$SW" "$E" "$SW/video.mp4" 2
+    python3 "$P/clips.py" "$SW"
     python3 "$P/audio.py" "$SW"
     mux "$SW" "$W/out/s$n.mp4" 19
     ffmpeg -nostdin -v error -y -i "$W/out/s$n.mp4" -vf "fps=1/4,scale=216:384,tile=12x1" -frames:v 1 "$W/out/contact_s$n.jpg"
