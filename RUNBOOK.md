@@ -1,6 +1,6 @@
 # SWORN — daily production runbook
 
-One run = one long episode (10–13 min, ≥ 10:00, 1920×1080) + 3 vertical Short **candidates** (20–40 s, 1080×1920), of which only the best **1–2 are scheduled on YouTube** (owner decision 2026-11-23, next section), all about ONE court case, hosted here and scheduled in Metricool for ONE US day.
+One run = publish the episode voiced since the last run + write and order the voice for the next one (see "Voice = Chatterbox via TTS relay"). An episode = one long video (12–15 min, ≥ 10:00, 1920×1080) + 3 vertical Short **candidates** (20–40 s, 1080×1920), of which only the best **1–2 are scheduled on YouTube** (owner decision 2026-11-23, next section), all about ONE court case, hosted here and scheduled in Metricool for ONE US day.
 Reference episode: `episodes/001-madoff/` (make_spec.py → episode.json, make_shorts.py → short1–6.json, meta.json, thumb.json, factcheck.md). Read it before writing anything.
 
 ## Shorts: cadence + hook rules — owner decision 2026-11-23
@@ -40,6 +40,22 @@ The sandbox cannot reach youtube.com. A relay on the owner's server downloads cl
 - **Never:** movies or TV dramas, other YouTubers' faces or commentary, victims' or jurors' faces, minors, gore.
 - **Use:** real footage = 30–50% of the long video's runtime; ≤ ~12 s of one external clip at a time, then cut back to our graphics/documents; mostly muted under narration; original audio only for short key quotes (≤ 15 s, speaker named on screen); a source label on screen during every clip ("Source: DOJ press conference, Nov 20, 2026" / "Source: WCCO"); list every footage source (channel/outlet, title, date, URL) in the description.
 - This overrides "Never: Court TV / Law&Crime / TV footage" and "Never news or TV frames" in §3 / v2 rule 3 for **video clips** only; thumbnails and faces keep the lawful-photo rules.
+
+## Voice = Chatterbox via TTS relay — owner decision 2026-11-23 (overrides "voice B = Kokoro" in §0 for every episode that has relay audio)
+Why: the Kokoro narrator is the weakest part of the channel (long-video median 7 views, AVD ~7%). Chatterbox (natural, emotional) runs on the owner's server, ~4–6 h per episode, so each run works on TWO episodes: it publishes the one voiced since the previous run, then writes the next one and orders its voice.
+Client: `tools/tts_client.py` (stdlib only; read its docstring). Creds = the same `/tmp/drive_creds.json` as the footage relay.
+
+**Run order (replaces the single-episode flow of §2–§9):**
+1. **Publish the voiced episode first.** Find the `backlog.md` row with status `voicing NNN` (oldest first).
+   `python3 /home/claude/sworn_media/tools/tts_client.py status NNN --creds /tmp/drive_creds.json`
+   - `ready` → `mkdir -p $W && tts_client.py fetch NNN $W` (W = /home/claude/work/NNN), get the footage again with `footage_client.py wait NNN $W/footage` (the relay keeps clips 7 days), then build with the SAME workdir: `LONG_MAX_MB=450 LONG_CRF=18 ./make.sh ../episodes/NNN-slug $W all`. tts.py keeps the Chatterbox lines (it prints `lines N`; check in the log that it did NOT load Kokoro — if any line was re-voiced, the text changed after the request: fix the text back or accept and say so in the report). Then §6 QA, §7 host, §8 schedule (target date = earliest free ET date ≥ tomorrow), §9 close → row `done YYYY-MM-DD`.
+   - `pending` → the server is still working: skip to step 2 and say so in the report.
+   - `failed` or `pending` for more than 30 h → build that episode now with Kokoro (old flow, `tts.py` makes the voice) so the channel never misses a day; row → `done (kokoro)`.
+2. **Write the next episode** (§2 case choice, §3 research, §4 script + Shorts candidates, §5 independent fact-check with ALL fixes applied). The text is final after the fact-check — any later edit of a `say` line breaks the voice match.
+3. **Order its voice:** `python3 /home/claude/sworn_media/tools/tts_client.py request NNN /home/claude/sworn_media/episodes/NNN-slug --creds /tmp/drive_creds.json --hint "<names, companies, places in the case, comma-separated>"`. Also order the footage now (`footage_client.py request NNN clips.json`). Commit the episode folder, set its `backlog.md` row to `voicing NNN`, push. Do NOT build it in this run.
+4. **Never leave tomorrow empty:** if step 1 published nothing and Metricool has no long video for tomorrow (ET), build the episode from step 2 right away with Kokoro (old flow, skip step 3), row `done (kokoro)`.
+
+**Script for the voice:** Chatterbox reads naturally at about Kokoro speed 0.98 — keep 1,600–2,000 words for the long (12–15 min). Punctuation drives delivery: short sentences, a "!" on real punches only (it raises the energy), numbers as words, no abbreviations in `say` ("Securities and Exchange Commission" the first time, then "the SEC" is fine). Shorts lines are sped up ×1.17 automatically.
 
 ## ⚡ v2 rules (owner-approved 2026-11-14). These override older sections where they conflict
 Why: channel analytics showed Shorts lose viewers in 1–2 s and long videos have no thumbnails. YouTube Studio "Inspiration" for our niche (court/true-crime news) shows that winning videos have a **big emotional face**, few words, a fresh news peg, and a title built as "name + what happened". Holmes/Balwani/Theranos items are in that feed.
@@ -102,7 +118,7 @@ Why: channel analytics showed Shorts lose viewers in 1–2 s and long videos hav
 - Channel bible: Projects doc `claude/sworn-bible.md` (project "AI YOUTUBE"). Brand book: Design System artifact "SWORN".
 - YouTube channel: SWORN (UCNoMjeEPiut8OgSGl0Y-WJg). Metricool brand **SWORN, blogId 7806713**. Publish timezone **America/New_York**.
 - Schedule per US day (ET): Shorts **10:00 and 18:00** (best 1–2 of s1–s3 by the scorecard; 18:00 = trailer for the long); long episode **12:00** (owner decision 2026-11-23; was 3 Shorts at 10:00, 14:00, 18:00, before that 6).
-- Owner decisions: voice **B** = Kokoro `am_michael` + SWORN processing (built into `pipeline/tts.py`; long speed 0.98, Shorts 1.05). Do NOT set isAiGeneratedContent (graphics + real documents + synthetic narrator; the description says "Narration uses a synthetic voice").
+- Owner decisions: voice = **Chatterbox via TTS relay** (section "Voice = Chatterbox via TTS relay"); fallback only: voice **B** = Kokoro `am_michael` + SWORN processing (built into `pipeline/tts.py`; long speed 0.98, Shorts 1.05). Do NOT set isAiGeneratedContent (graphics + real documents + synthetic narrator; the description says "Narration uses a synthetic voice").
 
 ## 1. Setup (fresh container)
 ```bash
@@ -130,7 +146,7 @@ Playwright + Chromium (`require('playwright')` with `NODE_PATH=$(npm root -g)`),
 
 ## 4. Script → `episodes/NNN-slug/make_spec.py` → `episode.json`
 - Copy the structure of 001. Each line = `{"say": spoken text (numbers as words), "show": subtitle text (digits), "scene": {...}}`; a line without `scene` continues the previous scene.
-- 1,350–1,500 words → 10–11 min at speed 0.98. Cold open (≤45 s, the strongest verified moment) → `title` → 5–6 `chapter`s → closing line → `end`.
+- 1,600–2,000 words → 12–15 min (Chatterbox, see the voice section). Cold open (≤45 s, the strongest verified moment) → `title` → 5–6 `chapter`s → closing line → `end`.
 - Scene types (see `pipeline/stage.html`): `title{kicker,title,sub}`, `chapter{n,title}`, `doc{img,pan:[from,to],hl:[x,y,w,h],kicker,title,note,src}` (real document scan; hl = gold highlight box in image fractions), `quote{q,case,doc,cite,size,recreated}`, `big{kicker,lines:[...], src}` ("|" = line break; the last line turns gold and appears on the next spoken line), `stat{kicker,value,label,src}`, `bars{kicker,title,items:[{label,value,display}],src}`, `list{kicker,items:[[n,label]],src}`, `timeline{kicker,events:[{date,text}],at,src}`, `verdict{kicker,stamp,big,sub,neutral}` (the ONLY place for red; `neutral:true` for NOT GUILTY / dismissed), `end{}`.
 - Variety: no more than 3 `quote` scenes in a row; every chapter needs at least one real document (`doc`).
 - Shorts → `make_shorts.py` → `short1.json … short3.json` (3 candidates): each `{title, hook: "two|lines", lines:[...]}`, 55–90 words (20–40 s), 6–8 lines, one angle each (the confession, the warnings, where the money went, the sentence math, the victims, the aftermath…), last line = `end`. Shorts title ≤ 60 chars + #shorts (hook rules above).
