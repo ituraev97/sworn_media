@@ -1,5 +1,11 @@
 # SWORN — daily production runbook
 
+> **LATEST OWNER DECISIONS — read first, they override older sections below (2026-11-24)**
+> - Thumbnails v6 (section "Thumbnails v6" near the end): thumb_A and thumb_B are made with `tools/thumbkit/thumbkit.py` + AI pictures from `tools/img_client.py` (request them at the START of the run); only thumb_C uses this channel's old generator. Every run must at least request the AI pictures; if they do not arrive in time, say so in the report.
+> - EMOTION FIRST: every thumbnail shows a strong emotion (rage, shock, fear, disbelief) — never a calm face; the AI may only re-light a real face, never change it.
+> - Promise rule + subtitles + minimal bleeps (section "Promise, clips & subtitles" at the end).
+
+
 Run notes go to RUNBOOK_NOTES.md (append there, never here). Promote a note into a rule section only if it must apply to every future run.
 
 The run fires daily, but a long video goes out only every 2nd day (next section). An **OFF run** checks Metricool and stops. A **LONG run** = publish the episode voiced since the previous long run + write and order the voice for the next one (see "Voice = Chatterbox via TTS relay"). An episode = one long video (12–15 min, ≥ 10:00, 1920×1080) + 4 vertical Short **candidates** (20–40 s, 1080×1920), of which only the best **1–2 per day are scheduled on YouTube** for 2 days, all about ONE court case, hosted here and scheduled in Metricool.
