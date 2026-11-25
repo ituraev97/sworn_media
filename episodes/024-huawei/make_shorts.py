@@ -19,7 +19,7 @@ def L(say, scene=None, show=None):
     return d
 def hook(img, **kw):
     d = dict(type="hook", img=f"img/{img}.jpg", pos="50% 0%", zoom=1.3334); d.update(kw); return d
-GUILTY = dict(type="verdict", kicker="NOV 24, 2026 · BROOKLYN, N.Y.", stamp="GUILTY", big="Huawei + 3 subsidiaries", sub="Federal jury · E.D.N.Y. · sentencing Sept 14, 2027", at=0.1)
+GUILTY = dict(type="verdict", kicker="NOV 24, 2026 · BROOKLYN, N.Y.", stamp="GUILTY", big="Huawei", sub="+ 3 subsidiaries · E.D.N.Y. · sentencing Sept 14, 2027", at=0.1)
 shorts = [
  # S1 — number reveal (evidence photo + number) — T 10:00
  {"title": "10 of 12 Charges: Huawei Found Guilty in Brooklyn", "template": "evidence photo + number reveal",

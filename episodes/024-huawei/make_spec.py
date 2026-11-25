@@ -64,7 +64,7 @@ lines = [
    doc("p_sent", PK, "Sentencing set for Sept. 14, 2027", S_PR),
    show="Companies cannot go to prison. The Justice Department says that when sentenced, the defendants face financial penalties, including criminal fines, forfeiture, and restitution. Sentencing is set for September 14, 2027."),
  L("So what did Huawei do? The Justice Department's answer starts with a robot.",
-   dict(type="big", lines=["What does the Justice Department|say it proved?", "It starts|with a robot."], src=S_PR)),
+   dict(type="big", lines=["What does DOJ|say it proved?", "It starts|with a robot."], size=110, src=S_PR)),
  # II
  L("Chapter two. The robot.", dict(type="chapter", n="II", title="The Robot")),
  L("The robot belonged to T-Mobile. Its name was Tappy. It tests how a phone's touch screen responds, by mimicking a human touch. The Justice Department says Tappy was a T-Mobile trade secret.",
@@ -83,7 +83,7 @@ lines = [
  L("And when the other company noticed? The indictment says Huawei Device USA wrote an Investigation Report. It described the actions as isolated incidents, and one engineer's conduct as a moment of indiscretion.",
    doc("s_isolated", IK + "¶ 39", "“Isolated incidents”", S_S4)),
  L("According to Global Investigations Review, Huawei's defense closing described the case as ordinary business activity and isolated employee misconduct. The jury convicted Huawei of conspiracy to steal trade secrets.",
-   dict(type="big", kicker="THE DEFENSE · AS REPORTED BY GIR", lines=["Ordinary business|and isolated|misconduct?", "Convicted:|conspiracy to steal|trade secrets."], src="Global Investigations Review, Nov 18, 2026")),
+   dict(type="big", kicker="THE DEFENSE · AS REPORTED BY GIR", lines=["Ordinary business|and isolated|misconduct?", "Convicted:|conspiracy to steal|trade secrets."], size=92, src="Global Investigations Review, Nov 18, 2026")),
  # III
  L("Chapter three. The code and the circuit board.", dict(type="chapter", n="III", title="The Code and the Circuit Board")),
  L("Tappy was one example. The Justice Department listed others it says were proved at trial. The first is Cisco. Prosecutors say Huawei copied the source code used on Cisco routers, which the announcement calls the crown jewel of Cisco technology.",
@@ -113,7 +113,7 @@ lines = [
  L("According to the announcement, Huawei repeatedly lied about that business. To banks, to journalists, and to the U.S. government. It said that it did not assist Iran's government, military or intelligence community. That it began restricting its Iran business in twenty eleven. That Skycom was a business partner, rather than a wholly owned subsidiary. And that Huawei complied with all applicable sanctions.",
    show="According to the announcement, Huawei repeatedly lied about that business. To banks, to journalists, and to the U.S. government. It said that it did not assist Iran's government, military or intelligence community. That it began restricting its Iran business in 2011. That Skycom was a business partner, rather than a wholly owned subsidiary. And that Huawei complied with all applicable sanctions."),
  L("The announcement says Huawei knew every one of those statements was materially false and misleading.",
-   dict(type="big", kicker="DOJ ANNOUNCEMENT · TRIAL EVIDENCE", lines=["Skycom: “a business", "partner”?", "Or a wholly owned|subsidiary.", "DOJ: the statements|were false."], src=S_PR)),
+   dict(type="big", kicker="DOJ ANNOUNCEMENT · TRIAL EVIDENCE", lines=["Skycom: “a business", "partner”?", "Or a wholly owned|subsidiary.", "DOJ: the statements|were false."], size=84, src=S_PR)),
  L("The indictment describes the structure. It says Huawei operated Skycom as an unofficial subsidiary, to obtain otherwise prohibited American goods, technology and services, including banking services, while concealing the link to Huawei.",
    doc("s_unoff", IK + "¶ 67", "An “unofficial subsidiary”", S_S4)),
  L("Internal documents, the indictment says, used code names for sanctioned countries. A-two meant Iran. A-nine meant North Korea. The United States and Canada got no code names.",

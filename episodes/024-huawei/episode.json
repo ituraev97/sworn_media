@@ -234,9 +234,10 @@
    "scene": {
     "type": "big",
     "lines": [
-     "What does the Justice Department|say it proved?",
+     "What does DOJ|say it proved?",
      "It starts|with a robot."
     ],
+    "size": 110,
     "src": "U.S. Department of Justice, Office of Public Affairs, press release 26-1413 (Nov 24, 2026)"
    }
   },
@@ -366,6 +367,7 @@
      "Ordinary business|and isolated|misconduct?",
      "Convicted:|conspiracy to steal|trade secrets."
     ],
+    "size": 92,
     "src": "Global Investigations Review, Nov 18, 2026"
    }
   },
@@ -577,6 +579,7 @@
      "Or a wholly owned|subsidiary.",
      "DOJ: the statements|were false."
     ],
+    "size": 84,
     "src": "U.S. Department of Justice, Office of Public Affairs, press release 26-1413 (Nov 24, 2026)"
    }
   },
