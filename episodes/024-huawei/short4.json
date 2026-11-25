@@ -1,0 +1,71 @@
+{
+ "title": "DOJ Says “ocsic” (Cisco Backwards) Was in Huawei's Code",
+ "template": "paradox · text-led",
+ "lines": [
+  {
+   "say": "O, C, S, I, C. That is Cisco, spelled backwards. And the Justice Department says it was written in Huawei's code.",
+   "show": "O, C, S, I, C. That is Cisco, spelled backwards. And the Justice Department says it was written in Huawei's code.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_cisco.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "DOJ SAYS",
+    "number": "“ocsic”",
+    "label": "CISCO'S NAME|BACKWARDS"
+   }
+  },
+  {
+   "say": "Prosecutors say Huawei copied Cisco router source code, which the announcement calls Cisco's crown jewel.",
+   "scene": {
+    "type": "doc",
+    "img": "img/prv_p1.jpg",
+    "pan": [
+     0.519,
+     0.579
+    ],
+    "hl": [
+     0.0,
+     0.6986,
+     1.0,
+     0.0413
+    ],
+    "kicker": "U.S. DEPARTMENT OF JUSTICE · NOV 24, 2026",
+    "src": "U.S. Dept. of Justice press release 26-1413, Nov 24, 2026"
+   }
+  },
+  {
+   "say": "In an effort to hide it, the announcement says, engineers left Cisco's notes about the code behind, and called Cisco by its name backwards.",
+   "scene": {
+    "type": "big",
+    "kicker": "DOJ ANNOUNCEMENT · TRIAL EVIDENCE",
+    "lines": [
+     "Cisco’s notes",
+     "left in the code.",
+     "Cisco, backwards:",
+     "“ocsic”"
+    ],
+    "src": "U.S. Dept. of Justice press release 26-1413, Nov 24, 2026"
+   }
+  },
+  {
+   "say": "On November twenty-fourth, a federal jury in Brooklyn convicted Huawei of conspiracy to steal trade secrets.",
+   "show": "On November 24, a federal jury in Brooklyn convicted Huawei of conspiracy to steal trade secrets.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOV 24, 2026 · BROOKLYN, N.Y.",
+    "stamp": "GUILTY",
+    "big": "Huawei + 3 subsidiaries",
+    "sub": "Federal jury · E.D.N.Y. · sentencing Sept 14, 2027",
+    "at": 0.1
+   }
+  },
+  {
+   "say": "Would you have caught it?",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "title": "10 of 12 Charges: Huawei Found Guilty in Brooklyn",
+ "template": "evidence photo + number reveal",
+ "lines": [
+  {
+   "say": "Ten of twelve, according to AFP. A federal jury in Brooklyn has found Huawei guilty.",
+   "show": "10 of 12, according to AFP. A federal jury in Brooklyn has found Huawei guilty.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_tappy.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "GUILTY",
+    "number": "10 OF 12",
+    "label": "CHARGES|HUAWEI CONVICTED"
+   }
+  },
+  {
+   "say": "Bank fraud. Violating sanctions on Iran. Money laundering. Conspiracy to steal trade secrets.",
+   "scene": {
+    "type": "big",
+    "kicker": "CONVICTED OF · PER DOJ",
+    "lines": [
+     "Bank fraud.",
+     "Iran sanctions.",
+     "Money laundering.",
+     "Trade-secret|conspiracy."
+    ],
+    "src": "U.S. Dept. of Justice press release 26-1413, Nov 24, 2026"
+   }
+  },
+  {
+   "say": "The Justice Department says a Huawei employee carried part of a T-Mobile testing robot out of a lab in his backpack.",
+   "scene": {
+    "type": "photo",
+    "img": "img/tappy.jpg",
+    "caption": "IMAGE RELEASED BY THE JUSTICE DEPARTMENT · T-MOBILE “TAPPY” TEST ROBOT",
+    "src": "Trial exhibit released by the Justice Department with the verdict",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "According to AFP, the jury acquitted Huawei of racketeering conspiracy and conspiracy to obstruct justice. Sentencing is set for September twenty twenty-seven.",
+   "show": "According to AFP, the jury acquitted Huawei of racketeering conspiracy and conspiracy to obstruct justice. Sentencing is set for September 2027.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOV 24, 2026 · BROOKLYN, N.Y.",
+    "stamp": "GUILTY",
+    "big": "Huawei + 3 subsidiaries",
+    "sub": "Federal jury · E.D.N.Y. · sentencing Sept 14, 2027",
+    "at": 0.1
+   }
+  },
+  {
+   "say": "What should a punishment for a company look like?",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "title": "$100M Through U.S. Banks, Feds Say: Huawei's Skycom",
+ "template": "number reveal (document-led)",
+ "lines": [
+  {
+   "say": "More than a hundred million dollars. That's what one bank cleared through the U.S. for a company called Skycom, the indictment says.",
+   "show": "More than $100 million. That's what one bank cleared through the U.S. for a company called Skycom, the indictment says.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_100m.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "INDICTMENT SAYS",
+    "number": "$100M+",
+    "label": "CLEARED THROUGH|U.S. BANKS"
+   }
+  },
+  {
+   "say": "Skycom, the indictment says, was Huawei's unofficial subsidiary in Iran.",
+   "scene": {
+    "type": "doc",
+    "img": "img/s4_p24.jpg",
+    "pan": [
+     0.654,
+     0.714
+    ],
+    "hl": [
+     0.0,
+     0.7974,
+     1.0,
+     0.1141
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS · ¶ 67",
+    "src": "Superseding Indictment S-4, U.S. v. Huawei (E.D.N.Y. 18-cr-457, Dkt. 689)"
+   }
+  },
+  {
+   "say": "The Justice Department says Huawei lied to banks to obtain billions of U.S. dollars.",
+   "scene": {
+    "type": "doc",
+    "img": "img/prv_p1.jpg",
+    "pan": [
+     0.331,
+     0.391
+    ],
+    "hl": [
+     0.0,
+     0.5056,
+     1.0,
+     0.0512
+    ],
+    "kicker": "U.S. DEPARTMENT OF JUSTICE · NOV 24, 2026",
+    "src": "U.S. Dept. of Justice press release 26-1413, Nov 24, 2026"
+   }
+  },
+  {
+   "say": "On November twenty-fourth, a jury convicted Huawei of bank fraud, sanctions violations and money laundering.",
+   "show": "On November 24, a jury convicted Huawei of bank fraud, sanctions violations and money laundering.",
+   "scene": {
+    "type": "verdict",
+    "kicker": "NOV 24, 2026 · BROOKLYN, N.Y.",
+    "stamp": "GUILTY",
+    "big": "Huawei + 3 subsidiaries",
+    "sub": "Federal jury · E.D.N.Y. · sentencing Sept 14, 2027",
+    "at": 0.1
+   }
+  },
+  {
+   "say": "Would a bank believe a denial? Full case on the channel.",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Robot Arm in a Laptop Bag, Indictment Says: Huawei Verdict",
+ "template": "document-led · trailer",
+ "lines": [
+  {
+   "say": "May twenty-ninth, twenty thirteen. According to the indictment, an employee put a robot arm into a laptop bag, and walked it out of a lab.",
+   "show": "May 29, 2013. According to the indictment, an employee put a robot arm into a laptop bag, and walked it out of a lab.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_arm.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "INDICTMENT SAYS",
+    "number": "MAY 29, 2013",
+    "label": "ROBOT ARM|LAPTOP BAG"
+   }
+  },
+  {
+   "say": "The Justice Department's announcement says backpack. It says the robot was T-Mobile's.",
+   "scene": {
+    "type": "photo",
+    "img": "img/tappy.jpg",
+    "caption": "IMAGE RELEASED BY THE JUSTICE DEPARTMENT · T-MOBILE “TAPPY” TEST ROBOT",
+    "src": "Trial exhibit released by the Justice Department with the verdict",
+    "fit": "contain"
+   }
+  },
+  {
+   "say": "Photographs and measurements went to engineers, the indictment says.",
+   "scene": {
+    "type": "doc",
+    "img": "img/s4_p14.jpg",
+    "pan": [
+     0.132,
+     0.192
+    ],
+    "hl": [
+     0.0,
+     0.2302,
+     1.0,
+     0.204
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS · ¶ 38",
+    "src": "Superseding Indictment S-4, U.S. v. Huawei (E.D.N.Y. 18-cr-457, Dkt. 689)"
+   }
+  },
+  {
+   "say": "The indictment says a Huawei Device USA report called it isolated incidents. On November twenty-fourth, a jury convicted Huawei of conspiring to steal trade secrets.",
+   "show": "The indictment says a Huawei Device USA report called it \"isolated incidents.\" On November 24, a jury convicted Huawei of conspiring to steal trade secrets.",
+   "scene": {
+    "type": "doc",
+    "img": "img/s4_p14.jpg",
+    "pan": [
+     0.368,
+     0.428
+    ],
+    "hl": [
+     0.0,
+     0.4451,
+     1.0,
+     0.2459
+    ],
+    "kicker": "SUPERSEDING INDICTMENT · ALLEGATIONS · ¶ 39",
+    "src": "Superseding Indictment S-4, U.S. v. Huawei (E.D.N.Y. 18-cr-457, Dkt. 689)"
+   }
+  },
+  {
+   "say": "Isolated, or a scheme? Full story on the channel.",
+   "scene": {
+    "type": "end",
+    "cta": "FULL STORY ON THE CHANNEL"
+   }
+  }
+ ]
+}
