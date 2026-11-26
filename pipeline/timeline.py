@@ -21,6 +21,8 @@ for i, ln in enumerate(L):
     if "scene" in ln or not blocks:
         blocks.append({"spec": ln.get("scene", {"type": "big", "lines": [""]}), "a": max(0.0, starts[i] - 0.12) if i == 0 else starts[i] - 0.12, "lines": []})
     blocks[-1]["lines"].append(starts[i])
+    for c in ln.get("cuts", []):  # optional mid-line scene changes (e.g. a long sentence covered by several footage shots): {"at": 0..1 fraction of the line, "scene": {...}}
+        blocks.append({"spec": c["scene"], "a": starts[i] + durs[i] * c["at"], "lines": []})
 for j, b in enumerate(blocks):
     b["b"] = blocks[j + 1]["a"] if j + 1 < len(blocks) else total
     sp = b["spec"]

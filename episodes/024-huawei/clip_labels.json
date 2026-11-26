@@ -1,0 +1,119 @@
+{
+ "ap_trial_open": {
+  "label": "Source: AP Archive \u00b7 Brooklyn federal courthouse \u00b7 Sep 9, 2026"
+ },
+ "cna_tappy_a": {
+  "label": "Source: CNA \u00b7 T-Mobile test-robot report \u00b7 Nov 26, 2026"
+ },
+ "cna_tappy_b": {
+  "label": "Source: CNA \u00b7 T-Mobile test-robot report \u00b7 Nov 26, 2026"
+ },
+ "nc_close_a": {
+  "label": "Source: News Central \u00b7 Huawei lawyers arrive at court \u00b7 Nov 17, 2026"
+ },
+ "nc_close_b": {
+  "label": "Source: News Central \u00b7 Huawei lawyers arrive at court \u00b7 Nov 17, 2026"
+ },
+ "nc_close_c": {
+  "label": "Source: News Central \u00b7 Huawei lawyers arrive at court \u00b7 Nov 17, 2026"
+ },
+ "ani_close": {
+  "label": "Source: ANI \u00b7 Huawei lawyers arrive at court \u00b7 Nov 17, 2026"
+ },
+ "ntd_skycom_a": {
+  "label": "Source: NTD News \u00b7 Skycom engineer testimony report \u00b7 Sep 2026"
+ },
+ "ntd_skycom_b": {
+  "label": "Source: NTD News \u00b7 Skycom engineer testimony report \u00b7 Sep 2026"
+ },
+ "waex_verdict": {
+  "label": "Source: Washington Examiner \u00b7 verdict report \u00b7 Nov 25, 2026"
+ },
+ "bs_verdict_a": {
+  "label": "Source: Business Standard \u00b7 verdict report \u00b7 Nov 25, 2026"
+ },
+ "bs_verdict_b": {
+  "label": "Source: Business Standard \u00b7 verdict report \u00b7 Nov 25, 2026"
+ },
+ "ntd_verdict1": {
+  "label": "Source: NTD News \u00b7 verdict report \u00b7 Nov 25, 2026"
+ },
+ "ntd_verdict2": {
+  "label": "Source: NTD News \u00b7 verdict report \u00b7 Nov 25, 2026"
+ },
+ "cnbc18_a": {
+  "label": "Source: CNBC-TV18 \u00b7 verdict report \u00b7 Nov 25, 2026"
+ },
+ "cnbc18_b": {
+  "label": "Source: CNBC-TV18 \u00b7 verdict report \u00b7 Nov 25, 2026"
+ },
+ "icij_trial": {
+  "label": "Source: ICIJ \u00b7 from the trial's first days \u00b7 Oct 2026"
+ },
+ "doj19_a": {
+  "label": "Source: U.S. Justice Department \u00b7 charges announced \u00b7 Jan 28, 2019"
+ },
+ "doj19_b": {
+  "label": "Source: U.S. Justice Department \u00b7 charges announced \u00b7 Jan 28, 2019"
+ },
+ "doj19_c": {
+  "label": "Source: U.S. Justice Department \u00b7 charges announced \u00b7 Jan 28, 2019"
+ },
+ "doj19_d": {
+  "label": "Source: U.S. Justice Department \u00b7 charges announced \u00b7 Jan 28, 2019"
+ },
+ "doj19_e": {
+  "label": "Source: U.S. Justice Department \u00b7 charges announced \u00b7 Jan 28, 2019"
+ },
+ "cbs19_a": {
+  "label": "Source: CBS News \u00b7 charges announced \u00b7 Jan 2019"
+ },
+ "cbs19_b": {
+  "label": "Source: CBS News \u00b7 charges announced \u00b7 Jan 2019"
+ },
+ "fox19": {
+  "label": "Source: Fox Business \u00b7 charges announced \u00b7 Jan 28, 2019"
+ },
+ "cbc_meng": {
+  "label": "Source: CBC News \u00b7 Meng Wanzhou report \u00b7 May 2019"
+ },
+ "ctv_meng": {
+  "label": "Source: CTV News \u00b7 Meng Wanzhou report \u00b7 Dec 2018"
+ },
+ "nbc_meng": {
+  "label": "Source: NBC News \u00b7 Meng Wanzhou, Dec 2018"
+ },
+ "cgtn_meng19": {
+  "label": "Source: CGTN America \u00b7 Meng Wanzhou in court \u00b7 Sep 2019"
+ },
+ "reuters21": {
+  "label": "Source: Reuters \u00b7 Meng Wanzhou agreement \u00b7 Sep 2021"
+ },
+ "cbs_eve20": {
+  "label": "Source: CBS Evening News \u00b7 Meng Wanzhou hearing \u00b7 Jan 2020"
+ },
+ "cnbc_hq_a": {
+  "label": "Source: CNBC International \u00b7 inside Huawei headquarters \u00b7 2018 (file)"
+ },
+ "cnbc_hq_b": {
+  "label": "Source: CNBC International \u00b7 inside Huawei headquarters \u00b7 2018 (file)"
+ },
+ "wion_arrest": {
+  "label": "Source: WION \u00b7 Meng Wanzhou arrest report \u00b7 Dec 2018"
+ },
+ "mint_a": {
+  "label": "Source: Mint \u00b7 live stream of DOJ statement \u00b7 Nov 25, 2026"
+ },
+ "mint_b": {
+  "label": "Source: Mint \u00b7 live stream of DOJ statement \u00b7 Nov 25, 2026"
+ },
+ "mint_c": {
+  "label": "Source: Mint \u00b7 live stream of DOJ statement \u00b7 Nov 25, 2026"
+ },
+ "mint_d": {
+  "label": "Source: Mint \u00b7 live stream of DOJ statement \u00b7 Nov 25, 2026"
+ },
+ "vsun_meng": {
+  "label": "Source: Vancouver Sun \u00b7 Meng Wanzhou \u00b7 Aug 2019"
+ }
+}
