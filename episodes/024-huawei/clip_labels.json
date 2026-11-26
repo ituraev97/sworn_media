@@ -1,6 +1,6 @@
 {
  "ap_trial_open": {
-  "label": "Source: AP Archive \u00b7 Brooklyn federal courthouse, Huawei trial \u00b7 2026"
+  "label": "Source: AP Archive \u00b7 file footage outside the Brooklyn federal courthouse (people not identified)"
  },
  "cna_tappy_a": {
   "label": "Source: CNA \u00b7 explainer on the T-Mobile test-robot allegation \u00b7 Nov 2026"
@@ -9,19 +9,19 @@
   "label": "Source: CNA \u00b7 explainer on the T-Mobile test-robot allegation \u00b7 Nov 2026"
  },
  "nc_close_a": {
-  "label": "Source: News Central \u00b7 Brooklyn federal courthouse, Huawei trial \u00b7 Nov 2026"
+  "label": "Source: News Central \u00b7 file footage outside the Brooklyn federal courthouse (people not identified)"
  },
  "nc_close_b": {
-  "label": "Source: News Central \u00b7 Brooklyn federal courthouse, Huawei trial \u00b7 Nov 2026"
+  "label": "Source: News Central \u00b7 file footage outside the Brooklyn federal courthouse (people not identified)"
  },
  "nc_close_c": {
-  "label": "Source: News Central \u00b7 Brooklyn federal courthouse, Huawei trial \u00b7 Nov 2026"
+  "label": "Source: News Central \u00b7 file footage outside the Brooklyn federal courthouse (people not identified)"
  },
  "ani_close": {
-  "label": "Source: ANI \u00b7 Brooklyn federal courthouse, Huawei trial \u00b7 Nov 2026"
+  "label": "Source: ANI \u00b7 file footage outside the Brooklyn federal courthouse (people not identified)"
  },
  "ntd_skycom_a": {
-  "label": "Source: NTD News \u00b7 report on the Skycom engineer's testimony \u00b7 Sep 2026"
+  "label": "Source: NTD News \u00b7 report on the Skycom engineer's testimony \u00b7 Sep 2026 (graphics show allegations)"
  },
  "ntd_skycom_b": {
   "label": "Source: NTD News \u00b7 report on the Skycom engineer's testimony \u00b7 Sep 2026"
@@ -48,16 +48,16 @@
   "label": "Source: CNBC-TV18 \u00b7 verdict report \u00b7 Nov 2026"
  },
  "doj19_b": {
-  "label": "Source: U.S. Justice Department \u00b7 press conference announcing the charges \u00b7 Jan 28, 2019"
+  "label": "Source: U.S. Justice Department \u00b7 2019 file footage: press conference announcing the charges \u00b7 Jan 28, 2019"
  },
  "doj19_c": {
-  "label": "Source: U.S. Justice Department \u00b7 press conference announcing the charges \u00b7 Jan 28, 2019"
+  "label": "Source: U.S. Justice Department \u00b7 2019 file footage: press conference announcing the charges \u00b7 Jan 28, 2019"
  },
  "doj19_d": {
-  "label": "Source: U.S. Justice Department \u00b7 press conference announcing the charges \u00b7 Jan 28, 2019"
+  "label": "Source: U.S. Justice Department \u00b7 2019 file footage: press conference announcing the charges \u00b7 Jan 28, 2019"
  },
  "doj19_e": {
-  "label": "Source: U.S. Justice Department \u00b7 press conference announcing the charges \u00b7 Jan 28, 2019"
+  "label": "Source: U.S. Justice Department \u00b7 2019 file footage: press conference announcing the charges \u00b7 Jan 28, 2019"
  },
  "cbs19_a": {
   "label": "Source: CBS News \u00b7 coverage of the Jan 2019 announcement"
@@ -66,7 +66,7 @@
   "label": "Source: CBS News \u00b7 coverage of the Jan 2019 announcement"
  },
  "fox19": {
-  "label": "Source: Fox Business \u00b7 coverage of the Jan 28, 2019 announcement"
+  "label": "Source: Fox Business \u00b7 2019 file footage of the Jan 28, 2019 announcement"
  },
  "ctv_meng": {
   "label": "Source: CTV News \u00b7 Meng Wanzhou bail hearing report \u00b7 Dec 2018"
@@ -84,7 +84,7 @@
   "label": "Source: CBS News \u00b7 Meng Wanzhou extradition report"
  },
  "cnbc_hq_a": {
-  "label": "Source: CNBC International \u00b7 Huawei campus report (file)"
+  "label": "Source: CNBC International \u00b7 2019 file footage, Huawei campus"
  },
  "wion_arrest": {
   "label": "Source: WION \u00b7 Meng Wanzhou arrest report \u00b7 Dec 2018"

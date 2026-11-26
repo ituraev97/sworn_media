@@ -81,7 +81,7 @@
     "type": "clip",
     "file": "footage/fox19.mp4",
     "from": 0.0,
-    "label": "Source: Fox Business · coverage of the Jan 28, 2019 announcement"
+    "label": "Source: Fox Business · 2019 file footage of the Jan 28, 2019 announcement"
    }
   },
   {
@@ -116,9 +116,9 @@
    "say": "Conspiracy to commit wire and bank fraud. Wire fraud. Bank fraud.",
    "scene": {
     "type": "clip",
-    "file": "footage/cnbc18_a.mp4",
-    "from": 0.0,
-    "label": "Source: CNBC-TV18 · verdict report · Nov 2026"
+    "file": "footage/bs_verdict_a.mp4",
+    "from": 20,
+    "label": "Source: Business Standard · verdict report · Nov 2026"
    }
   },
   {
@@ -127,7 +127,7 @@
     "type": "clip",
     "file": "footage/ap_trial_open.mp4",
     "from": 0.0,
-    "label": "Source: AP Archive · Brooklyn federal courthouse, Huawei trial · 2026"
+    "label": "Source: AP Archive · file footage outside the Brooklyn federal courthouse (people not identified)"
    },
    "cuts": [
     {
@@ -136,7 +136,7 @@
       "type": "clip",
       "file": "footage/nc_close_a.mp4",
       "from": 0.0,
-      "label": "Source: News Central · Brooklyn federal courthouse, Huawei trial · Nov 2026"
+      "label": "Source: News Central · file footage outside the Brooklyn federal courthouse (people not identified)"
      }
     }
    ]
@@ -147,7 +147,7 @@
     "type": "clip",
     "file": "footage/ap_trial_open.mp4",
     "from": 7.2,
-    "label": "Source: AP Archive · Brooklyn federal courthouse, Huawei trial · 2026"
+    "label": "Source: AP Archive · file footage outside the Brooklyn federal courthouse (people not identified)"
    }
   },
   {
@@ -227,9 +227,9 @@
    "say": "Racketeering is the charge that treats a company as a criminal enterprise.",
    "scene": {
     "type": "clip",
-    "file": "footage/cnbc18_a.mp4",
-    "from": 6.19,
-    "label": "Source: CNBC-TV18 · verdict report · Nov 2026"
+    "file": "footage/bs_verdict_a.mp4",
+    "from": 40,
+    "label": "Source: Business Standard · verdict report · Nov 2026"
    }
   },
   {
@@ -238,7 +238,7 @@
     "type": "clip",
     "file": "footage/nc_close_c.mp4",
     "from": 0.0,
-    "label": "Source: News Central · Brooklyn federal courthouse, Huawei trial · Nov 2026"
+    "label": "Source: News Central · file footage outside the Brooklyn federal courthouse (people not identified)"
    },
    "cuts": [
     {
@@ -247,7 +247,7 @@
       "type": "clip",
       "file": "footage/ani_close.mp4",
       "from": 0.0,
-      "label": "Source: ANI · Brooklyn federal courthouse, Huawei trial · Nov 2026"
+      "label": "Source: ANI · file footage outside the Brooklyn federal courthouse (people not identified)"
      }
     }
    ]
@@ -288,7 +288,7 @@
     "type": "clip",
     "file": "footage/nc_close_b.mp4",
     "from": 0.0,
-    "label": "Source: News Central · Brooklyn federal courthouse, Huawei trial · Nov 2026"
+    "label": "Source: News Central · file footage outside the Brooklyn federal courthouse (people not identified)"
    },
    "cuts": [
     {
@@ -297,7 +297,7 @@
       "type": "clip",
       "file": "footage/nc_close_b.mp4",
       "from": 5.96,
-      "label": "Source: News Central · Brooklyn federal courthouse, Huawei trial · Nov 2026"
+      "label": "Source: News Central · file footage outside the Brooklyn federal courthouse (people not identified)"
      }
     }
    ]
@@ -328,7 +328,7 @@
     "type": "clip",
     "file": "footage/ap_trial_open.mp4",
     "from": 11.19,
-    "label": "Source: AP Archive · Brooklyn federal courthouse, Huawei trial · 2026"
+    "label": "Source: AP Archive · file footage outside the Brooklyn federal courthouse (people not identified)"
    }
   },
   {
@@ -468,8 +468,8 @@
      "at": 0.5,
      "scene": {
       "type": "clip",
-      "file": "footage/cna_tappy_b.mp4",
-      "from": 0.0,
+      "file": "footage/cna_tappy_a.mp4",
+      "from": 10,
       "label": "Source: CNA · explainer on the T-Mobile test-robot allegation · Nov 2026"
      }
     }
@@ -503,7 +503,7 @@
     "type": "clip",
     "file": "footage/doj19_b.mp4",
     "from": 0.0,
-    "label": "Source: U.S. Justice Department · press conference announcing the charges · Jan 28, 2019"
+    "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
    },
    "cuts": [
     {
@@ -512,7 +512,7 @@
       "type": "clip",
       "file": "footage/doj19_b.mp4",
       "from": 7.05,
-      "label": "Source: U.S. Justice Department · press conference announcing the charges · Jan 28, 2019"
+      "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
      }
     }
    ]
@@ -523,7 +523,7 @@
     "type": "clip",
     "file": "footage/doj19_b.mp4",
     "from": 14.1,
-    "label": "Source: U.S. Justice Department · press conference announcing the charges · Jan 28, 2019"
+    "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
    },
    "cuts": [
     {
@@ -532,7 +532,7 @@
       "type": "clip",
       "file": "footage/doj19_b.mp4",
       "from": 22.28,
-      "label": "Source: U.S. Justice Department · press conference announcing the charges · Jan 28, 2019"
+      "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
      }
     }
    ]
@@ -550,8 +550,8 @@
    "say": "And that Huawei employees in the United States sent photographs and technical details of the robot back to China.",
    "scene": {
     "type": "clip",
-    "file": "footage/cna_tappy_b.mp4",
-    "from": 6.54,
+    "file": "footage/cna_tappy_a.mp4",
+    "from": 30,
     "label": "Source: CNA · explainer on the T-Mobile test-robot allegation · Nov 2026"
    }
   },
@@ -562,7 +562,7 @@
     "type": "clip",
     "file": "footage/fox19.mp4",
     "from": 8.23,
-    "label": "Source: Fox Business · coverage of the Jan 28, 2019 announcement"
+    "label": "Source: Fox Business · 2019 file footage of the Jan 28, 2019 announcement"
    }
   },
   {
@@ -612,8 +612,8 @@
    "show": "The Justice Department's announcement says backpack. The photographs and measurements were emailed to engineers.",
    "scene": {
     "type": "clip",
-    "file": "footage/cna_tappy_b.mp4",
-    "from": 15.95,
+    "file": "footage/cna_tappy_a.mp4",
+    "from": 45,
     "label": "Source: CNA · explainer on the T-Mobile test-robot allegation · Nov 2026"
    }
   },
@@ -623,7 +623,7 @@
     "type": "clip",
     "file": "footage/doj19_c.mp4",
     "from": 0.0,
-    "label": "Source: U.S. Justice Department · press conference announcing the charges · Jan 28, 2019"
+    "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
    }
   },
   {
@@ -652,7 +652,7 @@
     "type": "clip",
     "file": "footage/nc_close_a.mp4",
     "from": 7.2,
-    "label": "Source: News Central · Brooklyn federal courthouse, Huawei trial · Nov 2026"
+    "label": "Source: News Central · file footage outside the Brooklyn federal courthouse (people not identified)"
    },
    "cuts": [
     {
@@ -661,7 +661,7 @@
       "type": "clip",
       "file": "footage/ani_close.mp4",
       "from": 7.85,
-      "label": "Source: ANI · Brooklyn federal courthouse, Huawei trial · Nov 2026"
+      "label": "Source: ANI · file footage outside the Brooklyn federal courthouse (people not identified)"
      }
     }
    ]
@@ -672,7 +672,7 @@
     "type": "clip",
     "file": "footage/nc_close_a.mp4",
     "from": 14.49,
-    "label": "Source: News Central · Brooklyn federal courthouse, Huawei trial · Nov 2026"
+    "label": "Source: News Central · file footage outside the Brooklyn federal courthouse (people not identified)"
    }
   },
   {
@@ -687,9 +687,9 @@
    "say": "Tappy was one example. The Justice Department listed others it says were proved at trial. The first is Cisco.",
    "scene": {
     "type": "clip",
-    "file": "footage/cbs19_a.mp4",
-    "from": 0.0,
-    "label": "Source: CBS News · coverage of the Jan 2019 announcement"
+    "file": "footage/doj19_c.mp4",
+    "from": 9.11,
+    "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
    }
   },
   {
@@ -718,7 +718,7 @@
     "type": "clip",
     "file": "footage/doj19_d.mp4",
     "from": 0.0,
-    "label": "Source: U.S. Justice Department · press conference announcing the charges · Jan 28, 2019"
+    "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
    },
    "cuts": [
     {
@@ -727,7 +727,7 @@
       "type": "clip",
       "file": "footage/doj19_d.mp4",
       "from": 6.24,
-      "label": "Source: U.S. Justice Department · press conference announcing the charges · Jan 28, 2019"
+      "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
      }
     }
    ]
@@ -750,8 +750,8 @@
    "scene": {
     "type": "clip",
     "file": "footage/doj19_c.mp4",
-    "from": 9.11,
-    "label": "Source: U.S. Justice Department · press conference announcing the charges · Jan 28, 2019"
+    "from": 18.69,
+    "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
    }
   },
   {
@@ -778,18 +778,18 @@
    "say": "The indictment describes a July 2004 trade-show incident in Chicago, involving a company it calls Company 3 and does not name.",
    "scene": {
     "type": "clip",
-    "file": "footage/cbs19_b.mp4",
-    "from": 0.0,
-    "label": "Source: CBS News · coverage of the Jan 2019 announcement"
+    "file": "footage/fox19.mp4",
+    "from": 15.92,
+    "label": "Source: Fox Business · 2019 file footage of the Jan 28, 2019 announcement"
    },
    "cuts": [
     {
      "at": 0.5,
      "scene": {
       "type": "clip",
-      "file": "footage/fox19.mp4",
-      "from": 15.92,
-      "label": "Source: Fox Business · coverage of the Jan 28, 2019 announcement"
+      "file": "footage/doj19_c.mp4",
+      "from": 28.41,
+      "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
      }
     }
    ]
@@ -798,18 +798,18 @@
    "say": "A badge reading Weihua appears there too, but the announcement does not say it is the same incident.",
    "scene": {
     "type": "clip",
-    "file": "footage/doj19_c.mp4",
-    "from": 18.83,
-    "label": "Source: U.S. Justice Department · press conference announcing the charges · Jan 28, 2019"
+    "file": "footage/fox19.mp4",
+    "from": 22.35,
+    "label": "Source: Fox Business · 2019 file footage of the Jan 28, 2019 announcement"
    }
   },
   {
    "say": "According to the indictment, Huawei told Reuters the man was a junior engineer who had never traveled to the United States before, and a resume he gave the U.S. government around 2012 described him as a senior R&D engineer.",
    "scene": {
     "type": "clip",
-    "file": "footage/cbs19_b.mp4",
-    "from": 6.44,
-    "label": "Source: CBS News · coverage of the Jan 2019 announcement"
+    "file": "footage/doj19_c.mp4",
+    "from": 34.85,
+    "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
    },
    "cuts": [
     {
@@ -817,8 +817,8 @@
      "scene": {
       "type": "clip",
       "file": "footage/fox19.mp4",
-      "from": 22.35,
-      "label": "Source: Fox Business · coverage of the Jan 28, 2019 announcement"
+      "from": 31.64,
+      "label": "Source: Fox Business · 2019 file footage of the Jan 28, 2019 announcement"
      }
     },
     {
@@ -826,8 +826,8 @@
      "scene": {
       "type": "clip",
       "file": "footage/doj19_c.mp4",
-      "from": 28.11,
-      "label": "Source: U.S. Justice Department · press conference announcing the charges · Jan 28, 2019"
+      "from": 42.16,
+      "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
      }
     }
    ]
@@ -848,7 +848,7 @@
     "type": "clip",
     "file": "footage/cnbc_hq_a.mp4",
     "from": 0.0,
-    "label": "Source: CNBC International · Huawei campus report (file)"
+    "label": "Source: CNBC International · 2019 file footage, Huawei campus"
    }
   },
   {
@@ -877,7 +877,7 @@
     "type": "clip",
     "file": "footage/cnbc_hq_a.mp4",
     "from": 5.98,
-    "label": "Source: CNBC International · Huawei campus report (file)"
+    "label": "Source: CNBC International · 2019 file footage, Huawei campus"
    },
    "cuts": [
     {
@@ -886,7 +886,7 @@
       "type": "clip",
       "file": "footage/cnbc_hq_a.mp4",
       "from": 13.65,
-      "label": "Source: CNBC International · Huawei campus report (file)"
+      "label": "Source: CNBC International · 2019 file footage, Huawei campus"
      }
     }
    ]
@@ -896,9 +896,9 @@
    "show": "The indictment puts one figure on a different, unnamed company.",
    "scene": {
     "type": "clip",
-    "file": "footage/cbs19_a.mp4",
-    "from": 9.58,
-    "label": "Source: CBS News · coverage of the Jan 2019 announcement"
+    "file": "footage/cnbc_hq_a.mp4",
+    "from": 21.33,
+    "label": "Source: CNBC International · 2019 file footage, Huawei campus"
    }
   },
   {
@@ -907,17 +907,17 @@
    "scene": {
     "type": "clip",
     "file": "footage/cnbc_hq_a.mp4",
-    "from": 21.33,
-    "label": "Source: CNBC International · Huawei campus report (file)"
+    "from": 27.2,
+    "label": "Source: CNBC International · 2019 file footage, Huawei campus"
    },
    "cuts": [
     {
      "at": 0.333,
      "scene": {
       "type": "clip",
-      "file": "footage/cbs19_a.mp4",
-      "from": 15.45,
-      "label": "Source: CBS News · coverage of the Jan 2019 announcement"
+      "file": "footage/cnbc_hq_a.mp4",
+      "from": 34.88,
+      "label": "Source: CNBC International · 2019 file footage, Huawei campus"
      }
     },
     {
@@ -925,8 +925,8 @@
      "scene": {
       "type": "clip",
       "file": "footage/cnbc_hq_a.mp4",
-      "from": 29.01,
-      "label": "Source: CNBC International · Huawei campus report (file)"
+      "from": 42.57,
+      "label": "Source: CNBC International · 2019 file footage, Huawei campus"
      }
     }
    ]
@@ -959,7 +959,7 @@
     "type": "clip",
     "file": "footage/doj19_d.mp4",
     "from": 12.48,
-    "label": "Source: U.S. Justice Department · press conference announcing the charges · Jan 28, 2019"
+    "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
    },
    "cuts": [
     {
@@ -968,7 +968,7 @@
       "type": "clip",
       "file": "footage/doj19_d.mp4",
       "from": 19.26,
-      "label": "Source: U.S. Justice Department · press conference announcing the charges · Jan 28, 2019"
+      "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
      }
     }
    ]
@@ -980,7 +980,7 @@
     "type": "clip",
     "file": "footage/doj19_d.mp4",
     "from": 26.05,
-    "label": "Source: U.S. Justice Department · press conference announcing the charges · Jan 28, 2019"
+    "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
    },
    "cuts": [
     {
@@ -989,7 +989,7 @@
       "type": "clip",
       "file": "footage/doj19_d.mp4",
       "from": 31.99,
-      "label": "Source: U.S. Justice Department · press conference announcing the charges · Jan 28, 2019"
+      "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
      }
     }
    ]
@@ -1011,8 +1011,8 @@
    "scene": {
     "type": "clip",
     "file": "footage/fox19.mp4",
-    "from": 29.66,
-    "label": "Source: Fox Business · coverage of the Jan 28, 2019 announcement"
+    "from": 38.95,
+    "label": "Source: Fox Business · 2019 file footage of the Jan 28, 2019 announcement"
    }
   },
   {
@@ -1027,9 +1027,9 @@
    "say": "The verdict also covers Iran. The Justice Department says Huawei conducted its business in Iran under the name Skycom.",
    "scene": {
     "type": "clip",
-    "file": "footage/wion_arrest.mp4",
-    "from": 0.0,
-    "label": "Source: WION · Meng Wanzhou arrest report · Dec 2018"
+    "file": "footage/doj19_d.mp4",
+    "from": 37.93,
+    "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
    }
   },
   {
@@ -1060,16 +1060,16 @@
     "type": "clip",
     "file": "footage/ntd_skycom_a.mp4",
     "from": 0.0,
-    "label": "Source: NTD News · report on the Skycom engineer's testimony · Sep 2026"
+    "label": "Source: NTD News · report on the Skycom engineer's testimony · Sep 2026 (graphics show allegations)"
    },
    "cuts": [
     {
      "at": 0.5,
      "scene": {
       "type": "clip",
-      "file": "footage/ctv_meng.mp4",
-      "from": 0.0,
-      "label": "Source: CTV News · Meng Wanzhou bail hearing report · Dec 2018"
+      "file": "footage/ntd_skycom_a.mp4",
+      "from": 6.4,
+      "label": "Source: NTD News · report on the Skycom engineer's testimony · Sep 2026 (graphics show allegations)"
      }
     }
    ]
@@ -1080,8 +1080,8 @@
    "scene": {
     "type": "clip",
     "file": "footage/ntd_skycom_a.mp4",
-    "from": 6.4,
-    "label": "Source: NTD News · report on the Skycom engineer's testimony · Sep 2026"
+    "from": 12.8,
+    "label": "Source: NTD News · report on the Skycom engineer's testimony · Sep 2026 (graphics show allegations)"
    }
   },
   {
@@ -1104,8 +1104,8 @@
    "scene": {
     "type": "clip",
     "file": "footage/ntd_skycom_a.mp4",
-    "from": 16.48,
-    "label": "Source: NTD News · report on the Skycom engineer's testimony · Sep 2026"
+    "from": 22.88,
+    "label": "Source: NTD News · report on the Skycom engineer's testimony · Sep 2026 (graphics show allegations)"
    }
   },
   {
@@ -1113,8 +1113,8 @@
    "scene": {
     "type": "clip",
     "file": "footage/ntd_skycom_a.mp4",
-    "from": 20.92,
-    "label": "Source: NTD News · report on the Skycom engineer's testimony · Sep 2026"
+    "from": 27.32,
+    "label": "Source: NTD News · report on the Skycom engineer's testimony · Sep 2026 (graphics show allegations)"
    },
    "cuts": [
     {
@@ -1122,8 +1122,8 @@
      "scene": {
       "type": "clip",
       "file": "footage/ntd_skycom_a.mp4",
-      "from": 29.65,
-      "label": "Source: NTD News · report on the Skycom engineer's testimony · Sep 2026"
+      "from": 36.05,
+      "label": "Source: NTD News · report on the Skycom engineer's testimony · Sep 2026 (graphics show allegations)"
      }
     }
    ]
@@ -1153,18 +1153,18 @@
    "say": "And what was at stake? According to the Justice Department, Huawei lied to banks to obtain billions of U.S. dollars, and access to dollar clearing services.",
    "scene": {
     "type": "clip",
-    "file": "footage/reuters21.mp4",
+    "file": "footage/doj19_e.mp4",
     "from": 0.0,
-    "label": "Source: Reuters · Meng Wanzhou case · 2021"
+    "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
    },
    "cuts": [
     {
      "at": 0.5,
      "scene": {
       "type": "clip",
-      "file": "footage/cbs_eve20.mp4",
-      "from": 0.0,
-      "label": "Source: CBS News · Meng Wanzhou extradition report"
+      "file": "footage/doj19_e.mp4",
+      "from": 7.27,
+      "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
      }
     }
    ]
@@ -1174,9 +1174,9 @@
    "show": "The indictment gives one number.",
    "scene": {
     "type": "clip",
-    "file": "footage/reuters21.mp4",
-    "from": 7.27,
-    "label": "Source: Reuters · Meng Wanzhou case · 2021"
+    "file": "footage/doj19_c.mp4",
+    "from": 49.47,
+    "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
    }
   },
   {
@@ -1205,9 +1205,9 @@
    "show": "In 2013, the indictment says, a Huawei executive presented a slide deck to a bank.",
    "scene": {
     "type": "clip",
-    "file": "footage/cbs_eve20.mp4",
-    "from": 7.27,
-    "label": "Source: CBS News · Meng Wanzhou extradition report"
+    "file": "footage/doj19_b.mp4",
+    "from": 30.46,
+    "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
    }
   },
   {
@@ -1236,9 +1236,9 @@
    "show": "The indictment says: these statements were all false.",
    "scene": {
     "type": "clip",
-    "file": "footage/ctv_meng.mp4",
-    "from": 6.4,
-    "label": "Source: CTV News · Meng Wanzhou bail hearing report · Dec 2018"
+    "file": "footage/doj19_b.mp4",
+    "from": 39.07,
+    "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
    }
   },
   {
@@ -1246,8 +1246,8 @@
    "scene": {
     "type": "clip",
     "file": "footage/ntd_skycom_a.mp4",
-    "from": 38.39,
-    "label": "Source: NTD News · report on the Skycom engineer's testimony · Sep 2026"
+    "from": 44.78,
+    "label": "Source: NTD News · report on the Skycom engineer's testimony · Sep 2026 (graphics show allegations)"
    }
   },
   {
@@ -1264,8 +1264,8 @@
      "scene": {
       "type": "clip",
       "file": "footage/ntd_skycom_a.mp4",
-      "from": 43.72,
-      "label": "Source: NTD News · report on the Skycom engineer's testimony · Sep 2026"
+      "from": 50.12,
+      "label": "Source: NTD News · report on the Skycom engineer's testimony · Sep 2026 (graphics show allegations)"
      }
     }
    ]
@@ -1275,9 +1275,9 @@
    "show": "The company also answered the press.",
    "scene": {
     "type": "clip",
-    "file": "footage/cbs_eve20.mp4",
-    "from": 15.89,
-    "label": "Source: CBS News · Meng Wanzhou extradition report"
+    "file": "footage/ntd_verdict2.mp4",
+    "from": 23.14,
+    "label": "Source: NTD News · verdict report · Nov 2026"
    }
   },
   {
@@ -1285,18 +1285,18 @@
    "show": "The indictment says that in December 2011, after a Wall Street Journal report, Huawei issued a press release saying it had, quote, \"no involvement in any type of monitoring and filtering activities.\"",
    "scene": {
     "type": "clip",
-    "file": "footage/reuters21.mp4",
-    "from": 10.92,
-    "label": "Source: Reuters · Meng Wanzhou case · 2021"
+    "file": "footage/ntd_verdict2.mp4",
+    "from": 27.16,
+    "label": "Source: NTD News · verdict report · Nov 2026"
    },
    "cuts": [
     {
      "at": 0.5,
      "scene": {
       "type": "clip",
-      "file": "footage/cbs_eve20.mp4",
-      "from": 19.91,
-      "label": "Source: CBS News · Meng Wanzhou extradition report"
+      "file": "footage/ntd_verdict2.mp4",
+      "from": 35.68,
+      "label": "Source: NTD News · verdict report · Nov 2026"
      }
     }
    ]
@@ -1338,8 +1338,8 @@
    "scene": {
     "type": "clip",
     "file": "footage/doj19_e.mp4",
-    "from": 0.0,
-    "label": "Source: U.S. Justice Department · press conference announcing the charges · Jan 28, 2019"
+    "from": 14.54,
+    "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
    }
   },
   {
@@ -1348,8 +1348,8 @@
    "scene": {
     "type": "clip",
     "file": "footage/fox19.mp4",
-    "from": 34.8,
-    "label": "Source: Fox Business · coverage of the Jan 28, 2019 announcement"
+    "from": 44.08,
+    "label": "Source: Fox Business · 2019 file footage of the Jan 28, 2019 announcement"
    },
    "cuts": [
     {
@@ -1357,8 +1357,8 @@
      "scene": {
       "type": "clip",
       "file": "footage/doj19_e.mp4",
-      "from": 6.25,
-      "label": "Source: U.S. Justice Department · press conference announcing the charges · Jan 28, 2019"
+      "from": 20.78,
+      "label": "Source: U.S. Justice Department · 2019 file footage: press conference announcing the charges · Jan 28, 2019"
      }
     }
    ]
@@ -1368,8 +1368,8 @@
    "scene": {
     "type": "clip",
     "file": "footage/ntd_skycom_a.mp4",
-    "from": 51.13,
-    "label": "Source: NTD News · report on the Skycom engineer's testimony · Sep 2026"
+    "from": 0.0,
+    "label": "Source: NTD News · report on the Skycom engineer's testimony · Sep 2026 (graphics show allegations)"
    },
    "cuts": [
     {
@@ -1387,9 +1387,9 @@
    "say": "The jury convicted Huawei on the sanctions, bank fraud and money laundering charges.",
    "scene": {
     "type": "clip",
-    "file": "footage/ntd_skycom_a.mp4",
-    "from": 0.0,
-    "label": "Source: NTD News · report on the Skycom engineer's testimony · Sep 2026"
+    "file": "footage/ntd_verdict2.mp4",
+    "from": 20,
+    "label": "Source: NTD News · verdict report · Nov 2026"
    }
   },
   {
@@ -1428,7 +1428,7 @@
     "type": "clip",
     "file": "footage/nc_close_b.mp4",
     "from": 11.91,
-    "label": "Source: News Central · Brooklyn federal courthouse, Huawei trial · Nov 2026"
+    "label": "Source: News Central · file footage outside the Brooklyn federal courthouse (people not identified)"
    }
   },
   {
@@ -1437,7 +1437,7 @@
     "type": "clip",
     "file": "footage/ani_close.mp4",
     "from": 15.15,
-    "label": "Source: ANI · Brooklyn federal courthouse, Huawei trial · Nov 2026"
+    "label": "Source: ANI · file footage outside the Brooklyn federal courthouse (people not identified)"
    }
   },
   {
@@ -1446,7 +1446,7 @@
     "type": "clip",
     "file": "footage/nc_close_b.mp4",
     "from": 18.51,
-    "label": "Source: News Central · Brooklyn federal courthouse, Huawei trial · Nov 2026"
+    "label": "Source: News Central · file footage outside the Brooklyn federal courthouse (people not identified)"
    },
    "cuts": [
     {
@@ -1455,7 +1455,7 @@
       "type": "clip",
       "file": "footage/ani_close.mp4",
       "from": 21.28,
-      "label": "Source: ANI · Brooklyn federal courthouse, Huawei trial · Nov 2026"
+      "label": "Source: ANI · file footage outside the Brooklyn federal courthouse (people not identified)"
      }
     }
    ]
@@ -1466,7 +1466,7 @@
     "type": "clip",
     "file": "footage/nc_close_c.mp4",
     "from": 7.85,
-    "label": "Source: News Central · Brooklyn federal courthouse, Huawei trial · Nov 2026"
+    "label": "Source: News Central · file footage outside the Brooklyn federal courthouse (people not identified)"
    }
   },
   {
@@ -1495,7 +1495,7 @@
     "type": "clip",
     "file": "footage/ani_close.mp4",
     "from": 29.31,
-    "label": "Source: ANI · Brooklyn federal courthouse, Huawei trial · Nov 2026"
+    "label": "Source: ANI · file footage outside the Brooklyn federal courthouse (people not identified)"
    }
   },
   {
@@ -1503,18 +1503,18 @@
    "show": "The indictment also alleges that in April 2018, that Huawei made efforts to move an employee with knowledge of its Iran business to China, beyond the reach of the U.S. government.",
    "scene": {
     "type": "clip",
-    "file": "footage/cgtn_meng19.mp4",
-    "from": 0.0,
-    "label": "Source: CGTN America · Meng Wanzhou court hearing report · 2019"
+    "file": "footage/nc_close_b.mp4",
+    "from": 26.54,
+    "label": "Source: News Central · file footage outside the Brooklyn federal courthouse (people not identified)"
    },
    "cuts": [
     {
      "at": 0.5,
      "scene": {
       "type": "clip",
-      "file": "footage/cgtn_meng19.mp4",
-      "from": 8.05,
-      "label": "Source: CGTN America · Meng Wanzhou court hearing report · 2019"
+      "file": "footage/nc_close_b.mp4",
+      "from": 34.59,
+      "label": "Source: News Central · file footage outside the Brooklyn federal courthouse (people not identified)"
      }
     }
    ]
@@ -1539,7 +1539,7 @@
    "scene": {
     "type": "clip",
     "file": "footage/ctv_meng.mp4",
-    "from": 11.76,
+    "from": 0.0,
     "label": "Source: CTV News · Meng Wanzhou bail hearing report · Dec 2018"
    },
    "cuts": [
@@ -1560,7 +1560,7 @@
    "scene": {
     "type": "clip",
     "file": "footage/reuters21.mp4",
-    "from": 19.44,
+    "from": 0.0,
     "label": "Source: Reuters · Meng Wanzhou case · 2021"
    },
    "cuts": [
@@ -1569,7 +1569,7 @@
      "scene": {
       "type": "clip",
       "file": "footage/ctv_meng.mp4",
-      "from": 18.82,
+      "from": 7.06,
       "label": "Source: CTV News · Meng Wanzhou bail hearing report · Dec 2018"
      }
     }
@@ -1652,7 +1652,7 @@
     "type": "clip",
     "file": "footage/ap_trial_open.mp4",
     "from": 14.79,
-    "label": "Source: AP Archive · Brooklyn federal courthouse, Huawei trial · 2026"
+    "label": "Source: AP Archive · file footage outside the Brooklyn federal courthouse (people not identified)"
    },
    "cuts": [
     {
@@ -1661,7 +1661,7 @@
       "type": "clip",
       "file": "footage/nc_close_a.mp4",
       "from": 20.87,
-      "label": "Source: News Central · Brooklyn federal courthouse, Huawei trial · Nov 2026"
+      "label": "Source: News Central · file footage outside the Brooklyn federal courthouse (people not identified)"
      }
     }
    ]
@@ -1673,7 +1673,7 @@
     "type": "clip",
     "file": "footage/ap_trial_open.mp4",
     "from": 21.76,
-    "label": "Source: AP Archive · Brooklyn federal courthouse, Huawei trial · 2026"
+    "label": "Source: AP Archive · file footage outside the Brooklyn federal courthouse (people not identified)"
    }
   },
   {
