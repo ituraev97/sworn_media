@@ -22,8 +22,13 @@ def probe(p):
 def main():
     global LONG, VW, VH
     T = json.load(open(f"{WD}/timeline.json")); LONG = T["mode"] == "long"; VW, VH = (1920, 1080) if LONG else (1080, 1920)
-    blocks = [b for b in T["blocks"] if b["spec"].get("type") == "clip"]
-    if not blocks: return print("clips: none")
+    allb = [b for b in T["blocks"] if b["spec"].get("type") == "clip"]
+    if not allb: return print("clips: none")
+    CH = 12  # blocks per ffmpeg pass: one graph with 100+ inputs exhausts memory/time; chunks are re-keyed on the same green windows
+    for i in range(0, len(allb), CH): run(allb[i:i + CH])
+
+
+def run(blocks):
     src = f"{WD}/video.mp4"; vdur, _, _ = probe(src); nfr = round(vdur * FPS)
     inputs, chains, n, ni, wins = ["-i", src], [], 0, 0, []
     win = lambda a, z: f"between(t,{a - 1e-4:.4f},{z - 1e-4:.4f})"  # frame n (t = n/30) is a clip frame iff a <= t < b
