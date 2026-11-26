@@ -25,7 +25,7 @@ def main():
     allb = [b for b in T["blocks"] if b["spec"].get("type") == "clip"]
     if not allb: return print("clips: none")
     CH = 12  # blocks per ffmpeg pass: one graph with 100+ inputs exhausts memory/time; chunks are re-keyed on the same green windows
-    for i in range(0, len(allb), CH): run(allb[i:i + CH])
+    for i in range(int(os.environ.get("CLIPS_START", 0)), len(allb), CH): run(allb[i:i + CH])
 
 
 def run(blocks):
@@ -57,7 +57,7 @@ def run(blocks):
         [f"[top]chromakey=0x00ff00:0.13:0.04:enable='{'+'.join(wins)}',despill=type=green:mix=0.6:expand=0.2:enable='{'+'.join(wins)}'[key]", f"[u{n}][key]overlay=format=auto:enable='{'+'.join(wins)}',format=yuv420p[v]"]
     tmp = f"{WD}/video.clips.mp4"
     r = subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", *inputs, "-filter_complex", ";".join(g), "-map", "[v]", "-frames:v", str(nfr),
-                        "-r", str(FPS), "-c:v", "libx264", "-preset", "veryfast", "-crf", "17", "-pix_fmt", "yuv420p", tmp])
+                        "-r", str(FPS), "-c:v", "libx264", "-preset", "ultrafast", "-crf", "16", "-pix_fmt", "yuv420p", tmp])
     if r.returncode or not os.path.exists(tmp):
         print("clips: WARNING ffmpeg failed — video.mp4 left as rendered (clip blocks show the key colour!)"); return
     os.replace(tmp, src); print(f"clips: placed {n} block(s) into {src} ({nfr} frames)")
