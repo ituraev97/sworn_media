@@ -18,7 +18,7 @@
   "tag": "BREAKING",
   "breaking": true,
   "line1": "HUAWEI GUILTY",
-  "line2": "10 OF 12 · PER AFP",
+  "line2": "10 OF 12 \u00b7 PER AFP",
   "line2color": "red",
   "size1": 118,
   "size2": 104
@@ -63,5 +63,27 @@
   "line2color": "yellow",
   "size1": 92,
   "size2": 112
+ },
+ "D": {
+  "left": {
+   "number": "$100M",
+   "label": "US BANKS \u00b7 FEDS SAY"
+  },
+  "right": {
+   "img": "img/tappy.jpg",
+   "cover": true,
+   "pos": "50% 40%",
+   "vignette": false,
+   "stamp": "CONVICTED",
+   "stampPos": "left:50%;top:32%"
+  },
+  "split": 0.5,
+  "tag": "BREAKING",
+  "breaking": true,
+  "line1": "HUAWEI GUILTY",
+  "line2": "10 OF 12 \u00b7 PER AFP",
+  "line2color": "yellow",
+  "size1": 118,
+  "size2": 104
  }
 }
