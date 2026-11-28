@@ -1,0 +1,59 @@
+{
+ "title": "Postal Inspectors Warn 1,300+ Alleged Money Mules",
+ "template": "footage-led · timeline",
+ "lines": [
+  {
+   "say": "More than thirteen hundred warning letters. On November thirteenth, postal inspectors mailed them to people they say were money mules for Georgia inmates.",
+   "show": "More than 1,300 warning letters. On November 13, postal inspectors mailed them to people they say were money mules for Georgia inmates.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_doj2.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "POSTAL INSPECTORS",
+    "number": "1,300+",
+    "label": "WARNING LETTERS|MONEY MULES"
+   }
+  },
+  {
+   "say": "The letters warn they could face criminal charges if they keep moving the money.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/doj_p14.mp4",
+    "from": 6.0,
+    "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+   }
+  },
+  {
+   "say": "Six days later, the F.C.C. approved a rule letting state prisons jam contraband cell phone signals.",
+   "show": "Six days later, the FCC approved a rule letting state prisons jam contraband cell phone signals.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/thv_jam.mp4",
+    "from": 3.0,
+    "label": "Source: THV11 · FCC approves contraband phone jamming · Nov 2026"
+   }
+  },
+  {
+   "say": "The department also lists charges in Illinois and Texas, a Georgia state indictment of seventeen people for smuggling phones into prisons, and seized websites.",
+   "show": "The department also lists charges in Illinois and Texas, a Georgia state indictment of 17 people for smuggling phones into prisons, and seized websites.",
+   "scene": {
+    "type": "big",
+    "kicker": "DOJ SURGE PAGE · NOV 2026",
+    "lines": [
+     "Charges in|Illinois, Texas.",
+     "17 charged in Georgia|for phone smuggling.",
+     "3 fake court|sites seized."
+    ],
+    "src": "DOJ Criminal Division anti-scam surge page"
+   }
+  },
+  {
+   "say": "Should prisons be allowed to jam phones?",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

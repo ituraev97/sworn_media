@@ -1,0 +1,59 @@
+{
+ "title": "DOJ's 800+ Defendant Crackdown Singles Out Prison Calls",
+ "template": "number reveal (footage hook)",
+ "lines": [
+  {
+   "say": "More than eight hundred defendants. More than four hundred cases. The Justice Department calls it its largest-ever crackdown on scammers.",
+   "show": "More than 800 defendants. More than 400 cases. The Justice Department calls it its largest-ever crackdown on scammers.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_doj.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "DOJ SAYS",
+    "number": "800+",
+    "label": "DEFENDANTS|SCAM CRACKDOWN"
+   }
+  },
+  {
+   "say": "It singled out one scheme. Fake jury duty calls. In these cases, prosecutors say the callers were Georgia prison gang members.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/doj_p01.mp4",
+    "from": 6.0,
+    "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+   }
+  },
+  {
+   "say": "A federal affidavit reproduces part of a handwritten script. It says Georgia officials found it in an inmate's cell.",
+   "scene": {
+    "type": "doc",
+    "img": "img/aff_p08.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "kicker": "AFFIDAVIT · ALLEGATIONS · FIGURE 1",
+    "src": "Affidavit, D.N.J. Mag. No. 26-8230, Doc. 1 (Nov 5, 2026)"
+   }
+  },
+  {
+   "say": "The F.T.C. counts more than thirty thousand jury duty impostor complaints since twenty twenty-one, with losses above forty million dollars.",
+   "show": "The FTC counts more than 30,000 jury duty impostor complaints since 2021, with losses above $40 million.",
+   "scene": {
+    "type": "stat",
+    "kicker": "FTC DATA, AS CITED IN THE AFFIDAVIT",
+    "value": "$40M+",
+    "label": "reported losses · 30,000+ complaints · 2021–2026",
+    "src": "Affidavit, D.N.J. Mag. No. 26-8230, Doc. 1 (Nov 5, 2026)"
+   }
+  },
+  {
+   "say": "Would you have hung up?",
+   "scene": {
+    "type": "end",
+    "cta": "FULL CASE ON THE CHANNEL"
+   }
+  }
+ ]
+}

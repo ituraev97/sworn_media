@@ -1,0 +1,1071 @@
+{
+ "label": "SWORN 025 · THE JURY DUTY SCAM FROM PRISON",
+ "lines": [
+  {
+   "say": "On November twenty-fourth, the Justice Department stood at a podium and announced what it called the largest crackdown on scammers in its history.",
+   "show": "On November 24, the Justice Department stood at a podium and announced what it called the largest crackdown on scammers in its history.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/doj_p00.mp4",
+    "from": 0.0,
+    "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/doj_p01.mp4",
+      "from": 0.0,
+      "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "More than eight hundred defendants. More than four hundred cases. And one scheme the department highlighted, in which prosecutors say the calls came from inside prisons.",
+   "show": "More than 800 defendants. More than 400 cases. And one scheme the department highlighted, in which prosecutors say the calls came from inside prisons.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/fox4_a.mp4",
+    "from": 0.0,
+    "label": "Source: FOX 4 Dallas-Fort Worth · Georgia inmates charged in N.D. Texas · Nov 2026"
+   }
+  },
+  {
+   "say": "Prosecutors say the calls came from inside Georgia state prisons.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/natdesk_a.mp4",
+    "from": 0.0,
+    "label": "Source: The National Desk · report on the DOJ announcement · Nov 2026"
+   }
+  },
+  {
+   "say": "Someone phones you. The caller I.D. says it's your local sheriff. The voice says you missed jury duty, there's a warrant, and you'll be arrested unless you pay a bond today.",
+   "show": "Someone phones you. The caller ID says it's your local sheriff. The voice says you missed jury duty, there's a warrant, and you'll be arrested unless you pay a bond today.",
+   "scene": {
+    "type": "doc",
+    "img": "img/aff_p07.jpg",
+    "pan": [
+     0.342,
+     0.401
+    ],
+    "hl": [
+     0.0,
+     0.4458,
+     1.0,
+     0.2314
+    ],
+    "kicker": "FEDERAL AFFIDAVIT · ALLEGATIONS · THE PHONE CALL",
+    "title": "How the scheme starts",
+    "src": "Affidavit in Support of an Application for a Seizure Warrant, D.N.J. Mag. No. 26-8230 (JSA), Doc. 1, filed Nov 5, 2026"
+   }
+  },
+  {
+   "say": "You are told to stay on the line. You are told not to tell anyone. And you are told to pay in cash, at a crypto machine.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/abc7_atm_a.mp4",
+    "from": 0.0,
+    "label": "Source: Eyewitness News ABC7NY · FBI warning on bitcoin ATM scams (file footage) · Dec 2025"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/wtov.mp4",
+      "from": 0.0,
+      "label": "Source: WTOV News 9 · sheriff warns of jury duty scam (file footage) · Apr 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "Federal prosecutors say the people behind the calls in these cases were Georgia prison inmates. This is how the scheme worked, according to the government, and what the government is doing about it.",
+   "scene": {
+    "type": "title",
+    "kicker": "SWORN · CASE 025 · NEW",
+    "title": "Jury Duty Scam Calls|From Georgia Prisons",
+    "sub": "Prosecutors allege · DOJ anti-scam surge announced Nov 24, 2026 · defendants are presumed innocent"
+   }
+  },
+  {
+   "say": "Chapter one. The announcement.",
+   "scene": {
+    "type": "chapter",
+    "n": "I",
+    "title": "The Announcement"
+   }
+  },
+  {
+   "say": "The announcement came from Attorney General Todd Blanche, FBI Director Kash Patel, and Criminal Division leaders. The Justice Department said that since March sixth, prosecutors have taken action in more than four hundred cases, against more than eight hundred defendants.",
+   "show": "The announcement came from Attorney General Todd Blanche, FBI Director Kash Patel, and Criminal Division leaders. The Justice Department said that since March 6, prosecutors have taken action in more than 400 cases, against more than 800 defendants.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/doj_p02.mp4",
+    "from": 0.0,
+    "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/doj_p03.mp4",
+      "from": 0.0,
+      "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "Those actions include new charges, extraditions, guilty verdicts and sentences, in eighty-five federal districts. Thirty defendants were extradited to face scam charges in U.S. courts.",
+   "show": "Those actions include new charges, extraditions, guilty verdicts and sentences, in 85 federal districts. Thirty defendants were extradited to face scam charges in U.S. courts.",
+   "scene": {
+    "type": "stat",
+    "kicker": "DOJ ANTI-SCAM SURGE · MAR 6 – NOV 24, 2026",
+    "value": "800+",
+    "label": "defendants · 400+ cases · 85 federal districts",
+    "src": "U.S. Department of Justice, Office of Public Affairs, press release (Nov 24, 2026)"
+   }
+  },
+  {
+   "say": "The attorney general put it this way.",
+   "scene": {
+    "type": "quote",
+    "q": "Predatory scams against the American people will not be tolerated.",
+    "case": "Attorney General Todd Blanche",
+    "doc": "Justice Department announcement of the anti-scam surge",
+    "cite": "DOJ press release, Nov. 24, 2026"
+   }
+  },
+  {
+   "say": "The department says the surge followed an executive order signed by President Trump on March sixth, directing a government-wide crackdown on predatory schemes.",
+   "show": "The department says the surge followed an executive order signed by President Trump on March 6, directing a government-wide crackdown on predatory schemes.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/doj_p04.mp4",
+    "from": 0.0,
+    "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/live_a.mp4",
+      "from": 0.0,
+      "label": "Source: LiveNOW from FOX · DOJ press conference · Nov 24, 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "The FBI says its operation against scam compounds, called Operation Blackout, has restrained nearly seventeen billion dollars in illicit funds, and helped dismantle more than twenty-nine compounds across Asia, Africa and the Middle East.",
+   "show": "The FBI says its operation against scam compounds, called Operation Blackout, has restrained nearly $17 billion in illicit funds, and helped dismantle more than 29 compounds across Asia, Africa and the Middle East.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/doj_p05.mp4",
+    "from": 0.0,
+    "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/live_b.mp4",
+      "from": 0.0,
+      "label": "Source: LiveNOW from FOX · DOJ press conference · Nov 24, 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "It says foreign partners arrested or detained more than three hundred twenty people overseas, and that the FBI helped free and repatriate more than two thousand two hundred trafficked workers who were forced to work inside scam compounds.",
+   "show": "It says foreign partners arrested or detained more than 320 people overseas, and that the FBI helped free and repatriate more than 2,200 trafficked workers who were forced to work inside scam compounds.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/econ_a.mp4",
+    "from": 0.0,
+    "label": "Source: The Economic Times · report on the DOJ announcement · Nov 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/doj_p06.mp4",
+      "from": 0.0,
+      "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "The department also cites Gallup. Ten percent of U.S. adults experienced a scam last year, directly or through someone in their household, and Americans lost an estimated sixty-eight billion dollars to scams in twenty twenty-five.",
+   "show": "The department also cites Gallup. 10 percent of U.S. adults experienced a scam last year, directly or through someone in their household, and Americans lost an estimated $68 billion to scams in 2025.",
+   "scene": {
+    "type": "stat",
+    "kicker": "AS CITED BY THE JUSTICE DEPARTMENT · GALLUP",
+    "value": "$68B",
+    "label": "estimated lost to scams by Americans in 2025",
+    "src": "U.S. Department of Justice, Office of Public Affairs, press release (Nov 24, 2026)"
+   }
+  },
+  {
+   "say": "Behind those numbers are many kinds of schemes. Crypto investment fraud run from Southeast Asia. Inheritance scams. A call center in Peru. But in its release, the department described one scheme first. It is the one this video is about.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/live_c.mp4",
+    "from": 0.0,
+    "label": "Source: LiveNOW from FOX · DOJ press conference · Nov 24, 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/cbs6_a.mp4",
+      "from": 0.0,
+      "label": "Source: CBS6 Albany · DOJ anti-scam crackdown · Nov 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "Chapter two. The call.",
+   "scene": {
+    "type": "chapter",
+    "n": "II",
+    "title": "The Call"
+   }
+  },
+  {
+   "say": "A federal affidavit, filed in New Jersey in early November, describes how it starts. A victim gets a call. Caller I.D. shows a local sheriff's department, the U.S. Marshals Service, or another law enforcement agency.",
+   "show": "A federal affidavit, filed in New Jersey in early November, describes how it starts. A victim gets a call. Caller ID shows a local sheriff's department, the U.S. Marshals Service, or another law enforcement agency.",
+   "scene": {
+    "type": "doc",
+    "img": "img/aff_p07.jpg",
+    "pan": [
+     0.342,
+     0.401
+    ],
+    "hl": [
+     0.0,
+     0.4458,
+     1.0,
+     0.2314
+    ],
+    "kicker": "FEDERAL AFFIDAVIT · ALLEGATIONS · ¶ 16",
+    "title": "The call",
+    "src": "Affidavit in Support of an Application for a Seizure Warrant, D.N.J. Mag. No. 26-8230 (JSA), Doc. 1, filed Nov 5, 2026"
+   }
+  },
+  {
+   "say": "The caller gives a name and a badge number, and says the victim failed to appear for jury duty. The affidavit says callers often claim a warrant has been issued, and that scammers often follow scripts. It reproduces a portion of one, handwritten, and says the Georgia Department of Corrections obtained it in a search of an inmate's cell.",
+   "scene": {
+    "type": "doc",
+    "img": "img/aff_p08.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "kicker": "FEDERAL AFFIDAVIT · ALLEGATIONS · FIGURE 1",
+    "title": "A script used by an inmate",
+    "src": "Affidavit in Support of an Application for a Seizure Warrant, D.N.J. Mag. No. 26-8230 (JSA), Doc. 1, filed Nov 5, 2026"
+   }
+  },
+  {
+   "say": "Victims are then emailed or texted counterfeit arrest warrants and other official-looking documents, the affidavit says. It calls them bogus, and says they are sent to make the threats seem real.",
+   "scene": {
+    "type": "doc",
+    "img": "img/aff_p10.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "kicker": "FEDERAL AFFIDAVIT · ALLEGATIONS · FIGURE 3",
+    "title": "A counterfeit arrest warrant",
+    "src": "Affidavit in Support of an Application for a Seizure Warrant, D.N.J. Mag. No. 26-8230 (JSA), Doc. 1, filed Nov 5, 2026"
+   }
+  },
+  {
+   "say": "Then the pressure. Victims are told to stay on the phone. They are told there is a gag order, and that they cannot tell family, friends or bank tellers. The affidavit says some victims reported calls that lasted more than a day.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/natdesk_b.mp4",
+    "from": 0.0,
+    "label": "Source: The National Desk · report on the DOJ announcement · Nov 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/cbs19.mp4",
+      "from": 0.0,
+      "label": "Source: CBS19 · DOJ and the Georgia jury duty scheme · Nov 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "How common is it? The affidavit cites the Federal Trade Commission. More than thirty thousand complaints about jury duty impostors from January twenty twenty-one through October twenty twenty-six, with reported losses above forty million dollars. In the first ten months of this year, about eleven thousand victims reported losing around thirteen million.",
+   "show": "How common is it? The affidavit cites the Federal Trade Commission. More than 30,000 complaints about jury duty impostors from January 2021 through October 2026, with reported losses above $40 million. In the first ten months of this year, about 11,000 victims reported losing around $13 million.",
+   "scene": {
+    "type": "doc",
+    "img": "img/aff_p07.jpg",
+    "pan": [
+     0.0,
+     0.0
+    ],
+    "hl": [
+     0.0,
+     0.0411,
+     1.0,
+     0.2315
+    ],
+    "kicker": "FEDERAL AFFIDAVIT · ALLEGATIONS · ¶ 15",
+    "title": "Jury duty impostor complaints",
+    "src": "Affidavit in Support of an Application for a Seizure Warrant, D.N.J. Mag. No. 26-8230 (JSA), Doc. 1, filed Nov 5, 2026"
+   }
+  },
+  {
+   "say": "The inspector who wrote the affidavit says victims often blame themselves, and are too embarrassed or ashamed to report. The inspector says that results in widespread underreporting.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/natdesk_c.mp4",
+    "from": 0.0,
+    "label": "Source: The National Desk · report on the DOJ announcement · Nov 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/krcr.mp4",
+      "from": 0.0,
+      "label": "Source: KRCR News Channel 7 · Georgia inmates accused of jury duty scam · Nov 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "Chapter three. The payment.",
+   "scene": {
+    "type": "chapter",
+    "n": "III",
+    "title": "The Payment"
+   }
+  },
+  {
+   "say": "Scammers then offer a way out. A bond, which they falsely promise will be refunded. Victims, the affidavit says, typically pay thousands of dollars, and some pay hundreds of thousands.",
+   "scene": {
+    "type": "doc",
+    "img": "img/aff_p14.jpg",
+    "pan": [
+     0.584,
+     0.644
+    ],
+    "hl": [
+     0.0,
+     0.7697,
+     1.0,
+     0.0695
+    ],
+    "kicker": "FEDERAL AFFIDAVIT · ALLEGATIONS · ¶ 19",
+    "title": "The payment",
+    "src": "Affidavit in Support of an Application for a Seizure Warrant, D.N.J. Mag. No. 26-8230 (JSA), Doc. 1, filed Nov 5, 2026"
+   }
+  },
+  {
+   "say": "The affidavit says scammers frequently direct victims to pay at a cryptocurrency ATM. First the victim withdraws cash at a bank. The affidavit says victims are coached either to say nothing to the teller about why, or to lie about the reason.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/abc7_atm_a.mp4",
+    "from": 6.39,
+    "label": "Source: Eyewitness News ABC7NY · FBI warning on bitcoin ATM scams (file footage) · Dec 2025"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/wtov.mp4",
+      "from": 6.39,
+      "label": "Source: WTOV News 9 · sheriff warns of jury duty scam (file footage) · Apr 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "The affidavit says the victim then deposits the cash into a crypto kiosk and scans a QR code that the scammer sends, and the money becomes cryptocurrency, delivered to an address the scammer controls.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/abc7_atm_b.mp4",
+    "from": 0.0,
+    "label": "Source: Eyewitness News ABC7NY · FBI warning on bitcoin ATM scams (file footage) · Dec 2025"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/wbay.mp4",
+      "from": 0.0,
+      "label": "Source: WBAY · sheriff's office warns of jury duty scam (file footage) · Aug 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "The affidavit includes a tracing graph. One victim's deposit hops across numerous crypto addresses in quick succession before reaching its destination. The postal inspector says that rapid movement is evidence of money laundering.",
+   "scene": {
+    "type": "doc",
+    "img": "img/aff_p21.jpg",
+    "pan": [
+     0.0,
+     0.2
+    ],
+    "kicker": "FEDERAL AFFIDAVIT · ALLEGATIONS · FIGURE 10",
+    "title": "Tracing one victim's deposit",
+    "src": "Affidavit in Support of an Application for a Seizure Warrant, D.N.J. Mag. No. 26-8230 (JSA), Doc. 1, filed Nov 5, 2026"
+   }
+  },
+  {
+   "say": "Here are three of the victim reports in the affidavit.",
+   "scene": {
+    "type": "list",
+    "kicker": "VICTIM REPORTS · AFFIDAVIT ¶¶ 49, 50, 53 · UNNAMED",
+    "items": [
+     [
+      "MD",
+      "Told to pay a $12,350 bail payment. Became suspicious."
+     ],
+     [
+      "TX",
+      "Elderly woman. Paid $10,000 at a crypto ATM. On the phone over 6 hours."
+     ],
+     [
+      "NV",
+      "Deposited over $12,000. Grew suspicious when no receipt came."
+     ]
+    ],
+    "src": "Affidavit in Support of an Application for a Seizure Warrant, D.N.J. Mag. No. 26-8230 (JSA), Doc. 1, filed Nov 5, 2026"
+   }
+  },
+  {
+   "say": "The affidavit says an elderly woman in Texas was told there was a federal warrant, and a gag order. She withdrew the cash. When the teller asked why, the caller, still on the line, told her to say it was for repairs. She was on the phone for more than six hours.",
+   "show": "The affidavit says an elderly woman in Texas was told there was a federal warrant, and a gag order. She withdrew the cash. When the teller asked why, the caller, still on the line, told her to say it was for repairs. She was on the phone for more than 6 hours.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/cbs6_b.mp4",
+    "from": 0.0,
+    "label": "Source: CBS6 Albany · DOJ anti-scam crackdown · Nov 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/abc7_atm_b.mp4",
+      "from": 7.77,
+      "label": "Source: Eyewitness News ABC7NY · FBI warning on bitcoin ATM scams (file footage) · Dec 2025"
+     }
+    }
+   ]
+  },
+  {
+   "say": "A man in Nevada was told to drive to a police department and stay on the line. He ended up at a crypto ATM, and deposited more than twelve thousand dollars. When no receipt came, and the scammers asked for more, he grew suspicious. He drove to the real sheriff's office. The caller hung up.",
+   "show": "A man in Nevada was told to drive to a police department and stay on the line. He ended up at a crypto ATM, and deposited more than $12,000. When no receipt came, and the scammers asked for more, he grew suspicious. He drove to the real sheriff's office. The caller hung up.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/wtov.mp4",
+    "from": 15.73,
+    "label": "Source: WTOV News 9 · sheriff warns of jury duty scam (file footage) · Apr 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.333,
+     "scene": {
+      "type": "clip",
+      "file": "footage/wbay.mp4",
+      "from": 7.77,
+      "label": "Source: WBAY · sheriff's office warns of jury duty scam (file footage) · Aug 2026"
+     }
+    },
+    {
+     "at": 0.667,
+     "scene": {
+      "type": "clip",
+      "file": "footage/cbs19.mp4",
+      "from": 9.34,
+      "label": "Source: CBS19 · DOJ and the Georgia jury duty scheme · Nov 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "Chapter four. The fake courts.",
+   "scene": {
+    "type": "chapter",
+    "n": "IV",
+    "title": "The Fake Courts"
+   }
+  },
+  {
+   "say": "The affidavit asks a judge to seize three websites. Ejuror courts dot org. Judicial services dot org. And civil services division dot org. It says victims reported being sent there to verify their information, and some typed in Social Security numbers and birth dates.",
+   "show": "The affidavit asks a judge to seize three websites. ejurorcourts.org. judicialservices.org. And civilservicesdivision.org. It says victims reported being sent there to verify their information, and some typed in Social Security numbers and birth dates.",
+   "scene": {
+    "type": "doc",
+    "img": "img/aff_p34.jpg",
+    "pan": [
+     0.049,
+     0.109
+    ],
+    "hl": [
+     0.0,
+     0.143,
+     1.0,
+     0.2528
+    ],
+    "kicker": "FEDERAL AFFIDAVIT · ALLEGATIONS · ¶¶ 35-37, 49",
+    "title": "The three target websites",
+    "src": "Affidavit in Support of an Application for a Seizure Warrant, D.N.J. Mag. No. 26-8230 (JSA), Doc. 1, filed Nov 5, 2026"
+   }
+  },
+  {
+   "say": "The affidavit says the sites imitate the real U.S. Courts website, down to the fonts, the layout and the logo. On November second, a representative of the Administrative Office of the U.S. Courts confirmed to an investigator that they are not official court sites.",
+   "scene": {
+    "type": "doc",
+    "img": "img/aff_p45.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "kicker": "FEDERAL AFFIDAVIT · ALLEGATIONS · FIGURES 22–25",
+    "title": "Real site and imitations",
+    "src": "Affidavit in Support of an Application for a Seizure Warrant, D.N.J. Mag. No. 26-8230 (JSA), Doc. 1, filed Nov 5, 2026"
+   }
+  },
+  {
+   "say": "One detail. Official government sites carry a banner. It reads, quote, A dot gov website belongs to an official government organization in the United States. On the three sites, the postal inspector says, the banner reads, A dot gov or dot org website belongs to an official government organization in the United States. Only dot gov is official.",
+   "show": "One detail. Official government sites carry a banner. It reads, “A .gov website belongs to an official government organization in the United States.” On the three sites, the postal inspector says, the banner reads, “A .gov or .org website belongs to an official government organization in the United States.” Only .gov is official.",
+   "scene": {
+    "type": "doc",
+    "img": "img/aff_p47.jpg",
+    "pan": [
+     0.423,
+     0.483
+    ],
+    "hl": [
+     0.0,
+     0.5268,
+     1.0,
+     0.2316
+    ],
+    "kicker": "FEDERAL AFFIDAVIT · ALLEGATIONS · ¶ 46",
+    "title": "The altered banner",
+    "src": "Affidavit in Support of an Application for a Seizure Warrant, D.N.J. Mag. No. 26-8230 (JSA), Doc. 1, filed Nov 5, 2026"
+   }
+  },
+  {
+   "say": "And a chat window opens in the corner. The affidavit quotes the greeting.",
+   "scene": {
+    "type": "quote",
+    "q": "Hi I'm the duty officer today. How can I assist you?",
+    "case": "Chat window on all three sites",
+    "doc": "Affidavit ¶ 48",
+    "cite": "D.N.J. Mag. No. 26-8230, Doc. 1",
+    "size": "lg"
+   }
+  },
+  {
+   "say": "The affidavit also points to a fourth site, walkthaduck dot com. It says the three court-imitation sites load, or try to load, content from it and share its I.P. address, and that the inspector believes whoever controls it is associated with them. It says one victim paid by card through a page on that site, to an account she labeled walkthaduck.",
+   "show": "The affidavit also points to a fourth site, walkthaduck.com. It says the three court-imitation sites load, or try to load, content from it and share its IP address, and that the inspector believes whoever controls it is associated with them. It says one victim paid by card through a page on that site, to an account she labeled walkthaduck.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/doj_p07.mp4",
+    "from": 0.0,
+    "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.333,
+     "scene": {
+      "type": "clip",
+      "file": "footage/doj_p08.mp4",
+      "from": 0.0,
+      "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+     }
+    },
+    {
+     "at": 0.667,
+     "scene": {
+      "type": "clip",
+      "file": "footage/live_d.mp4",
+      "from": 0.0,
+      "label": "Source: LiveNOW from FOX · DOJ press conference · Nov 24, 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "The site's own pages, quoted in the affidavit, call it an awareness campaign, art, social commentary and cybersecurity education. Its terms of service say, quote, We are not the government. We are not the cops. They also say, We do not operate as scammers. The inspector writes that the operators appear to be integral to jury duty fraud, which the site's operators deny.",
+   "scene": {
+    "type": "quote",
+    "q": "We are not the government. We are not the cops.",
+    "case": "walkthaduck.com terms of service",
+    "doc": "As quoted in the affidavit, ¶ 39",
+    "cite": "D.N.J. Mag. No. 26-8230, Doc. 1"
+   }
+  },
+  {
+   "say": "The affidavit says webpages associated with walkthaduck dot com, including one called civiljuryservices dot org, have been the subject of more than one hundred victim complaints. Understand what this document is. It is a request to seize three web hosting accounts. It is not an indictment, and it charges no one.",
+   "show": "The affidavit says webpages associated with walkthaduck.com, including one called civiljuryservices.org, have been the subject of more than 100 victim complaints. Understand what this document is. It is a request to seize three web hosting accounts. It is not an indictment, and it charges no one.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/doj_p09.mp4",
+    "from": 0.0,
+    "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/doj_p10.mp4",
+      "from": 0.0,
+      "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "Chapter five. Behind the walls.",
+   "scene": {
+    "type": "chapter",
+    "n": "V",
+    "title": "Behind the Walls"
+   }
+  },
+  {
+   "say": "Who is on the other end of the line? The affidavit's author writes that, based on evidence from financial institutions, announced charges and experience, the author believes the vast majority of jury duty fraud perpetrators are inmates in the Georgia state prison system. That is a belief, not a court finding.",
+   "scene": {
+    "type": "doc",
+    "img": "img/aff_p22.jpg",
+    "pan": [
+     0.0,
+     0.017
+    ],
+    "hl": [
+     0.0,
+     0.1221,
+     1.0,
+     0.11
+    ],
+    "kicker": "FEDERAL AFFIDAVIT · ALLEGATIONS · ¶ 27",
+    "title": "Who makes the calls",
+    "src": "Affidavit in Support of an Application for a Seizure Warrant, D.N.J. Mag. No. 26-8230 (JSA), Doc. 1, filed Nov 5, 2026"
+   }
+  },
+  {
+   "say": "The affidavit cites records from Bitcoin Depot, a crypto ATM company. Between September twenty twenty-two and May twenty twenty-six, victims reported losing more than nineteen million dollars to jury duty fraud there. More than forty percent of those complainants paid money mules located in Georgia.",
+   "show": "The affidavit cites records from Bitcoin Depot, a crypto ATM company. Between September 2022 and May 2026, victims reported losing more than $19 million to jury duty fraud there. More than 40 percent of those complainants paid money mules located in Georgia.",
+   "scene": {
+    "type": "doc",
+    "img": "img/aff_p24.jpg",
+    "pan": [
+     0.078,
+     0.138
+    ],
+    "hl": [
+     0.0,
+     0.2434,
+     1.0,
+     0.1102
+    ],
+    "kicker": "FEDERAL AFFIDAVIT · ALLEGATIONS · ¶ 29",
+    "title": "Where the money went",
+    "src": "Affidavit in Support of an Application for a Seizure Warrant, D.N.J. Mag. No. 26-8230 (JSA), Doc. 1, filed Nov 5, 2026"
+   }
+  },
+  {
+   "say": "How does an inmate get a phone? The affidavit says Georgia inmates bribe prison employees, and use drones, to smuggle in cell phones, cash and drugs.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/abc_dr_a.mp4",
+    "from": 0.0,
+    "label": "Source: ABC News · contraband drones and prisons (file footage) · Dec 2025"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/cnn_dr.mp4",
+      "from": 0.0,
+      "label": "Source: CNN · the hunt for drones inside prisons (file footage) · May 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "From twenty eighteen to twenty twenty-three, the affidavit says, at least three hundred sixty Georgia corrections employees were arrested for smuggling contraband into state prisons.",
+   "show": "From 2018 to 2023, the affidavit says, at least 360 Georgia corrections employees were arrested for smuggling contraband into state prisons.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/wfaa_dr.mp4",
+    "from": 0.0,
+    "label": "Source: WFAA · prison drone drops (file footage) · Dec 2025"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/fox5_dr.mp4",
+      "from": 0.0,
+      "label": "Source: FOX 5 Atlanta · drone carrying contraband to a prison (file footage) · Jul 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "Drone smuggling has led to federal charges. The affidavit cites one case, United States versus Hall, in which sixteen defendants were charged with using drones to fly drugs and phones into Georgia prisons. Those are allegations. The footage here is from separate drone cases.",
+   "show": "Drone smuggling has led to federal charges. The affidavit cites one case, United States v. Hall, in which 16 defendants were charged with using drones to fly drugs and phones into Georgia prisons. Those are allegations. The footage here is from separate drone cases.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/alive_dr.mp4",
+    "from": 0.0,
+    "label": "Source: 11Alive · drone smuggling indictment, Georgia prisons (separate case) · Jun 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.333,
+     "scene": {
+      "type": "clip",
+      "file": "footage/tele_dr.mp4",
+      "from": 0.0,
+      "label": "Source: The Telegraph · drone smuggling indictment (separate case) · Jun 2026"
+     }
+    },
+    {
+     "at": 0.667,
+     "scene": {
+      "type": "clip",
+      "file": "footage/khou_dr.mp4",
+      "from": 0.0,
+      "label": "Source: KHOU 11 · drone smuggling arrests, Texas prison (file footage) · Apr 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "With a phone, the affidavit says, a scammer can find victims with people-search apps, borrow a local sheriff's number with a spoofing app, and open the email, crypto and ATM accounts to collect the money.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/cnn_dr_b.mp4",
+    "from": 0.0,
+    "label": "Source: CNN · the hunt for drones inside prisons (file footage) · May 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/fox5_dr.mp4",
+      "from": 6.0,
+      "label": "Source: FOX 5 Atlanta · drone carrying contraband to a prison (file footage) · Jul 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "Then, the affidavit says, they send money to relatives and friends, buy expensive jewelry or drugs, or have a drone or a prison guard smuggle cash back inside. It says scammers are frequently members of national gangs, and that flaunting the money brings status.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/doj_p11.mp4",
+    "from": 0.0,
+    "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.333,
+     "scene": {
+      "type": "clip",
+      "file": "footage/doj_p12.mp4",
+      "from": 0.0,
+      "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+     }
+    },
+    {
+     "at": 0.667,
+     "scene": {
+      "type": "clip",
+      "file": "footage/doj_p13.mp4",
+      "from": 0.0,
+      "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "Chapter six. The government closes in.",
+   "scene": {
+    "type": "chapter",
+    "n": "VI",
+    "title": "The Government Closes In"
+   }
+  },
+  {
+   "say": "The department's list also includes an October sentencing. On October sixteenth, two Georgia inmates who, the department says, extorted at least one hundred nineteen people over supposed missed jury duty fines were sentenced. One got two hundred months in prison. The other, one hundred twenty.",
+   "show": "The department's list also includes an October sentencing. On October 16, two Georgia inmates who, the department says, extorted at least 119 people over supposed missed jury duty fines were sentenced. One got 200 months in prison. The other, 120.",
+   "scene": {
+    "type": "stat",
+    "kicker": "SENTENCED OCT 16, 2026 · PER THE DOJ CRIMINAL DIVISION",
+    "value": "200 + 120",
+    "label": "months in prison · two Georgia inmates · 119+ victims",
+    "src": "Justice Department Criminal Division, 2026 anti-scam surge actions page (justice.gov/criminal)"
+   }
+  },
+  {
+   "say": "On November third, a superseding indictment in Southern Illinois charged six Georgia inmates and two co-conspirators with conspiracy to commit wire fraud and money laundering. On November tenth, a grand jury in the Northern District of Texas charged two current inmates and one former inmate. Those are allegations. The defendants are presumed innocent.",
+   "show": "On November 3, a superseding indictment in Southern Illinois charged six Georgia inmates and two co-conspirators with conspiracy to commit wire fraud and money laundering. On November 10, a grand jury in the Northern District of Texas charged two current inmates and one former inmate. Those are allegations. The defendants are presumed innocent.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/fox4_a.mp4",
+    "from": 11.3,
+    "label": "Source: FOX 4 Dallas-Fort Worth · Georgia inmates charged in N.D. Texas · Nov 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.333,
+     "scene": {
+      "type": "clip",
+      "file": "footage/fox4_b.mp4",
+      "from": 0.0,
+      "label": "Source: FOX 4 Dallas-Fort Worth · Georgia inmates charged in N.D. Texas · Nov 2026"
+     }
+    },
+    {
+     "at": 0.667,
+     "scene": {
+      "type": "clip",
+      "file": "footage/natdesk_b.mp4",
+      "from": 9.34,
+      "label": "Source: The National Desk · report on the DOJ announcement · Nov 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "On November ninth, Georgia state prosecutors indicted seventeen defendants for smuggling contraband phones into state prisons. The charges include racketeering.",
+   "show": "On November 9, Georgia state prosecutors indicted 17 defendants for smuggling contraband phones into state prisons. The charges include racketeering.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/cbs19.mp4",
+    "from": 17.62,
+    "label": "Source: CBS19 · DOJ and the Georgia jury duty scheme · Nov 2026"
+   }
+  },
+  {
+   "say": "On November thirteenth, the Postal Inspection Service mailed warning letters to more than thirteen hundred people it says served as money mules for Georgia inmates. The letters warn that they could face criminal charges if they keep moving the money.",
+   "show": "On November 13, the Postal Inspection Service mailed warning letters to more than 1,300 people it says served as money mules for Georgia inmates. The letters warn that they could face criminal charges if they keep moving the money.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/doj_p14.mp4",
+    "from": 0.0,
+    "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/doj_p15.mp4",
+      "from": 0.0,
+      "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "The Postal Inspection Service also seized the three web addresses. The department says traffic to all three now goes to a government seizure banner.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/doj_p16.mp4",
+    "from": 0.0,
+    "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/doj_p17.mp4",
+      "from": 0.0,
+      "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "And on November nineteenth, the Federal Communications Commission approved a new rule that lets state prisons jam contraband cell phone signals.",
+   "show": "And on November 19, the Federal Communications Commission approved a new rule that lets state prisons jam contraband cell phone signals.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/wach_jam_a.mp4",
+    "from": 0.0,
+    "label": "Source: WACH FOX · push to jam contraband phones in state prisons · Nov 2026"
+   }
+  },
+  {
+   "say": "The department's release lists the rule among the actions against the Georgia scheme.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/wach_jam_b.mp4",
+    "from": 0.0,
+    "label": "Source: WACH FOX · push to jam contraband phones in state prisons · Nov 2026"
+   }
+  },
+  {
+   "say": "Chapter seven. Beyond Georgia.",
+   "scene": {
+    "type": "chapter",
+    "n": "VII",
+    "title": "Beyond Georgia"
+   }
+  },
+  {
+   "say": "Jury duty was one front. The department's list of recent cases includes Southeast Asian scam centers running crypto investment fraud, Nigerian nationals accused of inheritance scams, a list broker in Mexico accused of selling elderly Americans' contact details to scammers, and a dozen defendants charged with a sweepstakes scheme targeting the elderly.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/live_a.mp4",
+    "from": 5.61,
+    "label": "Source: LiveNOW from FOX · DOJ press conference · Nov 24, 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.333,
+     "scene": {
+      "type": "clip",
+      "file": "footage/live_b.mp4",
+      "from": 7.77,
+      "label": "Source: LiveNOW from FOX · DOJ press conference · Nov 24, 2026"
+     }
+    },
+    {
+     "at": 0.667,
+     "scene": {
+      "type": "clip",
+      "file": "footage/econ_b.mp4",
+      "from": 0.0,
+      "label": "Source: The Economic Times · report on the DOJ announcement · Nov 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "The Secret Service says a conspiracy run from scam centers in Cambodia targeted at least one hundred seventy-four U.S. victims. A Chinese national was extradited from the Netherlands in October, and arraigned in the Central District of California for his alleged role.",
+   "show": "The Secret Service says a conspiracy run from scam centers in Cambodia targeted at least 174 U.S. victims. A Chinese national was extradited from the Netherlands in October, and arraigned in the Central District of California for his alleged role.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/econ_c.mp4",
+    "from": 0.0,
+    "label": "Source: The Economic Times · report on the DOJ announcement · Nov 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/doj_p19.mp4",
+      "from": 0.0,
+      "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "The State Department says it helped freeze more than one billion dollars in stolen cryptocurrency in Southeast Asia, and take down more than one point four million fraudulent websites and accounts.",
+   "show": "The State Department says it helped freeze more than $1 billion in stolen cryptocurrency in Southeast Asia, and take down more than 1.4 million fraudulent websites and accounts.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/live_c.mp4",
+    "from": 8.94,
+    "label": "Source: LiveNOW from FOX · DOJ press conference · Nov 24, 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/live_d.mp4",
+      "from": 9.07,
+      "label": "Source: LiveNOW from FOX · DOJ press conference · Nov 24, 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "These figures come from the agencies themselves, in a press release announcing their own results. We have not independently verified them. Gallup's estimate, sixty-eight billion dollars in losses, shows the size of the problem. Whether eight hundred defendants changes it, is the open question.",
+   "show": "These figures come from the agencies themselves, in a press release announcing their own results. We have not independently verified them. Gallup's estimate, $68 billion in losses, shows the size of the problem. Whether 800 defendants changes it, is the open question.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/doj_p03.mp4",
+    "from": 8.94,
+    "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+   },
+   "cuts": [
+    {
+     "at": 0.333,
+     "scene": {
+      "type": "clip",
+      "file": "footage/doj_p06.mp4",
+      "from": 8.55,
+      "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+     }
+    },
+    {
+     "at": 0.667,
+     "scene": {
+      "type": "clip",
+      "file": "footage/doj_p10.mp4",
+      "from": 11.1,
+      "label": "Source: U.S. Department of Justice · press conference · Nov 24, 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "If the call comes, the affidavit has one more detail. It says scammers send bogus documents to convince victims that paying at a crypto ATM is a legitimate form of payment accepted by the U.S. government.",
+   "scene": {
+    "type": "clip",
+    "file": "footage/abc7_atm_a.mp4",
+    "from": 15.73,
+    "label": "Source: Eyewitness News ABC7NY · FBI warning on bitcoin ATM scams (file footage) · Dec 2025"
+   },
+   "cuts": [
+    {
+     "at": 0.5,
+     "scene": {
+      "type": "clip",
+      "file": "footage/wtov.mp4",
+      "from": 24.02,
+      "label": "Source: WTOV News 9 · sheriff warns of jury duty scam (file footage) · Apr 2026"
+     }
+    }
+   ]
+  },
+  {
+   "say": "Have you ever gotten a call like this? And should state prisons be allowed to jam phone signals? Tell us in the comments.",
+   "scene": {
+    "type": "end"
+   }
+  }
+ ]
+}

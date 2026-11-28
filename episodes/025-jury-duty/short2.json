@@ -1,0 +1,69 @@
+{
+ "title": "Affidavit Details Fake Court Sites: “.gov or .org”",
+ "template": "document-led · trailer",
+ "lines": [
+  {
+   "say": "Only dot gov is official. The postal inspector says three court-imitating sites changed the banner to say dot gov or dot org.",
+   "show": "Only .gov is official. The postal inspector says three court-imitating sites changed the banner to say .gov or .org.",
+   "scene": {
+    "type": "hook",
+    "img": "img/h_banner.jpg",
+    "pos": "50% 0%",
+    "zoom": 1.3334,
+    "tag": "AFFIDAVIT SAYS",
+    "number": ".GOV or .ORG",
+    "label": "FAKE COURT|WEBSITE BANNER"
+   }
+  },
+  {
+   "say": "The real banner says a dot gov website belongs to an official government organization. The affidavit says the imitation sites added dot org.",
+   "scene": {
+    "type": "doc",
+    "img": "img/aff_p47.jpg",
+    "pan": [
+     0.443,
+     0.503
+    ],
+    "hl": [
+     0.0,
+     0.5268,
+     1.0,
+     0.2316
+    ],
+    "kicker": "AFFIDAVIT · ALLEGATIONS · ¶ 46",
+    "src": "Affidavit, D.N.J. Mag. No. 26-8230, Doc. 1 (Nov 5, 2026)"
+   }
+  },
+  {
+   "say": "The affidavit says three sites copied the U.S. Courts website. The courts' administrative office says they are not official.",
+   "scene": {
+    "type": "doc",
+    "img": "img/aff_p45.jpg",
+    "pan": [
+     0.0,
+     0.1
+    ],
+    "kicker": "AFFIDAVIT · FIGURES 22–25",
+    "src": "Affidavit, D.N.J. Mag. No. 26-8230, Doc. 1 (Nov 5, 2026)"
+   }
+  },
+  {
+   "say": "A chat window opened with this greeting.",
+   "scene": {
+    "type": "quote",
+    "q": "Hi I'm the duty officer today. How can I assist you?",
+    "case": "Chat window on all three sites",
+    "doc": "Affidavit ¶ 48",
+    "cite": "D.N.J. Mag. No. 26-8230",
+    "size": "lg"
+   }
+  },
+  {
+   "say": "Full story on the channel.",
+   "scene": {
+    "type": "end",
+    "cta": "FULL STORY ON THE CHANNEL"
+   }
+  }
+ ]
+}

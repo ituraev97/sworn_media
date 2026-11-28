@@ -1,0 +1,164 @@
+[
+ {
+  "name": "abc_dr_a",
+  "src": "N1bYm7USZxs",
+  "start": "0:00",
+  "end": "1:30"
+ },
+ {
+  "name": "abc_dr_b",
+  "src": "N1bYm7USZxs",
+  "start": "1:25",
+  "end": "2:55"
+ },
+ {
+  "name": "cnn_dr",
+  "src": "0VNrwM04dKQ",
+  "start": "0:00",
+  "end": "1:30"
+ },
+ {
+  "name": "cnn_dr_b",
+  "src": "0VNrwM04dKQ",
+  "start": "1:00",
+  "end": "2:22"
+ },
+ {
+  "name": "fox5_dr",
+  "src": "x9LWVE9ewNE",
+  "start": "0:00",
+  "end": "1:30"
+ },
+ {
+  "name": "alive_dr",
+  "src": "oFonuvebnvs",
+  "start": "0:00",
+  "end": "1:09"
+ },
+ {
+  "name": "tele_dr",
+  "src": "2Go7RPkPDlI",
+  "start": "0:00",
+  "end": "1:03"
+ },
+ {
+  "name": "wfaa_dr",
+  "src": "a2m5u4XDs98",
+  "start": "0:00",
+  "end": "1:48"
+ },
+ {
+  "name": "khou_dr",
+  "src": "Jm6zJBrN6B0",
+  "start": "0:00",
+  "end": "1:30"
+ },
+ {
+  "name": "wach_jam_a",
+  "src": "la5c0aF312s",
+  "start": "0:00",
+  "end": "1:30"
+ },
+ {
+  "name": "wach_jam_b",
+  "src": "la5c0aF312s",
+  "start": "1:30",
+  "end": "3:03"
+ },
+ {
+  "name": "thv_jam",
+  "src": "3f2PSJBlREU",
+  "start": "0:00",
+  "end": "0:55"
+ },
+ {
+  "name": "kens_jam",
+  "src": "MCcPdCjfVgQ",
+  "start": "0:00",
+  "end": "0:31"
+ },
+ {
+  "name": "n12_jam",
+  "src": "RhzRjDCgkTk",
+  "start": "0:00",
+  "end": "1:10"
+ },
+ {
+  "name": "abc7_atm_a",
+  "src": "0fAzh07yQsk",
+  "start": "0:00",
+  "end": "1:30"
+ },
+ {
+  "name": "abc7_atm_b",
+  "src": "0fAzh07yQsk",
+  "start": "1:20",
+  "end": "2:52"
+ },
+ {
+  "name": "wtov",
+  "src": "6KiYpx0TB6o",
+  "start": "0:00",
+  "end": "1:23"
+ },
+ {
+  "name": "wbay",
+  "src": "i6hmvWUO7UU",
+  "start": "0:00",
+  "end": "0:32"
+ },
+ {
+  "name": "live_a",
+  "src": "92m26bSbF_I",
+  "start": "1:00",
+  "end": "2:15"
+ },
+ {
+  "name": "live_b",
+  "src": "92m26bSbF_I",
+  "start": "3:00",
+  "end": "4:15"
+ },
+ {
+  "name": "live_c",
+  "src": "92m26bSbF_I",
+  "start": "6:00",
+  "end": "7:15"
+ },
+ {
+  "name": "live_d",
+  "src": "92m26bSbF_I",
+  "start": "9:00",
+  "end": "10:15"
+ },
+ {
+  "name": "econ_a",
+  "src": "5IotGjobeos",
+  "start": "0:00",
+  "end": "1:30"
+ },
+ {
+  "name": "econ_b",
+  "src": "5IotGjobeos",
+  "start": "3:00",
+  "end": "4:30"
+ },
+ {
+  "name": "econ_c",
+  "src": "5IotGjobeos",
+  "start": "6:00",
+  "end": "7:30"
+ },
+ {
+  "name": "doj_p18",
+  "src": "uNimVrdUwgA",
+  "start": "24:30",
+  "end": "25:15"
+ },
+ {
+  "name": "doj_p19",
+  "src": "uNimVrdUwgA",
+  "start": "26:00",
+  "end": "26:45"
+ }
+]
