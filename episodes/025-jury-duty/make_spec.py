@@ -56,7 +56,7 @@ def clen(n):
     r = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", f"{W}/footage/{n}.mp4"], capture_output=True, text=True)
     return float(r.stdout.strip() or 0)
 CL = {}; ptr = {}
-START = {"fox4_b": 28.0, "natdesk_c": 20.0, "natdesk_a": 6.0}
+START = {"fox4_b": 28.0, "natdesk_c": 20.0, "natdesk_a": 6.0, "abc7_atm_a": 27.0, "abc7_atm_b": 36.0}
 def take(n, d):
     if n not in CL: CL[n] = clen(n); ptr[n] = START.get(n, 0.0)
     a = ptr[n]
@@ -66,7 +66,7 @@ def take(n, d):
 def clipscene(n, d): return {"type": "clip", "file": f"footage/{n}.mp4", "from": take(n, d + 0.6), "label": label(n)}
 
 def L(say, kind, payload, show=None): return (say, kind, payload, show)
-C = lambda say, *names, show=None: L(say, "C", list(names), show)
+C = lambda say, *names, show=None: L(say, "C", [n for n in names if os.path.exists(f"{W}/footage/{n}.mp4")] or list(names), show)
 G = lambda say, scene, show=None: L(say, "G", scene, show)
 D = lambda *n: list(n)
 doj = [f"doj_p{i:02d}" for i in range(20)]

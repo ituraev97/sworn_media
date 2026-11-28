@@ -38,7 +38,7 @@ shorts = [
   "lines": [
    L("Over nineteen million dollars. Victims reported losing that to jury duty fraud at one crypto A.T.M. company, a federal affidavit says.", hook("h_atm", tag="AFFIDAVIT SAYS", number="$19M+", label="REPORTED LOST|AT ONE CRYPTO ATM FIRM"), show="Over $19 million. Victims reported losing that to jury duty fraud at one crypto ATM company, a federal affidavit says."),
    L("Between September twenty twenty-two and May twenty twenty-six, over forty percent of those victims paid money mules in Georgia.", doc("btc", "AFFIDAVIT · ALLEGATIONS · ¶ 29"), show="Between September 2022 and May 2026, over 40 percent of those victims paid money mules in Georgia."),
-   L("The scheme, the affidavit says: a fake warrant, a gag order, then cash into a crypto machine.", clip("abc7_atm_b", 4.0, "Source: Eyewitness News ABC7NY · FBI warning on bitcoin ATM scams (file footage) · Dec 2025")),
+   L("The scheme, the affidavit says: a fake warrant, a gag order, then cash into a crypto machine.", clip("abc7_atm_b", 36.0, "Source: Eyewitness News ABC7NY · FBI warning on bitcoin ATM scams (file footage) · Dec 2025")),
    L("One victim report in the affidavit: an elderly Texas woman paid ten thousand dollars at a crypto A.T.M. after more than six hours on the phone.", dict(type="stat", kicker="VICTIM REPORT · AFFIDAVIT ¶ 50 · UNNAMED", value="$10,000", label="paid at a crypto ATM · on the phone 6+ hours", src=SRC_AF), show="One victim report in the affidavit: an elderly Texas woman paid $10,000 at a crypto ATM after more than 6 hours on the phone."),
    L("Would a bank teller stop you?", dict(type="end", cta="FULL CASE ON THE CHANNEL")),
   ]},
