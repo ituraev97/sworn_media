@@ -1,0 +1,8 @@
+[
+{"out":"thumb_A.jpg","layout":"evidence","plate":"plates/plate_A.png","doc":"img/aff_p07.jpg","doc_top":0,
+ "highlights":[[90,662,1100,344]],"tag":"DOJ SAYS","stamp":"ALLEGED","line1":"FAKE JURY DUTY","line2":"FROM PRISON?"},
+{"out":"thumb_B.jpg","layout":"evidence","plate":"plates/plate_B.png","doc":"img/aff_p14.jpg","doc_top":0,
+ "highlights":[[90,1143,1100,104]],"tag":"DOJ SAYS IT'S A SCAM","stamp":"$19M+","line1":"MISSED","line2":"JURY DUTY?"},
+{"out":"thumb_C.jpg","layout":"evidence","plate":"plates/plate_C.png","doc":"img/aff_p47.jpg","doc_top":0,
+ "highlights":[[90,782,1100,344]],"tag":"AFFIDAVIT SAYS","stamp":"FAKE SITE","line1":".GOV OR .ORG?","line2":"NOT REAL"}
+]
