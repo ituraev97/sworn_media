@@ -31,6 +31,7 @@ Source: YouTube Help Center / Creator Insider (Todd Beaupré, Sep 2026) / YPP po
 ## This channel
 - Thumbnails: ONE face (the defendant from official photos) + 2–3 words + at most one stamp. Drop the document collage (4–5 elements) — winners in the niche are a single emotional face and a short phrase.
 - Prefer famous cases/names people search (Theranos/Holmes-type) for longs; Shorts drive 82% of views, search 12% — use the person's name early in the title.
+- MONETIZATION PUSH: channel is 4 weeks old; first goal 1,000 subs via Shorts (1–2/day, best-first by the HOOK scorecard), each Short linked to its long.
 
 ## Voice
 - Voice audit 2026-11-28: SWORN narration is the flattest of all channels (pitch variation 2.6–2.7 semitones, loudness range 10 dB = monotone). Every run must really use Chatterbox via the TTS relay; if it falls back to Kokoro, use the 'livelier Kokoro' method from coldwarrant-media pipeline/tts_ep.py (commit 54a45a8, owner choice 2026-11-27): blend of voices, per-sentence synthesis, short sentences slower + longer pause, long ones quicker, ±2% jitter — measured on COLD WARRANT as lively as Chatterbox.
