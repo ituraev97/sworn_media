@@ -14,6 +14,13 @@ Run notes go to RUNBOOK_NOTES.md (append there, never here). Promote a note into
 The run fires daily, but a long video goes out only every 2nd day (next section). An **OFF run** checks Metricool and stops. A **LONG run** = publish the episode voiced since the previous long run + write and order the voice for the next one (see "Voice = Chatterbox via TTS relay"). An episode = one long video (12–15 min, ≥ 10:00, 1920×1080) + 4 vertical Short **candidates** (20–40 s, 1080×1920), of which only the best **1–2 per day are scheduled on YouTube** for 2 days, all about ONE court case, hosted here and scheduled in Metricool.
 Reference episode: `episodes/001-madoff/` (make_spec.py → episode.json, make_shorts.py → short1–6.json, meta.json, thumb.json, factcheck.md). Read it before writing anything.
 
+## IDEAS FROM DASHBOARD — owner decision 2026-11-28 (applies to every topic choice)
+Before choosing a topic, read `ideas/next.md`. It is rewritten every morning by the owner's analytics dashboard from this channel's
+YouTube/Metricool numbers, competitor videos that are breaking out right now, and fresh news. Take the highest-priority idea that fits
+this channel's rules, sourcing/fact standards and available footage (P1 first). If none fits, choose as usual and say in the run report
+which idea was skipped and why. The idea is the TOPIC only — research, script and visuals stay our own; never copy a competitor's video.
+After publishing, append one line to `ideas/used.md`: `<idea id> | <date> | <published title>`.
+
 ## Long-video cadence — owner decision 2026-11-23 (overrides every "one long per run/day" line)
 Why: token cost. One long video every 2 days; the days in between carry Shorts only.
 **Step 0 of every run (before anything else, no repo reading needed):** Metricool `getScheduledPosts` (blogId 7806713, timezone America/New_York, from yesterday to 3 days ahead, ET dates).
