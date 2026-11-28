@@ -23,6 +23,16 @@ Source: YouTube Help Center / Creator Insider (Todd Beaupré, Sep 2026) / YPP po
 - Not the same template every time (inauthentic-content risk) — rotate 3–4 layouts.
 - Never AI-generated faces of real people; real photos only (government releases, archive), AI may only relight/extend.
 
+## Voice (all channels)
+- Long narration 150–170 words/min, Shorts 160–180. No silence > 0.6 s inside narration except one deliberate beat before a reveal.
+- Use tone tags: ~25% "hype" on reveals/numbers/verdicts, ~15% "calm" for context, the rest "normal". Short punchy sentences, rhetorical questions, one dry joke per chapter.
+- Never ElevenLabs (owner 2026-11-28). Chatterbox (relay) or the livelier Kokoro method only.
+
 ## This channel
 - Thumbnails: ONE face (the defendant from official photos) + 2–3 words + at most one stamp. Drop the document collage (4–5 elements) — winners in the niche are a single emotional face and a short phrase.
 - Prefer famous cases/names people search (Theranos/Holmes-type) for longs; Shorts drive 82% of views, search 12% — use the person's name early in the title.
+
+## Voice
+- Voice audit 2026-11-28: SWORN narration is the flattest of all channels (pitch variation 2.6–2.7 semitones, loudness range 10 dB = monotone). Every run must really use Chatterbox via the TTS relay; if it falls back to Kokoro, use the 'livelier Kokoro' method from coldwarrant-media pipeline/tts_ep.py (commit 54a45a8, owner choice 2026-11-27): blend of voices, per-sentence synthesis, short sentences slower + longer pause, long ones quicker, ±2% jitter — measured on COLD WARRANT as lively as Chatterbox.
+- Mark ~25% of paragraphs tone "hype" (verdicts, the moment the fraud is exposed, numbers) and ~15% "calm" (context) — the relay engine became more expressive today.
+- Target 150–165 words/min for longs, no silence > 0.6 s except one deliberate beat before a reveal.
